@@ -28,3 +28,8 @@ def summarize_rmp_data(min_reviews_per_professor=5, min_professors_per_dept=5):
     summary = summary[summary['professors']>=min_professors_per_dept]
     
     return summary
+
+
+if __name__ == "__main__":
+    summary = summarize_rmp_data()
+    summary.to_csv('../3-presentation/static/data/summary.csv')
