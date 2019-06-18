@@ -104,3 +104,17 @@ def get_tids_for_sid(sid):
     browser.quit()
     
     return tids
+
+
+def store_data_for_tids(tids):
+    data = []
+    for tid in tids:
+        print(f'pulling data for {tid}')
+        try:
+            data += [pull_data_for_professor(tid)]
+        except Exception as e:
+            print(e)
+        time.sleep(5)
+    with open('data/rate-my-professor/{tid}.json', 'w') as f:
+        json.dump(data, f)
+
