@@ -1,5 +1,15 @@
+
+import urllib
+import time
+
+
 import requests
 from bs4 import BeautifulSoup
+
+from selenium import webdriver  
+from selenium.webdriver.chrome.options import Options  
+from selenium.webdriver.common.keys import Keys
+
 
 def remove_whitespace(s):
     s = s.strip()
@@ -58,3 +68,39 @@ def pull_data_for_professor(tid):
         data[tag_name] = tag_score
 
     return data
+
+
+def get_tids_for_sid(sid):
+    
+    url_base = 'https://www.ratemyprofessors.com/search.jsp'
+    
+    params = {
+        'queryoption':'TEACHER',
+        'queryBy':'schoolDetails',
+        'schoolID':sid
+    }    
+    
+    url = f'{url_base}?{urllib.parse.urlencode(params)}'
+    
+
+    # set up options for headless browser
+    options = Options()
+    options.add_argument("--headless")  
+
+    # get region url
+    browser = webdriver.Chrome(options=options)
+    browser.get(url)
+    print('accessed {}'.format(url))
+    time.sleep(3)
+
+    results = browser.find_elements_by_class_name('result-list')[-1]
+
+    possibly_professors = results.find_elements_by_xpath('//li')
+
+    possibly_tids = [p.get_attribute('id') for p in possibly_professors]
+
+    tids = [t.replace('my-professor-','') for t in possibly_tids if 'my-professor' in t]
+
+    browser.quit()
+    
+    return tids
