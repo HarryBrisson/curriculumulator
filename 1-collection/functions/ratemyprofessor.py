@@ -57,5 +57,4 @@ def pull_data_for_professor(tid):
         tag_score = tag_score.replace(')','')
         data[tag_name] = tag_score
 
-
     return data
