@@ -148,3 +148,12 @@ def combine_json_files(start,end):
         delete_dataframe_for_downloaded_sid(i)
 
 
+def main():
+    for i in range(200,2000):
+        try:
+            store_data_for_sid(i)
+        except Exception as e:
+            print(e)
+    if (i-1)%50 == 0:
+        combine_json_files(i-50,i)
+
