@@ -17,6 +17,9 @@ def summarize_rmp_data(min_reviews_per_professor=5, min_professors_per_dept=5):
     
     tag_columns = [c for c in df.columns if c[:3]=='tag']
     df[tag_columns] = df[tag_columns].fillna(0)
+
+    for c in tag_columns:
+        df[c] = df[c]/df['rating_count']
     
     summary = df[['dept','name']].groupby('dept').count().rename(columns={'name':'professors'})
     summary = summary.join(df[['dept','rating_count']].groupby('dept').sum())
