@@ -37,17 +37,13 @@ def pull_data_for_professor(tid):
     tags = [t.getText().strip() for t in soup.find_all('span',{'class':'tag-box-choosetags'})]
     
     data = {
-        'campus':{
-            'name':campus_name,
-            'id':campus_id
-        },
+        'campus_name':campus_name,
+        'campus_id':campus_id,
         'dept':department_name,
         'name':professor_name,
-        'scores':{
-            'quality':quality,
-            'retake':retake,
-            'difficulty':difficulty,
-        }
+        'quality':quality,
+        'retake':retake,
+        'difficulty':difficulty,
     }
 
     return data
