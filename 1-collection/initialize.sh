@@ -15,8 +15,8 @@ chmod +x chromedriver
 
 # set permissions for chrome driver
 sudo mv -f chromedriver /usr/local/share/chromedriver
-sudo ln -s /usr/local/share/chromedriver /usr/local/bin/chromedriver
-sudo ln -s /usr/local/share/chromedriver /usr/bin/chromedriver
+sudo ln -s /usr/local/share/chromedriver /usr/local/bin/chromedriver -f
+sudo ln -s /usr/local/share/chromedriver /usr/bin/chromedriver -f
 
 sudo apt-get -y install python3-pip
 sudo python3 -m pip install -r requirements.txt
