@@ -157,3 +157,6 @@ def main():
     if (i-1)%50 == 0:
         combine_json_files(i-50,i)
 
+
+if __name__ == '__main__':
+	main()
