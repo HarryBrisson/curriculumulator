@@ -1,6 +1,7 @@
 
 import urllib
 import time
+import json
 
 
 import requests
@@ -116,5 +117,11 @@ def get_data_for_tids(tids):
             print(e)
         time.sleep(5)
     return data
+
+
+def store_data_for_sid(sid):
+    tids = get_tids_for_sid(sid)
+    data = get_data_for_tids(tids)
+    with open(f'data/rate-my-professor/{sid}.json', 'w') as f:
         json.dump(data, f)
 
