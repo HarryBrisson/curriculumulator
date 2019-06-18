@@ -132,3 +132,7 @@ def get_dataframe_for_downloaded_sid(sid):
         data = json.load(f) 
     return pd.DataFrame(data)
 
+def delete_downloaded_sid_json(sid):
+	os.remove(f'data/rate-my-professor/{sid}.json')
+
+
