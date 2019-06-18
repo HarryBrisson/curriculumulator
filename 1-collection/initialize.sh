@@ -9,6 +9,7 @@ sudo apt-get install google-chrome-stable
 
 # install chrome driver
 wget -N http://chromedriver.storage.googleapis.com/2.26/chromedriver_linux64.zip
+sudo apt install unzip
 unzip chromedriver_linux64.zip
 chmod +x chromedriver
 
