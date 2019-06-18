@@ -142,11 +142,11 @@ def combine_json_files(start,end):
     filename = f'{start}-{end-1}.csv'
     df = pd.DataFrame()
     for i in range(start,end):
-        temp_df = delete_downloaded_sid_json(i)
+        temp_df = get_dataframe_for_downloaded_sid(i)
         df = df.append(temp_df,ignore_index=True)
     df.to_csv(f'data/rate-my-professor/{filename}')
     for i in range(start,end):
-        delete_dataframe_for_downloaded_sid(i)
+        delete_downloaded_sid_json(i)
 
 
 def main():
