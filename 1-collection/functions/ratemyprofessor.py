@@ -106,7 +106,7 @@ def get_tids_for_sid(sid):
     return tids
 
 
-def store_data_for_tids(tids):
+def get_data_for_tids(tids):
     data = []
     for tid in tids:
         print(f'pulling data for {tid}')
@@ -115,6 +115,6 @@ def store_data_for_tids(tids):
         except Exception as e:
             print(e)
         time.sleep(5)
-    with open('data/rate-my-professor/{tid}.json', 'w') as f:
+    return data
         json.dump(data, f)
 
