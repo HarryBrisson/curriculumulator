@@ -23,7 +23,7 @@ def summarize_rmp_data(min_reviews_per_professor=5, min_professors_per_dept=5):
     
     summary = df[['dept','name']].groupby('dept').count().rename(columns={'name':'professors'})
     summary = summary.join(df[['dept','rating_count']].groupby('dept').sum())
-    summary = summary.join(df[['dept','difficulty','quality']].groupby('dept').mean())
+    summary = summary.join(df[['dept','difficulty','quality','retake']+tag_columns].groupby('dept').mean())
     
     summary = summary[summary['professors']>=min_professors_per_dept]
     
