@@ -6,6 +6,7 @@ import json
 
 import requests
 from bs4 import BeautifulSoup
+import pandas as pd
 
 from selenium import webdriver  
 from selenium.webdriver.chrome.options import Options  
@@ -124,4 +125,10 @@ def store_data_for_sid(sid):
     data = get_data_for_tids(tids)
     with open(f'data/rate-my-professor/{sid}.json', 'w') as f:
         json.dump(data, f)
+
+
+def get_dataframe_for_downloaded_sid(sid):
+    with open('data/rate-my-professor/{sid}.json', 'r') as f:
+        data = json.load(f) 
+    return pd.DataFrame(data)
 
