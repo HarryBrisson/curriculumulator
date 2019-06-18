@@ -30,6 +30,13 @@ def summarize_rmp_data(min_reviews_per_professor=5, min_professors_per_dept=5):
     return summary
 
 
+def store_list_of_departments(summary):
+    dept_text = '\n'.join(list(summary.index))
+    with open(f'../1-collection/data/departments.txt', 'w') as f:
+        f.write(dept_text)
+
+
 if __name__ == "__main__":
     summary = summarize_rmp_data()
+    store_list_of_departments(summary)
     summary.to_csv('../3-presentation/static/data/summary.csv')
