@@ -7,6 +7,7 @@ def remove_whitespace(s):
     s = " ".join(s.split())
     return s
 
+
 def pull_data_for_professor(tid):
 
 
@@ -22,6 +23,9 @@ def pull_data_for_professor(tid):
     professor_name = soup.find('h1',{'class':'profname'}).getText()
     professor_name = remove_whitespace(professor_name)
 
+    rating_count = soup.find('div',{'class':'rating-count'}).getText().replace('Student Ratings')
+    rating_count = remove_whitespace(rating_count)
+    
     scores = soup.find_all('div',{'class':'grade'})
     quality = remove_whitespace(scores[0].getText())
     retake = remove_whitespace(scores[1].getText())
@@ -39,6 +43,7 @@ def pull_data_for_professor(tid):
     data = {
         'campus_name':campus_name,
         'campus_id':campus_id,
+        'rating_count':rating_count,
         'dept':department_name,
         'name':professor_name,
         'quality':quality,
