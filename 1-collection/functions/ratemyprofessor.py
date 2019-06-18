@@ -46,7 +46,7 @@ def pull_data_for_professor(tid):
     metadata_div = soup.find('div',{'class':'result-title'})
 
     campus_id = metadata_div.find('a',{'class':'school'})['href'].split('=')[-1]
-    campus_name = metadata_div.find('a',{'class':'school'}).getText()
+    campus_name = metadata_div.find('a',{'class':'school'}).getText().replace(',','')
 
     department_name = metadata_div.getText().split('Professor in the ')[-1].split(' department')[0]
 
