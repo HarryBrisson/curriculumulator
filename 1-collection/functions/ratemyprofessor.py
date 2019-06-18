@@ -1,6 +1,12 @@
 import requests
 from bs4 import BeautifulSoup
 
+def remove_whitespace(s):
+    s = s.strip()
+    s = s.replace('\n','').replace('\t','').replace('\r','')
+    s = " ".join(s.split())
+    return s
+
 def pull_data_for_professor(tid):
 
 
