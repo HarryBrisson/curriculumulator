@@ -23,7 +23,7 @@ def pull_data_for_professor(tid):
     professor_name = soup.find('h1',{'class':'profname'}).getText()
     professor_name = remove_whitespace(professor_name)
 
-    rating_count = soup.find('div',{'class':'rating-count'}).getText().replace('Student Ratings')
+    rating_count = soup.find('div',{'class':'rating-count'}).getText().replace('Student Ratings',"")
     rating_count = remove_whitespace(rating_count)
     
     scores = soup.find_all('div',{'class':'grade'})
