@@ -1,6 +1,7 @@
 
 import urllib
 import time
+import os
 import json
 
 
@@ -145,4 +146,5 @@ def combine_json_files(start,end):
     df.to_csv(f'data/rate-my-professor/{filename}')
     for i in range(start,end):
         delete_dataframe_for_downloaded_sid(i)
+
 
