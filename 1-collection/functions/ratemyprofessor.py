@@ -50,5 +50,12 @@ def pull_data_for_professor(tid):
         'retake':retake,
         'difficulty':difficulty,
     }
+    
+    for t in tags:
+        tag_name, tag_score = t.split('(')
+        tag_name = "tag_"+tag_name.strip().replace('.','').replace('?','').replace(' ','').lower()
+        tag_score = tag_score.replace(')','')
+        data[tag_name] = tag_score
+
 
     return data
