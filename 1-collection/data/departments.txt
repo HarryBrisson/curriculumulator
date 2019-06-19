@@ -1,13 +1,17 @@
 Accounting
 Anthropology
 Architecture
+Art
 Art History
+Aviation
 Bible, Missions & Ministry
 Biblical Studies
 Biological Sciences
 Biology
 Business
+Business Administration
 Chemistry
+Classics
 Communication
 Computer Information Systems
 Computer Science
@@ -18,17 +22,21 @@ Economics
 Education
 Engineering
 English
+Ethnic Studies
 Film
 Finance
 Fine Arts
 Geography
 Geology
+Government
 Graphic Arts
 Graphic Design
 Health Science
 History
 Humanities
 Illustration
+Information Science
+International Studies
 Journalism
 Languages
 Law
@@ -50,6 +58,7 @@ Science
 Social Science
 Social Work
 Sociology
+Spanish
 Theater
 Theology
 Women's Studies
