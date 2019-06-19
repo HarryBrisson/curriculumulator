@@ -90,3 +90,9 @@ def get_url_from_search_term(query):
 	pageid = get_articles_data_from_search_query(query)['search'][0]['pageid']
 	article = get_url_stem_from_pageid(pageid)
 	return article
+
+
+def get_wordcount_for_first_entry_for_search_term(query):
+	wordcount = get_articles_data_from_search_query('accounting')['search'][0]['wordcount']
+	return wordcount
+
