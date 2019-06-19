@@ -1,0 +1,28 @@
+<html>
+	<head>
+		<title>Curriculumulator</title>
+		<script src="https://d3js.org/d3.v4.min.js"></script>
+		<script src="{{ url_for('static',filename='js/bargraph.js')}}"></script>
+		<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style.css') }}">
+	</head>
+	<body>
+		<div id="title">
+			<h1>Curriculumulator</h1>
+		</div>
+		<div id="dropdowns">
+			<select id="dropdown1" onchange="update_barchart(data)">
+				{% for x in option_list %}
+				<option value="{{ x }}">{{ x }}</option>
+				{% endfor %}
+			</select>
+		</div>
+
+		<div id="viz"></div>
+		</div>
+		<script>
+			data_string = {{ data_string|tojson }}
+			data = JSON.parse(data_string)
+			initialize_barchart(data)
+		</script>
+	</body>
+</html>
