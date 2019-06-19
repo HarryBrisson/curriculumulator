@@ -41,6 +41,8 @@ def main():
     behaviors = pd.read_csv('../1-collection/data/behaviors.csv').set_index('dept')
     behaviors = behaviors.drop('0: Untitled',axis=1)
     summary = summary.join(behaviors)
+    summary.columns = [c.replace("'",'') for c in summary.columns]
     summary.to_csv('../3-presentation/static/data/summary.csv')
+
 if __name__ == "__main__":
     main()
