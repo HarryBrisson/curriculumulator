@@ -1,5 +1,6 @@
 import json
 import time
+import datetime
 
 import requests
 from requests_oauthlib import OAuth1
@@ -50,3 +51,11 @@ def get_df_of_recent_tweets(q):
 	    
 	return tweet_data
 
+def get_tweets_per_hour_estimate(q):
+    data = get_recent_tweets(q)
+    first_post = data['statuses'][0]['created_at']
+    first_post = datetime.datetime.strptime(first_post,'%a %b %d %H:%M:%S +0000 %Y')
+    last_post = data['statuses'][-1]['created_at']
+    last_post = datetime.datetime.strptime(last_post,'%a %b %d %H:%M:%S +0000 %Y')
+    tph = 100/((first_post - last_post).seconds/60/60)
+    return int(tph)
