@@ -1,0 +1,852 @@
+,campus_id,campus_name,dept,difficulty,name,quality,rating_count,retake,tag_accessibleoutsideclass,tag_amazinglectures,tag_bewareofpopquizzes,tag_caring,tag_cleargradingcriteria,tag_extracredit,tag_getreadytoread,tag_givesgoodfeedback,tag_gradedbyfewthings,tag_groupprojects,tag_hilarious,tag_inspirational,tag_lectureheavy,tag_lotsofhomework,tag_participationmatters,tag_respected,tag_skipclassyouwon'tpass,tag_somanypapers,tag_testheavy,tag_toughgrader,tid
+0,800,Stockton University,Political Science,2.3,Bill Daly,4.9,190,N/A,,1,,,,2,2,,,,,1,1,,,1,2,,,,73929
+1,800,Stockton University,Physics,1.7,Yitzhak Sharon,4.8,136,100%,10,5,,11,3,1,,2,,,17,7,3,1,2,19,1,,,,201541
+2,800,Stockton University,Criminal Justice,3.5,Joshua Duntley,4.5,132,82%,11,12,2,22,17,,9,12,2,,8,,2,5,7,32,8,1,,7,901946
+3,800,Stockton University,Psychology,3.4,Michael Frank,3.6,126,55%,,9,,3,1,,13,1,3,,15,2,13,1,1,4,14,,5,17,76597
+4,800,Stockton University,Sociology,4.3,Elinor Lerner,1.7,114,N/A,,,,,,,,,,,,,,1,,,1,,,1,201174
+5,800,Stockton University,Business,3.2,Arthur Worthington,3.0,110,47%,2,,,1,9,,5,2,5,3,2,,4,,,3,12,,9,11,113082
+6,800,Stockton University,Health Science,3.4,Elizabeth Calamidas,3.4,110,38%,1,3,,,10,,9,2,6,,1,1,3,,3,7,6,,10,13,164535
+7,800,Stockton University,Economics,4.5,Elizabeth Elmore,1.5,106,17%,2,,,1,1,,4,,1,,,,2,5,2,1,1,1,,3,1014791
+8,800,Stockton University,Criminal Justice,3.0,Janice Joseph,2.5,96,21%,1,1,,,6,1,1,,7,6,,,16,,1,6,1,1,6,19,1051558
+9,800,Stockton University,Political Science,2.7,Alan Arcuri,3.9,95,N/A,,,,,,,,,,,,,,,,,,,,,142610
+10,800,Stockton University,Chemistry,3.5,Rogers Barlatt,3.0,93,N/A,,,,,,,,,,,,,,,,,,,,,144737
+11,800,Stockton University,Mathematics,3.6,Simon Quint,2.6,93,27%,4,,,6,,1,2,2,,,,1,9,11,3,,3,1,2,7,177369
+12,800,Stockton University,Psychology,1.8,David Lester,3.9,90,N/A,,1,,1,1,,,,,,1,,,,,1,,,,,146481
+13,800,Stockton University,Computer Science,2.5,Stephen Kubricki,3.1,88,86%,1,1,,,4,1,3,2,1,,2,1,1,1,6,1,1,,1,4,171262
+14,800,Stockton University,Economics,3.1,R. Gholam Ghorashi,3.6,86,70%,,1,,,,,,1,3,,4,,8,2,8,1,4,,,3,251837
+15,800,Stockton University,Writing,2.9,Pam Cross,4.8,86,100%,5,2,1,9,1,2,1,11,,,8,2,,3,,4,4,,,1,146451
+16,800,Stockton University,Mathematics,3.3,Yujin Shen,3.8,85,67%,3,2,,7,4,2,,8,3,,1,,5,3,,4,15,,4,7,148266
+17,800,Stockton University,Economics,3.8,Melaku Lakew,2.1,85,N/A,,,,1,1,1,,,,1,,,3,,,,4,,1,3,149585
+18,800,Stockton University,Science,4.4,Ada Caesares,1.5,80,N/A,,,,,,,,,,,,,,,,,,,,,50577
+19,800,Stockton University,Psychology,2.9,Keith Williams,4.1,80,86%,1,5,,,1,9,8,5,1,5,6,1,8,,5,6,5,1,1,4,119070
+20,801,Rider University,English,3.3,Pearlie Peters,4.1,96,44%,,,1,2,,,6,2,2,1,1,,3,3,2,2,4,1,,5,209655
+21,801,Rider University,Political Science,4.3,Harvey Kornberg,3.3,74,N/A,,,1,,,,6,1,1,,,1,12,,,,3,1,1,9,161429
+22,801,Rider University,Science,3.9,Jim Riggs,3.4,70,44%,,1,1,,,,8,3,,,,2,2,5,5,4,7,,,15,85426
+23,801,Rider University,Writing,4.0,Susan Strom,3.7,68,18%,,,6,1,,,15,4,1,,,3,,2,4,3,2,,,12,271616
+24,801,Rider University,Mathematics,4.0,Benjamin Eichorn,1.6,67,N/A,,,,,,,,,,,,,,,,,,,,,22184
+25,801,Rider University,Mathematics,4.1,Anthony Bahri,2.4,66,N/A,,,,1,1,,,,,,,,1,,,,2,,2,5,11745
+26,801,Rider University,History,2.9,Lucien Frary,4.3,64,86%,3,5,1,2,2,,3,3,1,,2,1,3,,4,5,3,,,1,494890
+27,801,Rider University,Economics,3.9,Leonore Taga,2.2,64,33%,,,2,3,,,3,1,,,,,10,8,5,,4,,3,6,333962
+28,801,Rider University,English,3.3,Fred Lasser,2.9,63,N/A,,,,,,,2,2,,,,,,,,,1,2,,4,26700
+29,801,Rider University,Psychology,3.7,Stephanie Golski,3.0,62,25%,1,1,1,2,1,,2,2,,3,1,,1,3,2,,2,,1,4,215145
+30,801,Rider University,Social Science,3.2,Prakash Sharma,2.2,60,N/A,,,,,,,1,,,,,,1,,,,1,,,,11744
+31,801,Rider University,History,3.2,Nikki Shepardson,4.4,60,83%,,4,,2,2,,4,1,,,,3,2,,1,7,,1,,,87386
+32,801,Rider University,Theater,3.3,Miriam Mills,3.3,58,N/A,,,,,1,,,6,,,4,1,1,,1,2,3,,,5,122094
+33,801,Rider University,Mathematics,2.5,Cathleen Zucco-Teveloff,4.4,58,94%,6,2,,10,9,,,14,,,2,2,,4,6,8,10,1,2,2,1576886
+34,801,Rider University,Biology,3.2,Jonathan Karp,4.0,56,N/A,1,1,,,,1,,,,,,,,,,1,4,,,5,214024
+35,801,Rider University,Mathematics,3.8,Charles Schwartz,2.6,56,N/A,,,1,,,,,1,,,,,1,6,1,,5,,,12,242691
+36,801,Rider University,Mathematics,2.8,Victor Moya,4.7,55,98%,7,3,2,21,5,1,2,23,5,,17,10,,11,5,24,6,,,3,2144053
+37,801,Rider University,Information Systems & Supply Chain Management,4.4,Cenzig Haksever,2.2,54,33%,1,,,,2,,1,,2,,,,6,,,1,8,,6,9,283454
+38,801,Rider University,Biology,3.0,Jonathan Yavelow,3.8,53,100%,1,4,,2,,,1,2,,,5,3,,,3,4,2,,,1,484540
+39,802,Ringling College of Art and Design,Illustration,3.9,Caleb Prochnow,4.4,94,92%,,4,,17,2,,2,63,,2,13,20,1,18,13,27,10,,,42,1650816
+40,802,Ringling College of Art and Design,Fine Arts,3.5,Vicky Randall,3.3,31,100%,1,,,9,,,,4,,,2,6,,,2,2,3,,,1,324047
+41,802,Ringling College of Art and Design,Fine Arts,3.6,Ellie Samuelson,2.6,26,N/A,,,,,,,,,,,,,,,,,,,,,448576
+42,802,Ringling College of Art and Design,Graphic Arts,3.8,Joe Thiel,3.7,24,N/A,,,,1,,,,3,,,4,2,,,,,,,,2,665806
+43,802,Ringling College of Art and Design,Not Specified,3.0,Steven Taft,4.2,22,83%,,,,2,,,,6,,,3,,,,1,,1,,,3,699941
+44,802,Ringling College of Art and Design,Art History,3.2,Ann Albritton,3.0,20,22%,,1,,1,,,2,,5,1,,1,8,,,,4,2,,2,690206
+45,802,Ringling College of Art and Design,Design,2.6,Claudia Cumbie-Jones,3.6,19,N/A,1,,,1,,,,1,,,,,,1,,,,,,,533826
+46,802,Ringling College of Art and Design,Fine Arts,3.2,Aaron Board,4.6,16,N/A,,,,,1,,,4,,,1,,,,1,2,,,,2,411445
+47,802,Ringling College of Art and Design,Fine Arts,3.9,Jeff Schwartz,4.2,15,N/A,,,,,,,,1,,,1,2,,,,2,,,,,411444
+48,802,Ringling College of Art and Design,Fine Arts,3.0,Steven Strenk,4.7,15,N/A,2,,,5,1,,,2,,,3,1,,,,,,,,,669458
+49,802,Ringling College of Art and Design,Illustration,3.1,Patrick Parnell,2.9,14,N/A,,,,,,,,,,,,,2,,,,,,,1,1433142
+50,802,Ringling College of Art and Design,Graphic Arts,3.5,Yael Campbell,4.5,14,80%,,,,1,,,,4,,,1,,,,1,2,2,,,2,1675021
+51,802,Ringling College of Art and Design,Graphic Arts,3.9,Doug Higgins,2.7,13,N/A,,,,,,,,,,,,,,,,,,,,,137375
+52,802,Ringling College of Art and Design,Computer Animation,3.4,Jim McCampbell,4.0,13,N/A,,,,,,,,,,,,,,,,,,,,,254745
+53,802,Ringling College of Art and Design,Drawing,2.4,Tom Casmer,3.9,13,N/A,1,,,3,,,,3,,,,3,,,,4,,,,1,795842
+54,802,Ringling College of Art and Design,Drawing,1.9,Don Brandes,4.8,12,N/A,,,,,,,,,,,,,,,,,,,,,668172
+55,802,Ringling College of Art and Design,Graphic Arts,2.8,John Williams,4.1,12,N/A,,,,,,,,3,,,1,1,,,2,2,,,,,669463
+56,802,Ringling College of Art and Design,Graphic Arts,2.2,Regan Dunnick,3.7,12,N/A,,,,,,,,1,,,,1,,,,1,,,,,679686
+57,802,Ringling College of Art and Design,Graphic Arts,3.2,Polly Johnson,2.8,11,N/A,,,,,,,,,,,,,,,,,,,,,137394
+58,802,Ringling College of Art and Design,Fine Arts,2.3,Mk Foltz,2.2,11,N/A,,,,,,,,,,,,,,,,,,,,,414980
+59,803,Ripon College,Psychology,2.6,Joe Hatcher,4.2,29,N/A,3,2,,5,,,,,,,,3,,,,3,,,,1,323168
+60,803,Ripon College,Political Science,3.8,Lamont Colucci,4.7,17,N/A,,2,,,,,1,,1,,,1,,,3,2,,,,1,1097761
+61,803,Ripon College,Religion,2.9,Brian Smith,4.4,16,N/A,,2,,1,,,1,,,,,1,,,1,1,,,,1,90531
+62,803,Ripon College,Anthropology,2.9,Paul Axelrod,3.6,16,N/A,,,,,,,,,,,,,,,,,,,,,323165
+63,803,Ripon College,Languages,3.9,Geoff Guevara-Geer,3.3,16,N/A,,,2,,,,1,,1,,,,,3,1,,2,2,,3,455629
+64,803,Ripon College,Economics,4.3,Paul Schoofs,3.2,15,N/A,1,,2,,,,1,1,1,,,,1,1,,,1,,,3,154684
+65,803,Ripon College,Economics,3.7,Soren Hauge,2.5,15,N/A,,,1,1,1,1,1,2,,,,,1,,,,,1,,,176149
+66,803,Ripon College,Languages,2.5,Eddie Lowry,4.1,15,N/A,,1,,2,,2,1,1,1,,2,,1,,,,,,,,196985
+67,803,Ripon College,Languages,2.1,Dominique Poncelet,4.6,15,N/A,,,,,,,1,,,,,1,,,,,,1,,,323173
+68,803,Ripon College,Mathematics,3.5,Diane Beres,2.0,15,N/A,,,,,1,,,,,,,,,,,,,,,,359759
+69,803,Ripon College,Philosophy,3.1,Vance Cope-Kasten,3.5,14,N/A,,,,,,,,,,,,,,,,,,,,,196968
+70,803,Ripon College,Psychology,3.3,J. Timmy Petersik,4.2,14,N/A,,,,,,,,,,,,,,,,,,,,,323169
+71,803,Ripon College,Biology,3.0,Skip Wittler,4.5,13,N/A,,,,,,,,,,,,,1,,,,,,1,1,420288
+72,803,Ripon College,Philosophy,2.8,David Seligman,3.5,12,N/A,,,,,,,,,,,,,,,,,,,,,209244
+73,803,Ripon College,Political Science,1.9,Martin Farrell,3.7,12,N/A,,,,,,,,,,,,,,,,,,,,,515639
+74,803,Ripon College,English,2.6,David Graham,4.2,11,N/A,,,,,,,1,1,,,,,,,,,,1,,,196976
+75,803,Ripon College,Mathematics,4.0,David Scott,3.6,11,N/A,,,,,,,,1,1,,,,,,,,1,,,,359763
+76,803,Ripon College,Theater,3.3,Bob Amsden,3.3,11,N/A,,,,,,,,1,1,,1,,,2,3,,1,,,,528142
+77,803,Ripon College,English,3.4,Robin Woods,4.4,10,N/A,,,,,,,,,,,,,,,,,,,,,196978
+78,803,Ripon College,Communication,4.2,Steve Martin,3.9,10,N/A,,,,1,1,,,,,,,,,,,,,,,,380108
+79,804,Rivier University,History,4.0,Martin Menke,4.2,37,N/A,,2,,1,,,2,,,,,1,2,,1,1,,3,,2,131936
+80,804,Rivier University,Psychology,4.5,Patrice Odonnell,2.3,26,N/A,,,,,,,1,,,,,,1,1,,,1,,,3,320221
+81,804,Rivier University,Biology,4.0,S Barbaro,3.4,24,N/A,1,,,,,,,,1,,,,3,,,,2,,,3,318805
+82,804,Rivier University,Sociology,3.7,M Faiia,4.5,23,N/A,,,,1,1,,5,2,,,,,1,,1,,,3,,,117568
+83,804,Rivier University,Biology,3.1,Sharon Kassan,4.0,23,80%,6,4,,5,1,,3,2,,,,2,5,1,1,4,5,,3,1,851780
+84,804,Rivier University,History,3.1,George Kaloudis,3.9,22,N/A,1,,,,1,,,,2,,2,,3,,,,,,,2,257211
+85,804,Rivier University,Mathematics,4.0,Bill Bonnice,2.0,22,N/A,,,,,,,,,,,,,,,,,,,,,314929
+86,804,Rivier University,Science,3.3,D Burgess,3.5,21,N/A,,1,,,,,,1,,,,1,,,,,,,,,117566
+87,804,Rivier University,English,4.1,Paul Lizotte,3.0,20,N/A,,,,,,,1,,,,,,,1,,,,,,1,196008
+88,804,Rivier University,Communication,2.8,Barry Jackson,2.9,17,N/A,,,,,,,,,,,,,,,,,,,,,268642
+89,804,Rivier University,Philosophy,3.8,Jerimiah Dolan,3.4,15,N/A,,,,,,,,,,,,,,,,,,,,,200431
+90,804,Rivier University,English,2.3,Bradford T. Stull,4.8,15,83%,,1,,2,,,2,3,,,2,2,,,3,5,,,,,592760
+91,804,Rivier University,Mathematics,3.4,Teresa Magnus,3.3,15,N/A,1,,,,,,,,,,,,,2,,1,1,,,2,371622
+92,804,Rivier University,Communication,2.3,Liz Wright,3.6,14,N/A,,,,,,,,,,,1,,,,,,,,,,152344
+93,804,Rivier University,Biology,3.3,Sue Cooke,4.2,14,N/A,,1,,,1,,,1,,,,,,,,,,,,,585277
+94,804,Rivier University,Education,3.9,Cathy Lasalle,2.2,13,N/A,,,,,,,,,,,,,,,,,,,,,165316
+95,804,Rivier University,English,3.1,T Doherty,4.1,13,N/A,,,,1,1,,,1,,,,,,,,,,,,,196019
+96,804,Rivier University,Languages,3.0,Maria Guida,4.5,13,N/A,,,,1,,,,1,,,,,,,,,,,,,377805
+97,804,Rivier University,Nursing,3.3,Debora Dodge,2.4,11,33%,1,1,1,,1,,5,,1,,,,5,,,,,,1,1,1413292
+98,804,Rivier University,Biology,3.4,Ben Philip,4.1,11,N/A,,1,,1,1,,,1,,,,1,,,,,,,,1,1609982
+99,805,Roanoke College,Biology,3.9,Darwin Jorgensen,2.6,51,N/A,,,,1,,1,,,,1,1,1,,,,1,,,,,333982
+100,805,Roanoke College,Psychology,3.0,Angela Allen,3.9,42,N/A,,2,,2,1,3,2,2,1,,6,1,3,,2,3,,,3,3,174776
+101,805,Roanoke College,Political Science,4.6,Joshua Rubongoya,2.8,41,N/A,,1,,,1,,1,,,,,,1,,,1,2,1,,3,176469
+102,805,Roanoke College,Music,2.8,Jeffery Sandborg,3.3,39,N/A,,,,,,,,,,,1,,,,1,1,,,,,172369
+103,805,Roanoke College,Education,2.1,Katie Elmore,4.7,39,N/A,1,1,,9,,,1,5,,1,2,8,,,1,5,1,,,,908426
+104,805,Roanoke College,English,3.1,Melanie Almeder,4.8,36,N/A,,,,3,,,2,1,,,,,,,1,,1,,,,180007
+105,805,Roanoke College,English,3.2,Dana-Linn Whiteside,3.8,36,N/A,,,1,1,1,,3,1,,,,,1,2,2,,,,,,224094
+106,805,Roanoke College,English,2.6,Tom Carter,3.5,35,N/A,,,,1,1,,1,2,,,1,,,,,1,,1,,,169909
+107,805,Roanoke College,Political Science,4.5,Bill Hill,2.4,35,N/A,,,,,,,,,,,,,,,,,,,,,169912
+108,805,Roanoke College,English,2.2,Virginia Stewart,4.5,33,N/A,,,1,2,,,1,2,1,,,,,,,,,,,,169904
+109,805,Roanoke College,Mathematics,2.6,Claire Staniunas,3.5,33,N/A,1,,,2,,,,2,,,4,,1,4,,1,1,,,,193317
+110,805,Roanoke College,Theater,3.2,Bruce Partin,3.1,33,N/A,,1,1,1,,,5,1,,,,,,1,4,2,2,,,2,194100
+111,805,Roanoke College,English,3.0,Jennifer Rosti,4.3,32,N/A,,1,,,,,,,,,1,1,,,1,2,,,,,180122
+112,805,Roanoke College,Biology,4.2,Leonard Pysh,3.0,32,100%,,1,,3,1,1,1,5,,,,1,,,1,2,1,,1,2,321298
+113,805,Roanoke College,Mathematics,3.0,Kathy Bauman,3.5,32,N/A,,,,,,1,,,,,,,1,3,1,,,,,1,486567
+114,805,Roanoke College,English,4.3,Paul Hanstedt,4.1,30,N/A,,,,,,,2,1,,1,,,,,,,,1,,,52845
+115,805,Roanoke College,English,2.7,Anita Turpin,4.1,30,N/A,,,2,2,2,,4,3,,,1,1,1,,1,,2,,,2,169917
+116,805,Roanoke College,Political Science,3.5,Todd Peppers,4.4,29,N/A,,1,,1,,,2,1,,,,,,,,,1,,,,169911
+117,805,Roanoke College,Sociology,3.0,Daniel Sarabia,3.9,29,N/A,,1,,3,1,,1,1,,,,1,3,,,2,2,,,,483202
+118,805,Roanoke College,English,2.4,Mike Heller,4.0,28,N/A,1,1,,2,,,2,1,,,1,1,,,1,1,,,,,52844
+119,807,Rochester Institute of Technology,Mathematics,3.3,Hossein Shahmohamad,4.8,153,95%,5,31,,26,15,,1,12,,2,13,57,3,36,39,79,21,2,4,10,67418
+120,807,Rochester Institute of Technology,Mathematics,2.5,Helen Timberlake,4.0,108,60%,1,1,1,2,3,1,1,2,,1,1,,,5,2,,6,,,8,234854
+121,807,Rochester Institute of Technology,Mathematics,3.4,Wanda Szpunar-Lojasiewicz,2.0,95,N/A,3,,,2,,,8,,6,,1,,11,11,,,10,,10,23,67419
+122,807,Rochester Institute of Technology,Chemistry,2.8,Joseph Lanzafame,2.9,95,75%,3,1,3,1,4,20,,,1,1,5,1,9,7,1,1,3,,4,7,725252
+123,807,Rochester Institute of Technology,Mathematics,2.9,Tim Goodwill,4.3,86,50%,,,1,3,,,,2,4,,1,2,,4,2,2,1,,1,7,358687
+124,807,Rochester Institute of Technology,Mathematics,2.9,Deana Olles,4.7,86,75%,1,1,,6,,,,8,,,,1,,3,1,8,13,,,13,922504
+125,807,Rochester Institute of Technology,Mathematics,2.9,Elmer Young,2.0,83,44%,4,1,,3,8,2,2,2,5,,10,,2,2,,,10,,3,5,67421
+126,807,Rochester Institute of Technology,Engineering,2.8,Steve Ciccarelli,4.3,78,100%,8,1,,12,9,2,3,25,,5,6,3,,6,8,16,13,,,10,609837
+127,807,Rochester Institute of Technology,Computer Science,2.1,Sean Strout,4.7,77,80%,3,11,,2,1,,,2,,,12,7,,1,,6,2,,,,127294
+128,807,Rochester Institute of Technology,Mathematics,3.8,Donald Reynolds,2.3,76,42%,6,,,6,4,6,,3,1,,2,,1,4,4,,9,,6,23,1185289
+129,807,Rochester Institute of Technology,Mathematics,2.8,Michael Radin,4.2,75,90%,5,3,,2,3,1,,3,1,,,,2,7,,4,8,,1,4,63753
+130,807,Rochester Institute of Technology,English,1.5,Jennifer Wolfley,4.5,75,N/A,1,1,,2,,,,1,1,,,,1,3,4,1,,,,,468378
+131,807,Rochester Institute of Technology,Mathematics,3.1,Joel Dreibelbis,2.5,74,53%,4,,,2,4,1,,2,2,1,3,1,6,9,1,,6,1,1,5,576466
+132,807,Rochester Institute of Technology,Mathematics,1.7,Carol Oehlbeck,4.4,73,80%,2,1,1,6,6,5,,2,1,,2,,,2,1,6,,,,1,245423
+133,807,Rochester Institute of Technology,Mathematics,4.1,Maurino Bautista,2.3,71,8%,,,4,,1,1,1,1,,1,1,1,6,11,2,,10,,2,15,67391
+134,807,Rochester Institute of Technology,Computer Science,3.4,Benjamin Steele,3.0,71,50%,5,3,,3,4,,,7,1,,1,,12,9,3,,11,,3,13,736854
+135,807,Rochester Institute of Technology,Biology,3.3,Andre Hudson,4.7,69,92%,6,9,,10,5,,7,13,,1,1,10,2,,1,6,7,,1,1,1333208
+136,807,Rochester Institute of Technology,Chemistry,2.7,Alla Bailey,2.5,68,31%,2,2,,2,1,3,4,2,1,,1,,9,6,1,1,6,2,,6,497462
+137,807,Rochester Institute of Technology,Economics,3.7,Jeannette Mitchell,3.3,68,42%,1,1,1,3,1,7,5,1,2,,2,,3,1,,,9,,2,11,574221
+138,807,Rochester Institute of Technology,Mathematics,2.0,Tom Prevendoski,4.6,68,70%,2,5,,3,4,2,,3,1,1,9,,1,1,1,3,3,,1,2,1102290
+139,808,The Rockefeller University,Biology,3.5,Jean-Laurent Casanova,2.5,2,N/A,,,,,,,,,,,,,,,,,,,,,1434936
+140,809,Rockford University,History,4.0,Dr. Catherine Forslund,2.8,28,N/A,,,1,,,,1,1,,,,,,,,,,,,2,462968
+141,809,Rockford University,Philosophy,3.2,Steven Hicks,3.2,26,N/A,,,,,,,1,,,,,,,,1,,,,,1,238974
+142,809,Rockford University,Philosophy,2.8,Matthew Flamm,3.9,24,N/A,,,,,,,2,2,1,,,,1,1,3,,2,,,2,465432
+143,809,Rockford University,English,4.0,Colleen Page,3.6,23,N/A,,,,,,,,,,,,,,,,,,,,,328565
+144,809,Rockford University,Mathematics,3.6,Mehmet Dik,3.7,20,N/A,,,,,,,,,,,,,,,,,,,,,465439
+145,809,Rockford University,Economics,4.3,Masoud Moallem,3.4,19,N/A,1,1,,1,,,1,,,,,,,,,,1,,,1,316749
+146,809,Rockford University,Chemistry,2.8,Deborah Breiter,4.6,17,N/A,,,,,,,,,,,,,,,,,,,,,465455
+147,809,Rockford University,English,3.4,Susan Porterfield,3.6,17,N/A,,,,,,,,,,,,,,,,,,,,,481486
+148,809,Rockford University,History,1.9,Ray James,3.5,17,N/A,,,,,,,,,,,,,,,,,,,,,481973
+149,809,Rockford University,Chemistry,3.5,Joseph Ward,3.4,16,N/A,,,,,,,,,,,,,,,,,,,,,375470
+150,809,Rockford University,Education,1.3,Lynn Stafford,2.9,16,N/A,,,,,,,,,,,,,1,,1,,1,,,,462966
+151,809,Rockford University,Psychology,3.3,Jonathan E Skalski,4.5,16,100%,6,2,,13,,2,,9,,,,2,,1,2,3,,,,1,1904190
+152,809,Rockford University,Psychology,3.6,Elaine Sharpe,4.2,15,N/A,,2,,1,,,,1,,,,2,,,,2,,,,,483956
+153,809,Rockford University,Business,3.6,Jeff Fahrenwald,2.9,14,N/A,,,,1,1,,,,,,,1,,,,,,,,,136799
+154,809,Rockford University,Mathematics,2.3,Gerald Caton,4.3,14,N/A,,,,2,1,,,1,,,,,,,,1,,,,,375473
+155,809,Rockford University,Business,2.5,Michael Mrkvicka,2.9,13,N/A,,,,,,,,,,,,,,,,,,,,,195201
+156,809,Rockford University,History,3.9,David Sytsma,3.5,13,N/A,,,,,,,,,,,,,,,,,,,,,208520
+157,809,Rockford University,Business,2.2,Bob Evans,4.0,13,N/A,,1,,,,,,,,,,,,,1,,,,,,375479
+158,809,Rockford University,Physics,3.3,Naomu Rao,3.0,13,N/A,1,1,,,,,,1,,,,,,,,,,,,,375482
+159,809,Rockford University,Anthropology,4.5,Peter Tobias,2.6,13,N/A,,,,,,,,,,,,,,,,,,,,,465441
+160,810,Rockhurst University,Theology,3.6,Joann Spillman,2.5,34,N/A,,,,,,,3,1,,,,,,,,,1,,,3,708203
+161,810,Rockhurst University,Theology,1.7,Glenn Young,4.4,34,100%,,3,,5,,,,3,,,2,,1,,2,5,,,,,1044944
+162,810,Rockhurst University,Philosophy,3.2,Brendan Sweetman,4.7,32,N/A,1,2,,,1,,,,,,,,,,,2,1,,,,155382
+163,810,Rockhurst University,Philosophy,3.3,Tina Baceski,2.6,32,N/A,,,,,,,5,2,1,,,,3,1,1,2,2,,,,1053388
+164,810,Rockhurst University,History,3.7,Joanna Carraway,4.3,28,N/A,,1,1,,1,,3,,,,,,1,1,3,,1,,,1,915102
+165,810,Rockhurst University,Psychology,3.2,Risa Stein,4.0,27,N/A,,,,1,1,,3,3,,1,,,1,,,2,,1,,3,495037
+166,810,Rockhurst University,Theology,2.6,Daniel Stramara,4.1,25,83%,5,,,4,2,,1,2,1,,2,,1,,,2,2,,1,,282424
+167,810,Rockhurst University,Theology,3.4,Craig Prentiss,4.4,24,N/A,,1,1,,,,5,1,,,1,,2,,1,1,,,,,143895
+168,810,Rockhurst University,Psychology,3.3,William Sturgill,3.1,24,67%,4,,2,5,,1,1,2,,1,2,,5,4,,,3,,,1,784663
+169,810,Rockhurst University,Science,2.2,Elizabeth Evans,4.0,23,N/A,,1,,,,,,4,,2,,,,,1,1,1,,,,784606
+170,810,Rockhurst University,Business,3.5,Richard Graham,4.1,22,N/A,,1,,,,,,,,,,,,,,1,,,,,155392
+171,810,Rockhurst University,Science,3.7,Lisa Felzien,3.8,21,100%,2,1,,2,,,,5,,2,,,,1,1,,1,,1,2,784607
+172,810,Rockhurst University,Philosophy,3.0,Robert Vigliotti,3.8,20,N/A,,,,1,,,1,,2,,,1,4,,,,1,1,,,708204
+173,810,Rockhurst University,Psychology,2.1,Saz Madison,4.2,20,N/A,,,,,,,,,,,,,,,,,,,,,734779
+174,810,Rockhurst University,Political Science,1.8,Charles Moran,4.5,19,N/A,,,,1,,,,,1,,,,1,,,,,,,,143813
+175,810,Rockhurst University,History,3.8,Faith Childress,4.6,19,N/A,,,,,1,,,,,,1,,,1,2,,1,,,,143827
+176,810,Rockhurst University,Business,4.3,Sudhakar Raju,4.2,19,N/A,,1,,,,,,1,,,,1,,,,1,,,,3,751831
+177,810,Rockhurst University,Psychology,2.1,Paul Scott,4.4,18,N/A,1,1,,3,1,1,,4,,,4,1,,,1,1,,,,,147388
+178,810,Rockhurst University,Business,4.2,Laura Fitzpatrick,2.8,18,N/A,,,,,,1,,,,,,,,,1,,,,,1,784609
+179,810,Rockhurst University,English,4.6,Jeffery Mack,2.9,18,N/A,,,,,,,,,,,,,,,,,,,,,1120549
+180,811,Rocky Mountain College,Geology,3.9,Tom Kalakay,3.5,16,N/A,,,,,,,,,,,,,,,,,,,,,806899
+181,811,Rocky Mountain College,Mathematics,2.3,Robyn Cummings,4.3,15,N/A,2,,,1,,,,1,,,1,,,3,1,1,2,,,,130641
+182,811,Rocky Mountain College,History,3.1,Tim Lehman,3.9,14,N/A,,,,,,,1,1,,,1,1,,,1,,1,,,2,228669
+183,811,Rocky Mountain College,Science,4.4,Claire Oakley,2.6,11,N/A,,,,,,,,,,,,,,,,,,,,,130647
+184,811,Rocky Mountain College,Political Science,4.2,Matthew O'Gara,4.0,11,N/A,,,,,1,,2,,,,2,,,,1,,2,,,3,1375254
+185,811,Rocky Mountain College,Education,3.4,Shelley Ellis,3.9,10,N/A,,,,,,,1,,1,,,,1,,,,,,,,223212
+186,811,Rocky Mountain College,Business,3.4,Sandy Barz,4.2,10,N/A,,,,,,,,,,,,,,,,,,,,,228678
+187,811,Rocky Mountain College,Psychology,3.5,Linda Derosier,4.2,10,N/A,,,,,,,,,,,,,,,,,,,,,304872
+188,811,Rocky Mountain College,Theater,1.3,Gerry Roe,2.9,9,N/A,,,,,,,,,,,,,,,,,,,,,304895
+189,811,Rocky Mountain College,Aviation,3.3,Dave Ison,4.9,9,N/A,,,,,,,,,,,,,,,,,,,,,764369
+190,811,Rocky Mountain College,Communication,4.0,Vickie Christie,3.7,9,N/A,,,,,,,,,,,,,,,,,,,,,955730
+191,811,Rocky Mountain College,Fine Arts,3.9,Mark Moak,4.4,8,N/A,,1,,,,,,1,,,1,,,,,,,,,,228677
+192,811,Rocky Mountain College,English,2.0,Linaya Leaf,4.4,8,N/A,,,,,,,,,,,,,,,,,,,,,304894
+193,811,Rocky Mountain College,Psychology,3.0,Barb Vail,3.8,8,N/A,,,,,,,,,,,,,,,,,,,,,304897
+194,811,Rocky Mountain College,Biology,2.5,Dan Albrecht,4.2,8,N/A,,1,,,,,,,,,,,,,,,1,,,,807962
+195,811,Rocky Mountain College,Philosophy,3.4,David Strong,2.8,8,N/A,,,,,,,1,,1,,,1,1,1,,,,,,1,917998
+196,811,Rocky Mountain College,Aviation,2.3,Lindsey Gray,3.5,8,N/A,,,,,,,,,,,,,,,,,,,,,1308888
+197,811,Rocky Mountain College,Chemistry,4.0,Gavin Kirton,2.4,7,N/A,,,,,,,,,,,,,,3,,,,,,3,1106894
+198,811,Rocky Mountain College,Sociology,2.8,Ron Cochran,4.5,6,N/A,,,,,,,,,,,,,,,,,,,,,190777
+199,811,Rocky Mountain College,Theology,2.2,Jay Cassell,3.5,6,N/A,,,,,,,,,,,,,,,,,,,,,304889
+200,812,Roger Williams University,Marketing,2.7,Ben Carr,4.0,80,71%,1,4,11,,,,,1,4,,15,4,7,2,3,7,3,,,4,131657
+201,812,Roger Williams University,Political Science,2.7,Dave Moskowitz,3.8,79,71%,3,5,2,1,,,2,1,1,,10,,1,,,3,2,,1,4,124974
+202,812,Roger Williams University,English,3.9,Mel Topf,2.6,68,56%,5,,,,1,,2,4,2,,1,,4,,,,5,6,,13,124982
+203,812,Roger Williams University,History,3.6,Jeffrey Meriwether,4.4,64,N/A,,,,,,,1,,,,1,,,,2,,1,1,,2,104117
+204,812,Roger Williams University,Psychology,3.1,Bonita Cade,2.5,63,29%,,,,,2,3,,,,2,,1,2,1,,,4,3,,2,360173
+205,812,Roger Williams University,Criminal Justice,2.3,Bob Engvall,4.8,60,N/A,,1,,,,,,,1,,2,,,,,1,,,,,125195
+206,812,Roger Williams University,Mathematics,4.6,Joel Silverberg,1.3,59,N/A,,,,,,,,,,,,,,,,,,,,,153007
+207,812,Roger Williams University,Literature,3.8,Jennifer Campbell,3.3,59,N/A,,,,1,,,,1,,,1,,1,1,1,,,,,,122272
+208,812,Roger Williams University,Psychology,3.4,Garret Berman,4.1,57,67%,,3,,,2,1,3,2,1,,2,3,2,,2,2,,,1,1,155249
+209,812,Roger Williams University,Science,4.1,Cliff Timpson,3.9,57,100%,2,1,3,1,,1,,2,,,,,2,1,2,4,3,,,1,68439
+210,812,Roger Williams University,Psychology,1.7,Charles Trimbach,4.2,55,N/A,,,,1,,1,1,,,,1,,,,,,,,,,124849
+211,812,Roger Williams University,History,3.9,Josh Stein,2.9,55,N/A,,,,,,,,,,,,,,,,,,,,,124981
+212,812,Roger Williams University,Languages,3.8,Anthony Hollingsworth,4.4,55,N/A,,,,1,,,,,1,,2,2,,1,1,1,,,,,151620
+213,812,Roger Williams University,Psychology,4.4,Donald Whitworth,3.1,53,33%,,1,1,,,,2,,1,,,,1,,1,,1,,2,4,104119
+214,812,Roger Williams University,Literature,4.5,Deb Robinson,3.3,52,N/A,,1,,,,,2,,,,,,,,2,,,,,2,143159
+215,812,Roger Williams University,Mathematics,3.5,Bruce Burdick,2.4,52,10%,,,,,,1,1,1,6,,,,1,4,,1,4,,4,9,152044
+216,812,Roger Williams University,Communication,2.6,Edward Delaney,4.2,50,100%,,1,,,,,2,2,,,,1,1,1,2,1,1,,,,147368
+217,812,Roger Williams University,Fine Arts,3.8,Jeff Silverthorne,2.1,47,N/A,,1,,,,,,2,,2,2,,1,2,2,,3,,,4,153724
+218,812,Roger Williams University,Architecture,2.2,John Hendrix,3.9,45,N/A,1,2,,1,1,,,1,1,,4,1,1,,,4,1,1,,,153161
+219,812,Roger Williams University,Political Science,3.0,Ernest Greco,2.9,45,N/A,,1,,,,,,,,,3,,2,1,1,1,2,,,1,175730
+220,814,Rogers State University - Claremore Campus,English,3.1,SethAnn Beaird,4.5,65,100%,9,6,,34,10,5,5,51,,18,1,10,,4,16,17,7,,,,2165776
+221,814,Rogers State University - Claremore Campus,History,4.0,Paul Hatley,4.3,63,88%,,8,,,,,3,2,1,1,4,1,3,,1,4,2,,1,4,135395
+222,814,Rogers State University - Claremore Campus,Marketing,3.5,Bob Willis,2.6,56,42%,,,,1,3,,3,1,2,1,2,,,3,5,1,4,,4,8,154691
+223,814,Rogers State University - Claremore Campus,Psychology,2.8,Kevin Woller,4.8,54,85%,,6,,3,2,5,,5,,,8,4,1,1,2,6,2,,1,1,135402
+224,814,Rogers State University - Claremore Campus,Mathematics,2.7,Roya Namavar,4.2,51,N/A,1,,,2,,,,2,,,,,2,2,3,3,3,,1,1,222618
+225,814,Rogers State University - Claremore Campus,English,3.8,Scott Reed,3.7,50,46%,1,,1,1,1,,6,8,,2,3,1,,5,2,,6,4,1,16,1208885
+226,814,Rogers State University - Claremore Campus,Business,3.6,John R Malmo,5.0,49,100%,10,13,5,13,5,9,5,16,,1,25,11,,1,8,21,,2,,2,2248636
+227,814,Rogers State University - Claremore Campus,Biology,3.1,Claudia Glass,3.8,48,100%,1,3,,3,1,3,,1,,,7,,3,,1,7,6,,3,4,154672
+228,814,Rogers State University - Claremore Campus,Criminal Justice,3.6,Diana Clayton,3.0,47,N/A,1,,,1,,1,,1,,,,,4,,3,1,4,,,5,558965
+229,814,Rogers State University - Claremore Campus,Fine Arts,3.2,Diana Lurz,2.9,44,N/A,,,,,,,1,1,,,,,,2,,,,1,,2,130939
+230,814,Rogers State University - Claremore Campus,English,2.4,Renee Cox,4.5,44,100%,4,7,,4,5,,3,10,,,14,3,,5,3,3,5,3,,,1321871
+231,814,Rogers State University - Claremore Campus,Computer Science,3.1,Rich Ronan,1.5,42,N/A,,,,,,,,,,,,,,,,,,,,,157550
+232,814,Rogers State University - Claremore Campus,Psychology,2.8,Abe Marrero,4.6,39,100%,1,5,1,2,5,,,3,,,4,,2,1,2,7,3,,,2,221055
+233,814,Rogers State University - Claremore Campus,Business,3.7,Gary Marche,2.2,38,N/A,,,,,1,3,1,1,,,,,1,3,,1,,,,2,191467
+234,814,Rogers State University - Claremore Campus,Chemistry,4.0,Kirk Voska,2.5,37,14%,,1,1,1,,,2,1,,,1,,4,3,,,4,,1,1,199211
+235,814,Rogers State University - Claremore Campus,English,3.2,Sally Emmons,3.3,36,N/A,,,,1,,,1,1,,1,,,,2,2,,,1,,3,239996
+236,814,Rogers State University - Claremore Campus,Mathematics,4.1,Doug Grenier,2.2,36,33%,,1,,,1,1,,2,1,,2,,,2,,,4,,1,4,280961
+237,814,Rogers State University - Claremore Campus,English,2.8,Mary MacKie,4.7,36,N/A,1,,,1,,,2,4,,,4,1,,1,4,,,1,,2,397073
+238,814,Rogers State University - Claremore Campus,Sociology,2.8,David Newcomb,4.3,35,N/A,,,,1,1,,2,1,,,,1,3,,1,1,,1,1,1,139554
+239,814,Rogers State University - Claremore Campus,English,3.7,Emily Dial-Driver,3.9,35,N/A,,,,,2,,2,4,,1,,1,,2,2,2,4,1,,,139559
+240,817,Rollins College,Business,2.7,Allen Kupetz,4.8,322,100%,26,57,,29,37,2,1,153,9,52,55,52,2,,17,103,13,,,9,803694
+241,817,Rollins College,Business,4.4,Marc Fetscherin,4.7,75,N/A,1,3,2,5,1,,,17,,2,1,10,,1,10,14,10,2,,11,769300
+242,817,Rollins College,Business,4.2,Daniel Spellman,4.9,64,98%,9,22,,16,2,,1,13,1,1,8,35,,,4,51,3,1,,24,2279051
+243,817,Rollins College,Communication,3.4,Rick Bommelje,4.4,63,N/A,,1,,1,,,,3,,,,2,,,3,3,,,,1,26435
+244,817,Rollins College,International Studies,3.1,Sebastian Pritchard,4.9,52,90%,3,4,1,3,,,,,1,,7,10,,,1,8,,1,,,1703073
+245,817,Rollins College,History,4.5,R. Barry Levis,3.3,50,N/A,,,,,,,,,,,,,,,,,,,,,234678
+246,817,Rollins College,English,3.8,Twila Papay,2.6,36,N/A,,,,,,,,,,,,,,,,,,,,,26687
+247,817,Rollins College,Communication,3.4,Susan Easton,4.3,34,N/A,,,,1,,,,1,,,,,,,,1,,,,,261528
+248,817,Rollins College,Communication,3.1,Greg Gardner,4.3,31,N/A,,,,2,,,1,1,,,,1,,,1,2,,,,,372599
+249,817,Rollins College,Music,2.0,Chuck Archard,4.8,31,N/A,,,,1,,,,,,,2,2,,,,1,,,,,476521
+250,817,Rollins College,Education,3.5,Giovanni Valiante,3.6,29,N/A,,,,,,,,,,,,,,,,,,,,,316205
+251,817,Rollins College,History,4.5,Ed Harrell,3.8,28,N/A,,,,,,,1,,,,1,,,,,,,,,3,155004
+252,817,Rollins College,Communication,4.3,Lisa Tillmann-Healy,3.0,27,N/A,,,,,,,2,,,,,,,1,1,,1,,,2,339077
+253,817,Rollins College,Economics,2.6,Benjamin Balak,3.6,27,N/A,,,,,2,,,,,,1,1,,,,1,,,,,619016
+254,817,Rollins College,Chemistry,3.5,Pedro Bernal,3.4,26,N/A,,1,,,1,,1,,,,,,,,,1,,,,1,180422
+255,817,Rollins College,Anthropology,3.2,Robert Moore,4.0,24,N/A,,,,,,,1,1,,,,1,,,,1,,,,,197769
+256,817,Rollins College,Communication,3.6,John Morrison,3.2,24,60%,,1,,4,2,,,1,,3,3,,,,1,2,5,1,,4,348434
+257,817,Rollins College,Accounting,3.3,Sharon Agee,3.5,23,40%,,,3,1,1,,,1,,,,,,2,,,2,,3,4,219301
+258,817,Rollins College,Political Science,3.8,Michael Gunter,3.5,23,100%,,2,,1,,1,3,,1,,2,,,,4,1,2,,,,353521
+259,817,Rollins College,Languages,3.2,Gabriel Barreneche,4.1,23,N/A,,,,1,1,,2,,,,,,,1,,1,,,,2,443718
+260,818,Roosevelt University,Psychology,2.5,Jp Choca,3.4,86,N/A,1,,,,1,,2,,1,,,,,,1,,,,,,1336749
+261,818,Roosevelt University,Psychology,2.1,Melissa Sisco,4.8,44,100%,,2,,3,,4,1,4,,,1,8,1,,5,5,1,,,,1632651
+262,818,Roosevelt University,English,3.0,Eric Plattner,4.9,38,N/A,,,,1,,,,,,,1,1,,,,1,1,,,,530087
+263,818,Roosevelt University,Psychology,3.8,Claudia Feitosa-Santana Hernandez,4.3,33,N/A,,1,,1,,1,12,5,,,,11,,,,,,,,9,1785981
+264,818,Roosevelt University,Political Science,3.0,David Faris,4.9,31,100%,1,8,,2,1,,2,9,,,12,2,,1,,9,,,,,1518902
+265,818,Roosevelt University,Economics,3.8,June Lapidus,1.9,29,10%,1,1,,1,,,4,,,,1,,,6,3,,,,,9,215593
+266,818,Roosevelt University,Political Science,3.9,Stuart Warner,3.8,28,N/A,,,,1,,,1,,,,2,1,,,,1,,,,,234986
+267,818,Roosevelt University,Mathematics,3.4,Jeffrey Zheng,4.3,28,N/A,,1,,6,4,3,,15,,,1,1,1,4,11,6,12,,,10,1920874
+268,818,Roosevelt University,Management,2.9,Raed Elaydi,4.0,27,90%,,9,,6,,,1,3,,1,2,13,,,7,8,3,,,1,1480575
+269,818,Roosevelt University,Psychology,2.4,Jonathan Smith,3.0,26,N/A,,,,,,,1,,1,,,,,1,1,,1,,,,438886
+270,818,Roosevelt University,Management,2.4,Charles Noty,3.7,26,N/A,,,,,,,1,,,,,,,,,,,,,,935249
+271,818,Roosevelt University,Mathematics,2.3,Jorge Rodriguez Florido,3.7,26,N/A,,,,3,2,,,3,,,1,1,,,,3,1,,,,937952
+272,818,Roosevelt University,Mathematics,2.3,Mary Williams,5.0,24,75%,,1,1,6,2,5,,6,,,1,1,,8,,2,4,,1,,705254
+273,818,Roosevelt University,Biology,3.5,Norbert Cordeiro,4.3,24,N/A,,4,,4,,,,6,,,,3,,,4,2,3,,,2,1444335
+274,818,Roosevelt University,Marketing,3.6,Paul Wellen,4.6,22,100%,,8,,,,1,8,1,,,1,,4,,,3,4,,,1,222446
+275,818,Roosevelt University,Political Science,3.3,Bethany Barratt,4.2,22,N/A,,,,1,,,1,1,,,,1,,,1,,,,,,561727
+276,818,Roosevelt University,English,3.6,Ann Brigham,4.6,21,N/A,,,,,,,,1,,,,,,,1,2,,,,,175017
+277,818,Roosevelt University,Sociology,3.0,Leon Bailey,3.7,21,N/A,,,,,,,3,,,,,,2,,,1,2,1,,,222448
+278,818,Roosevelt University,Humanities,4.1,Adam Rose,2.0,21,N/A,,,,,,,3,,,,,,,1,1,,,,,5,339448
+279,818,Roosevelt University,Political Science,3.3,Jeffery Edwards,4.1,21,N/A,,,,,,,,,,,,,,,,,,,,,359068
+280,819,Dominican University,Philosophy,2.7,Nkuzi Nnam,2.5,38,20%,,,,1,,1,,,3,,1,1,2,,4,,3,,,1,359815
+281,819,Dominican University,Economics,3.1,Peter Alonzi,4.0,32,80%,1,1,,1,2,,,1,,,,,2,1,,1,3,,1,3,255938
+282,819,Dominican University,Mathematics,4.1,Hippolyte Datte,1.6,31,N/A,,1,1,1,,,,,,,,,4,6,,,6,1,,7,737368
+283,819,Dominican University,Communication,3.0,Frank Marcello,5.0,30,N/A,1,3,,1,,1,,3,,,4,,,,1,4,1,,,,1347225
+284,819,Dominican University,Business,3.4,Al Rosenbloom,4.8,26,100%,1,3,,1,,,2,3,,,4,2,,,5,2,,,,3,255937
+285,819,Dominican University,Religion,2.7,Clodagh Weldon,5.0,24,N/A,1,1,,2,,,,1,,,,1,,,2,1,,,,,554219
+286,819,Dominican University,Communication,3.1,Richard Calabrese,3.0,24,N/A,,,,,,,1,,,,,,,1,1,,1,1,,1,605356
+287,819,Dominican University,Psychology,2.4,Daniel Beach,4.7,24,N/A,,,,,3,,1,1,,,1,,1,,,3,1,,,,697276
+288,819,Dominican University,Computer Science,3.6,Cyrus Grant,3.7,22,N/A,,,,1,,,,1,,,,1,,,,1,1,,,1,156251
+289,819,Dominican University,Biology,3.6,Scott Kreher,4.0,22,50%,,,,,,,4,2,,,1,,1,3,1,2,,,,2,1376996
+290,819,Dominican University,Art History,3.8,Javier Carmona,3.8,21,N/A,,,,,,,,,,,,,,,,,,,,,469729
+291,819,Dominican University,English,3.0,Bob Greenwald,4.5,21,N/A,,,,,,,,,,,,,,,,,,,,,610340
+292,819,Dominican University,Fine Arts,3.6,Jeffery Cote De Luna,2.8,21,N/A,,,,1,,,,1,,,,,,,,,1,,,,610345
+293,819,Dominican University,Economics,2.6,Daniel Condon,4.3,21,80%,2,2,,1,,,,1,,,6,1,1,1,3,3,3,,1,,924216
+294,819,Dominican University,Physics,3.3,Gerald Gulley,4.5,20,N/A,1,,,1,1,,1,1,,,,2,1,1,,1,1,,1,1,334931
+295,819,Dominican University,English,3.9,Mickey Sweeny,4.0,20,N/A,,,,,,,3,2,,,1,,,,,,2,,,4,611746
+296,819,Dominican University,Economics,3.7,Carol Tallarico,3.3,20,N/A,,,,,,,,,,,,,,,,,,,,,683890
+297,819,Dominican University,Mathematics,4.0,Jeanette Olli,2.7,20,29%,1,,,1,,,,,1,,,,,5,1,,3,,4,11,1443485
+298,819,Dominican University,English,2.7,Warren Green,3.5,20,33%,3,,,2,,,2,1,1,,4,,1,,5,,3,3,,,1277825
+299,819,Dominican University,English,3.0,Chad Rohman,4.3,19,N/A,1,,,,,,1,,,,1,,,,,1,,,,,140765
+300,820,Rose-Hulman Institute of Technology,Mathematics,3.9,Joshua Holden,2.5,66,39%,2,1,,8,2,1,1,7,,4,1,,5,5,1,2,,,2,13,145628
+301,820,Rose-Hulman Institute of Technology,Physics,2.2,Renat Letfullin,3.5,64,N/A,1,3,,,3,8,,1,,,3,1,1,1,1,1,2,,,1,558483
+302,820,Rose-Hulman Institute of Technology,Mathematics,3.7,Jeffery Leader,3.5,62,N/A,1,1,,,,,,,1,,1,,3,3,1,,1,,1,4,141021
+303,820,Rose-Hulman Institute of Technology,Mathematics,2.6,Elton Graves,4.0,53,40%,1,,,3,5,,,2,1,2,4,2,1,6,,8,1,1,1,4,146312
+304,820,Rose-Hulman Institute of Technology,Mathematics,3.1,Ralph Grimaldi,3.9,50,100%,,1,,5,2,,,1,,,3,,1,10,,5,3,,,6,162330
+305,820,Rose-Hulman Institute of Technology,Computer Science,2.3,David Mutchler,3.0,49,82%,2,,,6,,,,4,1,2,,3,1,2,,3,,,,1,144999
+306,820,Rose-Hulman Institute of Technology,Mathematics,4.0,John Rickert,3.3,49,50%,,1,1,1,,,,3,,,1,1,,4,,7,8,,3,9,146098
+307,820,Rose-Hulman Institute of Technology,Mathematics,3.9,David Finn,3.7,47,100%,3,2,,4,,2,,2,,,1,3,,12,,8,2,,,2,176972
+308,820,Rose-Hulman Institute of Technology,Mathematics,3.0,Yosi Shibberu,4.4,46,100%,2,2,,3,1,,,4,,,1,,1,1,1,3,1,,,,144793
+309,820,Rose-Hulman Institute of Technology,Physics,3.5,Sergio Granieri,3.3,44,38%,,1,4,,,1,,,1,,1,,1,5,1,1,2,,2,8,276274
+310,820,Rose-Hulman Institute of Technology,Physics,2.7,Jerome Wagner,2.7,42,38%,1,1,1,1,1,,3,1,2,,,,4,1,,,,,,,146112
+311,820,Rose-Hulman Institute of Technology,Humanities,2.8,Caroline Carvill,4.0,42,N/A,,,3,2,,,2,2,1,,2,,,,2,1,1,1,,1,144900
+312,820,Rose-Hulman Institute of Technology,Computer Science,3.9,Claude Anderson,3.4,41,60%,3,,,,1,1,,2,,2,,1,1,4,2,3,2,,2,1,146914
+313,820,Rose-Hulman Institute of Technology,Humanities,4.4,Pat Brophy,2.7,40,N/A,,,,,,,1,,,,,,,,,,,,,1,135805
+314,820,Rose-Hulman Institute of Technology,Physics,2.3,Galen Duree,4.8,40,100%,,3,,3,,5,,5,,,,1,,1,,6,,,,,143494
+315,820,Rose-Hulman Institute of Technology,Humanities,3.4,Mark Minster,3.9,39,67%,1,,,2,,,1,2,,1,2,1,1,,1,1,,1,,3,467646
+316,820,Rose-Hulman Institute of Technology,Mathematics,2.3,William Butske,4.5,39,100%,,8,,4,1,,,4,,,8,,,,,4,,,,,716376
+317,820,Rose-Hulman Institute of Technology,Mathematics,3.9,Allen Broughton,1.6,38,17%,,,,,1,3,2,2,,1,,,4,4,,,1,,,6,135740
+318,820,Rose-Hulman Institute of Technology,English,2.9,Patricia Carlson,3.8,38,N/A,,,,1,,,1,2,2,,2,1,,,1,1,,,,1,144807
+319,820,Rose-Hulman Institute of Technology,Chemistry,3.3,David Erwin,3.5,37,60%,2,2,1,1,,,3,1,1,,,,2,,,,1,,3,8,131295
+320,821,Rosemont College,Psychology,2.9,Mufid Hannush,2.5,22,N/A,,,1,,,,2,,,,,,1,,1,,3,,,1,48997
+321,821,Rosemont College,Theater,2.2,Marcia Hepps,3.9,21,N/A,,,,5,,1,,4,,,2,4,,2,8,2,,,,1,195576
+322,821,Rosemont College,History,3.7,Richard Leiby,4.1,17,N/A,,,,,,,1,,,,,,1,,,,,,,1,48992
+323,821,Rosemont College,English,4.3,Mary Ann Macartney,4.3,16,N/A,,,,,,,,,,,,,,,,,,,,,253368
+324,821,Rosemont College,Sociology,3.5,Stanley Clawar,4.3,12,N/A,,1,,,,,1,1,,,,,1,,1,2,2,,,2,195575
+325,821,Rosemont College,Economics,3.1,Eleanor Gubins,4.8,12,N/A,,,,1,,1,,,,,,,,1,1,1,1,,,,417688
+326,821,Rosemont College,Biology,3.5,Aikaterini Skokotas,4.3,11,83%,,3,,1,1,,2,1,,,,1,1,,,,4,,1,3,526017
+327,821,Rosemont College,Philosophy,2.6,Esen Traub,3.4,8,N/A,,,,,,,,,,,,,,,,,,,,,48994
+328,821,Rosemont College,Design,2.2,Rémi Nadeau,5.0,8,N/A,,,,1,1,,,1,,,,1,,,,,1,,,,1083954
+329,821,Rosemont College,History,3.9,Michelle Moravec,4.6,7,N/A,,,,,,,,1,,,,,,,1,,1,,,,689769
+330,821,Rosemont College,Psychology,4.0,Christine Erdner,3.5,7,N/A,,,,,,,,,,,,,,,,,,,,,943962
+331,821,Rosemont College,Languages,3.3,Michelle Foran,4.6,7,86%,1,,1,5,,,,2,,,2,2,,1,2,4,1,,,,2154054
+332,821,Rosemont College,Business,3.2,Professor Chen,3.0,6,N/A,,,,,1,,1,1,,,,1,,1,1,1,2,,,,295797
+333,821,Rosemont College,Languages,3.0,Leda Jaworski,3.4,5,N/A,,,,,,,,,,,,,,,,,,,,,202906
+334,821,Rosemont College,Fine Arts,1.8,Michael Willse,3.7,5,N/A,,,,,,,,,,,,1,,,,1,,,,,672617
+335,821,Rosemont College,Religion,3.8,Paul Mojzes,4.2,4,N/A,,1,,,,,,2,,,,2,,,1,,,,,,724900
+336,821,Rosemont College,History,2.5,John Constantino,4.8,4,N/A,,,,,,,,,,,,,,,,,,,,,808456
+337,821,Rosemont College,Business,2.7,Lucie McDonald,4.9,4,N/A,,,,1,,,1,1,,,1,1,,,1,,,,,,1086438
+338,821,Rosemont College,Accounting,3.5,Troy Chiddick,5.0,4,N/A,1,,,1,,1,,,,,,1,,1,,,1,,,,1411834
+339,822,Rowan University,Languages,2.0,Edward Smith,4.7,151,93%,3,9,,16,11,,4,24,2,,14,5,4,9,31,22,4,,2,1,83099
+340,822,Rowan University,Mathematics,3.3,Abera Abay,2.5,150,44%,1,,,1,7,8,2,3,5,2,,,11,3,1,2,16,,4,12,177159
+341,822,Rowan University,Education,3.5,Joseph Pizzillo,3.7,143,75%,,,,2,,,9,9,3,1,,,,2,4,,8,3,,19,174896
+342,822,Rowan University,Communication,2.7,Maccamas Ikpah,2.3,130,48%,7,1,,6,1,1,,2,2,6,7,,1,5,5,4,12,9,,8,14628
+343,822,Rowan University,Mathematics,3.9,Evelyn Weinstock,2.2,117,40%,1,3,,1,2,,,2,2,,1,,5,4,10,,15,1,2,23,189154
+344,822,Rowan University,Writing,3.7,David Hodges,3.8,115,77%,7,5,,17,7,,3,67,2,,7,11,7,15,3,27,3,8,,45,1239758
+345,822,Rowan University,Mathematics,3.8,Paul Laumakis,2.4,112,29%,1,,,,1,,15,1,3,8,,,,13,9,1,15,,,29,217286
+346,822,Rowan University,Anthropology,3.2,David Kasserman,3.2,99,14%,,,,,,,3,,5,,1,,22,,2,1,13,,,23,20316
+347,822,Rowan University,Computer Science,3.7,Khaled Amer,2.1,91,N/A,,,,,,,2,,,,,,1,,,,,,,2,73489
+348,822,Rowan University,Mathematics,3.3,Xioming Zeng,3.7,90,50%,,2,,2,,1,,3,3,,5,,1,1,,1,3,,3,8,221346
+349,822,Rowan University,History,4.1,Melissa Klapper,2.8,89,38%,,,4,,,,13,3,1,,,1,1,4,9,,13,3,1,17,59694
+350,822,Rowan University,Business,2.0,Wm. Camron Casper,4.7,87,99%,2,11,,17,10,38,,22,4,31,30,9,1,,14,36,,,,,1924305
+351,822,Rowan University,Education,3.4,Anne Phillips,2.8,85,N/A,,,,1,,2,5,,,,,,1,2,1,,,2,,4,150019
+352,822,Rowan University,English,4.1,Roberta Zehner,2.5,85,33%,1,,,1,1,,3,2,1,,1,,,5,1,,8,4,,12,180274
+353,822,Rowan University,Geography,2.1,Charles McGlynn,4.7,85,100%,1,10,,7,5,1,,15,1,7,12,12,1,,2,28,,,,1,831508
+354,822,Rowan University,Mathematics,2.8,Larry Howe,4.1,84,N/A,,,,,,,,,,,,,,,,,,,,,21673
+355,822,Rowan University,Law,4.0,Joseph Davey,3.8,83,63%,,1,,,1,1,4,1,2,,1,2,4,1,3,4,3,,,10,187345
+356,822,Rowan University,Communication,3.4,Ai Guo,2.5,83,25%,,,1,2,,1,3,,2,,,,6,1,5,3,7,2,,10,153451
+357,822,Rowan University,History,3.7,Lee Kress,3.5,81,N/A,,3,,,,,,,,,,3,1,,,1,,,,,15865
+358,822,Rowan University,English,2.2,Timothy Viator,4.8,80,91%,,4,,1,4,1,2,4,4,,8,1,2,,2,5,2,,,,119212
+359,823,Russell Sage College,Psychology,2.5,Julie McIntyre,3.7,33,N/A,,,,,,,1,1,,,,,,,,,2,,,,189588
+360,823,Russell Sage College,Sociology,3.1,Michelle Napierski-Prancl,4.0,32,N/A,,2,,1,,1,3,1,,,,1,,2,,1,1,,,2,156503
+361,823,Russell Sage College,Business,2.7,Eileen Brownell,3.3,28,N/A,,,,,,,,,,,,1,,,1,1,,,,,239934
+362,823,Russell Sage College,Biology,3.5,Mary Rea,4.3,28,N/A,1,,,,,,,2,,,,,,,,1,3,,,2,286635
+363,823,Russell Sage College,Psychology,2.6,Syb Jennings,3.4,27,N/A,,,,,,,,,,,,,,,,,,,,,231115
+364,823,Russell Sage College,Physics,2.8,Frank Vozzo,4.3,25,N/A,,,,,,,,,1,,,,,1,,,2,,,2,86191
+365,823,Russell Sage College,Economics,4.0,Manijeh Sabi,2.0,25,N/A,,,,,,,,,,,,,1,3,1,,2,,,3,172464
+366,823,Russell Sage College,English,3.6,Sally Goade,3.5,23,N/A,,,,,,,,,,,,,,,,,,,,,52788
+367,823,Russell Sage College,Criminal Justice,3.3,Maureen McLeod,2.6,22,N/A,,,,,,,,,,,,,,1,1,,1,1,,2,276387
+368,823,Russell Sage College,History,3.1,Steven Leibo,3.7,19,N/A,,,,,,,,,,,,,,,,,,,,,239932
+369,823,Russell Sage College,Mathematics,3.1,Tom Sweeney,4.3,19,N/A,,,,,,,,,,,,,,,,,,,,,320537
+370,823,Russell Sage College,Psychology,2.6,Susan Jenks,3.6,18,N/A,,,,,,,,,,,,,1,,,,,,1,1,190196
+371,823,Russell Sage College,English,3.9,David Salomon,3.5,18,N/A,,,,1,,,2,2,,,,1,,,1,2,1,2,,5,472383
+372,823,Russell Sage College,Theater,2.8,David Baecker,3.1,17,20%,1,,,1,,,,,,,,1,,1,4,,,3,,3,361424
+373,823,Russell Sage College,Political Science,2.3,Stephen Schechter,4.6,16,100%,,1,,2,3,,,2,,,,,,1,1,3,,1,,1,317066
+374,823,Russell Sage College,Psychology,3.4,Sue Cloninger,3.1,15,N/A,,,,,,,1,,,,,,1,,,,,,,1,354203
+375,823,Russell Sage College,Music,2.8,Micheal Musial,3.0,13,N/A,,,,,,,,,,,,,,,1,,1,,,1,188917
+376,823,Russell Sage College,Chemistry,2.7,Tom Keane,4.3,13,N/A,,,,,1,,,,,,,1,,,,1,,,,,269894
+377,823,Russell Sage College,Biology,4.6,William Niemi,1.6,13,N/A,,,,,,,,,,,,,,,,,,,,,357739
+378,823,Russell Sage College,Nutrition,3.1,Ryan Mitchell,2.8,12,N/A,1,,,1,2,1,,1,1,1,3,,3,,1,1,3,,,5,1930398
+379,824,Rutgers - State University of New Jersey,Social Science,4.4,Cati Coe,1.8,90,19%,,1,,,,,13,2,1,,,,5,4,4,,4,5,1,15,94464
+380,824,Rutgers - State University of New Jersey,Management,3.6,Patti Ippoliti,3.5,73,95%,1,9,,,2,,1,10,,7,,20,1,,5,19,1,1,,2,1547730
+381,824,Rutgers - State University of New Jersey,Psychology,2.0,Tom Haworth,4.2,64,N/A,,1,,1,1,,2,1,1,,1,,1,,,1,,,,2,159326
+382,824,Rutgers - State University of New Jersey,Psychology,2.6,Sean Duffy,4.0,64,78%,1,4,1,2,1,1,,2,,,3,2,2,,1,2,2,1,,,682604
+383,824,Rutgers - State University of New Jersey,History,3.7,Gerald Verbrugghe,3.1,61,N/A,,,,,1,,2,1,,,,,,,,,1,1,,2,91860
+384,824,Rutgers - State University of New Jersey,Chemistry,3.6,Tracie Paulson,3.2,59,35%,,,3,4,3,1,22,1,1,,,4,13,6,1,,2,,6,21,569155
+385,824,Rutgers - State University of New Jersey,History,1.9,Wayne Glasker,5.0,54,89%,,7,,,5,,,4,1,,1,4,2,,3,6,3,2,,,56617
+386,824,Rutgers - State University of New Jersey,Science,2.9,Robert Evans,4.4,52,N/A,,,,,,,,,,,,,,,,,,,,,92772
+387,824,Rutgers - State University of New Jersey,English,3.1,M. Rafey Habib,3.5,51,N/A,,4,,2,,,5,2,,,,2,,1,5,4,2,,,,236595
+388,824,Rutgers - State University of New Jersey,Mathematics,2.3,Josephine Johansen,4.5,51,100%,1,4,,2,1,2,,3,,,,1,1,,1,3,1,,,,266419
+389,824,Rutgers - State University of New Jersey,Social Science,3.5,Katrina Hazzard-Donald,2.4,50,N/A,,1,1,1,,1,3,1,1,,,,1,1,,,,,1,1,288241
+390,824,Rutgers - State University of New Jersey,Music,1.8,Joe Schiavo,4.5,47,63%,1,,,2,4,7,,1,2,,1,,1,,1,3,6,,,2,90729
+391,824,Rutgers - State University of New Jersey,English,1.6,J Meredith,4.7,45,N/A,,,,,1,,1,1,2,,1,1,,,,1,,,,,69364
+392,824,Rutgers - State University of New Jersey,English,3.5,Holly Blackford,3.5,44,N/A,,,,1,,,,1,,,,,,,1,,,,,,288259
+393,824,Rutgers - State University of New Jersey,Economics,3.3,Osama Hamed,3.6,44,N/A,,1,,1,,,,1,,,1,1,,,5,,4,,,2,427277
+394,824,Rutgers - State University of New Jersey,Literature,3.6,Betsy Bowden,2.5,43,N/A,,,,,,,,,,,,,,,,,,,,,50604
+395,824,Rutgers - State University of New Jersey,Business,2.0,David Vance,4.5,43,100%,,,,,2,1,1,3,,2,2,2,2,2,1,2,1,,,,394131
+396,825,Rutgers - State University of New Jersey,Economics,3.1,Neil Sheflin,3.5,492,81%,6,10,3,14,20,6,18,6,10,,11,22,17,37,7,21,71,,16,10,23287
+397,825,Rutgers - State University of New Jersey,Psychology,2.9,Steve Kilianski,3.8,433,69%,2,31,1,3,60,28,5,3,21,,20,2,26,1,1,20,84,,18,47,81132
+398,825,Rutgers - State University of New Jersey,Economics,3.5,Gregory Clare,2.9,337,N/A,,2,2,1,17,1,6,1,,,2,1,5,,4,8,16,,,14,158893
+399,825,Rutgers - State University of New Jersey,Biology,4.2,Anthony Uzwiak,3.5,309,50%,,12,,1,1,,1,,12,,6,7,19,,,12,24,,10,30,60282
+400,825,Rutgers - State University of New Jersey,Psychology,2.7,Gary Brill,4.0,285,N/A,,2,1,1,11,,20,2,,,,,3,2,6,5,3,,,5,78210
+401,825,Rutgers - State University of New Jersey,Mathematics,3.3,Sara Soffer,2.9,251,43%,,12,2,8,8,2,1,6,1,,,,26,16,4,14,57,,4,28,210274
+402,825,Rutgers - State University of New Jersey,Psychology,2.4,Carlton James,3.9,247,N/A,,,,,,,1,,,,,,,,,,,,,2,15782
+403,825,Rutgers - State University of New Jersey,Mathematics,2.9,David Scheiman,4.3,238,85%,30,53,,48,15,14,2,22,5,,82,38,3,10,4,48,16,,6,10,859214
+404,825,Rutgers - State University of New Jersey,Psychology,1.9,George Atwood,4.3,235,N/A,,2,,1,,,,,,,,1,,,,2,,,,,5608
+405,825,Rutgers - State University of New Jersey,Mathematics,2.9,Kevin Noone,3.8,232,65%,13,10,2,15,8,,2,7,3,,30,6,3,12,,26,23,,6,28,681017
+406,825,Rutgers - State University of New Jersey,Chemistry,3.8,Donald Siegel,2.5,231,N/A,,1,1,,1,1,3,2,,,,,1,2,,,1,,,3,432332
+407,825,Rutgers - State University of New Jersey,Psychology,1.8,Jan Mohlman,4.9,231,N/A,,,,,,,,,,,,,,,,,,,,,461604
+408,825,Rutgers - State University of New Jersey,Physics,2.9,Abdelbaki Brahmia,4.7,231,87%,2,45,,23,15,,5,16,4,,8,17,8,31,,40,9,,9,12,60663
+409,825,Rutgers - State University of New Jersey,Chemistry,4.2,Robert Boikess,2.5,220,39%,1,1,1,2,3,,17,,4,,,,7,39,1,8,7,,22,68,681190
+410,825,Rutgers - State University of New Jersey,Theater,1.4,Joe Mancuso,4.6,210,76%,,11,,6,7,13,,1,6,,17,9,4,,,14,15,,1,2,83509
+411,825,Rutgers - State University of New Jersey,Journalism & Media Studies,2.8,Steven Miller,3.8,206,50%,,7,,1,,1,19,2,9,2,10,4,,,,7,12,,4,12,604
+412,825,Rutgers - State University of New Jersey,Psychology,3.3,Margaret Ingate,3.4,206,52%,2,,,8,8,6,17,1,2,,1,1,18,2,5,3,17,,1,23,847619
+413,825,Rutgers - State University of New Jersey,Psychology,3.3,John Ackroff,2.8,198,N/A,,1,,,5,6,7,,,,1,1,6,2,,,11,,,14,273163
+414,825,Rutgers - State University of New Jersey,Psychology,2.9,Estelle Mayhew,3.5,197,75%,,15,,10,19,32,1,2,11,,12,1,24,,3,9,31,,9,9,1194959
+415,825,Rutgers - State University of New Jersey,Chemistry,3.6,Geeta Govindarajoo,3.3,195,14%,1,7,12,5,4,1,26,,,,,2,10,43,,5,25,3,19,58,445220
+416,826,Rutgers - State University of New Jersey,Philosophy,3.7,Ben Hutchens,3.6,330,72%,,12,,2,3,1,17,,,,1,2,2,4,1,8,17,1,,15,64897
+417,826,Rutgers - State University of New Jersey,Economics,3.7,James Vanderhoff,2.5,186,27%,1,,,,2,,2,1,5,,1,,3,2,1,1,16,,2,19,80029
+418,826,Rutgers - State University of New Jersey,Economics,2.9,Douglas Coate,2.9,157,25%,,4,,,2,,18,,8,,2,1,25,2,,2,,1,15,14,114744
+419,826,Rutgers - State University of New Jersey,Chemistry,3.5,R.W. Kluiber,2.3,151,N/A,,,1,,3,7,5,,,1,,1,,1,2,,16,,1,14,163561
+420,826,Rutgers - State University of New Jersey,Science,2.7,Douglas Morrison,4.1,148,100%,,4,,3,3,,2,1,,,5,5,4,,,2,4,,1,2,111998
+421,826,Rutgers - State University of New Jersey,Political Science,1.1,Rakhi Poonia,4.9,145,N/A,,29,31,19,1,,3,23,,,13,34,,1,29,109,1,,,2,616866
+422,826,Rutgers - State University of New Jersey,Chemistry,2.7,Karen Chaffee,3.8,138,78%,5,5,2,15,8,3,2,5,1,,6,2,10,8,1,8,14,,6,6,282047
+423,826,Rutgers - State University of New Jersey,Psychology,1.9,Frank Gengaro,4.8,129,97%,1,12,,11,7,7,,3,3,,31,10,4,,1,20,7,,1,,125404
+424,826,Rutgers - State University of New Jersey,Mathematics,3.5,Yusuf Abdi,2.7,112,35%,,,5,4,,,,,,,2,,9,13,2,1,12,,4,26,124783
+425,826,Rutgers - State University of New Jersey,Mathematics,3.2,Joyce Carolla,3.0,111,N/A,,,,3,,,,,,,,,1,2,,,3,,,1,115443
+426,826,Rutgers - State University of New Jersey,Accounting,4.3,Alex Sannella,4.3,99,71%,2,1,,8,1,2,4,4,,,,1,2,8,,5,5,,1,11,183557
+427,826,Rutgers - State University of New Jersey,Computer Science,3.0,Chon Lintakoon,3.5,99,55%,3,3,,2,8,2,3,4,,15,5,2,3,4,8,8,21,1,,6,1037278
+428,826,Rutgers - State University of New Jersey,Biology,2.2,John Maiello,4.5,96,N/A,,2,,,1,,2,,,,,,1,,,,3,,,1,281338
+429,826,Rutgers - State University of New Jersey,Chemistry,2.8,Roger Lalancette,4.2,95,77%,1,4,,1,5,2,1,,2,,6,,3,6,,4,9,,5,3,110635
+430,826,Rutgers - State University of New Jersey,Mathematics,3.1,Pallavi Parekh,3.8,95,78%,5,1,6,11,6,1,,2,,,,1,2,11,5,7,17,,3,12,487722
+431,826,Rutgers - State University of New Jersey,Physics,3.5,John Rollino,2.8,92,N/A,,1,,2,3,,1,1,,,1,2,3,,1,7,2,,,6,110628
+432,826,Rutgers - State University of New Jersey,Science,3.1,Elizabeth Hotaling,3.2,91,N/A,,,,,,,,,,,,,,,,,,,,,126902
+433,826,Rutgers - State University of New Jersey,Science,3.3,Gerald Frenkel,3.0,85,27%,1,3,,,6,3,5,,,,,,10,,,,17,,4,9,118026
+434,826,Rutgers - State University of New Jersey,Chemistry,3.8,John Sheridan,3.1,82,N/A,,,,,,,1,,2,,,,,,,,,,,3,99256
+435,826,Rutgers - State University of New Jersey,Computer Science,3.5,Hussain Assadipour,2.9,82,40%,,,2,2,2,3,5,1,,,,,3,4,1,2,15,,4,14,60473
+436,827,Sacred Heart University,Science,4.0,Joel Block,3.2,89,22%,,2,,,,,1,,5,,,1,9,,2,,10,,2,17,63204
+437,827,Sacred Heart University,Mathematics,3.5,George Goss,2.1,86,46%,5,,,3,,9,,,2,,,,1,3,1,,11,,2,18,154899
+438,827,Sacred Heart University,Philosophy,4.3,Edward Papa,2.5,83,N/A,2,1,,,,,9,,,,,,,2,2,,4,1,,13,96677
+439,827,Sacred Heart University,History,3.5,John Roney,2.9,78,50%,,,,,,,1,4,1,,,,9,,3,2,3,6,1,7,124234
+440,827,Sacred Heart University,Theology,4.3,June Ann Greeley,2.6,73,14%,1,,,,,3,7,,,,,,3,9,7,,9,3,,12,157062
+441,827,Sacred Heart University,History,3.8,Charolette Gradie,2.3,66,13%,1,,,1,,,4,1,4,1,,,8,1,1,1,,1,1,14,176545
+442,827,Sacred Heart University,Psychology,1.2,Ruth Grant,4.8,66,100%,1,,,9,2,9,,3,3,,5,1,,,,9,1,,,,188277
+443,827,Sacred Heart University,Political Science,3.0,Gary Rose,4.7,64,N/A,,1,,,,1,1,,,,,1,2,,1,4,3,,,1,98043
+444,827,Sacred Heart University,Education,2.7,Cima Sedigh,2.8,62,33%,1,,1,1,1,1,1,1,,3,,,3,,3,,2,,,,287769
+445,827,Sacred Heart University,Mathematics,2.5,Phani Papachristos,3.9,61,67%,4,,,1,3,2,,3,,,,,4,13,9,3,7,,3,7,183785
+446,827,Sacred Heart University,English,2.9,Marie Hulme,3.8,60,74%,5,2,,19,6,,10,11,,5,,16,1,7,12,5,2,3,,5,1218697
+447,827,Sacred Heart University,Mathematics,3.6,Peter Loth,2.5,59,20%,1,,2,1,,1,1,,2,,,1,1,8,1,1,7,,3,6,180684
+448,827,Sacred Heart University,Mathematics,3.7,Norman Roth,2.7,58,N/A,,,,,,,,,,,,,,,,,,,,,98042
+449,827,Sacred Heart University,English,4.7,Roberta Staples,3.2,57,N/A,,,,,,,,,,,,,,1,,,1,,,2,96670
+450,827,Sacred Heart University,Mathematics,2.1,Jason Molitierno,4.7,56,100%,,1,,2,3,,,3,,2,,,,1,1,2,2,,1,,257493
+451,827,Sacred Heart University,Science,4.0,Suzanne Deschenes,3.2,54,50%,3,1,,,3,1,1,4,,,1,,6,2,3,,2,,3,10,98038
+452,827,Sacred Heart University,English,2.9,Joseph Nagy,3.3,54,83%,,,,4,2,,9,8,,,,,4,1,7,1,,,,4,182503
+453,827,Sacred Heart University,History,4.4,Ray Lurie,1.8,52,20%,,1,6,1,,,16,1,,,,,9,1,4,,6,5,,16,1508170
+454,827,Sacred Heart University,History,4.1,Thomas Curran,3.4,51,N/A,,,,,1,,3,,,,2,,,,2,,3,,,2,124233
+455,828,Saginaw Valley State University,Social Science,3.5,Elson Boles,2.5,241,44%,7,7,1,3,4,,14,11,,19,1,4,8,22,10,4,6,,,22,77262
+456,828,Saginaw Valley State University,History,4.1,Nameeta Mathur,3.0,182,80%,1,4,,2,1,,11,6,5,,,1,9,3,1,,6,11,,9,61845
+457,828,Saginaw Valley State University,Biology,3.2,Stephen Taber,2.5,180,44%,1,1,,1,7,6,4,1,16,,9,1,27,,,2,31,,15,14,452364
+458,828,Saginaw Valley State University,Psychology,4.4,Gary Peterson,2.3,168,17%,1,,,,,1,5,1,,,,,4,1,1,,3,5,2,12,61543
+459,828,Saginaw Valley State University,Political Science,1.7,Robert Lane,4.6,155,78%,4,10,,3,8,4,2,4,1,,3,1,5,6,1,12,16,10,,2,10042
+460,828,Saginaw Valley State University,Mathematics,3.8,Steven Sepanski,2.5,152,55%,2,,4,1,4,2,,4,5,,3,,4,14,1,,26,,8,27,61619
+461,828,Saginaw Valley State University,Social Science,2.8,Dawn Hinton,3.4,148,92%,,10,,3,4,1,9,6,,9,12,3,5,2,5,7,7,1,1,7,68185
+462,828,Saginaw Valley State University,Geography,3.6,Fred Sunderman,3.3,144,56%,,2,,4,1,,15,5,3,,1,3,8,,16,6,8,1,1,14,81096
+463,828,Saginaw Valley State University,Economics,3.7,Christopher Surfield,3.1,140,75%,1,2,,2,1,1,4,3,,1,13,1,8,6,2,1,16,1,2,19,895223
+464,828,Saginaw Valley State University,Psychology,3.7,Margaret Borkowski,3.2,138,46%,,1,2,4,3,8,20,5,1,,,2,21,5,1,3,21,,6,13,728371
+465,828,Saginaw Valley State University,History,4.1,Thomas Renna,2.7,136,N/A,,,,,,,,,,,,,,,,,,,,,10044
+466,828,Saginaw Valley State University,History,3.5,Melissa Teed,3.8,134,67%,,6,,2,2,1,21,4,,,,7,6,4,15,1,10,1,1,10,72858
+467,828,Saginaw Valley State University,History,2.7,Kenneth Jolly,4.7,124,96%,6,19,,12,4,1,5,8,3,1,4,16,,,3,7,2,,,,475218
+468,828,Saginaw Valley State University,English,4.8,Paul Munn,2.3,123,N/A,,,2,,,,4,2,,,,,,1,1,,1,2,,7,25913
+469,828,Saginaw Valley State University,Mathematics,3.9,Bing Liu,2.1,122,67%,1,2,1,1,2,3,,4,,,,,1,4,1,1,9,,1,12,73368
+470,828,Saginaw Valley State University,Psychology,2.4,Lou Cohen,4.3,122,92%,1,4,,,3,9,1,,7,,7,1,6,,,5,2,,1,4,61544
+471,828,Saginaw Valley State University,English,2.7,C. Vincent Samarco,4.5,119,90%,2,,,2,,,2,8,1,,6,2,,1,6,3,1,,,,77895
+472,828,Saginaw Valley State University,English,4.1,Elizabeth Rich,3.7,119,67%,,,1,3,1,,4,2,,,,,1,,2,1,1,,,5,4225
+473,828,Saginaw Valley State University,Science,3.9,Richard Trdan,3.5,118,N/A,,,,,,,,,,,,,,,,,,,,,61702
+474,828,Saginaw Valley State University,Mathematics,3.9,Hasan Al-Halees,2.0,116,N/A,,,2,,,5,1,,,,1,,5,8,1,,9,,5,16,17392
+475,829,St. Ambrose University,Management,3.1,Jessica Greenwald,3.3,70,N/A,,,,,,,,,,,,,,,,,,,,,1480544
+476,829,St. Ambrose University,Psychology,3.9,Robin Anderson,2.9,61,55%,6,3,,4,,4,6,5,,,2,4,,2,6,1,3,,2,7,404365
+477,829,St. Ambrose University,Theology,2.7,Mara Adams,2.9,51,43%,1,,1,3,,,5,,2,,,,3,2,2,,,1,,1,102153
+478,829,St. Ambrose University,Biology,4.6,William Hixon,2.5,37,N/A,,,,1,2,,8,,1,,,,3,,,,10,,4,16,579844
+479,829,St. Ambrose University,Sociology,3.5,Martin Hansen,2.7,35,N/A,,,,1,1,,1,1,5,,,,10,,,,3,,2,10,358825
+480,829,St. Ambrose University,History,3.3,Dan La Corte,3.7,28,86%,1,1,,,,,2,1,2,,4,1,1,,4,2,1,,3,,231876
+481,829,St. Ambrose University,Psychology,4.0,John Stachula,2.8,27,43%,,,,,1,2,3,,,,,1,1,,7,,6,,,4,1094336
+482,829,St. Ambrose University,Philosophy,2.1,Rich Blomgren,4.4,26,N/A,,1,,2,1,,,2,,,3,1,,,,2,,2,,,388064
+483,829,St. Ambrose University,Economics,3.0,Wayne Oberle,2.3,25,N/A,,,,,,,,,,,,,,,,,,,,,360908
+484,829,St. Ambrose University,History,4.1,Keri Manning,2.4,25,N/A,,1,,1,,,3,,,,,1,3,,3,,3,,,,501835
+485,829,St. Ambrose University,English,2.7,Carl Herzig,4.5,24,N/A,,1,,1,,,,3,,,,3,,,1,2,,1,,1,385850
+486,829,St. Ambrose University,Theology,1.7,Joseph Defrancisco,4.7,23,N/A,,2,,3,,,,,,,4,,,,,1,,,,,201546
+487,829,St. Ambrose University,Art History,2.5,Terri Switzer,4.8,23,100%,1,1,,5,1,4,,2,,,2,3,2,,9,6,2,,,1,868192
+488,829,St. Ambrose University,Psychology,2.8,Mary Waterstreet,2.1,21,N/A,,,,,,,1,,,,,,2,1,1,,,,,1,102154
+489,829,St. Ambrose University,Philosophy,1.8,Brian Miclot,4.4,21,83%,,,,2,2,2,1,1,,,4,,,,,5,,,1,1,530385
+490,829,St. Ambrose University,Mathematics,2.3,Ilwoo Cho,4.0,20,80%,1,1,1,,3,2,,1,5,,1,,1,,,1,5,,3,3,905787
+491,829,St. Ambrose University,Biology,3.9,Neil Aschliman,4.0,20,67%,5,1,1,8,,,,1,,,,,,,1,4,7,,1,4,1658490
+492,829,St. Ambrose University,Political Science,3.3,Joe Hebert,3.5,20,71%,2,1,,,,,3,2,1,,,,5,,1,3,,1,,2,847992
+493,829,St. Ambrose University,English,4.3,Barbara Pitz,2.6,19,N/A,1,,,,,,3,1,,,,,,,,,1,,,3,78006
+494,829,St. Ambrose University,Biology,2.6,Kim Strunk,4.5,19,N/A,,,,1,,,,,,,,1,,,,1,,,,,790092
+495,830,St. Andrews Presbyterian College,History,4.3,David Herr,3.4,16,N/A,,,,,,,2,,,,,,,1,,,1,1,,1,368442
+496,830,St. Andrews Presbyterian College,Political Science,2.8,Neal Bushoven,3.7,15,N/A,,,,,1,,,1,,,1,1,,1,,1,,,,,847709
+497,830,St. Andrews Presbyterian College,History,3.6,Valerie Austin,4.9,10,100%,1,4,,3,3,1,4,3,,,,,,3,,5,,,,1,2078618
+498,830,St. Andrews Presbyterian College,Business,2.8,Joe Bunting,4.4,9,N/A,,,,,,,,,,,,,,,,,,,,,547940
+499,830,St. Andrews Presbyterian College,Mathematics,4.1,Joe Harris,3.4,8,N/A,,,,,,,,1,,,,,,,,1,,,,1,733283
+500,830,St. Andrews Presbyterian College,English,2.0,Betsy Dendy,5.0,7,N/A,,,,3,,,,2,,,,2,,,2,2,,1,,,726304
+501,830,St. Andrews Presbyterian College,History,3.3,George Melton,3.8,6,N/A,,,,,,,,,,,,,,,,,,,,,1246019
+502,830,St. Andrews Presbyterian College,Biology,3.7,Bonnie Draper,4.8,6,N/A,,1,,2,,3,,4,,,,,,,,1,1,,,2,1836689
+503,830,St. Andrews Presbyterian College,Theater,3.4,Pat Bynane,3.6,5,N/A,,,,,,,,,,,,,,,,,,,,,580484
+504,830,St. Andrews Presbyterian College,Veterinary Sciences,3.2,Pebbles Turbeville,4.6,5,N/A,,,,,,,,1,,,1,,,,,1,,,,,651307
+505,830,St. Andrews Presbyterian College,Fine Arts,1.8,Stephanie McDavid,4.8,5,N/A,,,,,1,,1,1,,,,,,,,,,,,,729154
+506,830,St. Andrews Presbyterian College,English,3.7,Edna Ann Loftus,4.5,3,N/A,,,,,,,,,,,,,,,,,,,,,627336
+507,830,St. Andrews Presbyterian College,Religion,3.7,Dan Ott,4.3,3,N/A,,,,,,,,,,,,,,,,,,,,,726291
+508,830,St. Andrews Presbyterian College,Music,2.3,Alice Wilkins,4.8,3,N/A,,,,,,1,,,,,,,,,1,,,,,,726313
+509,830,St. Andrews Presbyterian College,Business,4.5,Corinne Nicholson,4.0,2,N/A,,,,,,,,,,,,,1,,,,,,,1,871736
+510,830,St. Andrews Presbyterian College,Philosophy,1.5,Deborah Hawkins,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1024432
+511,830,St. Andrews Presbyterian College,Biology,4.0,Tracy Feldman,3.0,2,N/A,,,,,,,,1,,,1,,1,,1,,,,,1,2133225
+512,830,St. Andrews Presbyterian College,Religion,2.0,Doug Glass,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1112580
+513,830,St. Andrews Presbyterian College,History,2.0,Chad Morgan,2.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1261822
+514,830,St. Andrews Presbyterian College,Biology,4.0,Robert Withington,2.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1487880
+515,831,Saint Anselm College,Psychology,4.1,Paul Finn,4.1,40,N/A,,,,,,,,,,,,,,,,,,,,,148821
+516,831,Saint Anselm College,English,4.4,Elona Lucas,3.5,39,N/A,,1,,,,,,2,,,,1,,,2,,,1,,5,141244
+517,831,Saint Anselm College,Philosophy,3.8,David Banach,3.6,38,40%,1,2,,,5,2,2,1,,,,,,1,3,2,1,,,5,224235
+518,831,Saint Anselm College,Theology,3.7,Ward Holder,4.0,35,N/A,,1,,,1,,3,3,,,,1,,,1,3,,,,1,110191
+519,831,Saint Anselm College,Philosophy,3.6,Thomas Larson,3.4,32,N/A,,3,,,,,3,1,,,1,,1,,2,,1,,,1,107306
+520,831,Saint Anselm College,Psychology,2.8,Adam Wenzel,4.7,32,100%,,4,,,,,5,1,,,8,2,1,,,3,4,,1,6,1207519
+521,831,Saint Anselm College,Theology,3.1,Maureen Sullivan,3.2,30,N/A,,,,,,,,,,,,1,,,,,,,,,382404
+522,831,Saint Anselm College,Psychology,3.8,Loretta Brady,2.8,26,N/A,,,,,,,3,1,1,1,,,1,1,,,,2,,4,531479
+523,831,Saint Anselm College,Philosophy,2.9,Max Latona,4.2,25,N/A,,,,,,,2,,,1,,1,,,2,,,,,,340279
+524,831,Saint Anselm College,Economics,4.0,Gilbert Becker,3.7,23,50%,,1,2,1,,,,2,,,,1,1,1,3,2,5,1,,8,190711
+525,831,Saint Anselm College,Psychology,3.5,Joe Troisi,4.2,23,N/A,,2,,1,1,,2,,,,1,,,1,,1,,,,2,422043
+526,831,Saint Anselm College,Business,3.9,John Romps,4.3,22,N/A,,,,,,,,,,,,,,,,,,,,,107308
+527,831,Saint Anselm College,Psychology,3.3,Kathleen Flannery,4.0,22,N/A,,,,,2,,,2,,,1,1,,,,1,,,,,277487
+528,831,Saint Anselm College,English,3.3,Bindu Malieckal,4.0,22,N/A,,,,2,,,1,3,,,,1,,,2,1,,1,,2,440766
+529,831,Saint Anselm College,Chemistry,3.9,Carolyn Weinreb,3.5,21,N/A,,,,1,1,,,2,,,,,,,,2,2,,,3,470756
+530,831,Saint Anselm College,Classics,3.2,David George,4.6,21,100%,,,,1,,,,1,2,,3,1,,,,5,,,,1,476981
+531,831,Saint Anselm College,Theology,3.6,Patricia Sullivan,4.0,21,33%,,1,,2,,,2,,2,,,1,4,,,1,1,,2,4,701658
+532,831,Saint Anselm College,English,3.7,Ann-Maria Contarino,4.1,20,80%,1,,,5,,,,1,1,,1,2,,,,3,1,1,,1,114639
+533,831,Saint Anselm College,Science,3.6,Robert Vallari,4.1,20,N/A,1,,,3,2,,1,,,,,,3,,,3,5,,1,3,277480
+534,831,Saint Anselm College,Classics,3.8,Mathew Gonzales,3.3,20,N/A,1,,,,,,,,1,,,,,1,1,1,,,,1,480344
+535,832,St. Bonaventure University,Accounting,3.1,Ed Bysiek,4.7,411,99%,43,76,1,93,33,61,6,99,1,1,7,52,9,27,45,217,78,1,6,35,1113545
+536,832,St. Bonaventure University,Physics,3.9,Tae Cooke,4.1,77,82%,27,1,,10,8,17,2,14,,6,,,7,28,3,4,18,,2,18,1622157
+537,832,St. Bonaventure University,Philosophy,3.7,Roderick Hughes,4.5,54,N/A,,1,,1,,,,,,,1,,,,,,,,,,14339
+538,832,St. Bonaventure University,Mathematics,3.3,Catherine Leary,3.2,43,N/A,,,,1,1,1,,1,,,,,,1,,,3,,,1,201432
+539,832,St. Bonaventure University,English,1.8,Tracy Schrems,4.8,41,N/A,,,,1,,,,,,,2,,,,1,2,,,,,231254
+540,832,St. Bonaventure University,Psychology,3.6,Adam Brown,4.1,38,N/A,,3,2,,,,,,1,,3,1,1,,,,2,,,1,92183
+541,832,St. Bonaventure University,Psychology,4.0,Darryl Mayeaux,3.1,36,83%,4,,2,1,1,1,1,2,1,,,2,1,,,2,2,,,6,285907
+542,832,St. Bonaventure University,Philosophy,2.5,Barry Gan,3.8,36,N/A,,1,,,,2,2,,,,,,1,,,,1,,,,174438
+543,832,St. Bonaventure University,Theology,3.8,John Apczynski,2.3,35,N/A,,,,,,,,,,,,,,,,,,,,,92174
+544,832,St. Bonaventure University,Journalism,4.1,Denny Wilkins,4.2,35,50%,1,,1,1,,,,2,,,,,1,,1,1,2,,,6,157313
+545,832,St. Bonaventure University,Languages,3.4,Steven Brown,3.2,34,N/A,,,,,,,,,,,,,,,,,,,,,111724
+546,832,St. Bonaventure University,English,2.5,Richard Simpson,4.8,34,N/A,,1,,2,,,,,,,,2,,,,1,,,,,159616
+547,832,St. Bonaventure University,Science,4.5,Kevin Vogel,2.2,33,N/A,,,,,,,,2,,,2,1,,,,,,,,1,111572
+548,832,St. Bonaventure University,Computer Science,4.0,Anne Foerst,2.8,33,20%,,,,2,1,,,,1,,,,1,2,1,,1,2,,4,353710
+549,832,St. Bonaventure University,Mathematics,3.2,Chris Hill,3.8,33,63%,3,2,,5,,,,6,3,,,,,3,,2,,,2,2,581664
+550,832,St. Bonaventure University,Philosophy,2.0,Bob Amico,4.5,32,N/A,,,,,,,,,,,1,1,,,2,,,,,,8310
+551,832,St. Bonaventure University,Philosophy,2.0,Russell Woodruff,4.0,32,N/A,1,1,,,,,,2,1,,2,,,1,2,2,,,,,173010
+552,832,St. Bonaventure University,Psychology,2.2,Charles Walker,3.9,32,N/A,,1,,1,,2,,,,,1,3,,,1,1,,,,,272748
+553,832,St. Bonaventure University,Finance,3.5,Giles Bootheway,4.0,31,N/A,,1,,,,,,,,,1,1,,,,1,,,,1,775891
+554,833,St. Cloud State University,Business Law,2.3,James Lange,4.7,551,100%,1,134,4,40,21,1,28,73,18,5,144,84,5,2,202,124,60,2,2,12,1273063
+555,833,St. Cloud State University,Sociology,2.5,Tracy Ore,4.4,178,97%,2,16,,7,8,,39,11,2,,14,8,6,1,6,11,26,,,,159039
+556,833,St. Cloud State University,Philosophy,2.4,Casey Swank,3.9,172,77%,,5,1,4,12,,,2,3,,9,2,11,,4,9,27,,1,5,202224
+557,833,St. Cloud State University,Sociology,3.8,Elizabeth Scheel-Keita,2.1,151,6%,,,,,2,,19,1,,2,,1,3,14,12,,2,3,,11,280223
+558,833,St. Cloud State University,Criminal Justice,3.2,Francis Schreiber,3.3,149,86%,,3,9,,3,5,7,,,,1,1,3,,1,1,4,,1,6,142674
+559,833,St. Cloud State University,Biology,3.3,Christopher Kvaal,2.9,142,60%,2,2,1,2,3,1,11,2,1,4,2,,7,1,5,2,15,1,4,13,317546
+560,833,St. Cloud State University,Computer Science,3.6,Amos Olagunju,1.7,139,12%,,1,1,,1,1,6,2,,1,1,1,15,8,1,3,8,,4,20,135070
+561,833,St. Cloud State University,Political Science,1.8,Patricia Bodelson,3.4,135,89%,3,5,,5,1,11,1,3,5,,13,2,2,1,3,3,5,,4,,144359
+562,833,St. Cloud State University,Statistics,4.4,Leonard Onyiah,1.6,135,6%,,,,1,1,,2,,6,,,,7,5,,1,16,,1,15,166800
+563,833,St. Cloud State University,Philosophy,1.9,Susana Nuccetelli,2.6,134,50%,1,,,1,4,8,6,,1,,,,5,1,3,2,4,,1,3,218926
+564,833,St. Cloud State University,Mathematics,3.7,Stephen Walk,3.9,133,83%,7,1,,3,2,1,1,5,,1,8,3,1,11,5,6,8,1,2,10,155228
+565,833,St. Cloud State University,History,3.7,Jeffrey Mullins,3.8,129,59%,5,,,,,,14,5,,12,,,1,7,11,1,7,3,2,13,312602
+566,833,St. Cloud State University,Biology,4.3,Oladele Gazal,2.6,129,25%,,,9,1,2,10,24,2,3,,5,1,17,2,3,2,9,2,4,38,305259
+567,833,St. Cloud State University,Fine Arts,3.4,Lynn Metcalf,2.5,127,67%,,,1,,,,,2,,,,,,1,2,,1,,,,195491
+568,833,St. Cloud State University,Philosophy,4.2,Michael Shaffer,1.9,127,19%,,,1,1,,7,12,,8,,1,,20,1,1,1,7,2,8,33,641288
+569,833,St. Cloud State University,Mathematics,4.1,Jeff Chen,2.4,119,44%,1,,,,3,4,,1,,,,,2,3,,,10,,1,5,277505
+570,833,St. Cloud State University,Philosophy,3.4,Jordan Curnutt,3.0,111,40%,1,,,,6,,2,1,2,,1,,5,,1,,11,6,2,7,262303
+571,833,St. Cloud State University,Economics,3.2,Mana Komai,4.1,110,80%,1,2,,1,2,6,1,2,,,4,,3,,5,1,5,,,3,456859
+572,833,St. Cloud State University,Human Relations,1.9,Tamrat Tademe,3.8,107,79%,,1,,6,1,1,3,2,1,3,2,7,4,2,6,6,8,5,,,141338
+573,833,St. Cloud State University,Computer Science,3.4,John Gammell,2.2,103,N/A,,,,,,,,,,,,,,,,,,,,,192572
+574,834,St. Edward's University,English,4.2,Catherine Rainwater,2.8,58,27%,1,1,7,,2,,8,3,1,,1,1,4,2,,,8,3,1,15,21659
+575,834,St. Edward's University,Languages,2.6,Harald Becker,4.5,55,N/A,,,,,,,,,,,,,,,,,,,,,23203
+576,834,St. Edward's University,Behavioral & Social Sciences,3.2,Alan Swinkels,4.5,53,N/A,,3,,3,1,,,1,,,9,1,,1,2,2,6,,,,377763
+577,834,St. Edward's University,Psychology,2.9,Jason Ferrell,4.7,48,100%,19,9,,25,5,1,9,25,,,6,4,5,1,6,11,3,2,1,,2073980
+578,834,St. Edward's University,Philosophy,2.2,Mark Cherry,4.5,46,100%,2,8,,1,1,,4,1,,,7,1,2,,,1,1,,,,292954
+579,834,St. Edward's University,Philosophy,2.9,Peter Wake,3.9,41,40%,1,4,,,,,3,1,1,,,,1,,,3,1,1,,,618769
+580,834,St. Edward's University,History,3.3,Peter Austin,4.2,41,71%,,7,,1,1,1,,2,1,,5,2,3,,1,4,,1,,6,775521
+581,834,St. Edward's University,Behavioral & Social Sciences,1.8,Paul Terry Newton,4.5,40,N/A,,,,2,,2,,1,,,,4,,,,2,,,,,208805
+582,834,St. Edward's University,Philosophy,2.4,Stephen Dilley,4.8,39,100%,,3,1,2,1,,1,1,,,3,1,3,,5,6,2,,,2,1297227
+583,834,St. Edward's University,Humanities,3.1,Kelley Norene Coblentz-Bautch,4.2,37,N/A,,6,1,2,1,2,2,1,,,1,,1,1,1,4,2,,,2,268374
+584,834,St. Edward's University,English,2.7,Timothy Braun,4.8,36,100%,1,,,2,,,,2,,,3,3,1,1,3,2,7,1,,1,1253557
+585,834,St. Edward's University,Philosophy,3.6,William Zanardi,3.5,34,N/A,,3,2,3,,3,2,,,,1,2,1,,,1,,,,,70839
+586,834,St. Edward's University,Psychology,3.4,Sara Villanueva-Dixon,3.0,34,50%,1,3,4,,1,,4,1,1,,1,1,1,1,4,1,,3,,8,874093
+587,834,St. Edward's University,Science,3.8,David Wright,1.8,33,N/A,,,,,,3,,,,,,1,4,,,1,,1,,1,183375
+588,834,St. Edward's University,Biology,3.4,Fidelma O'Leary,3.5,33,N/A,1,1,2,,,,2,2,,,3,2,1,,1,,8,,2,7,266238
+589,834,St. Edward's University,Behavioral & Social Sciences,3.5,Emma Lou Linn,3.3,33,N/A,,2,,,,,5,,2,,3,2,,,,6,,,2,3,377762
+590,834,St. Edward's University,English,2.9,Alan Altimont,4.1,32,N/A,,2,,,2,1,2,1,,1,,,,,,,1,,,,105979
+591,834,St. Edward's University,English,3.1,Elizabeth Eakman,4.2,32,N/A,1,1,,3,,,,3,,,3,2,,,1,2,,,,1,947379
+592,834,St. Edward's University,Natural Sciences,2.7,James McGuffee,2.8,31,N/A,,,,,,,,,,,,,,,,,,,,,183343
+593,834,St. Edward's University,Psychology,3.9,Michael Disch,4.1,31,60%,2,1,1,1,1,1,3,3,1,,2,,6,3,,5,4,2,2,12,1275082
+594,836,Saint Francis University,Education,2.0,Dennis Snyder,4.8,104,100%,16,10,,53,17,,5,34,5,7,13,23,,,11,28,,,,,822460
+595,836,Saint Francis University,History,2.2,John Ruggiero,2.8,36,N/A,,,1,,,,,,,,,,,,,,,,,,117665
+596,836,Saint Francis University,Biology,3.6,John Trimble,3.6,32,71%,,,,3,2,1,6,3,,,6,,3,,,3,3,,2,3,143122
+597,836,Saint Francis University,English,2.6,John Woznak,4.8,30,100%,,4,,3,1,,2,,,,4,,,,1,2,4,,,3,122125
+598,836,Saint Francis University,English,2.7,James Koncz,3.6,30,N/A,,,,,,,,,,,,,,,,,,,,,122491
+599,836,Saint Francis University,Philosophy,2.8,Grant Julin,4.3,30,83%,,3,,2,1,1,4,1,,,2,5,1,,1,2,2,1,,6,956487
+600,836,Saint Francis University,Science,3.4,Ed Zovinka,3.8,29,N/A,,,,2,,,,1,,,2,1,,,,1,,,,,122144
+601,836,Saint Francis University,Mathematics,4.0,Paul Deskevich,2.6,29,N/A,,,,,1,,,,1,,,,,,,,1,,,,123184
+602,836,Saint Francis University,Economics,3.5,Margaret Garcia,2.5,28,N/A,,,,,,,2,,,,,,,1,,,1,,,1,122645
+603,836,Saint Francis University,History,3.4,Timothy Whisler,4.4,27,N/A,,,,,,,,,,,,,,,,,,,,,53932
+604,836,Saint Francis University,Psychology,4.3,Marnie Moist,3.5,27,43%,1,1,,2,,1,1,1,,,,,,2,,,3,,3,6,117662
+605,836,Saint Francis University,Computer Science,3.2,John Miko,4.7,26,N/A,,,,,,,,,,,1,,,,,,1,,,,141052
+606,836,Saint Francis University,Literature,4.1,Robin Cadwallader,3.2,24,N/A,,,,,,,,,,,,,,1,,,,1,,1,122139
+607,836,Saint Francis University,Fine Arts,3.3,Kenneth Resinski,2.5,23,N/A,,1,,,,,,,,,,,,,,1,,,,,149690
+608,836,Saint Francis University,Science,3.2,Balazs Hargittai,4.3,22,N/A,,1,,,,,,2,,,,,,,,1,,,,1,123187
+609,836,Saint Francis University,Accounting,3.1,James Logue,4.5,22,N/A,1,1,,,,,,,,,1,,,,2,2,2,,,,149648
+610,836,Saint Francis University,Chemistry,4.4,Charles Dameron,1.6,21,N/A,,,,,,,,,,,,,,,,,1,,,1,1038920
+611,836,Saint Francis University,Science,3.0,Lane Loya,4.7,21,N/A,2,2,,1,1,,,2,,,,,,,,3,1,,,1,117664
+612,836,Saint Francis University,Philosophy,3.1,Tim Menta,3.5,20,N/A,,,,1,1,,,1,1,,1,1,2,,,1,,,,3,117667
+613,836,Saint Francis University,Science,3.9,Pedro Muino,3.3,20,N/A,,1,,1,1,,,,1,,2,,,1,,,,,1,1,122143
+614,837,St. Gregory's University,History,2.7,Fr. Nick Ast,5.0,11,N/A,,,,,,,,,,,,,,,,,,,,,504822
+615,837,St. Gregory's University,Humanities,3.6,Harry Moore,3.4,9,N/A,,,,,,,,,,,,,,,,,,,,,153264
+616,837,St. Gregory's University,Art History,4.1,Sheryl Cozad,4.4,8,N/A,,,,,,,,,,,,,,,,,,,,,636067
+617,837,St. Gregory's University,History,2.9,Joe Eaton,4.4,7,N/A,,,,,,,,,,,,,,,,,,,,,277267
+618,837,St. Gregory's University,Computer Science,1.6,Connie Farthing,2.8,5,N/A,,,,,,,,,,,,,,,,,,,,,248629
+619,837,St. Gregory's University,Psychology,4.0,Ron Faulk,4.0,5,N/A,,,,,,,,,,,,,,,,,,,,,286207
+620,837,St. Gregory's University,Political Science,2.4,Nicholas Rowell,5.0,5,N/A,,,,,,,,,,,,,,,,,,,,,1138857
+621,837,St. Gregory's University,Religion,3.2,Jason Fugikawa,4.2,5,80%,1,1,,1,,,1,2,,,1,,,,,2,,1,1,2,2230890
+622,837,St. Gregory's University,Languages,2.0,Eloy Chavez,4.7,4,N/A,,,,,,,,1,,,,,,,,,,1,,,639676
+623,837,St. Gregory's University,Communication,2.3,Andrew Snyder,2.7,3,N/A,,,,,,,,,,,,,,,,,,,,,731218
+624,837,St. Gregory's University,Chemistry,5.0,Dany Doughan,5.0,3,N/A,,,,,,,,,,,,,,,,,1,,,2,1911729
+625,837,St. Gregory's University,Psychology,3.5,Mason Phillips,4.5,2,N/A,1,1,,1,,,1,,,,,,,,,,,,,,2165988
+626,837,St. Gregory's University,Fine Arts,3.0,Stephanie Letendre,1.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1584615
+627,837,St. Gregory's University,Social Science,3.0,Amy Howard,4.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1622274
+628,837,St. Gregory's University,Business,2.0,Jeff Mlekush,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1626321
+629,837,St. Gregory's University,Psychology,3.0,Jeffery Johnson,4.0,1,N/A,,,,,,,1,,1,,,1,,,,,,,,,2230891
+630,837,St. Gregory's University,Business,2.0,William Crawford,5.0,1,N/A,,,,1,,1,,,,,1,,,,,,,,,,2254007
+631,837,St. Gregory's University,Humanities,4.0,Marcel Brown,3.0,1,N/A,,,,,,,1,,,,,,,,,,,1,,1,2258004
+632,839,St. John's College,Classics,3.2,Peter Kalkavage,3.9,18,N/A,,,,,,,,,,,,,,,,,,,,,213794
+633,839,St. John's College,Chemistry,4.1,Gary Borjesson,3.2,16,N/A,,,,,,,,,,,,,,,,,,,,,170586
+634,839,St. John's College,Science,3.2,James Beall,4.8,16,N/A,,,,1,,,,,,,,1,,,,1,,,,,213797
+635,839,St. John's College,Humanities,4.2,Bill Braithwaite,3.0,15,N/A,,,,,,,,1,1,,,,,,,1,,,,2,213791
+636,839,St. John's College,Philosophy,3.2,John Verdi,4.9,13,N/A,,,,,,,,,,,,,,,,,,,,,251443
+637,839,St. John's College,Classics,4.8,Carl Page,3.9,13,N/A,,,,,,,,1,,,1,,,1,,,,,,,406926
+638,839,St. John's College,Not Specified,3.2,Radoslav Datchev,3.3,12,N/A,,,,1,,,,,,,1,,,,1,,,,,,235481
+639,839,St. John's College,Humanities,3.8,Deborah Renault,3.7,11,N/A,,,,,,,,,,,,,,,,,,,,,139850
+640,839,St. John's College,Humanities,3.4,Tom May,4.0,10,N/A,,,,,,,,,,,,,,,,,,,,,213789
+641,839,St. John's College,Classics,2.7,Robert Goldberg,3.5,10,N/A,,,,,,,,,,,,,,,,,,,,,213801
+642,839,St. John's College,Classics,3.8,Lijun Gu,4.3,10,N/A,,,,,,,,,,,,,,,1,1,,,,,457978
+643,839,St. John's College,Philosophy,3.6,John Tomarchio,3.3,9,N/A,,,,,,,,,,,,,,,,,,,,,235476
+644,839,St. John's College,Humanities,2.6,David Townsend,4.5,8,N/A,,,,,,,,,,,,,,,,,,,,,213792
+645,839,St. John's College,Humanities,2.4,Nick Cappazoli,3.6,8,N/A,,,,,,,,,,,,,,,,,,,,,213799
+646,839,St. John's College,Classics,2.8,Patricia Locke,4.0,8,N/A,,,,,,,,,,,,,,,,,,,,,235479
+647,839,St. John's College,Mathematics,2.9,Jon Tuck,4.7,8,N/A,,,,1,,,,,,,,1,,,,1,,,,,555778
+648,839,St. John's College,Philosophy,3.3,Chester Burke,4.7,8,N/A,,,,,,,,,,,,,,,,,,,,,691721
+649,839,St. John's College,Journalism,3.4,Danny Harrell,3.0,7,N/A,,,,,,,,,,,,,,,,,,,,,345355
+650,839,St. John's College,Mathematics,3.3,J Badger,3.4,7,N/A,,,,,,,,,,,,,,,,,,,,,811327
+651,840,St. John's College,Philosophy,2.4,Ingo Farin,4.1,10,N/A,,,,,,,,,,,,,,,,,,,,,260073
+652,840,St. John's College,Classics,2.9,Philip Lecuyer,4.3,10,N/A,,1,,,,,1,1,,,,2,,,1,,,,,,520884
+653,840,St. John's College,Classics,2.7,David Starr,3.1,10,N/A,,,,,,,,,,,,,,,,,,,,,520886
+654,840,St. John's College,Classics,2.5,Elizabeth Engel,2.3,10,N/A,,,,1,,,,,,,,,,1,,,,,,1,520891
+655,840,St. John's College,Classics,4.2,Thomas Scally,3.6,10,N/A,,,,,,,,,,,,,,,,,,,,,666844
+656,840,St. John's College,Classics,4.6,John Steadman,3.3,8,N/A,,,,,,,,,,,,,,,,,,,,,520881
+657,840,St. John's College,Science,2.3,John Cornell,4.4,7,N/A,,,,,,,,,,,,1,,,1,1,,,,,312010
+658,840,St. John's College,Classics,3.3,Frank Pagano,4.4,7,N/A,,,,,,,,1,,,,,,,,1,,,,1,520904
+659,840,St. John's College,Classics,4.4,Jorge Aigla,4.5,7,N/A,,,,,,,,,,,,,,,,,,,,,520906
+660,840,St. John's College,Classics,3.3,Ned Walpin,3.7,7,N/A,,,,,,,,,,,,,,,,,,,,,735046
+661,840,St. John's College,Music,4.0,Barry Goldfarb,4.4,7,N/A,,,,,,,,,,,,,,,,,,,,,1146555
+662,840,St. John's College,Classics,3.5,Kent Taylor,3.2,6,N/A,,,,,,,,,,,,,,,,,,,,,520890
+663,840,St. John's College,Classics,3.2,Peter Pesic,2.9,6,N/A,,1,,,,,,,,,,1,,,,,,,,,520896
+664,840,St. John's College,Classics,2.6,Charolette Martin,4.6,5,N/A,,,,,,,,1,,,,1,,,,1,,,,,520895
+665,840,St. John's College,Classics,3.2,Stephen Houser,4.6,5,N/A,,,,,,,,,,,,,,,,,,,,,520902
+666,840,St. John's College,Classics,3.6,Michael Bybee,4.4,5,N/A,,,,,,,,,,,1,,,,,1,,,,,724893
+667,840,St. John's College,Classics,1.8,Julie Reahard,3.7,5,N/A,,,,,,,,,,,,,,,1,,,,,,724902
+668,840,St. John's College,Classics,2.8,Grant Franks,4.6,5,N/A,,,,,,,,,,,,,,,,,,,,,726729
+669,840,St. John's College,Classics,2.8,Susan Stickney,5.0,5,N/A,,,,,,,2,3,,,1,,,,2,1,,,,,735044
+670,840,St. John's College,Philosophy,3.4,Lise Van Boxel,4.3,5,N/A,,,,,,,,,,,,,,,,,,,,,823850
+671,841,College of Saint Benedict & Saint John's University,Biology,4.5,Shawn Thomas,2.8,64,N/A,,,,,,,,,,,,,,,,,,,,,368006
+672,841,College of Saint Benedict & Saint John's University,Biology,2.2,Philip Chu,4.8,59,100%,1,3,6,5,8,,,3,3,,2,,6,,,6,,,2,,324378
+673,841,College of Saint Benedict & Saint John's University,Sociology,4.3,Richard Albares,1.6,57,N/A,,,,,,,1,,,,,,2,,,,,1,,4,202503
+674,841,College of Saint Benedict & Saint John's University,Biology,4.4,Gordon Brown,3.2,57,N/A,2,,,,,,,,2,,,,,1,,,,,,5,200799
+675,841,College of Saint Benedict & Saint John's University,Psychology,4.4,Richard Wielkiewicz,2.3,56,57%,2,,,1,1,1,2,,,,,,1,2,,1,3,1,1,5,202659
+676,841,College of Saint Benedict & Saint John's University,Mathematics,3.3,Phil Byrne,4.0,55,N/A,,,,1,,,,,,,,,2,1,,,1,,,1,202331
+677,841,College of Saint Benedict & Saint John's University,Biology,3.6,Ellen Jensen,2.1,54,14%,,,2,,,,,,1,,,,5,,,,1,,4,5,201582
+678,841,College of Saint Benedict & Saint John's University,Theology,3.5,Pat Kennedy,3.1,53,N/A,,,2,1,,,4,1,,,,,1,2,2,1,4,,,7,218212
+679,841,College of Saint Benedict & Saint John's University,Psychology,1.9,Aubrey Immelman,3.7,47,67%,1,1,,4,1,,3,1,2,,5,1,,,,2,,,,,188665
+680,841,College of Saint Benedict & Saint John's University,Languages,3.3,Corey Shouse,3.4,46,80%,2,,4,1,,,,1,1,,4,,1,,5,,,,,,201197
+681,841,College of Saint Benedict & Saint John's University,Chemistry,4.1,Brian Johnson,2.9,46,N/A,,,,,1,,,,,1,,,,5,,,3,,1,4,324381
+682,841,College of Saint Benedict & Saint John's University,Mathematics,2.7,Michael Gass,4.7,45,100%,1,,4,3,2,,,,1,,,,,,1,5,1,,1,,200914
+683,841,College of Saint Benedict & Saint John's University,English,3.5,Charles Thornbury,2.1,43,N/A,,,,,,,,,,,,,,,,,,,,,57405
+684,841,College of Saint Benedict & Saint John's University,Political Science,3.2,Gary Prevost,4.0,43,N/A,,,,,,,1,1,,,,1,1,,1,,,,,,201615
+685,841,College of Saint Benedict & Saint John's University,Communication,3.5,Aric Putnam,4.4,43,N/A,,1,,,,,,1,,,1,,,,1,1,2,,,3,364771
+686,841,College of Saint Benedict & Saint John's University,Sociology,3.6,James Makepeace,2.0,42,N/A,,,,,,,3,,,,,,4,,1,,,,,4,2086
+687,841,College of Saint Benedict & Saint John's University,Writing,4.1,Mickey Cunningham,2.7,41,N/A,,,,,,,5,,,,,,,1,3,,1,1,,6,227827
+688,841,College of Saint Benedict & Saint John's University,Biology,4.2,James (jim) Poff,2.6,41,N/A,,,,,1,,,,,,,,,,,,,,,1,385109
+689,841,College of Saint Benedict & Saint John's University,Chemistry,3.7,Anna McKenna,4.1,40,N/A,1,,,,2,2,,2,,2,2,,,3,,3,2,,,4,201577
+690,841,College of Saint Benedict & Saint John's University,Political Science,3.2,Claire Haeg,3.7,39,N/A,,,,,1,,2,2,,,,1,1,,2,1,1,1,,,201251
+691,842,St. John's University,Business,1.2,Joyce Boland-Devito,4.9,321,100%,1,6,,15,6,1,,1,,,12,7,,,,11,3,,,,145623
+692,842,St. John's University,Communication,2.3,John Lin,4.8,236,75%,10,10,3,11,1,,1,19,4,,10,26,,3,15,15,10,,1,13,1376366
+693,842,St. John's University,Law,1.2,Anthony Sabino,5.0,218,100%,,67,,15,2,5,,2,2,,36,40,5,,2,58,9,,,,175540
+694,842,St. John's University,Mathematics,4.2,Leon Gerber,1.8,208,35%,2,,2,,4,4,,3,1,,,,3,20,2,,23,,1,21,22558
+695,842,St. John's University,Theology,3.3,Frank Holland,3.5,200,N/A,,,,,,1,,1,,,1,1,3,,1,1,5,,,4,50292
+696,842,St. John's University,Theology,2.8,Habibeh Rahim,3.3,192,N/A,,,,,,2,,,,1,,,3,5,,,3,4,,3,50104
+697,842,St. John's University,Chemistry,3.3,David Brown,4.3,181,81%,7,8,,8,6,1,6,5,2,,1,2,8,,2,14,11,,4,1,178047
+698,842,St. John's University,Philosophy,3.1,Vadim Batitsky,3.4,177,63%,4,3,,,32,4,14,17,5,,3,,11,3,,5,3,4,3,16,130596
+699,842,St. John's University,English,2.5,Robert Forman,4.5,173,100%,2,5,,6,3,,7,5,,,2,5,,,2,8,,,,,57329
+700,842,St. John's University,English,2.1,Larry Pitilli,4.7,173,100%,,,1,7,,3,,13,,,7,7,,1,2,14,1,,,,86389
+701,842,St. John's University,Philosophy,3.6,David Kaye,4.1,173,67%,5,8,3,19,11,,66,8,,,1,16,10,6,40,19,24,,7,8,885075
+702,842,St. John's University,Philosophy,3.3,William Boyle,2.6,171,38%,,2,,,,,2,1,10,,,2,22,,1,3,21,,4,13,80308
+703,842,St. John's University,Psychology,4.1,Anthony Catalano,2.4,152,N/A,,,,1,1,,3,,,,,,1,,,,2,,,1,57310
+704,842,St. John's University,Mathematics,2.5,Luke Mannion,4.4,151,96%,4,1,,13,16,,,4,10,,16,2,4,2,1,16,12,,3,1,78222
+705,842,St. John's University,Theology,1.7,Dennis Sugrue,4.4,141,N/A,,3,,,,1,4,,,,9,1,2,,,4,1,,,1,267875
+706,842,St. John's University,Criminal Justice,1.1,Peter Cardalena,5.0,140,100%,1,8,,12,6,,,1,2,,12,8,2,,,14,1,,,,106165
+707,842,St. John's University,Philosophy,3.1,Michael Henry,3.5,137,44%,3,,,2,6,,18,12,1,,1,,14,2,2,5,7,7,2,19,113012
+708,842,St. John's University,English,3.0,Joan D'Andrea,3.9,136,63%,8,,1,30,16,9,3,31,,,,1,,10,26,6,9,2,,19,226008
+709,842,St. John's University,Theology,1.3,M. Whalen,4.8,131,100%,1,1,,8,3,1,,2,,,9,6,,1,,6,,,,,79349
+710,842,St. John's University,Philosophy,2.7,Trent Hamann,3.5,131,55%,3,,,3,4,,18,7,5,,,1,20,7,4,3,8,1,1,11,23102
+711,843,University of Saint Joseph,Chemistry,4.2,Ellen Anderson,3.2,32,17%,1,1,,1,,,3,,,3,,,1,1,,2,9,,,14,1183498
+712,843,University of Saint Joseph,Fine Arts,3.9,Dorothy Bosch-Keller,3.3,28,N/A,,,,,,,,,,,,,,,,,,,,1,158844
+713,843,University of Saint Joseph,Theology,4.4,Sister Ann Marie Caron,1.5,25,N/A,,,,,,,4,,,,,,2,4,,,1,5,,5,275021
+714,843,University of Saint Joseph,Nursing,4.0,Joyce Fontana,4.2,25,100%,1,7,,2,2,,3,1,3,,2,4,,,,6,4,1,1,4,461097
+715,843,University of Saint Joseph,English,3.2,Catherine Hoyser,2.3,23,N/A,,,,,,,1,,,,,,,,,,,,,,193130
+716,843,University of Saint Joseph,Philosophy,3.7,Agnes Curry,3.5,23,N/A,1,,,,1,,1,,,,,,,,1,,,1,,,275022
+717,843,University of Saint Joseph,Mathematics,1.9,Joseph Manthey,4.7,23,100%,,1,,2,3,,,2,,2,2,1,,2,,2,,,,,481407
+718,843,University of Saint Joseph,Psychology,2.5,Elizabeth Vozzola,4.5,23,100%,,1,,3,1,1,2,3,,,2,,,1,4,1,1,,1,,356755
+719,843,University of Saint Joseph,Political Science,3.2,Kenneth Long,3.8,21,N/A,,,,,,,2,,1,,,,,1,2,,2,,,2,322143
+720,843,University of Saint Joseph,Chemistry,3.9,Leonidas Jones,3.5,21,100%,1,2,,,,,,1,,,2,,2,,,,5,,1,4,229670
+721,843,University of Saint Joseph,Biology,3.1,Christina Alevras,3.4,19,50%,2,,,4,1,,2,3,1,,2,,2,3,,1,,,1,1,1385422
+722,843,University of Saint Joseph,Economics,4.1,Shyamala Raman,2.4,18,N/A,,,,,,,1,1,,,,1,1,,1,,1,,,2,519142
+723,843,University of Saint Joseph,Mathematics,2.6,Edward Freeman,2.9,17,N/A,,,,2,,,,,,,2,2,,,,,,,,,486902
+724,843,University of Saint Joseph,Religion,2.6,Joseph Cheah,3.0,17,40%,,,,2,,,1,2,,1,1,,2,,1,1,1,3,,2,832762
+725,843,University of Saint Joseph,History,2.8,Kevin Callahan,3.4,17,N/A,,,,,,,1,1,,1,,,1,1,1,,1,1,1,3,316824
+726,843,University of Saint Joseph,Sociology,2.7,Marilyn Denny,2.2,15,N/A,,,,,,,,,,,,,,,,,,,,,344869
+727,843,University of Saint Joseph,English,3.5,Kerry Driscoll,3.8,15,N/A,,1,,,,,,1,,,,,,,,,,1,,,464365
+728,843,University of Saint Joseph,Sociology,3.4,Julius Rubin,3.6,15,N/A,,,,,,,,,,,,,,,,,,,,,499181
+729,843,University of Saint Joseph,Biology,2.7,Chris Zito,4.4,15,100%,2,4,,2,3,6,,1,,,2,,1,,,4,1,,,1,1694445
+730,843,University of Saint Joseph,Psychology,3.2,Lisa Kuntz,4.8,14,N/A,1,2,,2,1,,,1,,,1,1,,,,1,,,,1,680907
+731,844,St. Joseph's College,Computer Science,2.7,Brian Capouch,4.1,15,N/A,,1,,,,,1,,,,1,,1,,,1,1,,,,63341
+732,844,St. Joseph's College,Psychology,2.8,Mark Seely,4.7,12,N/A,,,1,,,,1,,,,,,1,,,,,,,,73495
+733,844,St. Joseph's College,Social Science,3.9,Patricia Robinson,2.2,10,N/A,,,,1,,,,,,,,1,,,,1,,,,,64815
+734,844,St. Joseph's College,Political Science,3.6,Peter Watkins,4.8,10,N/A,,,,1,,,1,,,,,,,,,,,,,,153901
+735,844,St. Joseph's College,History,4.3,William White,4.7,9,N/A,,,,,,,,,,,,,,,,,,,,,66534
+736,844,St. Joseph's College,Education,1.9,Jennifer Barce,3.7,9,N/A,,,,,,,,,,,,,,,,,,,,,102931
+737,844,St. Joseph's College,English,4.1,Maia Kingman,4.6,8,N/A,,,,,,,,,,,,,,,,,,,,,63941
+738,844,St. Joseph's College,History,2.5,Susan Chattin,3.4,8,N/A,,,,,,,,1,,,1,,,,,1,,,,,909329
+739,844,St. Joseph's College,English,4.0,William Mottolese,4.7,7,N/A,,,,,,,,,,,,,,,,,,,,,64223
+740,844,St. Joseph's College,English,3.9,Charlie Kerlin,3.3,7,N/A,,,,,,,,,,,,,,,,,,,,,72157
+741,844,St. Joseph's College,Business,1.9,Teressa Massoels,2.9,7,N/A,,,,,,,,,,,,,,,,,,,,,75037
+742,844,St. Joseph's College,Economics,3.4,Michael Oakes,3.9,7,N/A,,,,,,,,,,,,,,,,,,,,,108994
+743,844,St. Joseph's College,Business,2.4,Walter Scherb,2.3,7,N/A,,,,,,,,,,,,,,,,,,,,,126604
+744,844,St. Joseph's College,Political Science,2.0,David Dixon,4.4,7,N/A,,,,,,,,,,,,,,,,,,,,,396014
+745,844,St. Joseph's College,Music,2.4,Todd Samra,4.8,7,N/A,,,,,,,,1,,,,1,,,,1,,,,,591311
+746,844,St. Joseph's College,Mathematics,2.0,Marge McIlwain,5.0,6,N/A,,,,,,,,,,,,,,,,,,,,,63311
+747,844,St. Joseph's College,Communication,3.3,Fred Berger,2.9,6,N/A,,,,,,,,,,,,,,,,,,,,,63312
+748,844,St. Joseph's College,Education,3.0,Tom Ryan,4.9,6,N/A,,,,,,,,1,,,,1,,,1,,,,,,66535
+749,844,St. Joseph's College,Philosophy,2.8,Rob Reuter,5.0,6,N/A,,,,,,,,,,,,,,,,,,,,,282521
+750,844,St. Joseph's College,Psychology,4.0,Chad Pulver,2.9,5,N/A,,,,,,,,,,,,,,,,,,,,,591154
+751,845,Saint Joseph's College,Science,4.2,Bill Hoyt,2.2,28,N/A,,,,,,,,,,,,,,,,,,,,,20672
+752,845,Saint Joseph's College,Mathematics,3.1,Scott Balcomb,4.3,23,N/A,,1,,,,,,,,,1,,,,,,,,,,12286
+753,845,Saint Joseph's College,History,1.6,Jonathan Malmude,3.7,21,N/A,,,,,,,,,,,1,,2,,,,,,,,7191
+754,845,Saint Joseph's College,Theology,3.0,Steven Bridge,4.3,20,N/A,,,,1,,,,,,,,1,,,,2,,,,,221690
+755,845,Saint Joseph's College,English,3.6,Anne Price,2.4,20,N/A,,,,,,,,,,,,,1,1,1,,2,,,1,347679
+756,845,Saint Joseph's College,History,3.1,Andrea Vianello,3.9,16,N/A,1,,,,,,,,1,,,,,,,1,,,,,313802
+757,845,Saint Joseph's College,Marketing,3.5,Ed Hellenbeck,4.9,15,N/A,,,,,,,,,,,,,,,,,,,,,170614
+758,845,Saint Joseph's College,Psychology,3.9,Elaine Scorpio,3.6,14,N/A,,,,,,,,,,,,,,,,,,,,,220649
+759,845,Saint Joseph's College,English,3.0,Ed Rielly,4.1,13,N/A,,,,,,,,1,,,,1,,,,1,,,,,221691
+760,845,Saint Joseph's College,Mathematics,1.9,Richard Hammond,1.6,13,N/A,,,,,,,,,,,,,,,,,,,,,347698
+761,845,Saint Joseph's College,Sociology,4.9,Michele Aronica,3.5,13,N/A,,,,,,,1,,,,,,,,,,,,1,1,347754
+762,845,Saint Joseph's College,Business,3.5,John Zerillo,4.5,13,N/A,,,,,1,,,,,,2,,2,,1,2,3,,,1,347791
+763,845,Saint Joseph's College,English,2.9,Jackie McCurry,2.8,13,N/A,,,,,,,,,,,,,,,,,,,,,351571
+764,845,Saint Joseph's College,History,3.9,Michelle Laughran,4.0,13,N/A,,1,,,,,1,1,,,1,,,,,,,,,1,351574
+765,845,Saint Joseph's College,Biology,3.9,Beth Auger,3.3,13,N/A,,,,1,,,,,,,,,,,,,,,,1,642160
+766,845,Saint Joseph's College,Theology,3.7,Sr. Marilyn Sunderman,4.6,12,N/A,,,,,,,1,,1,,,,,,,1,1,,1,,20674
+767,845,Saint Joseph's College,Criminal Justice,3.5,Dale Brooker,3.9,11,N/A,,,,,,,1,2,,1,,,,,,1,,,1,2,682691
+768,845,Saint Joseph's College,Sociology,2.2,Katrina Hoop,4.5,11,N/A,,1,,1,,,,2,,,,2,,,1,2,,,,,972532
+769,845,Saint Joseph's College,Psychology,2.9,Nina Eduljee,3.8,10,N/A,1,,,,,,,1,1,,,,,1,,,1,,1,,456311
+770,845,Saint Joseph's College,Biology,4.0,Brian Shelley,4.0,10,N/A,,,,,,,,,,,,,,,,,,,,,931118
+771,846,Saint Joseph's University,Accounting,2.9,Bob Teti,4.0,134,78%,5,,,4,14,,4,1,,,3,1,7,6,1,10,11,,2,9,31928
+772,846,Saint Joseph's University,Economics,2.5,Thomas Burke,4.0,122,70%,,1,,1,8,,1,,5,,5,,13,,,,1,,3,6,25223
+773,846,Saint Joseph's University,Mathematics,2.9,Patricia Bobo,2.7,116,29%,1,,3,1,2,1,2,1,3,1,2,,,19,,1,6,,5,21,31925
+774,846,Saint Joseph's University,History,4.5,Alison Lewin,2.8,96,19%,2,,2,,,1,20,,1,,,1,4,8,6,,3,6,,21,14981
+775,846,Saint Joseph's University,Theology,4.0,Alan Kerkeslager,2.8,83,25%,,,,,,2,3,,1,,1,,3,3,1,,2,,2,4,311980
+776,846,Saint Joseph's University,Mathematics,4.4,Richard Cavaliere,2.0,81,10%,,,,1,1,,,1,3,,,,3,3,,,13,,5,15,278518
+777,846,Saint Joseph's University,Philosophy,3.8,Audre Brokes,3.2,80,33%,1,,,2,1,,1,2,,,2,2,3,1,,1,2,1,,11,31897
+778,846,Saint Joseph's University,Philosophy,2.8,Eric Hoffman,3.9,74,80%,,3,,,1,1,6,2,1,,1,1,2,2,3,5,,,,4,316732
+779,846,Saint Joseph's University,Marketing,3.5,Donna Falgiatore,2.5,73,N/A,,,,,,,4,,,7,,,6,1,8,,6,,,12,320033
+780,846,Saint Joseph's University,History,3.8,Matthew Hanson,3.4,72,N/A,,,,,,,4,,,,,,,,3,,2,,,2,19310
+781,846,Saint Joseph's University,Sociology,3.7,Maria Kefalas,2.8,72,44%,1,1,,,,,6,1,1,7,1,,2,1,1,1,5,,,9,182032
+782,846,Saint Joseph's University,Mathematics,2.6,Greg Manco,4.3,71,63%,5,2,8,5,5,4,1,1,5,,2,,3,2,,4,8,,1,6,608512
+783,846,Saint Joseph's University,Accounting,2.9,Stephen Sullivan,3.1,65,N/A,,,,,,,3,,,,,,2,,,,,,,2,271446
+784,846,Saint Joseph's University,English,3.6,Richard Fusco,3.2,63,43%,1,1,,,1,,3,1,1,1,,,3,,1,1,5,3,2,10,170649
+785,846,Saint Joseph's University,Religion,4.0,G. Jacobitz,2.8,62,63%,,1,1,1,2,,12,1,,,3,1,6,1,3,,4,,,1,696595
+786,846,Saint Joseph's University,English,2.0,Owen Gilman,4.7,59,100%,,1,,6,,,1,1,1,,10,5,,,,4,,,,,166253
+787,846,Saint Joseph's University,Theology,3.0,Millicent Feske,3.0,59,50%,2,,,2,,,4,,1,,1,2,2,4,4,,1,,1,3,311340
+788,846,Saint Joseph's University,Computer Science,1.9,Kevin Boyle,3.6,58,N/A,,,,,1,,,,,,,,,,,,1,,,,256226
+789,846,Saint Joseph's University,Languages,2.3,Cesar Caballero,3.8,58,70%,2,,,,,,,5,1,1,1,1,1,,12,6,6,,,2,355441
+790,846,Saint Joseph's University,Economics,2.1,Charles Mallowe,4.5,58,94%,1,3,,,2,4,15,1,4,,10,2,,,12,3,7,,1,2,440074
+791,847,St. Lawrence University,Mathematics,2.9,Patti Lock,4.4,38,88%,1,1,1,1,2,1,,,,,,1,1,5,1,7,5,,,4,313294
+792,847,St. Lawrence University,Chemistry,3.3,Natalina Marano,2.8,35,58%,1,1,,,3,,1,3,1,,1,,4,1,,3,8,,1,8,268980
+793,847,St. Lawrence University,Political Science,3.5,Grace Huang,3.4,35,N/A,,2,2,4,2,,11,9,,,,3,1,2,10,4,,,,3,752285
+794,847,St. Lawrence University,Anthropology,2.9,Shinu Abraham,3.7,34,N/A,,,,,,,,1,1,,,,,,2,1,,,,2,560178
+795,847,St. Lawrence University,Economics,3.7,Brian Chezum,3.5,33,N/A,,,,,,,,1,1,,,,1,,,1,1,,,2,236693
+796,847,St. Lawrence University,Political Science,3.9,Joseph Jockel,3.6,31,N/A,,,,,1,,7,4,,,,,,1,3,2,7,2,,4,185429
+797,847,St. Lawrence University,History,3.7,Mary Jane Smith,2.5,28,N/A,1,,,1,,,3,,,,,,2,,,,,,,4,182910
+798,847,St. Lawrence University,Mathematics,1.7,Dante Giarrusso,3.4,28,100%,,1,,6,3,1,,,1,,9,,,,,3,,,,,381563
+799,847,St. Lawrence University,Psychology,3.3,Pamela Thacher,3.5,27,N/A,,,,1,1,,,2,1,,4,2,,,,,,1,,3,283814
+800,847,St. Lawrence University,Mathematics,2.9,Maegan Bos,3.6,27,N/A,,,,,,1,,,,,1,,,1,1,,1,,,2,468576
+801,847,St. Lawrence University,English,3.1,Bob Cowser,3.9,25,N/A,,,,,,,1,,1,,1,,,,,,,1,,1,3133
+802,847,St. Lawrence University,Anthropology,4.3,Alice Pomponio,2.7,25,N/A,,,,,,,,,,,,,,,,,,,,,163506
+803,847,St. Lawrence University,Mathematics,2.5,Robin Lock,4.3,25,N/A,,1,,,4,3,1,1,,2,,1,1,,,1,,,,,183416
+804,847,St. Lawrence University,History,4.0,Elun Gabriel,4.0,24,N/A,,1,,,,,2,2,,,,,,2,,,,2,,2,310359
+805,847,St. Lawrence University,English,3.6,Pedro Ponce,2.2,24,N/A,,,1,,,,,1,2,,,,1,1,1,,,3,,5,312106
+806,847,St. Lawrence University,Psychology,3.8,Alan Searleman,4.3,22,N/A,,,,,,,,,,,,,,,,,,,,,206608
+807,847,St. Lawrence University,Canadian Studies,3.7,Robert Thacker,3.9,22,N/A,,2,,2,,,,,,,1,1,,,,2,,,,1,307664
+808,847,St. Lawrence University,Global Studies,3.3,Ganesh Trichur,3.3,22,N/A,,,,,,,,,,,,,,,,,,,,,755395
+809,847,St. Lawrence University,History,3.4,Liz Regosin,5.0,21,N/A,1,1,,2,1,,1,2,,,3,2,,1,,2,,,,2,182912
+810,847,St. Lawrence University,Economics,3.0,Bob Blewett,3.4,21,N/A,1,,,,1,1,1,1,,,,,,,,,,,1,,236688
+811,848,Saint Leo University,Religion,2.6,Robert Craig,4.7,125,100%,10,50,1,22,5,8,10,61,,,25,28,8,2,19,54,5,5,,11,1954497
+812,848,Saint Leo University,Computer Information Systems,2.6,Bryan Reagan,3.7,39,100%,1,3,1,5,2,1,,2,1,,,1,1,1,,5,1,,,,1119875
+813,848,Saint Leo University,Religion,3.4,Paul McCuistion,4.2,37,N/A,,1,,2,,1,1,,,,1,,,,1,,1,,,1,1582832
+814,848,Saint Leo University,Computer Science,3.4,Yvette Ghormley,3.3,36,N/A,,2,,3,,,,2,,,2,4,,,1,3,2,,,,869957
+815,848,Saint Leo University,Accounting,4.1,Passard Dean,2.0,34,33%,1,,,1,,,6,2,,,,1,,5,2,,2,,1,6,1326146
+816,848,Saint Leo University,Business,3.0,Frank Arnold,4.5,29,N/A,,1,,,1,,,1,,,,1,,,,1,,,,,410382
+817,848,Saint Leo University,Religion,3.4,Robert Imperato,2.8,29,17%,,,,,,,3,,,,1,1,3,1,2,,1,2,,7,629308
+818,848,Saint Leo University,Music,2.2,June Hammond,4.0,25,N/A,,,,3,,,1,,1,,3,,3,,,3,5,,1,1,840276
+819,848,Saint Leo University,Religion,3.3,Tye Anderson,2.8,24,N/A,,1,,,,,,,,,,1,,,,1,,,,,670385
+820,848,Saint Leo University,Philosophy,4.0,Ernie Williams,3.7,23,N/A,,,,,,,1,,,,,1,,,1,,,,,,41525
+821,848,Saint Leo University,Economics,3.3,Hudson Reynolds,3.3,23,N/A,,1,,1,1,,3,,1,,1,1,1,,,,3,,1,2,336441
+822,848,Saint Leo University,Accounting,2.9,Paula Beiser,4.7,23,N/A,,,,4,1,,,4,,,,,,,,,,,,,997944
+823,848,Saint Leo University,English,3.6,Agnieszka Leesch,2.8,23,18%,,1,3,,,1,4,,1,,,,,,7,,7,,,11,1558043
+824,848,Saint Leo University,Economics,3.3,Patrick Murphy,3.0,22,71%,1,,1,1,1,,,3,,,3,,2,5,3,2,1,2,,12,1524699
+825,848,Saint Leo University,English,4.7,Jodi Pushkin,2.0,21,20%,,,,,,,,1,,,,,,5,,,,6,,8,1259552
+826,848,Saint Leo University,Accounting,1.7,Emil Koren,4.5,21,N/A,1,,,5,1,,2,9,,,,6,,2,2,8,,,1,1,1369139
+827,848,Saint Leo University,Business,4.3,Pamela Lee,2.6,21,40%,,,,1,1,,2,4,,,,2,,2,2,2,1,2,,8,1673063
+828,848,Saint Leo University,Psychology,3.5,Dr. Christopher Beverly,5.0,20,100%,3,1,,5,9,,,16,,,,2,,,3,9,1,,,,1901212
+829,848,Saint Leo University,Criminal Justice,2.8,Michael McCabe,3.8,19,N/A,,,,,4,,2,5,,1,,1,,1,1,1,,3,,6,1423490
+830,848,Saint Leo University,Religion,1.6,Michael Cooper,4.3,19,N/A,2,,,,,1,2,1,,,2,1,,1,2,,,1,,1,1575440
+831,849,St. Louis College of Pharmacy,Biology,3.5,Evelyn Becker,3.7,74,N/A,,,,1,,,,,,,1,,,,,2,,,,1,74625
+832,849,St. Louis College of Pharmacy,Chemistry,4.7,Marlene Katz,2.3,65,N/A,,,,,,,,,,,,,,,,,,,,,252163
+833,849,St. Louis College of Pharmacy,Chemistry,3.4,Gary Riley,2.7,42,N/A,,,,,,,,,,,,,,,,,,,,,92940
+834,849,St. Louis College of Pharmacy,Social Science,3.6,Patrick Fontane,3.3,28,N/A,,,,,,,1,,,,,,,,,,,,,1,328950
+835,849,St. Louis College of Pharmacy,Humanities,2.3,Brian Birdnow,4.2,26,N/A,,3,,1,1,,,,,,,,1,,1,1,1,,,1,398071
+836,849,St. Louis College of Pharmacy,Biology,3.9,Dayton Ford,3.1,26,N/A,,,4,,,,4,,,,,,,2,,1,,,,,252166
+837,849,St. Louis College of Pharmacy,Physics,3.0,Richard McCall,4.1,25,N/A,,,,,,,,,,,,,,,,,,,,,328943
+838,849,St. Louis College of Pharmacy,Biology,4.6,Michel Cloutier,1.9,24,N/A,,,,,,,,,,,,,,,,,1,,,1,606658
+839,849,St. Louis College of Pharmacy,Mathematics,2.4,Teresa Laurent,3.5,23,N/A,,,,2,1,,,1,,,,,,1,,1,3,,2,4,606846
+840,849,St. Louis College of Pharmacy,History,2.1,Bob Zebroski,4.8,22,N/A,,,,,,,,1,,,1,1,,,,2,,,,,555519
+841,849,St. Louis College of Pharmacy,Chemistry,3.4,John Rapko,3.3,19,N/A,,1,,1,,,1,,,,1,,1,,,,,,1,4,750248
+842,849,St. Louis College of Pharmacy,Chemistry,2.6,Ken Chanthamontri,4.7,19,100%,2,,,9,3,,,16,,,1,4,,,4,13,1,,,,2359908
+843,849,St. Louis College of Pharmacy,Humanities,1.6,Helena Czosnyka,4.3,18,N/A,,,,,,,,,,,,,,,,,,,,,252171
+844,849,St. Louis College of Pharmacy,Biology,4.8,Sarah Schlereth,1.7,18,N/A,,,,2,,,1,2,,,,,,,,,4,,,16,1631234
+845,849,St. Louis College of Pharmacy,Political Science,3.1,Joe Davis,2.5,17,N/A,,,,,,,,,,,,,,,,,,,,,92942
+846,849,St. Louis College of Pharmacy,English,1.7,Marilyn Fontane,4.1,16,N/A,,,,,,,1,1,,,1,,,,,,,,,,252176
+847,849,St. Louis College of Pharmacy,Economics,3.3,Kenneth Schafermeyer,3.6,16,N/A,,,,,,,1,,,,,,,,,,1,,,1,328945
+848,849,St. Louis College of Pharmacy,Chemistry,1.7,Carol Cross,4.9,15,N/A,,,,,,,,,,,,,,,,,,,,,322641
+849,849,St. Louis College of Pharmacy,Not Specified,3.0,Lucia Tranel,3.5,15,N/A,,,,,,,,,,,,,,,,1,,1,,1,398069
+850,849,St. Louis College of Pharmacy,Chemistry,3.8,Ehren Bucholtz,2.5,15,N/A,1,1,,2,,2,1,,,,1,1,2,1,,,5,,,2,1129804
