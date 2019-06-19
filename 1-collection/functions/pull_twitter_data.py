@@ -1,4 +1,5 @@
 import json
+import time
 
 import requests
 from requests_oauthlib import OAuth1
@@ -27,6 +28,7 @@ def get_recent_tweets(q):
 	}
 	auth = get_twitter_auth()
 	r = requests.get(url, params=params, auth=auth)
+	time.sleep(5)
 	return r.json()
 
 def get_df_of_recent_tweets(q):
