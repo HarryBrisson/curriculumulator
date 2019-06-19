@@ -29,3 +29,27 @@ def get_articles_data_from_search_query(q):
 
   return search_data
 
+
+
+
+def get_url_stem_from_pageid(pageid):
+
+  URL = "https://en.wikipedia.org/w/api.php"
+
+  PARAMS = {
+      'action':"query",
+      'prop':"info",
+      'pageids': pageid,
+      'inprop':'url',
+      'format':'json'
+  }
+
+  r = requests.get(url=URL, params=PARAMS)
+  data = r.json()
+
+
+  stem = data['query']['pages'][str(pageid)]['canonicalurl'].split('/')[-1]
+
+  return stem
+
+
