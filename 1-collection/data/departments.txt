@@ -33,6 +33,8 @@ Graphic Arts
 Graphic Design
 Health Science
 History
+History & Political Science
+Hospitality
 Humanities
 Illustration
 Information Science
@@ -44,6 +46,7 @@ Literature
 Management
 Marketing
 Mathematics
+Medicine
 Music
 Not Specified
 Nursing
