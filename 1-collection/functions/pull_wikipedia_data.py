@@ -60,3 +60,12 @@ def get_monthly_data_for_article(article,start='20180101',end='20181231'):
   r = requests.get(url)
   return r.json()['items']
 
+
+def get_annual_views_for_article(article,year):
+  start = f'{year}0101'
+  end = f'{year}1231'
+  month_data = get_monthly_data_for_article(article,start=start,end=end)
+  views = 0
+  for m in month_data:
+    views += m['views']
+  return views
