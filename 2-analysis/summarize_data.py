@@ -39,6 +39,7 @@ def main():
     summary = summarize_rmp_data()
     store_list_of_departments(summary)
     behaviors = pd.read_csv('../1-collection/data/behaviors.csv').set_index('dept')
+    behaviors = behaviors.drop('0: Untitled',axis=1)
     summary = summary.join(behaviors)
     summary.to_csv('../3-presentation/static/data/summary.csv')
 if __name__ == "__main__":
