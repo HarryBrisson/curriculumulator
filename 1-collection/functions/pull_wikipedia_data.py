@@ -53,3 +53,10 @@ def get_url_stem_from_pageid(pageid):
   return stem
 
 
+
+def get_monthly_data_for_article(article,start='20180101',end='20181231'):
+
+  url = f'https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/{article}/monthly/{start}/{end}'
+  r = requests.get(url)
+  return r.json()['items']
+
