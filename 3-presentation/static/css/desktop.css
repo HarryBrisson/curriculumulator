@@ -1,0 +1,16 @@
+
+#left-column {
+	position: absolute;
+	top: 10%;
+	bottom:10%;
+	left:5%;
+	right:55%;
+}
+
+#right-column {
+	position: absolute;
+	top: 10%;
+	bottom:10%;
+	left:55%;
+	right:5%;
+}

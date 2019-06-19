@@ -1,0 +1,169 @@
+h1 { 
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    text-align: left;
+    color: white;
+    line-height: 10px;
+    height: 10px;
+    margin-left:.5em;
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-top: 0.83em;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    text-align: center;
+
+}
+
+h3 {
+    display: block;
+    font-size: 1.2em;
+    margin-top: 0.83em;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    text-align: center;
+
+}
+
+p {
+    display: block;
+    font-size: 1.5em;
+    margin-top: 0.83em;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    text-align: center;
+}
+
+select {
+	font-size: 1.5em;
+
+}
+
+#container {
+	position: absolute;
+	top: 10%;
+	left:10%;
+	right:10%;
+}
+
+#viz {
+	position: absolute;
+	top: 20%;
+	bottom:10%;
+	left:10%;
+	right:10%;
+}
+
+div.tooltip {	
+    position: absolute;			
+    text-align: center;			
+    width: 200px;					
+    padding: 2px;				
+    font: 20px sans-serif;		
+    background: lightgrey;	
+    border: 0px;		
+    border-radius: 8px;			
+    pointer-events: none;			
+}
+
+#title {
+	position:fixed;
+	top:0px;
+	left:0px;
+	height:50px;
+	width:100%;
+	background-color: darkblue;
+	z-index:10;
+}
+
+#dropdowns {
+	position:fixed;
+	top:10px;
+	left:50%;
+	height:10%;
+	width:80%;
+	z-index: 100
+}
+
+#viz {
+	position:fixed;
+	top:40px;
+	bottom:20px;
+	left:10%;
+	width:80%
+}
+
+.y_axis_label {
+	font-size: 1.5em;
+	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.x_axis_label {
+	font-size: 1.5em;
+	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+	line-height: 50px;
+    height: 50px;
+}
+
+/*.tick {
+	font: 14px sans-serif;
+
+}*/
+
+.valueLabel {
+	font-size: 2em;
+	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+
+
+table.blueTable {
+  border: 1px solid #1C6EA4;
+  background-color: #EEEEEE;
+  width: 100%;
+  text-align: left;
+  border-collapse: collapse;
+}
+table.blueTable td, table.blueTable th {
+  border: 1px solid #AAAAAA;
+  padding: 3px 5px;
+}
+table.blueTable tbody td {
+  font-size: 18px;
+}
+table.blueTable tr:nth-child(even) {
+  background: #D0E4F5;
+}
+table.blueTable thead {
+  background: #1C6EA4;
+  background: -moz-linear-gradient(top, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
+  background: -webkit-linear-gradient(top, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
+  background: linear-gradient(to bottom, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
+  border-bottom: 2px solid #444444;
+}
+table.blueTable thead th {
+  font-size: 20px;
+  font-weight: bold;
+  color: #FFFFFF;
+}
+table.blueTable tfoot td {
+  font-size: 16px;
+}
+table.blueTable tfoot .links {
+  text-align: right;
+}
+table.blueTable tfoot .links a{
+  display: inline-block;
+  background: #1C6EA4;
+  color: #FFFFFF;
+  padding: 2px 8px;
+  border-radius: 5px;
+}

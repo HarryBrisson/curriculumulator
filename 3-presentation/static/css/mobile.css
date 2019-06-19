@@ -1,0 +1,27 @@
+
+
+#left-column {
+	position: relative;
+}
+
+#right-column {
+	position: relative;
+}
+
+
+
+table.blueTable thead th {
+  font-size: 9px;
+  font-weight: bold;
+  color: #FFFFFF;
+}
+
+table.blueTable tbody td {
+  font-size: 9px;
+}
+
+table.blueTable tfoot td {
+  font-size: 9px;
+}
+
+
