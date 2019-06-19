@@ -1,0 +1,1 @@
+note: authorizations (eg. api keys) are not included in this github repo & will need to be sourced separately; apis needed may include youtube-api, aws api, etc.

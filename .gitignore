@@ -2,3 +2,4 @@
 *.ipynb
 *.pyc
 1-collection/data/rate-my-professor/*.json
+*/authorizations/*.json
