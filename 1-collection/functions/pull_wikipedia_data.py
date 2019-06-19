@@ -78,3 +78,9 @@ def get_annual_views_for_article(article,year):
   for m in month_data:
     views += m['views']
   return views
+
+def get_annual_views_for_query(query,year):
+	pageid = get_articles_data_from_search_query(query)['search'][0]['pageid']
+	article = get_url_stem_from_pageid(pageid)
+	views = get_annual_views_for_article(article,year)
+	return views
