@@ -39,7 +39,7 @@ def main():
     summary = summarize_rmp_data()
     store_list_of_departments(summary)
     behaviors = pd.read_csv('../1-collection/data/behaviors.csv').set_index('dept')
-    behaviors = behaviors.drop('0: Untitled',axis=1)
+    behaviors = behaviors.drop('Unnamed: 0',axis=1)
     summary = summary.join(behaviors)
     summary.columns = [c.replace("'",'') for c in summary.columns]
     summary.to_csv('../3-presentation/static/data/summary.csv')
