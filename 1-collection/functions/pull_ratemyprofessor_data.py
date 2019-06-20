@@ -150,7 +150,7 @@ def combine_json_files(start,end):
 
 
 def main():
-    for i in range(850,2000):
+    for i in range(851,2000):
         try:
             store_data_for_sid(i)
         except Exception as e:
