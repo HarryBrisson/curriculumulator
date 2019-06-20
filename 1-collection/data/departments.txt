@@ -2,6 +2,7 @@ Accounting
 Anthropology
 Architecture
 Art
+Art & Design
 Art History
 Aviation
 Bible, Missions & Ministry
@@ -20,6 +21,7 @@ Design
 Ear Training
 Economics
 Education
+Electrical Engineering
 Engineering
 English
 Ethnic Studies
@@ -38,6 +40,7 @@ Hospitality
 Humanities
 Illustration
 Information Science
+Information Systems
 International Studies
 Journalism
 Languages
@@ -48,10 +51,12 @@ Marketing
 Mathematics
 Medicine
 Music
+Natural Sciences
 Not Specified
 Nursing
 Philosophy
 Physical Ed
+Physical Education
 Physics
 Political Science
 Psychology
@@ -62,6 +67,7 @@ Social Science
 Social Work
 Sociology
 Spanish
+Statistics
 Theater
 Theology
 Women's Studies
