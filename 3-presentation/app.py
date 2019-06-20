@@ -25,6 +25,16 @@ def ranker():
          )
 
 
+@app.route('/explorer')
+def explorer():
+    
+    data = get_curriculumulator_data()
+
+    return render_template('biplot.html',
+         data_string = data['data_string'],
+         option_list = data['option_list'],
+         )
+
 
 if __name__ == '__main__':
     app.run(debug=True)
