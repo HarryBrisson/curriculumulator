@@ -155,7 +155,7 @@ def main():
             store_data_for_sid(i)
         except Exception as e:
             print(e)
-        if (i-1)%50 == 0:
+        if i%50 == 0:
             combine_json_files(i-50,i)
 
 
