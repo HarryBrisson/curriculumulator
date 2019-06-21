@@ -101,6 +101,7 @@ function initialize_visualization(data) {
   // this presets the low and high end to reflect the data
   xScale.domain(d3.extent(data, function(d) { return d[x_variable]; })).nice();
   yScale.domain(d3.extent(data, function(d) { return d[y_variable]; })).nice();
+  zScale.domain(d3.extent(data, function(d) { return d['professors']; })).nice();
 
   // x axis & labeling
   // creating a svg group
@@ -143,7 +144,7 @@ function initialize_visualization(data) {
       .data(data)
     .enter().append("circle")
       .attr("class", "dot")
-      .attr("r", function(d) { return 5 })
+      .attr("r", function(d) { return zScale(d['professors']) })
       .attr("cx", function(d) { return xScale(d[x_variable]); })
       .attr("cy", function(d) { return yScale(d[y_variable]); })
       .style("fill", function(d) { return "blue" })
