@@ -10,6 +10,24 @@ function get_viz_size() {
   }
 }
 
+function get_format(variable){
+  if (variable.includes("%")){
+    return d3.format(".1%");
+  }
+  if (variable.includes("tag")){
+    return d3.format(".1%");
+  }
+  if (variable.includes("$")){
+    return d3.format("$,.0d");
+  }
+  if (variable.includes("#")){
+    return d3.format(",.0d");
+  }
+  else {
+    return d3.format(",.2f")
+  }
+}
+
 function initialize_tooltip() {
   // Define the div for the tooltip
   var tooltip = d3.select("#viz").append("div") 
@@ -24,6 +42,9 @@ function tooltip_on(d) {
   // get default values
   var x_variable = document.getElementById("x_dropdown").value
   var y_variable = document.getElementById("y_dropdown").value
+
+  var x_format = get_format(x_variable)
+  var y_format = get_format(y_variable)
 
   // could possibly use absolute position if this wasn't attached to a div?
   viz_top = document.getElementById('viz').getBoundingClientRect().top
