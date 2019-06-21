@@ -30,7 +30,7 @@ def get_recent_tweets(q):
 	}
 	auth = get_twitter_auth()
 	r = requests.get(url, params=params, auth=auth)
-	time.sleep(5)
+	time.sleep(3)
 	return r.json()
 
 def get_df_of_recent_tweets(q):
