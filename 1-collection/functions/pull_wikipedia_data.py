@@ -7,7 +7,7 @@ import requests
 def get_monthly_data_for_topic(topic):
   url = f'https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/{article}/monthly/2016010100/2019123100'
   r = requests.get(url)
-  time.sleep(3)
+  time.sleep(2)
   return r.json()
 
 
@@ -29,7 +29,7 @@ def get_articles_data_from_search_query(q):
   r = requests.get(url=URL, params=PARAMS)
   search_data = r.json()['query']
 
-  time.sleep(3)
+  time.sleep(2)
 
   return search_data
 
@@ -54,7 +54,7 @@ def get_url_stem_from_pageid(pageid):
 
   stem = data['query']['pages'][str(pageid)]['canonicalurl'].split('/')[-1]
 
-  time.sleep(3)
+  time.sleep(2)
 
   return stem
 
@@ -62,10 +62,12 @@ def get_url_stem_from_pageid(pageid):
 
 def get_monthly_data_for_article(article,start='20180101',end='20181231'):
 
+  print(f'pulling {article} data')
+
   url = f'https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/{article}/monthly/{start}/{end}'
   r = requests.get(url)
 
-  time.sleep(3)
+  time.sleep(2)
 
   return r.json()['items']
 
