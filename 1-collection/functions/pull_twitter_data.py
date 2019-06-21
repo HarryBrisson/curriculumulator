@@ -21,6 +21,7 @@ def get_twitter_auth():
 	return auth
 
 def get_recent_tweets(q):
+	print(f'pulling {q} tweets')
 	url = 'https://api.twitter.com/1.1/search/tweets.json'
 	params = {
 		'q':q,
