@@ -78,8 +78,9 @@ function initialize_visualization(data) {
 
 
   // setting scale based on formating
-  var xScale = d3.scalePow().exponent(.5).range([0, width]);
-  var yScale = d3.scalePow().exponent(.5).range([height, 0]);
+  var xScale = d3.scaleLinear().range([0, width]);
+  var yScale = d3.scaleLinear().range([height, 0]);
+  var zScale = d3.scalePow().exponent(.5).range([1, 50]);
 
 
   //create the axes
