@@ -21,6 +21,10 @@ function initialize_tooltip() {
 function tooltip_on(d) {    
   div = d3.select("#tooltip")
 
+  var variable = get_variable()
+  var format = get_format(variable)
+
+
   // could possibly use absolute position if this wasn't attached to a div?
   viz_top = document.getElementById('viz').getBoundingClientRect().top
   viz_left = document.getElementById('viz').getBoundingClientRect().left
@@ -29,9 +33,10 @@ function tooltip_on(d) {
   div.transition()    
       .duration(200)    
       .style("opacity", .9);    
-  div.html("<b>" + d.title + "</b><br>"  + d.views.toLocaleString())  
+  div.html("<b>" + d["dept"] + "</b><br>" + format(d[variable]))  
       .style("left", (d3.event.pageX-viz_left) + "px")   
-      .style("top", (d3.event.pageY-viz_top-28) + "px");  
+      .style("top", (d3.event.pageY-viz_top-28) + "px"); 
+
 };
 
 function tooltip_off(d) {   
@@ -39,6 +44,7 @@ function tooltip_off(d) {
   div.transition()    
       .duration(500)    
       .style("opacity", 0); 
+  update_barchart(data)
 };
 
 function initialize_visualization(data) {
