@@ -54,7 +54,7 @@ function tooltip_on(d) {
   div.transition()    
       .duration(200)    
       .style("opacity", .9);    
-  div.html("<b>" + d["dept"] + "</b><br>" + d[x_variable])
+  div.html("<b>" + d["dept"] + "</b>")
       .style("left", (d3.event.pageX-viz_left) + "px")   
       .style("top", (d3.event.pageY-viz_top-28) + "px"); 
 
