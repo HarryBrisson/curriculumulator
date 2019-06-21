@@ -21,9 +21,9 @@ function initialize_tooltip() {
 function tooltip_on(d) {    
   div = d3.select("#tooltip")
 
-  var variable = get_variable()
-  var format = get_format(variable)
-
+  // get default values
+  var x_variable = document.getElementById("x_dropdown").value
+  var y_variable = document.getElementById("y_dropdown").value
 
   // could possibly use absolute position if this wasn't attached to a div?
   viz_top = document.getElementById('viz').getBoundingClientRect().top
@@ -33,7 +33,7 @@ function tooltip_on(d) {
   div.transition()    
       .duration(200)    
       .style("opacity", .9);    
-  div.html("<b>" + d["dept"] + "</b><br>" + format(d[variable]))  
+  div.html("<b>" + d["dept"] + "</b><br>" + d[x_variable])
       .style("left", (d3.event.pageX-viz_left) + "px")   
       .style("top", (d3.event.pageY-viz_top-28) + "px"); 
 
