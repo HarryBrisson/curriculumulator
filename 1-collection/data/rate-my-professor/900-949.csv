@@ -1,0 +1,800 @@
+,campus_id,campus_name,dept,difficulty,name,quality,rating_count,retake,tag_accessibleoutsideclass,tag_amazinglectures,tag_bewareofpopquizzes,tag_caring,tag_cleargradingcriteria,tag_extracredit,tag_getreadytoread,tag_givesgoodfeedback,tag_gradedbyfewthings,tag_groupprojects,tag_hilarious,tag_inspirational,tag_lectureheavy,tag_lotsofhomework,tag_participationmatters,tag_respected,tag_skipclassyouwon'tpass,tag_somanypapers,tag_testheavy,tag_toughgrader,tid
+0,900,Siena College,History,3.8,Robert Nartey,1.8,142,23%,2,,,,4,,21,2,4,,,,9,,6,1,13,2,2,22,8842
+1,900,Siena College,Marketing,4.4,Mr. Mahaffey,2.7,130,N/A,,,,1,,,,1,,,,,,,,1,2,,,1,12605
+2,900,Siena College,Accounting,4.5,Don Raux,1.9,107,N/A,,,,,,,,,,,,,,,,,,,,,51579
+3,900,Siena College,Theology,3.9,Michael Dick,3.6,106,N/A,,,,,,,,,,,,,,,,,,,,,51414
+4,900,Siena College,Economics,2.6,W. Scott Trees,4.5,89,100%,,5,,2,,,1,2,,,7,3,2,,2,5,2,,,2,51764
+5,900,Siena College,Psychology,2.9,Tom Swan,4.0,83,N/A,1,1,,2,2,,2,2,,,7,,,,2,4,,,,,51399
+6,900,Siena College,Philosophy,4.0,Julian Davies,2.5,78,N/A,,,,,,,2,,,,,1,,,1,,2,,,3,51340
+7,900,Siena College,Mathematics,3.4,Mr. Franko,3.6,76,80%,1,,,3,2,,,3,2,,2,1,1,1,,,4,,,3,12606
+8,900,Siena College,English,3.1,Christiane Farnan,4.8,71,91%,1,3,,7,,,4,5,1,,11,6,,,4,7,,,,1,51703
+9,900,Siena College,Psychology,3.5,Betty Bachman,3.2,70,20%,,,,,,1,,1,2,,,,,,7,,6,,2,8,51396
+10,900,Siena College,Theology,3.8,James Dalton,2.6,70,N/A,,,,,,,,,,,,,,,,,,,,,51717
+11,900,Siena College,Economics,3.0,Edward Howe,3.0,68,N/A,,,,,,,,1,,,,,,,,1,,,,,51339
+12,900,Siena College,Theology,3.9,Merle Longwood,1.6,68,N/A,,,,,,,,,,,,,,1,,,1,,,,51406
+13,900,Siena College,Theology,3.6,Fareed Munir,3.0,67,50%,,1,,,,,4,2,,,,1,,1,11,1,6,3,,12,51553
+14,900,Siena College,Philosophy,3.3,John Burkey,4.3,67,N/A,1,,,,,,2,1,2,,,1,1,,5,1,,,,3,51701
+15,900,Siena College,Business,3.3,John O'Neill,4.0,67,N/A,,,,2,,,,3,,,3,,,2,,2,1,,,1,52150
+16,900,Siena College,Theology,2.7,Peter Ellard,4.5,65,N/A,,1,,1,,,1,,,,,,,,1,1,,1,,,51352
+17,900,Siena College,Religion,3.1,Peter Zaas,2.8,63,22%,1,,,,1,,1,1,7,,3,,12,1,,,9,4,1,16,677842
+18,900,Siena College,Mathematics,3.3,Warren Mannix,3.6,60,N/A,,,,1,,,,1,,,,1,,,1,,,,,2,51342
+19,900,Siena College,Mathematics,2.9,Carol Venezio,3.9,60,67%,3,,1,2,1,3,,3,,,,,2,4,,1,3,,,4,51387
+20,901,Silver Lake College,English,4.0,Vicki Ansorge,4.8,9,N/A,,,,,,,,,,,,,,,,,,,,,806603
+21,901,Silver Lake College,English,2.5,Tom Maltman,4.1,6,N/A,,,,1,1,,,1,,,,,,,,,,,,,811800
+22,901,Silver Lake College,Mathematics,1.5,Steve Kuehl,4.5,2,N/A,1,,,,,,,2,,,,,,2,,,1,,,,1847261
+23,901,Silver Lake College,Psychology,3.5,Elizabeth Dendekker,5.0,2,N/A,1,1,,,,,,1,,,,1,,,,2,,,,,2021202
+24,901,Silver Lake College,English,3.0,Mark Heimermann,3.5,2,N/A,1,,,,,,1,2,,,,,,1,1,,,,,,2298384
+25,901,Silver Lake College,History,3.5,Katie Walkner,4.5,2,N/A,,,,1,,,1,1,,,,,1,,,1,,,,1,2331119
+26,901,Silver Lake College,English,3.0,Erik Tschekunow Tschekunow,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1412546
+27,901,Silver Lake College,Music,2.0,Melissa Martiros,4.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1420048
+28,901,Silver Lake College,Nursing,4.0,Melissa Hamachek,4.0,1,N/A,,,,,1,,,1,,,1,,,,,,,,,,2452492
+29,902,Simmons University,Psychology,3.2,Geoffrey Turner,3.5,70,57%,5,7,,2,2,2,4,,3,,4,,2,2,2,1,1,,1,6,162329
+30,902,Simmons University,Communication,1.7,Bob White,3.0,59,60%,,1,,,,1,,,3,,4,,,,,,1,,,1,189273
+31,902,Simmons University,Chemistry,3.9,Rich Gurney,4.3,56,100%,5,1,,2,2,,,3,,,,,,3,1,1,2,1,,2,271037
+32,902,Simmons University,Chemistry,4.6,Nancy Lee,3.6,53,67%,2,,,1,1,,1,4,,,,1,1,8,,3,6,,1,7,330209
+33,902,Simmons University,Political Science,3.8,Zachary Abuza,3.7,48,N/A,,,,,,,,1,,,,,,,1,1,,,,,111525
+34,902,Simmons University,Economics,2.4,Masato Aoki,3.6,47,40%,1,,,1,,1,,1,,,1,,,,1,1,1,,,1,111521
+35,902,Simmons University,English,3.8,Richard Wollman,3.3,45,N/A,,,,,,,3,1,,,1,,1,,1,,3,,,1,395774
+36,902,Simmons University,Communication,3.0,Edward Vieira,4.4,45,N/A,,4,,3,,,,2,,,,1,1,,1,5,,,,,874310
+37,902,Simmons University,Sociology,2.6,Stephen London,2.6,43,N/A,,1,,2,,,,1,,,,1,,,,,,,,,11480
+38,902,Simmons University,English,4.0,Kelly Hager,3.5,38,N/A,1,1,,,,,5,4,,,,1,1,,1,,,,,1,162328
+39,902,Simmons University,Economics,3.9,Niloufer Sohrabji,4.7,37,N/A,,,,,,,,1,,,,,,,,1,,,,1,163966
+40,902,Simmons University,Psychology,3.6,Rachel Galli,3.3,35,N/A,,1,,,,1,,,2,,2,,2,,,,1,,,4,186402
+41,902,Simmons University,Chemistry,3.5,Michael Berger,3.0,33,N/A,2,,,2,,,2,1,,,1,,1,5,1,,2,,1,5,744013
+42,902,Simmons University,Mathematics,3.6,Michael Brown,2.9,31,71%,2,,,4,3,,1,1,,,,1,1,4,,,1,,,1,528337
+43,902,Simmons University,Biology,2.6,Elizabeth Scott,4.3,30,100%,1,2,1,1,1,,,2,,1,1,1,1,,,1,2,,,,162814
+44,902,Simmons University,Political Science,2.2,Leanne Doherty,4.3,30,N/A,,,,,,,,,,,,,,,,,,,,,178127
+45,902,Simmons University,Mathematics,3.1,Robert Goldman,4.4,29,N/A,,1,,1,,,,,,1,4,1,,1,,4,1,,,,162669
+46,902,Simmons University,Chemistry,3.8,Cheryl Lavoie,4.4,29,80%,3,3,,4,2,,,3,,,,,3,,,,4,1,,3,1357266
+47,902,Simmons University,Art,4.1,Margaret Hanni,3.7,28,N/A,,,,,,,2,,,,,,1,,2,,1,1,,4,99504
+48,902,Simmons University,Political Science,2.7,Kirk Beattie,4.2,28,N/A,,,,1,,,,,,,,1,,,,,,,1,,111522
+49,903,Bard College at Simon's Rock,Psychology,2.6,Anne O'Dwyer,4.7,33,100%,1,3,,2,,,,2,,,1,1,,,1,4,,,,,54054
+50,903,Bard College at Simon's Rock,Science,2.6,Robert Schmidt,4.3,28,N/A,,,,,,,,,,,,,,,,,,,,,54540
+51,903,Bard College at Simon's Rock,English,2.3,Jenny Browdy De Hernandez,3.3,23,N/A,1,,,,,,2,,,2,,,,,1,,1,,,1,54508
+52,903,Bard College at Simon's Rock,Law,4.0,Barbara Resnik,3.3,23,N/A,,,,,,,,,,,,,,,,,,,,,54524
+53,903,Bard College at Simon's Rock,English,3.8,Jamie Hutchinson,4.0,22,N/A,1,1,,,,,2,1,,,1,1,,,,1,,,,,54515
+54,903,Bard College at Simon's Rock,Mathematics,3.4,William Dunbar,2.7,21,N/A,,,,,,1,,,,,1,,1,,,,,,,,54055
+55,903,Bard College at Simon's Rock,Philosophy,3.1,Samuel Ruhmkorff,4.7,21,N/A,,,,,,,,,,,,,,,,,,,,,54087
+56,903,Bard College at Simon's Rock,Languages,3.8,Gabriel Asfar,4.2,21,N/A,,,,,,,,,,,,,,,,,,,,,54506
+57,903,Bard College at Simon's Rock,Psychology,2.8,David Laberge,3.3,20,N/A,,,,,,,,,,,,,,,,,,,,,54518
+58,903,Bard College at Simon's Rock,Languages,3.6,Chris Callanan,4.5,19,N/A,,1,,,,,,,,,2,,1,,,1,1,,,3,54509
+59,903,Bard College at Simon's Rock,Science,4.1,David Myers,4.2,18,N/A,,,,,,,,,,,,,,,,,,,,,54523
+60,903,Bard College at Simon's Rock,Languages,3.1,Maryann Tebben,4.4,18,N/A,1,,2,2,1,,,1,,,,,,2,,,1,,1,,54528
+61,903,Bard College at Simon's Rock,Social Science,1.9,Nancy Bonvillain,4.5,17,N/A,,1,,,,,,,,,1,1,,,,,,,,,54051
+62,903,Bard College at Simon's Rock,Anthropology,3.4,Paul Naamon,4.3,17,N/A,,,,,,,,,,,,,,,,,,,,,54052
+63,903,Bard College at Simon's Rock,Theater,1.9,Wendy Shifrin,4.6,17,N/A,,,,,,,,,,,,,,,,,,,,,54056
+64,903,Bard College at Simon's Rock,English,2.2,Rebecca Fiske,4.8,17,N/A,,,,5,,,,2,,,1,3,,,2,2,,,,,54091
+65,903,Bard College at Simon's Rock,Science,2.9,Emmanuel Dongala,2.5,17,N/A,,,,,,,,,,,,,,,,,,,,,54107
+66,903,Bard College at Simon's Rock,Languages,2.9,Colette Van Kerckvoorde,4.6,17,N/A,,,,,,,,,,,,,,1,,,1,,1,,54110
+67,903,Bard College at Simon's Rock,English,3.1,Peter Filkins,2.8,17,N/A,,1,,,1,,1,,,,,,,,1,,1,,,1,54512
+68,903,Bard College at Simon's Rock,History,3.4,Nancy Yanoshak,4.6,17,N/A,,,,,,,,,,,,,,,,,,,,,54531
+69,904,Simpson College,Music,2.8,Ron Albrecht,4.3,30,N/A,,1,,,1,,,2,,,1,3,,,,2,,,,2,93508
+70,904,Simpson College,English,3.5,Nancy St. Clair,3.4,24,N/A,,,,,,,,,,,,,,,,,,,,,86594
+71,904,Simpson College,History,3.9,Nicolas Proctor,4.7,23,N/A,,1,,1,,,,,,,1,,,,,,,,,,80822
+72,904,Simpson College,Music,2.8,Timothy McMillin,4.1,23,N/A,,,,1,,,,,,,,1,,,,1,,,,,465518
+73,904,Simpson College,Theology,2.9,Gary Kinkel,4.5,17,N/A,,,,,,,,,,,,,,,,,,,,,75312
+74,904,Simpson College,Music,4.3,Robert Larsen,4.0,17,N/A,,1,,,,,,,,,,,,,,,,,,1,93503
+75,904,Simpson College,Sociology,2.9,Mark Freyberg,4.0,17,N/A,,,,1,,,,2,,,1,,,,2,,,,,,378600
+76,904,Simpson College,Social Science,1.8,Lora Friedrich,2.9,16,N/A,,,,,,,,,,,,,,,,,,,,,86728
+77,904,Simpson College,English,1.9,Tara Wendel-Riddle,3.8,16,N/A,1,,,,,,,,,1,,,,,1,,,,,,533296
+78,904,Simpson College,Chemistry,2.7,Werner Kolln,3.8,15,N/A,,,,,,,,,,,,,,,,,,,,,76411
+79,904,Simpson College,Psychology,3.1,Don Evans,3.7,15,N/A,1,,,1,,,,,,,,1,,,,,,,,,317565
+80,904,Simpson College,English,3.1,David Wolf,4.0,15,N/A,,,,,,,,,,,,,,,,,,,,,599890
+81,904,Simpson College,Business,3.6,Mark Green,3.1,14,N/A,,,,,,,2,,1,,,,1,,,1,1,,,,74527
+82,904,Simpson College,Science,4.1,Cliff Meints,2.5,14,N/A,,,,,,,,,,,,,,,,,,,,,76412
+83,904,Simpson College,Philosophy,3.1,John Pauley,4.4,14,N/A,,,,,,,,1,,,1,,,,,1,,,,,557949
+84,904,Simpson College,Education,3.2,Steve Rose,2.5,13,N/A,,,,,,,,,,,,,,,,,,,,,76308
+85,904,Simpson College,Theater,2.4,Ann Woldt,4.1,13,N/A,,,,,,,,,,,,,,,,,,,,,275085
+86,904,Simpson College,Languages,2.9,Mark Bates,3.9,12,N/A,,,,,,,,,,,,,,,,,,,,,76327
+87,904,Simpson College,Science,3.7,Jacqueline Brittingham,3.9,12,N/A,,,,,,,,,,,,,,,,,,,,,76798
+88,904,Simpson College,Music,2.7,Michael Patterson,4.3,12,N/A,,1,,2,1,,,1,,,,3,1,,1,3,4,,,,93524
+89,905,Simpson University,History,3.3,Don Claspill,4.0,29,N/A,,,,,,,,,,,,,1,,,,1,,1,,420802
+90,905,Simpson University,Religion,2.9,Glenn Schaefer,4.6,26,N/A,,,,,,,,,,,,,,,,,,,,,420821
+91,905,Simpson University,Religion,4.0,Craig Slane,4.4,23,N/A,,1,,,,,,,,,,,,,,1,,,,,420810
+92,905,Simpson University,History,2.7,Robin Dummer,4.6,20,N/A,,,,,,,,,,,,,,,,,,,,,420790
+93,905,Simpson University,Religion,3.3,Jack Painter,3.7,16,N/A,1,1,1,,,,1,,,,,,,,1,,,,1,,693559
+94,905,Simpson University,Communication,3.8,Dan Berger,3.1,15,N/A,,,,,,,1,,,,,,1,,,,,,,1,681932
+95,905,Simpson University,English,3.4,Brian Larsen,3.5,14,N/A,,,,,1,,,1,,,,,,,,,1,,,,918292
+96,905,Simpson University,Women's Studies,3.1,Cindy Strong,4.5,13,N/A,,,,,,,,,,,,,,,,,,,,,379695
+97,905,Simpson University,History,3.8,John Whitmer,3.3,13,N/A,,,,,,,,,,,,,,,,,,,,,420799
+98,905,Simpson University,Business,3.9,Gary Schmidt,2.6,13,N/A,,,,,,,,,,,,,,,,,,,,,714703
+99,905,Simpson University,Science,4.3,Pam Van Der Werff,4.2,11,N/A,,,,,,,,1,,,1,,,,,,1,,,,703512
+100,905,Simpson University,History,3.9,Jean Kachiga,4.0,10,N/A,,,,,,,,,,,,,,,,,,,,,715884
+101,905,Simpson University,English,3.7,Mardy Philippian Jr.,4.6,9,N/A,,,,,,,,,,,,,,,,,,,,,688194
+102,905,Simpson University,English,2.9,Shellie J Camarillo,4.3,9,100%,1,,,2,4,,3,3,,1,2,1,,,,2,1,,,,2478697
+103,905,Simpson University,English,3.0,Timothy Carlisle,3.7,8,N/A,,,,,,,,,,,,,,,,,,,,,717856
+104,905,Simpson University,Biology,4.5,Trent Smith,1.8,8,N/A,,,,,,,,,1,,,,2,,,,,,2,3,1260617
+105,905,Simpson University,Religion,3.4,Michelle Stinson,4.8,8,N/A,,2,1,,1,,,,,,,,,,,,2,,1,,1441494
+106,905,Simpson University,Business,2.0,Wally Quirk,4.8,6,N/A,,,,,,,,,,,,,,,,,,,,,635819
+107,905,Simpson University,Religion,3.0,Bill Griffen,3.8,6,N/A,,1,,1,,,1,,,,,2,,,1,1,,,,,663968
+108,905,Simpson University,Physics,4.2,Mike Huster,2.5,6,N/A,,,,,,,,,,,,,,,,,,,,,689567
+109,907,Skidmore College,Psychology,3.4,Sheldon Solomon,4.3,51,N/A,,6,,1,,,1,4,,,6,2,,,1,2,,,,5,907
+110,907,Skidmore College,Fine Arts,3.8,Joanne Vella,3.4,41,82%,1,,,11,,1,2,6,,1,,8,,6,,2,6,,,7,315331
+111,907,Skidmore College,English,3.8,Tom Lewis,3.1,37,N/A,,,,,,,,1,,,,,1,,1,,,,,,151715
+112,907,Skidmore College,English,3.2,Linda Hall,4.8,36,100%,,,,4,,1,,6,,,5,1,,,1,3,,1,,4,549667
+113,907,Skidmore College,English,2.0,Francois Bonneville,3.5,35,N/A,,,,,,,2,2,,,,,,,,,1,,,1,496843
+114,907,Skidmore College,Political Science,3.9,Timothy Burns,4.1,34,N/A,,,,,,,,,,,,,,,,,,,,,150553
+115,907,Skidmore College,English,3.6,Barbara Black,4.1,32,N/A,,,,,,,,1,,,,1,,,,,,,,1,54360
+116,907,Skidmore College,Philosophy,4.2,Joel Smith,3.6,32,N/A,,,,,,,1,,2,,,,,2,,,1,,,,150908
+117,907,Skidmore College,Fine Arts,3.9,Katie Hauser,3.1,32,N/A,,,,,,,,,,,,,,,,,1,,,1,273760
+118,907,Skidmore College,English,4.3,Janet Casey,3.3,32,N/A,1,,,,,,1,2,,1,,,,,3,2,1,,,,362915
+119,907,Skidmore College,Classics,2.9,Michael Arnush,3.5,30,13%,,,,1,,,3,2,1,,,,3,,1,2,2,,1,,54363
+120,907,Skidmore College,Education,3.8,Susan Lehr,3.0,30,N/A,,,,,,,,,,,,,,,,,,,,,185927
+121,907,Skidmore College,Psychology,3.7,Hassan Lopez,4.1,29,83%,1,3,,,1,,,,,,,2,1,,,2,5,2,,3,792502
+122,907,Skidmore College,Economics,3.5,Roy Rotheim,3.1,28,N/A,1,3,,2,,,,,,,,3,,,1,2,,,,,59783
+123,907,Skidmore College,English,3.7,Susannah Mintz,4.4,28,N/A,,,,,,,,,,,,1,,,1,1,,,,,237696
+124,907,Skidmore College,Theater,1.6,Lary Opitz,2.4,27,N/A,,,,,,,,,,,1,,3,,,1,,,,,389609
+125,907,Skidmore College,English,2.4,Victor Cahn,4.7,26,N/A,,,,,,,,,,,,,,,,,,,,,19048
+126,907,Skidmore College,Political Science,4.2,Bob Turner,4.3,26,100%,1,2,,2,,,2,2,,,3,,,,2,4,,1,,5,48816
+127,907,Skidmore College,Chemistry,3.2,Steven Frey,4.8,26,N/A,,1,,1,,,,2,,,1,1,,,,3,1,,,,148515
+128,907,Skidmore College,History,3.6,Matthew Hockenos,4.5,26,N/A,,,,,1,,3,2,,,,,1,1,,1,,,,,156959
+129,908,Slippery Rock University,Business,2.5,Roger Solano,4.4,257,98%,2,6,,14,20,1,1,15,2,,28,11,,45,15,20,70,,,4,1340000
+130,908,Slippery Rock University,Geology,3.5,Patrick Burkhart,3.6,163,48%,1,5,20,5,1,,11,,1,,,7,14,1,2,4,26,,3,20,8504
+131,908,Slippery Rock University,Fine Arts,1.7,Kurt Pitluga,4.5,152,94%,,6,,1,2,22,1,,5,,27,,8,,,9,15,,2,1,126501
+132,908,Slippery Rock University,English,2.9,Vernice Cain,2.6,116,N/A,,,,1,,,1,3,,,1,,1,,2,1,1,,,2,46895
+133,908,Slippery Rock University,History,3.7,Michael Matambanadzo,2.4,109,N/A,,,,,,,1,,,,,,,,1,,,,,,148252
+134,908,Slippery Rock University,Communication,3.9,James Laux,3.6,105,N/A,,1,,,,,1,1,,,,2,,,,2,,1,,5,124288
+135,908,Slippery Rock University,English,3.2,Jane Lasarenko,2.3,103,N/A,,,,,,,4,,5,2,,,1,4,1,,4,2,,3,172768
+136,908,Slippery Rock University,History,2.4,Thomas Pearcy,4.3,101,62%,1,4,,,1,,4,,,,8,2,5,1,1,1,2,,4,2,142013
+137,908,Slippery Rock University,Economics,3.8,Fred Tannery,2.1,101,N/A,1,,,2,,2,1,,1,,1,,3,1,,1,2,,,7,171073
+138,908,Slippery Rock University,English,1.7,Myra Balok,4.8,98,N/A,,,,8,1,,,4,,,,6,,,2,7,,,,,87016
+139,908,Slippery Rock University,English,3.0,Rachela Permenter,4.2,97,80%,,2,4,7,,,12,9,3,,6,5,,5,1,6,3,1,,5,179826
+140,908,Slippery Rock University,English,4.4,Robert Crafton,2.6,96,N/A,,,,,,,5,1,,,,,1,,,,1,2,,6,107352
+141,908,Slippery Rock University,History,3.2,Alan Levy,3.3,95,82%,1,3,,,,1,1,4,3,,,2,11,,,3,5,,2,5,107359
+142,908,Slippery Rock University,English,3.1,Frederick White,3.3,94,58%,,3,,4,2,,3,6,,,3,3,1,4,6,1,18,3,,15,1342113
+143,908,Slippery Rock University,English,2.9,Sunita Peacock,2.3,93,12%,,,2,,,,17,1,4,3,1,1,,7,9,,6,3,,14,73434
+144,908,Slippery Rock University,English,2.0,James Strickland,4.5,93,91%,,2,,16,16,,1,19,,,8,4,,11,2,9,,3,,,173082
+145,908,Slippery Rock University,Psychology,3.6,Linda Veronie,4.0,93,100%,2,5,1,9,,3,3,4,,,2,3,1,1,2,8,5,,,6,151633
+146,908,Slippery Rock University,English,3.5,Derrick Pitard,3.6,85,56%,1,1,,2,1,1,10,7,1,,6,1,1,2,3,4,4,1,1,9,107354
+147,908,Slippery Rock University,English,2.9,Cindy Lacom,4.7,81,86%,2,6,2,,1,,5,4,,,,3,,1,3,2,,1,,,11631
+148,908,Slippery Rock University,History,2.3,Carlis White,4.3,80,80%,1,3,,6,3,4,3,2,2,,3,1,7,,,5,1,1,1,3,186216
+149,910,Smith College,Economics,2.7,James Miller,3.7,61,40%,,1,,1,5,,2,1,2,,2,2,5,,,2,,,,1,84718
+150,910,Smith College,Chemistry,4.0,Robert Linck,3.5,53,N/A,,2,,2,,,,1,1,,1,1,,3,,,4,,,6,86209
+151,910,Smith College,Political Science,3.3,Gary Lehring,3.5,48,60%,,4,,,,,3,1,,,2,1,,,4,1,2,,,2,84609
+152,910,Smith College,Biological Sciences,4.0,Richard Thomas Briggs,3.4,45,N/A,,,,,1,,,,,,,,,,,,1,,2,1,85732
+153,910,Smith College,English Language & Literature,2.7,Craig R. Davis,4.8,44,N/A,,3,,3,2,,3,5,,,3,2,,,4,1,,,,,136068
+154,910,Smith College,Psychology,2.2,Byron L Zamboanga,3.9,44,N/A,1,,,,1,,1,3,,,1,,,,,1,,,,,1172410
+155,910,Smith College,Sociology,3.5,Jon Wynn,2.9,43,N/A,,,,,,,,,,,,,,,,,,,,,908629
+156,910,Smith College,Mathematics,4.3,Sarah-M. Belcastro,2.2,43,N/A,,,,,,,,,,,,,,,,,1,,,2,912900
+157,910,Smith College,Film,3.5,Alexandra Keller,3.2,42,N/A,,,,,,,,,,,,,,,,,,,,,84836
+158,910,Smith College,Biology,4.2,Michael Barresi,3.0,42,73%,1,7,,5,,1,3,1,,1,2,5,,,5,1,7,,1,12,673285
+159,910,Smith College,Political Science,3.6,Pat Coby,4.1,41,N/A,2,1,,,,,6,3,,,,1,2,3,1,4,3,1,,2,25603
+160,910,Smith College,Psychology,2.6,Beth Powell,4.4,41,100%,,8,,3,3,4,,3,,2,6,5,1,,,3,2,,1,1,84842
+161,910,Smith College,Chemistry,3.6,Kevin Michael Shea,4.7,40,100%,3,1,,4,,,,1,,,1,4,,,,4,3,,,2,86208
+162,910,Smith College,Mathematics,3.0,Jim Henle,4.1,39,N/A,,3,,,,,,2,,1,3,1,1,1,,2,,,,1,64860
+163,910,Smith College,Mathematics,3.1,Mary Murphy,3.9,39,N/A,,,,,,1,,,,,,,,1,,,,,,,279324
+164,910,Smith College,Political Science,2.5,Donald Baumer,4.2,38,N/A,,,,,,,1,2,1,,,,1,,1,1,1,1,,1,305298
+165,910,Smith College,English Language & Literature,3.3,Nora Crow,4.3,38,N/A,,1,,2,,,,1,,,1,,,,,1,,,,,362247
+166,910,Smith College,Ethnic Studies,4.3,Kevin Quashie,3.8,37,N/A,,,,2,,,,3,,,1,,,,,1,,,,2,64856
+167,910,Smith College,Political Science,2.6,Marc Lendler,4.7,37,N/A,,5,,1,,,,3,1,,2,2,1,,3,5,,,,,84578
+168,910,Smith College,Mathematics,3.0,Pau Atela,3.6,37,71%,1,2,,1,1,,,2,,,3,4,1,,1,,1,,,,85738
+169,911,Sonoma State University,English,4.5,Michael Brunner,2.2,157,33%,2,,1,,,,9,3,1,,1,2,,6,3,,12,15,,33,292724
+170,911,Sonoma State University,Computer Science,2.1,Glenn Carter,4.4,156,86%,2,,,5,8,,1,2,,,6,3,8,1,5,1,10,,2,3,25142
+171,911,Sonoma State University,Philosophy,4.1,Helmut Wautischer,2.5,142,18%,,,,,1,,3,,4,,,,1,,7,2,9,1,2,6,51765
+172,911,Sonoma State University,Biology,2.2,Julie Bright,4.1,134,93%,1,3,1,11,5,,1,,1,,,3,9,1,,9,1,,1,6,207839
+173,911,Sonoma State University,Philosophy,2.4,Denny Bozman-Moss,3.5,128,60%,,,3,3,,1,1,1,,,,3,,1,10,1,7,1,,,122710
+174,911,Sonoma State University,Philosophy,3.5,Zeno Swijtink,1.6,126,N/A,,,,,,,,,,,,,,,,,,,,,25146
+175,911,Sonoma State University,Science,2.0,Ervand Peterson,4.4,113,N/A,,1,,,,3,1,2,,,2,3,3,,,3,,,,2,51763
+176,911,Sonoma State University,Mathematics,3.7,Jeff Silverman,2.3,106,23%,2,,1,1,,,,1,1,,1,1,5,7,1,,13,,2,11,290843
+177,911,Sonoma State University,English,3.7,Sandra Feldman,3.0,105,47%,4,,,3,1,4,7,9,,,1,4,,9,4,1,6,21,,26,397529
+178,911,Sonoma State University,Psychology,2.7,Rima Najm-Briscoe,3.6,103,97%,1,16,,3,7,4,1,3,,4,3,4,10,2,33,6,35,,1,9,925895
+179,911,Sonoma State University,Economics,3.7,Wendy Williams,2.9,102,50%,,1,,,6,4,,1,,,,1,12,,,,19,,3,21,510653
+180,911,Sonoma State University,Psychology,2.3,Pat Hansen,4.3,97,N/A,,,,1,,,,2,,,1,1,,,,,,,,,122713
+181,911,Sonoma State University,Business,1.7,Zachary Wong,4.5,93,100%,,2,,11,5,,,,1,4,8,9,,,,22,3,,,1,44753
+182,911,Sonoma State University,Social Science,2.1,Elaine Leeder,4.2,93,100%,,7,,1,1,,1,,,,2,4,,,5,5,2,,,,51760
+183,911,Sonoma State University,Psychology,2.0,David Sowerby,4.2,91,70%,1,3,,3,13,,3,3,12,1,2,2,6,,5,6,7,,,2,97543
+184,911,Sonoma State University,Political Science,3.3,Barry Preisler,4.0,91,83%,,1,,2,2,,3,1,,,,2,6,,,2,1,,5,8,51767
+185,911,Sonoma State University,Political Science,1.4,Keith Gouveia,4.7,90,91%,3,2,1,9,2,3,1,3,3,3,25,2,3,1,18,11,2,,3,,907139
+186,911,Sonoma State University,Ethnic Studies,2.4,Michael Ezra,4.6,89,77%,,9,,3,3,,10,,1,,1,4,,3,,5,3,,2,1,344556
+187,911,Sonoma State University,Biology,3.8,Lily Nosce,4.6,87,100%,,13,,2,7,,,1,,,3,,1,,,10,17,,4,4,294116
+188,911,Sonoma State University,Accounting,2.1,Joseph Standridge,4.5,87,83%,1,2,,2,2,,,,1,,5,1,,,,5,3,,1,1,403307
+189,912,South Carolina State University,Psychology,2.3,Douglass Miller,3.9,9,N/A,,,,1,,1,,,,,1,,,,,,,,,,823732
+190,912,South Carolina State University,Mathematics,3.1,Leon Myers,2.6,8,N/A,,,,,,,,,,,,,,1,2,1,3,,1,1,549349
+191,912,South Carolina State University,Health Science,4.0,Crystal Nixon,4.6,7,N/A,1,,,,1,,,,,,,,,,1,,,,,,1010222
+192,912,South Carolina State University,English,2.0,Thomas Cassidy,4.4,6,N/A,,,,,,,,,,,,,,,,,,,,,545684
+193,912,South Carolina State University,Chemistry,3.7,Ruhullah Massoudi,2.5,6,N/A,,,,,,,,,,,,,,,,,,,,,1631237
+194,912,South Carolina State University,Mathematics,1.8,Brian Soderstorm,4.1,5,N/A,,,,,1,,,1,,,,,,,,,,,,,619205
+195,912,South Carolina State University,Sociology,2.6,Carol Apt,4.8,5,N/A,,,,,,,,,,,,,,,,,,,,,862129
+196,912,South Carolina State University,Mathematics,4.2,Guttalu Viswanath,2.6,5,N/A,,,,,1,,,,1,,,,,,,,1,,,,1180444
+197,912,South Carolina State University,Mathematics,2.6,Rayshad Ali,4.9,5,N/A,,,,1,1,,,,,,,1,,,,,,,,,1668631
+198,912,South Carolina State University,History,3.0,Dior Konate,3.4,5,N/A,,,,1,,,1,,,,,1,2,,1,1,,,,2,1668643
+199,912,South Carolina State University,Mathematics,3.0,Harun Adongo,4.0,4,N/A,,,,,,,,,,,,,,,,,,,,,756924
+200,912,South Carolina State University,Psychology,4.3,Geoffrey Collier,1.5,4,N/A,,,,,,1,,,,,,,1,,,,,,,,823737
+201,912,South Carolina State University,Education,4.8,Marion Robinson,2.0,4,N/A,,,,,,,,,,,,,,,,,,,,,841281
+202,912,South Carolina State University,Business,2.8,Mario Ricoma,4.6,4,N/A,,,,,,,,,,,,,,,,,,,,,965540
+203,912,South Carolina State University,Accounting,2.5,Joseph Onyeocha,4.7,4,N/A,1,,,,,,,,,,,,,,1,1,,,,,1277220
+204,912,South Carolina State University,History,1.5,Barbara Woods,3.9,4,N/A,,,,,1,,1,,,,,,,,,,,,,,1484377
+205,912,South Carolina State University,English,2.3,Yvonne Sims,4.8,4,N/A,,,,,,,,,1,,,,,,,1,1,,,,1660389
+206,912,South Carolina State University,Biology,3.5,James Stukes,4.8,4,N/A,,1,,,,,,,,,,1,,,,1,,,,,1725086
+207,912,South Carolina State University,History,3.3,Ali Chambers,2.8,4,N/A,,,,,1,,,,,,,,,,,,1,,1,,1747411
+208,913,South Dakota School of Mines and Technology,Mathematics,3.3,Juile Dahl,4.2,41,90%,3,4,,3,1,1,,6,,,2,,,6,1,5,6,,,3,120589
+209,913,South Dakota School of Mines and Technology,Physics,2.5,Michael Dowding,4.0,40,100%,1,4,,5,10,25,1,2,,,9,,4,12,1,15,5,,1,3,1948465
+210,913,South Dakota School of Mines and Technology,Chemistry,3.2,Cabot-Ann Christofferson,3.5,30,N/A,,2,1,2,4,,2,,,,,,1,2,1,4,3,,,,355790
+211,913,South Dakota School of Mines and Technology,Engineering,2.7,Elaine Linde,4.3,28,100%,2,2,,3,4,,,6,,,1,1,1,7,1,4,3,1,,,307153
+212,913,South Dakota School of Mines and Technology,Engineering,2.8,Lois Arneson-Meyer,3.2,28,50%,,,1,,1,1,,2,1,,,,,6,,1,1,,1,1,307159
+213,913,South Dakota School of Mines and Technology,Mathematics,3.5,Travis Kowalski,4.6,28,100%,2,5,,2,1,2,,7,,,5,2,,,,5,4,,,1,682198
+214,913,South Dakota School of Mines and Technology,Mathematics,3.8,Michelle Richard,2.5,28,27%,,,4,,,3,1,1,,1,1,,1,14,2,,8,,2,9,1831145
+215,913,South Dakota School of Mines and Technology,Mathematics,3.9,Brent Deschamp,3.8,26,56%,4,2,,1,1,,2,,2,,2,1,,4,,2,1,,,11,1181177
+216,913,South Dakota School of Mines and Technology,Mathematics,4.4,William Leonard,3.0,25,46%,6,1,,4,1,,,2,,,7,1,1,,1,2,5,,6,24,1944163
+217,913,South Dakota School of Mines and Technology,English,1.8,Al Boysen,4.3,24,N/A,1,,,1,,,,2,,,1,,,,1,,,,,,68333
+218,913,South Dakota School of Mines and Technology,Engineering,3.9,Tom Montoya,4.0,24,100%,3,4,3,,3,,,1,,,2,1,1,3,,2,4,,,,307139
+219,913,South Dakota School of Mines and Technology,Mathematics,3.0,Donald Teets,4.3,23,100%,2,6,,1,3,1,,2,,,2,1,,1,,2,3,,,3,295180
+220,913,South Dakota School of Mines and Technology,Physics,3.2,Vladimir Sobolev,3.4,22,N/A,1,,,1,1,,1,1,,,3,,,,,1,,,,,307175
+221,913,South Dakota School of Mines and Technology,Philosophy,1.7,Dr. Hudgens,4.0,20,75%,1,,,,,,2,,1,,1,,3,,,1,3,,,,295446
+222,913,South Dakota School of Mines and Technology,Computer Science,3.7,Val Manes,2.3,19,67%,3,,,2,1,,,2,1,,1,,1,,,,2,,,2,176058
+223,913,South Dakota School of Mines and Technology,Physics,2.8,Michael Foygel,2.8,18,N/A,,,,,,,,,,,,,,,,,,,,,307167
+224,913,South Dakota School of Mines and Technology,Chemical Engineering,2.8,Todd Menkhaus,4.9,18,100%,2,6,,2,1,,,6,,,2,1,,2,,10,,,,1,1013337
+225,913,South Dakota School of Mines and Technology,Mathematics,3.2,Jill Trimble,3.6,17,N/A,,,,,,,,,,,,,,,,,,,,,295430
+226,913,South Dakota School of Mines and Technology,Sociology,2.6,Sidney Goss,4.8,17,N/A,,,,,,,,,,,,,,,,,,,,,663125
+227,913,South Dakota School of Mines and Technology,English,2.9,Rodney Rice,2.6,16,60%,,,1,,,,2,,1,,2,,,,,,2,,,2,807721
+228,914,South Dakota State University,Physics,3.5,Yung Huh,3.0,156,25%,1,2,,,5,,1,,,,17,2,17,6,2,3,5,,6,45,814912
+229,914,South Dakota State University,Chemistry,3.7,Jay Shore,3.1,149,74%,5,3,,5,11,,1,6,1,,8,2,10,1,10,13,18,,3,9,202896
+230,914,South Dakota State University,Biology,4.3,Scott Pedersen,4.0,93,84%,3,4,,2,2,,3,5,,,8,1,4,,1,13,14,,7,5,42584
+231,914,South Dakota State University,Psychology,2.9,Brady Phelps,3.8,72,92%,1,4,,,2,1,2,1,,,9,1,7,1,2,1,5,,,5,202718
+232,914,South Dakota State University,History,3.0,Thomas Agostini,4.8,65,N/A,1,2,,2,,,2,1,,,,1,2,,1,2,,,,1,1558823
+233,914,South Dakota State University,Mathematics,3.2,Joe Christensen,3.9,52,87%,3,,,,2,2,1,6,,,,,5,11,5,,9,,2,7,901103
+234,914,South Dakota State University,Languages,2.6,Eckhard Rolz,4.8,46,100%,,2,,10,2,,2,8,1,,15,4,,2,13,14,,,,1,927264
+235,914,South Dakota State University,Political Science,3.3,Gary Aguiar,2.4,45,N/A,,,,1,,,1,,,,,,,,,,,,,,601601
+236,914,South Dakota State University,Mathematics,2.9,Wendy Ahrendsen,3.6,44,43%,,,,4,4,1,,2,,,,,3,7,3,,5,,,1,197095
+237,914,South Dakota State University,Chemistry,3.7,Nicole Grove,1.8,41,29%,4,,1,2,,3,16,2,,,,,5,7,11,1,8,,3,12,1894484
+238,914,South Dakota State University,Mathematics,4.8,Margo Law,1.6,38,N/A,,,,,,,,,,,,,,,,,,,,,815154
+239,914,South Dakota State University,Biology,3.9,Kendra Hill,2.9,38,N/A,,,,,,,,,,,,,,,,,,,,1,879624
+240,914,South Dakota State University,Economics,2.7,George Langelett,4.0,37,90%,,,,1,3,4,3,3,2,5,2,1,1,1,,2,1,,2,3,348366
+241,914,South Dakota State University,English,4.2,Lisa Madsen,1.9,37,23%,,,,2,1,,3,2,3,3,,,,3,6,,1,,,11,796242
+242,914,South Dakota State University,Psychology,2.9,Thomas Shaffer,2.0,35,N/A,,,,,,,,,,,,,,,,,,,,,150837
+243,914,South Dakota State University,Mathematics,2.7,Alvin Bahr,4.0,34,80%,1,2,,1,1,,1,2,,3,,,1,,1,2,2,,1,3,150834
+244,914,South Dakota State University,Chemistry,4.3,Ronald Hirko,2.9,33,N/A,,,1,1,,,,,,,,,,1,2,,5,1,,8,830756
+245,914,South Dakota State University,English,4.3,Nicole Biever,2.2,31,43%,,,,,1,,8,3,,,,,,8,3,,2,6,,20,1364529
+246,914,South Dakota State University,Mathematics,3.9,Leann Werner,3.9,30,100%,1,2,,2,1,,,4,1,,,,1,4,1,1,4,,3,1,421798
+247,914,South Dakota State University,Chemistry,2.6,Douglas Raynie,4.4,29,N/A,,2,,1,,,,3,,,6,1,2,1,2,4,2,,,1,830759
+248,915,Southampton College,Biology,3.3,William Schutt,3.6,4,N/A,,,,,,,,,,,,,,,,,,,,,426497
+249,915,Southampton College,English,2.3,Roger Rosenblatt,3.7,3,N/A,,,,,,,,,,,,,,,,,,,,,84102
+250,915,Southampton College,Hospitality,1.0,Stephanie Glatz,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,368066
+251,916,Southeast Missouri State University,Psychology,3.3,Laura Delgado,3.1,137,61%,1,,2,1,3,,17,6,1,8,,,8,6,9,3,21,1,3,13,2305
+252,916,Southeast Missouri State University,Biology,3.2,Shannon McNew,4.3,129,100%,1,17,,12,8,20,1,12,1,,9,6,7,3,1,26,29,,4,5,903771
+253,916,Southeast Missouri State University,Business,3.1,Pam Gershuny,3.6,110,67%,,1,1,7,1,3,5,7,2,5,,3,,2,3,2,1,,,2,487238
+254,916,Southeast Missouri State University,Biology,4.1,Diane Wood,3.8,109,62%,3,2,,,,,,1,,,1,1,8,,1,2,10,,2,11,374510
+255,916,Southeast Missouri State University,Political Science,3.9,Rickert Althaus,2.6,95,44%,1,,,,1,,9,3,3,,,1,4,,4,1,10,,2,10,257636
+256,916,Southeast Missouri State University,Biology,4.0,Stephen Overmann,2.2,95,N/A,,,,,1,2,,,,1,,,2,,1,,3,1,,9,465667
+257,916,Southeast Missouri State University,Political Science,3.3,Kevin Sexton,3.1,87,35%,1,2,2,3,,1,7,1,,,1,1,18,10,10,1,11,,6,23,752428
+258,916,Southeast Missouri State University,Philosophy,3.5,Bambi Robinson,2.6,86,18%,1,,,1,1,,3,3,3,3,5,,6,1,3,,11,8,,26,388403
+259,916,Southeast Missouri State University,Economics,3.9,Brian Gehring,2.0,83,N/A,,,7,,,,,,1,,,,9,10,2,,16,,,14,467655
+260,916,Southeast Missouri State University,Anthropology,2.0,Warren Anderson,4.8,81,100%,1,14,,7,3,1,1,2,,,9,6,1,1,,10,,,,1,22347
+261,916,Southeast Missouri State University,English,3.6,Roger Arpin,1.9,71,N/A,,,,,,,,,,,,,,,,,,,,,261373
+262,916,Southeast Missouri State University,Mathematics,3.9,Paul Deiermann,2.4,71,7%,2,,1,,3,,1,1,2,,,,1,5,,1,9,,3,17,403030
+263,916,Southeast Missouri State University,English,3.1,Pennie Pflueger,4.1,71,58%,,1,3,5,3,1,9,4,,,,1,1,1,8,1,2,,1,6,507777
+264,916,Southeast Missouri State University,Psychology,2.1,Dora Weaver,2.7,70,N/A,,,,,,,,,,,,,,,,,,,,,180911
+265,916,Southeast Missouri State University,Mathematics,2.2,Stuart Swope,4.7,69,N/A,,,,,,,,,,,,,,,,,,,,,291802
+266,916,Southeast Missouri State University,Business,3.1,Jill Young,2.0,68,N/A,,,6,,,1,1,,,1,,,1,5,2,1,13,1,2,1,615482
+267,916,Southeast Missouri State University,Political Science,2.4,Jeremy Walling,4.5,68,100%,1,4,,1,5,1,5,2,2,,11,1,6,1,3,3,3,,1,2,374506
+268,916,Southeast Missouri State University,Music,1.7,Paul Thompson,4.8,67,100%,,9,,7,3,1,,,,,14,3,3,,2,9,3,,,,17446
+269,916,Southeast Missouri State University,English,3.4,Dean Monahan,1.3,67,N/A,,,,,,,,,,,,,,,,,,,,,17448
+270,916,Southeast Missouri State University,Mathematics,4.4,Andrew Schwartz,3.2,67,68%,6,3,,7,7,,,6,4,,2,2,1,14,3,,17,1,16,24,1248185
+271,917,Southeastern Bible College,Theology,3.1,Jason Snyder,4.0,10,N/A,,3,,,,,,,,,,,,,,3,1,,,2,502980
+272,917,Southeastern Bible College,Religion,4.5,Barber Jonathan,4.5,2,N/A,,,,,,,,,,,,,,,,,,,,,787645
+273,917,Southeastern Bible College,Philosophy,2.0,Travis Coblentz,4.5,1,N/A,,,,,,,,,,,1,,,,1,,1,,,,2100596
+274,918,Southeastern University,Psychology,1.9,James Paton,4.7,53,100%,2,6,,10,7,13,2,2,,,10,5,3,,1,6,1,,,,701032
+275,918,Southeastern University,Religion,2.9,Terris Neuman,4.2,49,88%,1,6,,2,4,4,,,,,8,1,1,1,,4,5,,,1,354639
+276,918,Southeastern University,English,3.6,Paul Corrigan,3.4,47,94%,,4,,8,,,15,6,,,1,2,1,12,7,2,4,1,,5,1359628
+277,918,Southeastern University,Theology,3.3,Gerry White,4.0,40,N/A,,3,,,1,,3,,,,,3,1,1,,2,3,,,2,381693
+278,918,Southeastern University,Religion,1.7,Matt Huett,4.4,37,N/A,,1,,,,,1,,,,,,,1,1,1,,,,,567398
+279,918,Southeastern University,English,4.0,Rickey Cotton,4.2,36,N/A,,1,,,,,1,1,,,,2,,1,,,2,,,3,663703
+280,918,Southeastern University,Religion,3.2,Joe Davis,4.0,33,100%,1,7,,1,1,1,,1,,,6,3,2,,1,5,5,,1,,775381
+281,918,Southeastern University,Mathematics,3.0,Gary Kimball,3.3,30,20%,,,,,1,,,1,,,1,,,1,1,,6,,1,1,643365
+282,918,Southeastern University,History,4.0,K. Alan Snyder,3.9,30,N/A,,,1,3,,,3,,,,1,,3,3,,,3,,,3,1005094
+283,918,Southeastern University,Religion,3.7,Zachary Tackett,3.3,27,75%,2,,,1,,,6,5,,,,1,2,3,,5,,1,,3,1198672
+284,918,Southeastern University,English,2.8,Alisa Deborde,4.8,27,N/A,,,,1,1,1,,2,,,,,,,1,,,,,,588476
+285,918,Southeastern University,Religion,2.6,Robby Waddell,4.4,26,N/A,,1,,,,,,,,,,1,,,,1,,,,,575941
+286,918,Southeastern University,Theology,2.3,Rodney White,4.7,25,N/A,,,,,,,,,,,,,,,,,,,,,381691
+287,918,Southeastern University,English,1.8,Candi L Ring,4.9,25,100%,2,1,,11,6,,,10,,,4,7,,,,10,,,,,1902906
+288,918,Southeastern University,Social Science,3.2,Robert Lamar Goff,4.8,25,100%,2,10,,4,,,,9,,9,4,11,,,4,18,4,,,,2482405
+289,918,Southeastern University,Mathematics,2.0,David Revell,4.5,24,N/A,,,,,,,,,,,,,,,,,,,,,542965
+290,918,Southeastern University,Business,4.1,Lyle Bowlin,3.5,22,N/A,1,,,1,,,,,,,,1,,,,,,,,,571136
+291,918,Southeastern University,Religion,2.6,Bill Hackett,4.2,21,N/A,,,,,,,1,,,,,,,,1,,,,,2,604328
+292,918,Southeastern University,Theology,3.9,Steven Fettke,4.0,20,60%,,1,,,,,4,1,,,,1,,1,1,,1,1,,4,374928
+293,918,Southeastern University,Religion,3.1,Richard Harris,4.5,20,N/A,,,,1,2,,,1,,,,,,1,,,,,,,659687
+294,919,Southeastern Louisiana University,Sociology,2.9,Russell Castro,4.0,312,86%,,47,,4,2,11,7,3,14,,42,16,34,,9,20,75,1,12,13,346504
+295,919,Southeastern Louisiana University,Biology,1.8,Keith Bancroft,4.3,266,93%,4,15,,15,9,,,3,11,,56,9,20,,3,17,10,,5,,1214070
+296,919,Southeastern Louisiana University,Biology,1.9,Jerrie Hanible,4.5,262,96%,3,31,2,12,14,13,1,9,3,3,47,2,4,,5,19,15,,4,4,375764
+297,919,Southeastern Louisiana University,Business,2.0,David Ramsey,3.9,260,N/A,,,,,,,,,,,,,,,,,,,,1,593197
+298,919,Southeastern Louisiana University,Biology,3.7,Karin Harper,3.4,183,N/A,,1,,,1,,,,,,,,,1,,,,,,,496384
+299,919,Southeastern Louisiana University,Marketing,1.4,David Faucheux,4.9,178,98%,2,65,,42,1,,,10,7,,5,109,3,,37,70,35,,,,1752429
+300,919,Southeastern Louisiana University,Mathematics,3.2,Victor Swaim,3.4,156,40%,1,3,,2,5,2,2,3,3,1,23,1,2,11,4,4,35,,4,12,485309
+301,919,Southeastern Louisiana University,Psychology,3.8,Lester Culver,2.5,151,28%,,2,,2,9,3,7,,5,,4,1,24,,1,1,7,,6,9,517472
+302,919,Southeastern Louisiana University,Sociology,2.8,Rebecca Hensley,3.9,149,54%,2,11,,7,5,14,25,7,10,,2,12,22,2,8,8,22,,7,7,1055383
+303,919,Southeastern Louisiana University,Biology,3.4,Deborah Dardis,3.5,146,42%,,2,,3,3,,16,3,3,,,,9,8,8,2,14,,5,24,499027
+304,919,Southeastern Louisiana University,Mathematics,2.4,David Busekist,4.4,144,89%,5,3,1,15,7,,2,15,,,8,,1,16,4,12,9,1,,4,593509
+305,919,Southeastern Louisiana University,Psychology,1.1,Judith Kara Faust,4.8,143,N/A,,,,,,,,,,,,,,,,,,,,,375770
+306,919,Southeastern Louisiana University,History,2.3,Craig Saucier,4.6,131,100%,1,12,,4,9,4,8,5,,,23,2,4,,2,4,14,,1,3,220742
+307,919,Southeastern Louisiana University,English,2.9,Natasha Whitton,4.3,129,81%,4,2,1,5,10,9,13,7,,,4,4,1,4,12,5,1,3,,8,443101
+308,919,Southeastern Louisiana University,Mathematics,2.5,Sarah Clifton,4.2,129,79%,5,1,1,16,5,1,,4,1,,3,,1,12,1,8,15,,1,3,205773
+309,919,Southeastern Louisiana University,English,2.4,Amy Acosta,4.2,128,86%,2,2,,9,4,1,11,19,1,,16,7,,3,2,4,5,3,,4,348466
+310,919,Southeastern Louisiana University,History,2.9,Lori Ostarly-Ulfers,4.0,123,53%,7,8,,10,3,10,14,1,4,,4,1,20,1,1,1,9,,10,5,246567
+311,919,Southeastern Louisiana University,History,2.7,Barbara Burns,4.0,119,N/A,,1,,,1,,1,,1,,,,1,,,1,,,1,,345875
+312,919,Southeastern Louisiana University,Biological Sciences,2.5,Frank Campo,4.5,118,93%,2,20,2,7,5,3,1,7,1,,14,3,5,,10,13,15,,4,6,19418
+313,919,Southeastern Louisiana University,Mathematics,3.4,John Szeto,2.9,117,62%,2,1,,1,6,5,2,2,1,,6,,4,30,5,1,29,,2,12,246569
+314,920,Southeastern Oklahoma State University,English,2.5,Randy Prus,3.8,30,N/A,1,1,,,4,,,4,,,,1,,1,1,3,,,,,172562
+315,920,Southeastern Oklahoma State University,Education,4.1,Toni Stiefer,1.6,25,N/A,,,,,,,,,,,,,,,,,,,,,186742
+316,920,Southeastern Oklahoma State University,History,3.9,Corie Delashaw,3.6,24,N/A,,1,,,,,2,,,,1,,1,,,,1,,,1,188018
+317,920,Southeastern Oklahoma State University,Education,2.9,William Fridley,3.4,23,N/A,,,,,,,1,,,,,,2,1,,,1,,,1,139403
+318,920,Southeastern Oklahoma State University,Communication,3.0,Faye Mangrum,2.9,22,N/A,,,,,,,1,1,,,,,,,1,,,,,,147100
+319,920,Southeastern Oklahoma State University,History,4.1,Glenn Melancon,4.2,21,N/A,1,4,,,,,1,1,,,6,,1,,1,,2,,,3,188017
+320,920,Southeastern Oklahoma State University,Management,4.7,C. W. Von Bergen,2.1,19,33%,,,,,,,12,1,,,,1,1,6,6,1,,6,3,14,1931775
+321,920,Southeastern Oklahoma State University,History,3.7,Brooks Flippen,4.2,18,N/A,,,1,,,,1,,,,,,1,,,,2,,,1,132821
+322,920,Southeastern Oklahoma State University,Mathematics,2.3,Brett Elliott,4.8,18,N/A,1,,1,,1,,,,,,,1,,1,,,,,,,172565
+323,920,Southeastern Oklahoma State University,Biology,2.7,Brad Ludrick,4.5,18,N/A,1,,,3,2,1,1,2,,,2,,,1,1,4,,1,,,346074
+324,920,Southeastern Oklahoma State University,Occupational Therapy,2.8,Nick Nichols,4.8,18,N/A,,,,,,1,,,,,,,1,,,1,,,,,732894
+325,920,Southeastern Oklahoma State University,History,3.9,Alistair Maeer,4.3,18,N/A,1,1,,,,1,1,,,,3,,,,,,2,1,,2,1220972
+326,920,Southeastern Oklahoma State University,Not Specified,2.3,Wayne Jones,4.7,17,N/A,1,,,,1,,,,,,1,,,,,2,1,,,,130598
+327,920,Southeastern Oklahoma State University,Education,3.9,S. Dipento,3.2,17,N/A,,,,,,,,,,,,,,,,,,,,,187882
+328,920,Southeastern Oklahoma State University,Psychology,3.3,Charla Hall,3.3,17,N/A,,1,,1,2,,,1,,,,1,,,2,1,,,,,855521
+329,920,Southeastern Oklahoma State University,Mathematics,4.1,Karl Frinkle,3.5,16,N/A,,,2,,,,1,,,,,,,2,1,,1,1,,1,922445
+330,920,Southeastern Oklahoma State University,Education,2.9,V Guarnera,1.8,14,N/A,,,,,,,,,,,,,,,,,,,,,187880
+331,920,Southeastern Oklahoma State University,Chemistry,4.4,Loide Wasmund,3.1,14,N/A,,,,,,,,,,,,,1,1,,,,,1,2,283389
+332,920,Southeastern Oklahoma State University,Biology,3.1,Ning Wu,4.5,14,100%,2,4,,5,3,,,2,3,,1,1,1,,,5,7,,,4,2046942
+333,920,Southeastern Oklahoma State University,Computer Science,1.9,Betty Clay,4.0,13,N/A,,,,2,2,,,2,,,,,,,,,,,,,694839
+334,921,Southern Adventist University,Chemistry,3.2,Loren Barnhurst,4.9,225,100%,50,99,,47,16,20,,61,,,25,61,3,2,5,114,14,,3,7,139053
+335,921,Southern Adventist University,Biology,4.5,Joyce Azevedo,3.3,37,69%,6,1,2,5,,1,5,4,1,,1,2,1,,,3,5,,4,7,139045
+336,921,Southern Adventist University,Mathematics,2.5,Adam Heck,4.5,34,90%,6,5,,12,9,,,6,,,13,4,1,9,4,10,4,,,1,1845835
+337,921,Southern Adventist University,Psychology,2.7,Robert Coombs,4.3,31,80%,,5,,1,1,,1,,,5,3,1,,,1,2,3,,,7,674596
+338,921,Southern Adventist University,English,4.2,Rachel Byrd,3.1,31,63%,1,,1,3,,,1,6,,,1,1,,4,,2,4,1,,9,683078
+339,921,Southern Adventist University,Communication,3.1,Lorraine Ball,4.1,28,86%,3,2,5,3,,1,4,3,2,,,1,,1,,3,,,,1,443378
+340,921,Southern Adventist University,Religion,2.5,Steve Bauer,3.1,27,N/A,,1,1,,,2,3,,,3,,1,2,,,2,2,,,1,584068
+341,921,Southern Adventist University,English,2.0,Andy Nash,4.4,27,90%,,5,2,5,2,,1,5,2,2,,5,,,3,5,1,,,,676442
+342,921,Southern Adventist University,Chemistry,3.1,Bruce Schilling,4.4,22,N/A,1,3,,4,4,,,2,,,1,,,8,,9,1,,,,139052
+343,921,Southern Adventist University,Mathematics,2.5,Kevin Brown,4.7,22,100%,2,1,,5,3,1,,2,,,3,,,1,,7,1,,,,139174
+344,921,Southern Adventist University,Biology,3.1,Rick Norskov,4.3,21,N/A,,4,,2,1,,,1,1,,,1,,,,3,1,,1,,1002340
+345,921,Southern Adventist University,Religion,3.9,Donn Leatherman,4.1,20,N/A,,1,,1,,,1,,,,1,1,1,1,2,3,,,1,2,573675
+346,921,Southern Adventist University,English,3.8,Jodi Ruf,3.3,20,N/A,2,,3,3,2,1,1,7,,,,,,5,1,,3,,,4,1307543
+347,921,Southern Adventist University,Physics,3.7,William Laing,3.0,20,22%,1,,,1,,,,2,,1,,,,4,2,,1,,5,7,1751534
+348,921,Southern Adventist University,Chemistry,3.3,Brent Hamstra,3.7,19,100%,3,1,,2,2,,,3,,,,,,4,,3,2,,,,138864
+349,921,Southern Adventist University,Physics,2.6,Ken Caviness,3.0,19,N/A,,,1,2,1,2,1,,,,,2,,2,1,1,,,1,2,139139
+350,921,Southern Adventist University,Theology,2.3,Carlos Martin,3.5,19,N/A,,1,,,,3,,1,1,1,1,,3,,1,,1,,,,377088
+351,921,Southern Adventist University,Religion,2.5,Philip Samaan,4.4,19,57%,,1,2,3,1,3,2,,,,2,3,4,,,4,2,1,1,1,689111
+352,921,Southern Adventist University,English,2.4,Marcus Sheffield,3.9,18,40%,1,,,4,3,1,,1,2,,1,2,1,1,1,,1,,,2,138849
+353,921,Southern Adventist University,English,3.9,Jan Haluska,3.8,18,N/A,1,1,,,,,,1,,,,,,,,,,,,,139087
+354,922,Vanguard University of Southern California,History,3.7,David Marley,3.4,49,N/A,,2,,1,,,2,,,,5,,,,,1,1,,,5,494543
+355,922,Vanguard University of Southern California,History,3.9,John Wilson,3.1,36,N/A,,1,3,,,,1,1,,,,,2,2,,2,1,,2,7,241256
+356,922,Vanguard University of Southern California,Sociology,2.5,Elizabeth Leonard,4.5,34,N/A,,,,,,,,,,,,,,,,,,,,,131056
+357,922,Vanguard University of Southern California,Theology,3.4,Jerry Camery-Hoggatt,3.8,27,N/A,,,,1,,,1,,,,,2,,,,,1,1,,1,95056
+358,922,Vanguard University of Southern California,Psychology,2.6,Steve Cuffari,4.6,27,100%,1,4,,,1,3,,,,,7,2,,,,2,,,,,604854
+359,922,Vanguard University of Southern California,Religion,3.5,April Westbrook,3.8,27,N/A,,2,2,1,,,1,,,,2,1,,1,,1,,,,,679472
+360,922,Vanguard University of Southern California,Business,3.2,Ed Westbrook,3.7,25,N/A,,1,,,,,3,1,1,,,,,,1,1,,1,1,1,243471
+361,922,Vanguard University of Southern California,Music,3.1,James Melton,3.0,25,N/A,,,,1,,,,,,,,1,,,,1,,,,,337538
+362,922,Vanguard University of Southern California,Religion,3.6,Ed Rybarczyk,4.4,25,N/A,,1,,,,,,,,,,1,,,,,,,,,679474
+363,922,Vanguard University of Southern California,Communication,4.1,Derrick Rosenior,2.3,25,20%,,,1,,,,1,,,,,,5,2,2,,3,,2,5,738004
+364,922,Vanguard University of Southern California,Religion,2.3,John Sim,4.5,25,60%,1,4,,3,3,5,4,,,,1,3,3,2,,2,2,,,,744777
+365,922,Vanguard University of Southern California,Communication,4.5,Thomas Carmody,4.1,21,N/A,,,,,,,,,,,,,,,,,,,,,513269
+366,922,Vanguard University of Southern California,Anthropology,3.6,James Huff,4.1,21,N/A,,,,,,,,,,,,,,,,,,,,,584597
+367,922,Vanguard University of Southern California,Business,3.1,Bonni Stachowiak,4.3,19,100%,1,3,,4,,,,5,,2,3,1,,,,5,1,,1,2,663866
+368,922,Vanguard University of Southern California,Religion,2.8,Gary Tyra,4.1,18,60%,,,,2,,2,1,,1,1,,1,,3,,,,2,,1,679475
+369,922,Vanguard University of Southern California,Theology,2.8,Bill Dogterom,4.7,17,N/A,,1,,,1,,,,,,,,,,,,,,,,178271
+370,922,Vanguard University of Southern California,Sociology,2.0,Brooke Benda,4.9,17,100%,,3,,3,,,,,,,5,3,,,,1,,,,,689432
+371,922,Vanguard University of Southern California,Religion,3.7,Jon Benzinger,3.5,16,N/A,,,,,,,,,,,,,,,,,,,,,500311
+372,922,Vanguard University of Southern California,Communication,2.8,Karen Nishie,4.2,16,N/A,,,,,,,,,,,,,,,,,,,,,577173
+373,922,Vanguard University of Southern California,Religion,2.7,Sherry Benvenuti,3.4,16,N/A,,,,1,,,,,,,,2,,,1,1,1,,,,721971
+374,923,Amridge University (formerly Southern Christian),Religion,2.7,Charles Williams,4.3,7,N/A,,,,,,,,,,,,,,,,,,,,,604048
+375,923,Amridge University (formerly Southern Christian),Religion,1.7,Robert Ball,4.2,3,N/A,,,,,,,,,,,,,,,,,,,,,604049
+376,923,Amridge University (formerly Southern Christian),Religion,3.7,Joel Williams,3.5,3,N/A,,,,,,,,,,,,,,,,,,,,,866671
+377,923,Amridge University (formerly Southern Christian),Psychology,2.7,James Megar,4.5,3,N/A,,,,1,,,,1,,,,,,,,,,,,,879512
+378,923,Amridge University (formerly Southern Christian),Psychology,3.7,James Burnette,2.3,3,N/A,,,,,,,,,,,,,,,,,,,,,894066
+379,923,Amridge University (formerly Southern Christian),Languages,4.3,James Smeal,2.2,3,N/A,,,,,1,,,,,,,,,1,,,1,,,,1624092
+380,923,Amridge University (formerly Southern Christian),Psychology,1.7,Kerry B Horne,4.8,3,N/A,,1,,1,1,,,1,,,,,,,,1,,,,,1905399
+381,923,Amridge University (formerly Southern Christian),Computer Science,4.0,William Woodhouse,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1298613
+382,923,Amridge University (formerly Southern Christian),Religion,4.0,Rodney Cloud,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1606343
+383,923,Amridge University (formerly Southern Christian),Psychology,3.0,James Kelly,1.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1731744
+384,923,Amridge University (formerly Southern Christian),Humanities,2.0,Corey Carlisle,3.0,1,N/A,,,,,1,,,1,,,,,1,,,,,,,,2356005
+385,924,Southern Connecticut State University,English,3.4,Corinne Blackmer,4.2,154,94%,3,4,,4,6,,13,21,,,6,13,3,,13,19,1,3,1,3,140818
+386,924,Southern Connecticut State University,Mathematics,2.1,Vitaly Drucker,4.4,137,100%,3,,,17,4,2,,12,1,,10,6,,4,5,17,2,,,,898653
+387,924,Southern Connecticut State University,History,2.6,Louis House,3.5,117,N/A,,,,,,,,,,,,,,,,,,,,,31742
+388,924,Southern Connecticut State University,Mathematics,4.7,Peter Intarapanich,1.8,116,N/A,,,,,,,,,,,,,1,,1,,6,,,13,252724
+389,924,Southern Connecticut State University,Economics,4.1,Deborah Savage,2.5,116,10%,,1,1,4,,,2,1,4,,6,,3,2,,,6,,2,16,1240921
+390,924,Southern Connecticut State University,History,2.4,Stephen Amerman,4.1,115,90%,3,9,,6,3,,2,7,2,,7,3,,1,4,6,8,,,,176607
+391,924,Southern Connecticut State University,Mathematics,2.6,Cynthia Gubitose,4.3,113,67%,1,,,2,3,2,,4,,,,1,,8,,5,12,,1,4,31746
+392,924,Southern Connecticut State University,Mathematics,3.8,Dennis Emmett,1.8,113,15%,,,4,,,,,,4,,3,,2,7,1,,8,,4,9,179357
+393,924,Southern Connecticut State University,Mathematics,3.5,Raymond Mugno,3.3,109,82%,3,1,,4,5,,,7,,,6,1,2,6,,4,16,,2,9,1355994
+394,924,Southern Connecticut State University,Biology,4.3,Alexander Turko,2.8,106,N/A,,,,,,,,,,,,,,,,,,,,,111790
+395,924,Southern Connecticut State University,Geography,4.3,Leon Yacher,2.5,98,8%,,,,,2,2,12,,5,,,2,10,5,1,,8,7,5,34,283753
+396,924,Southern Connecticut State University,Economics,2.5,Gary Crakes,4.1,98,100%,,2,,,5,,1,,3,,1,,8,,,1,4,,4,,203213
+397,924,Southern Connecticut State University,History,4.1,Nikolaos Chrissidis,3.0,97,42%,2,1,,2,,,13,2,6,,1,,7,3,18,,5,,1,10,219120
+398,924,Southern Connecticut State University,Philosophy,3.9,Kenneth Gatzke,2.3,97,25%,,1,,,,,,1,2,,1,3,4,,1,,1,,,5,156079
+399,924,Southern Connecticut State University,English,3.8,Will Hochman,3.7,92,44%,4,,,2,,,3,5,1,,,1,2,5,3,,3,2,,6,272445
+400,924,Southern Connecticut State University,Psychology,1.5,Leonard Santarsiero,4.9,92,N/A,,3,,2,1,,,4,,,4,5,,,2,5,,,,,338498
+401,924,Southern Connecticut State University,English,3.1,Kalu Ogbaa,2.8,91,63%,,,,4,1,,3,6,3,,,3,3,1,9,1,1,1,,2,31727
+402,924,Southern Connecticut State University,Political Science,4.0,Paul Best,1.6,91,N/A,,,,,,,,,,,,,,,1,,1,,,1,170858
+403,924,Southern Connecticut State University,Psychology,2.9,Kristine Anthis,4.0,91,82%,4,2,,4,6,,2,5,3,,1,2,,,,2,,,3,2,271865
+404,924,Southern Connecticut State University,Mathematics,3.5,Nicole Audie,2.7,91,27%,,,2,1,2,4,,2,1,,,,,9,,2,8,,3,10,480793
+405,925,Southern Illinois University - Carbondale,Classics,2.8,Mont Allen,4.7,157,99%,14,88,1,12,6,,44,12,,,18,50,11,6,19,37,29,2,,5,1937663
+406,925,Southern Illinois University - Carbondale,Philosophy,2.7,Robert Hahn,4.1,89,62%,1,9,,3,6,,1,1,1,,1,,7,2,2,7,7,,1,5,1058
+407,925,Southern Illinois University - Carbondale,Computer Science,3.6,Kenny Fong,3.4,57,N/A,,,,,,,,,,,,,,,,,,,,,248831
+408,925,Southern Illinois University - Carbondale,Psychology,3.0,John Pingo,4.8,54,100%,9,19,,7,6,4,2,36,,2,14,14,,,11,14,3,,,5,1988159
+409,925,Southern Illinois University - Carbondale,Psychology,1.8,Meera Komarraju,4.4,42,N/A,,,1,1,1,1,,1,,,,2,,,,2,,,,,407715
+410,925,Southern Illinois University - Carbondale,Music,1.9,George Brozak,3.3,41,N/A,,,,,,,,,,,,,1,,2,1,2,,,1,1339486
+411,925,Southern Illinois University - Carbondale,Geography,3.1,Julie Weinert,3.0,39,78%,3,1,6,,3,2,2,,,1,,,3,3,4,,4,,,3,716745
+412,925,Southern Illinois University - Carbondale,Chemistry,3.7,Kevin Smith,3.8,35,70%,2,,,9,5,,2,2,,,,1,2,6,2,3,18,,2,12,1394412
+413,925,Southern Illinois University - Carbondale,Computer Science,3.7,Robert McGlinn,4.0,34,N/A,,,,,,,,,,,,,,,,,,,,,1141
+414,925,Southern Illinois University - Carbondale,Journalism,2.9,William Recktenwald,4.8,34,N/A,1,,,3,,,,1,,,,,1,,,3,,,,,284313
+415,925,Southern Illinois University - Carbondale,Marketing,3.7,Terry Clark,4.5,34,N/A,,,,1,,,,1,,,,3,,1,,3,1,,,,700185
+416,925,Southern Illinois University - Carbondale,Biology,3.6,Margert Nsofar,1.9,33,N/A,,,1,,1,1,1,,1,,,,6,,2,,4,,,6,874879
+417,925,Southern Illinois University - Carbondale,English,3.4,Andrew McFadyen-Ketchum,4.4,33,N/A,,,,,,,,,,,,,,,,,,,,,1122768
+418,925,Southern Illinois University - Carbondale,Biology,3.5,Latasha Redmond,4.2,30,87%,4,,,2,7,2,13,5,,,2,1,7,3,2,9,5,,1,5,1745197
+419,925,Southern Illinois University - Carbondale,Computer Science,3.4,Norman Carver,3.3,29,N/A,1,,,,1,,,1,,,,1,,1,,2,,,,1,1149
+420,925,Southern Illinois University - Carbondale,Mathematics,3.1,Phillip Feinsilver,2.7,29,N/A,,,,1,,,,1,,,,1,,,,,,,,,25998
+421,925,Southern Illinois University - Carbondale,Psychology,3.5,Matthew Schlesinger,3.4,27,N/A,,1,,,,,1,,,,1,,,1,,,2,1,,1,706194
+422,925,Southern Illinois University - Carbondale,Computer Science,3.0,Bidyut Gupta,3.7,26,N/A,,1,,,,,,1,,,,,,1,1,1,,,,,2114
+423,925,Southern Illinois University - Carbondale,Mathematics,3.9,Don Redmond,2.5,26,57%,,,2,,1,,,,1,,5,,1,,1,,4,2,3,5,334144
+424,925,Southern Illinois University - Carbondale,Biology,3.2,Andrew Wood,4.0,26,100%,,1,,1,3,3,1,1,,,1,1,2,1,,2,1,1,2,4,602754
+425,926,Southern Illinois University - Edwardsville,Biology,3.8,Thomas Buettner,2.5,139,56%,5,9,5,5,16,8,6,10,10,,25,,38,,8,5,31,,24,21,1045959
+426,926,Southern Illinois University - Edwardsville,Economics,2.7,Mary Ann Pettit,3.7,131,77%,,3,,2,17,,,2,14,,4,,19,,1,6,34,,7,8,240027
+427,926,Southern Illinois University - Edwardsville,Chemistry,2.8,Thomas Holovics,4.7,127,94%,2,13,24,6,9,4,,6,,,9,5,6,10,4,24,11,,2,15,1031028
+428,926,Southern Illinois University - Edwardsville,Economics,4.5,Lynn Beck,3.1,120,N/A,,,,1,,,,,,,,,3,,,,7,,,10,194261
+429,926,Southern Illinois University - Edwardsville,Economics,2.2,Warren Richards,4.2,107,85%,1,5,,4,4,,,5,4,,,,3,,,2,12,,7,5,243934
+430,926,Southern Illinois University - Edwardsville,Mathematics,2.6,Barbara Kniepkamp,4.4,102,89%,4,2,,9,9,1,,9,,,,,3,9,1,4,13,,2,3,139389
+431,926,Southern Illinois University - Edwardsville,Chemistry,3.6,Lawrence Norcio,3.5,98,75%,5,5,,3,9,2,2,4,3,,8,,9,6,3,13,34,,5,19,1093458
+432,926,Southern Illinois University - Edwardsville,Mathematics,3.8,Letitia Downen,2.6,91,68%,5,,1,9,6,,,4,1,2,2,,2,11,2,2,15,2,3,20,714442
+433,926,Southern Illinois University - Edwardsville,Chemistry,4.0,Lynne Miller,3.5,91,93%,3,6,13,15,2,2,1,4,1,1,1,9,8,12,,8,23,,4,20,1325529
+434,926,Southern Illinois University - Edwardsville,Economics,4.0,L Wolff,2.2,87,11%,1,,,3,,,2,,2,,,,6,2,,,2,,3,7,76018
+435,926,Southern Illinois University - Edwardsville,Economics,3.5,Tim Sullivan,3.4,85,75%,1,,1,1,5,1,,1,,,,,5,2,1,2,9,,1,12,397129
+436,926,Southern Illinois University - Edwardsville,Biology,3.2,Ashley Jabs,4.9,84,100%,1,7,,14,,8,1,4,,,3,17,,1,,21,18,,,5,1598943
+437,926,Southern Illinois University - Edwardsville,Philosophy,2.6,Erik Meade,3.8,81,65%,2,5,4,4,1,,5,8,3,1,16,1,,10,1,4,6,1,,4,361240
+438,926,Southern Illinois University - Edwardsville,Accounting,2.8,James Dixon,3.7,81,50%,1,1,,1,6,,1,,2,,2,1,7,1,,2,9,,2,11,541774
+439,926,Southern Illinois University - Edwardsville,Computer Science,2.4,Steve Klein,4.3,80,82%,1,4,,5,2,,,1,2,,14,2,1,,2,3,1,,,,139367
+440,926,Southern Illinois University - Edwardsville,Economics,4.1,Ali Kutan,2.1,77,39%,1,1,,,3,2,7,1,2,,1,,11,2,1,,5,2,4,21,302822
+441,926,Southern Illinois University - Edwardsville,Biology,4.3,Christine Simmons,3.0,76,14%,5,,1,1,,,32,2,1,,,1,12,5,2,3,16,,18,30,1467697
+442,926,Southern Illinois University - Edwardsville,Psychology,3.7,Eva Ferguson,1.9,69,N/A,,,2,,,,9,1,,2,,,2,,1,,7,2,,12,472566
+443,926,Southern Illinois University - Edwardsville,English,3.7,Nancy Avdoian,2.7,68,N/A,,,,,2,,,5,,,,,,2,2,,6,9,,12,147366
+444,926,Southern Illinois University - Edwardsville,Geography,2.0,Francis Odemerho,2.3,67,40%,2,,,1,4,6,1,,1,1,,,13,3,,,8,,2,,269351
+445,927,Southern Methodist University,Economics,3.8,Tania Jordan,2.8,144,42%,3,2,30,2,6,1,3,2,5,,,,36,2,5,2,41,,11,39,508099
+446,927,Southern Methodist University,Religion,2.1,John Lamoreaux,4.7,128,100%,1,1,,3,5,3,13,1,1,,7,3,3,2,,3,1,2,1,,1153025
+447,927,Southern Methodist University,English,2.8,Kevin Wells,4.7,120,99%,48,4,2,26,28,,5,81,18,,16,16,1,1,10,31,15,4,,7,2309059
+448,927,Southern Methodist University,Mathematics,1.8,Judy Newell,4.8,104,100%,13,4,,27,9,3,,6,1,,7,3,4,1,,21,6,,1,,39852
+449,927,Southern Methodist University,Psychology,2.9,Susan Hornstein,3.9,88,86%,1,9,,1,3,11,6,,10,,,,6,,,3,14,,8,,140854
+450,927,Southern Methodist University,Philosophy,2.5,Kenneth Daley,4.4,85,88%,,11,6,5,4,1,2,8,,,27,6,7,1,12,8,9,1,,7,1206485
+451,927,Southern Methodist University,Chemistry,4.6,Patty Wisian-Neilson,3.1,83,58%,2,2,,1,,,4,1,1,,1,,1,16,,5,9,,8,23,465412
+452,927,Southern Methodist University,Economics,3.5,Elizabeth Wheaton,4.0,82,62%,2,3,,5,11,2,1,1,6,,,2,3,3,1,13,19,,7,14,894578
+453,927,Southern Methodist University,Mathematics,2.1,Carol Seets,4.0,80,97%,10,1,,19,17,6,,2,3,,1,,4,6,,7,4,,4,1,337981
+454,927,Southern Methodist University,Mathematics,2.3,Adriana Aceves,4.0,77,67%,13,3,3,14,7,5,,1,2,,,1,10,6,2,4,9,,1,8,1195950
+455,927,Southern Methodist University,Economics,3.0,Michael Saliba,4.0,72,90%,1,11,,4,3,,6,2,6,,9,6,18,10,,9,14,,6,15,1570132
+456,927,Southern Methodist University,Biology,2.8,Alejandro D'Brot,4.8,70,99%,31,13,6,40,6,1,1,22,3,,4,20,6,1,2,19,3,,5,1,2155567
+457,927,Southern Methodist University,English,3.8,LeeAnn Derdeyn,4.4,66,79%,8,4,,7,6,3,36,47,,,1,4,1,9,9,7,17,2,,20,1956302
+458,927,Southern Methodist University,Business,3.2,Ray Miles,3.8,62,100%,,9,1,1,,,,7,,7,1,6,,,12,6,2,,,,1103709
+459,927,Southern Methodist University,Wellness,1.1,Brian Fennig,5.0,61,100%,1,5,,15,1,,,11,1,,4,16,,,10,20,2,,,,754942
+460,927,Southern Methodist University,English,3.1,Vanessa Hopper,4.2,60,73%,,4,,7,10,,8,15,8,2,,3,5,1,7,4,6,3,,12,681569
+461,927,Southern Methodist University,Philosophy,3.1,Steve Hiltz,2.9,57,67%,,3,,,3,,14,2,4,,1,1,7,,4,,6,,1,6,48044
+462,927,Southern Methodist University,Political Science,4.6,Joseph Kobylka,4.3,50,80%,,3,1,1,,,9,2,,,,2,2,1,3,3,2,2,,11,633480
+463,927,Southern Methodist University,Chemistry,3.7,Michael Lattman,3.7,47,79%,,,,1,2,,2,1,4,,7,4,2,7,1,7,7,2,5,14,755910
+464,927,Southern Methodist University,Chemistry,2.8,Andrea Adams,4.5,47,88%,7,,,3,10,,,7,,1,,,,4,2,6,4,,,6,359405
+465,928,Southern Nazarene University,Theology,3.5,Marty Michelson,4.7,36,N/A,1,1,,,1,,,1,,,,,,1,,1,,,,,305588
+466,928,Southern Nazarene University,Philosophy,3.4,Brint Montgomery,3.3,16,N/A,1,,,,1,,,,,,1,2,,1,,,1,,,2,149748
+467,928,Southern Nazarene University,Religion,4.1,Tim Crutcher,3.8,15,N/A,1,,,,1,,,,,,,1,,,,,,,,1,825446
+468,928,Southern Nazarene University,Art History,3.8,Melissa Lewis,3.1,12,N/A,,,,,,,,1,,,,,,,1,,1,,,,538042
+469,928,Southern Nazarene University,History,3.3,Heather Clemmer,4.6,12,N/A,,,,1,,,1,1,,,,,,,,1,,,,1,567572
+470,928,Southern Nazarene University,Religion,1.6,Kelly Yates,3.1,12,N/A,1,1,,,1,,,,,1,1,,1,,1,,,,,,720120
+471,928,Southern Nazarene University,Theology,1.5,Howard Culbertson,4.4,10,N/A,,,,,,,,,,,,,,,,,,,,,348818
+472,928,Southern Nazarene University,Science,4.0,Ed Neuenschwander,3.5,10,N/A,,2,,2,,,,,1,,,,,1,,,,,,,483722
+473,928,Southern Nazarene University,Music,2.4,Steve Betts,4.7,10,N/A,,,,,,,,,,,,,,,,,,,,,718875
+474,928,Southern Nazarene University,Biology,5.0,Wes Hanson,2.8,9,N/A,,,,,,,,,,,,,,,,,,,,,481389
+475,928,Southern Nazarene University,English,2.6,Jim Wilcox,4.7,9,N/A,,,,,,,,,,,,,,,,,,,,,533362
+476,928,Southern Nazarene University,Music,2.3,Phil Moore,3.9,9,N/A,,,,,,,,,,,,,,,,,,,,,544863
+477,928,Southern Nazarene University,Music,1.9,Mark Reighard,4.9,9,N/A,,1,,,,,,,,,,1,,,,1,,,,,692305
+478,928,Southern Nazarene University,Communication,1.2,Pamela Broyles,4.9,9,N/A,,,,,,,,,,,,,,,,,,,,,941353
+479,928,Southern Nazarene University,Religion,3.3,Jirair Tashjian,3.9,8,N/A,,,,,,,,,,,,,,,,,,,,,666472
+480,928,Southern Nazarene University,Business,3.6,Cynthia Powell,1.9,8,N/A,,,1,,,,,,,,,,,2,,,,,2,1,824150
+481,928,Southern Nazarene University,English,1.9,Pamela Bracken,2.5,8,N/A,,,,,,,,1,,,,,,,,,,,,,910101
+482,928,Southern Nazarene University,Communication,2.7,Melanie Kyzer,4.6,7,N/A,,,,,,,,,,,,,,,,,,,,,166374
+483,928,Southern Nazarene University,Communication,2.1,Laura Gering,4.3,7,N/A,,,,1,,2,,,,,,,1,1,,,,1,,,677046
+484,928,Southern Nazarene University,Religion,4.4,Stephen Green,3.3,7,N/A,,1,1,1,,,1,,,,,1,,,,1,,,,2,710981
+485,929,Southern Oregon University,Economics,3.7,Rick Holt,2.5,52,33%,,1,,,,,9,1,1,11,,,2,1,3,1,9,,1,7,168784
+486,929,Southern Oregon University,Chemistry,3.4,Douglas Chapman,4.4,41,N/A,1,2,,1,,,1,1,,,3,1,,2,1,,1,,,2,664964
+487,929,Southern Oregon University,Physics,3.1,Panos Photinos,2.7,37,N/A,,,,,,,,,,,,,,,1,1,1,,,,350017
+488,929,Southern Oregon University,Mathematics,2.3,Daniel Kim,3.6,37,86%,,,,2,2,1,,3,,,6,1,2,1,,3,3,,,,517955
+489,929,Southern Oregon University,Mathematics,2.5,Larry Shrewsbury,4.8,37,75%,,3,,4,4,3,,2,,1,5,3,,3,1,3,1,2,1,,746558
+490,929,Southern Oregon University,English,4.1,Diana Maltz,2.6,35,80%,,1,,2,1,,3,4,,,1,,1,,3,,3,,,4,569125
+491,929,Southern Oregon University,Political Science,3.5,Bill Hughes,3.4,33,N/A,1,1,,,1,,3,3,1,,5,,,,,,,,,2,641709
+492,929,Southern Oregon University,English,3.8,Terry Dehay,2.8,31,N/A,,,,,,,,,,,,,,,,,,,,,569121
+493,929,Southern Oregon University,Business,3.0,Dennis Slattery,4.4,31,100%,3,1,,7,,3,,2,,,2,2,,1,,3,3,,,,574937
+494,929,Southern Oregon University,Communication,3.4,Jody Waters,4.1,30,N/A,,,,,,,,,,,,,,,,,,,,,616289
+495,929,Southern Oregon University,Mathematics,3.9,James Hatton,2.3,30,N/A,,,,,,,1,,,,,,,6,1,,3,,,5,1262534
+496,929,Southern Oregon University,English,2.5,Craig Wright,4.4,29,N/A,,2,,,,,,1,,,1,2,,,1,2,,,,,68607
+497,929,Southern Oregon University,English,3.7,Elizabeth Whitman,4.6,29,N/A,,,,,,,3,3,,,,1,,4,,,,,,1,500126
+498,929,Southern Oregon University,Philosophy,3.0,Prakash Chenjeri,4.5,29,N/A,,,,1,1,,,,,,2,,,,1,1,,,,1,561991
+499,929,Southern Oregon University,English,3.6,Alma Alvarez,3.9,28,N/A,,1,1,,,,2,,,,,,,,,1,,,,,61185
+500,929,Southern Oregon University,Communication,2.6,Garth Pittman,3.8,28,N/A,,,,1,1,,2,2,,,2,2,,,2,1,1,,,2,561994
+501,929,Southern Oregon University,Criminal Justice,4.0,Lee Ayers-Schlosser,4.1,26,N/A,,1,,,,,,1,,,,,,1,1,,,,,1,658817
+502,929,Southern Oregon University,Physics,3.4,Ellen Siem,3.9,26,88%,3,,,4,,,,5,,2,3,1,,1,,1,1,1,,1,1201275
+503,929,Southern Oregon University,Mathematics,3.4,Lisa Ciasullo,4.3,25,100%,1,,,1,1,,,1,,,1,,2,,1,2,1,,,,68588
+504,929,Southern Oregon University,Mathematics,3.3,Dusty Sabo,3.8,25,N/A,2,,,2,1,,,1,,,,,,1,,2,2,,,,326266
+505,932,Southern Utah University,Physics,3.2,Brandon K. Wiggins,4.9,152,100%,42,63,,42,23,10,,40,1,,103,19,1,14,,28,10,,1,,2230337
+506,932,Southern Utah University,Communication,2.6,Karisa Rosander,4.3,148,90%,31,9,1,53,31,28,8,76,6,5,6,13,5,4,45,36,11,1,,,2207188
+507,932,Southern Utah University,Communication,2.3,Karisa Rosander Peacock,4.5,90,92%,11,9,,40,14,29,4,41,7,7,3,9,,3,29,36,5,,,,2430317
+508,932,Southern Utah University,Nutrition,3.1,Matthew Schmidt,4.6,75,87%,2,8,,5,3,3,2,3,3,,15,2,5,,5,6,18,,5,8,1581673
+509,932,Southern Utah University,Mathematics,3.4,Said Bahi,3.0,59,56%,,,,1,3,,3,3,3,,3,,2,14,,5,4,,1,2,519588
+510,932,Southern Utah University,Biology,3.8,Jonathan Karpel,3.3,51,61%,4,1,1,2,3,1,13,4,,2,,,7,2,2,,19,3,6,27,1537755
+511,932,Southern Utah University,History,1.6,Ryan Paul,4.7,50,100%,,7,,1,3,12,1,,,,10,3,3,,1,4,5,,,,517057
+512,932,Southern Utah University,Sociology,2.9,Michael Ostrowsky,4.3,48,88%,3,8,2,8,8,2,5,7,,1,4,5,,1,3,7,3,,,,1002003
+513,932,Southern Utah University,Mathematics,3.4,Cecilia Weingartner,2.2,45,10%,2,1,1,3,,4,1,1,,12,,,5,8,3,,7,,1,4,838261
+514,932,Southern Utah University,Business,3.4,Joe Baker,3.7,43,27%,1,2,5,,2,,5,,1,,1,,1,1,5,1,9,,5,14,529550
+515,932,Southern Utah University,Philosophy,3.1,Kristopher Phillips,4.3,41,87%,5,18,,3,1,,8,11,,,22,11,,,3,8,6,,,5,1938280
+516,932,Southern Utah University,Chemistry,3.9,Nathan S Werner,4.4,39,100%,5,3,9,7,5,,9,13,,,1,,1,2,1,10,10,,3,,1775873
+517,932,Southern Utah University,Family & Consumer Science,2.7,Clint Broadbent,4.9,39,100%,9,19,,15,3,,6,11,1,2,15,7,2,,7,8,5,,,,2423850
+518,932,Southern Utah University,Biology,4.0,Mary Jo Tufte,4.3,37,100%,1,3,,2,4,2,2,1,,,10,,5,,2,11,20,,2,12,1408124
+519,932,Southern Utah University,Communication,4.6,Paul Husselbee,3.5,37,N/A,,,,2,1,,1,2,,,,1,2,2,3,1,6,,,9,145331
+520,932,Southern Utah University,English,4.0,Toanui Tawa,3.4,36,79%,,1,3,1,1,2,4,7,,,4,,,10,,4,6,7,,8,975110
+521,932,Southern Utah University,Chemistry,4.0,Chris Monson,4.3,36,83%,6,4,14,7,,,,5,,,1,,,5,,7,13,,5,8,1625612
+522,932,Southern Utah University,Philosophy,3.5,Kirk Fitzpatrick,4.7,35,86%,2,,,1,1,,5,2,,,,1,1,,,4,1,,2,,657625
+523,932,Southern Utah University,Social Science,2.8,Kenny Laundra,4.2,34,N/A,,,,,,,,,,,,,,,,,,,,,844
+524,932,Southern Utah University,English,2.9,Eric Morrow,3.4,34,N/A,,,,,3,2,,1,,,,,4,4,2,,1,,,2,515084
+525,933,Southern Vermont College,History,2.9,Tom Redden,4.7,14,N/A,,,,,,,,1,,,,1,,,,1,,,,,187474
+526,933,Southern Vermont College,Humanities,2.9,Lynda Sinkiewich,4.3,10,N/A,,,,1,,,,2,,,1,1,,,,1,,,,,710793
+527,933,Southern Vermont College,Computer Science,2.0,Randy Krum,5.0,5,N/A,,,,,,,,,,,,,,,,,,,,,344437
+528,933,Southern Vermont College,English,3.3,Scott O'Callaghan,3.9,4,N/A,,,,,,,,1,,,,,,,1,,,,,,718553
+529,933,Southern Vermont College,Sociology,2.0,Scott Stein,4.5,3,N/A,,,,,,,,,,,,,,,,,,,,,669181
+530,933,Southern Vermont College,Humanities,2.7,Tracey Forest,4.3,3,N/A,,,,,,,,,,,,,,,,,,,,,812664
+531,933,Southern Vermont College,Art History,3.3,Greg Winterhaulter,3.3,3,N/A,,,,,,,,,,,,,,1,1,,,,,2,821631
+532,933,Southern Vermont College,English,4.3,Bryna Seigel Finer,2.9,3,N/A,,,,1,,,,1,,,,,1,1,,,1,,,1,1515785
+533,933,Southern Vermont College,Biology,3.0,Tammy Kenny,4.7,3,N/A,1,,,,,,,1,,,1,1,,,1,1,,,,,1979258
+534,933,Southern Vermont College,English,4.3,Jenny Dunning,1.7,3,N/A,,,,,,,,,,,,,,3,1,,2,2,,1,2405607
+535,933,Southern Vermont College,Business,2.0,Charles Crowell,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1402173
+536,934,Southern Wesleyan University,Education,3.8,Harold Waters,5.0,14,N/A,,,,,,,,,,,,,,,,,,,,,671008
+537,934,Southern Wesleyan University,Education,3.3,Fred Woodworth,3.9,10,N/A,,,,,1,,,,,,,,,,1,,,,,,274332
+538,934,Southern Wesleyan University,Religion,3.1,Bob Black,4.5,10,N/A,1,,,1,,,,1,,,,,,,,,,,,,402794
+539,934,Southern Wesleyan University,Biology,3.8,Jeffrey Mohr,4.5,8,88%,,2,4,1,,4,,,,,3,,1,,,1,2,,2,1,2351875
+540,934,Southern Wesleyan University,History,2.8,Michael Keaton,4.9,6,N/A,,1,,,,,,,,,,1,,,,1,,,,,1302239
+541,934,Southern Wesleyan University,Religion,3.6,Jim Bross,3.6,5,N/A,,,,,,,,,,,,,,,,,,,,,722607
+542,934,Southern Wesleyan University,Religion,3.8,Mari Gonlag,4.1,5,N/A,,,,,,,,,,,,,,,,,,,,,1145177
+543,934,Southern Wesleyan University,English,3.0,Rosina Marini,4.6,5,N/A,,,,,,,,,,,,,,,,,,,,,1393827
+544,934,Southern Wesleyan University,Social Science,3.5,Steven Hayduk,4.9,4,N/A,,,,,,,,,,,,,,,,,,,,,719387
+545,934,Southern Wesleyan University,Sociology,3.8,Richard Rogers,4.0,4,N/A,,,,,,,,,,,,,,,,,,,,,1141775
+546,934,Southern Wesleyan University,Not Specified,4.8,Emily Germain,4.0,4,N/A,,,,,,,,1,,,,,,,,1,,,,1,1581773
+547,934,Southern Wesleyan University,Biology,3.5,Staci Johnson,2.1,4,N/A,,,,1,,,1,,,1,,,,,1,1,,,,1,1639902
+548,934,Southern Wesleyan University,English,4.0,Timothy Kirk,3.5,4,N/A,,,,,,,1,,,,,,,2,,,1,,,1,1972683
+549,934,Southern Wesleyan University,Criminal Justice,3.8,George Buzzy,5.0,4,N/A,2,1,,2,1,,1,1,,,,1,,,,3,,,,,2490528
+550,934,Southern Wesleyan University,English,2.7,Laura Black,4.8,3,N/A,1,,,1,,,,,,,,,,,1,,,,,,13811
+551,934,Southern Wesleyan University,Computer Science,3.3,Paul Jordan,5.0,3,N/A,,,,,,,,1,,,,,,,,1,,,,1,723265
+552,934,Southern Wesleyan University,Fine Arts,3.0,Don Cambell,3.6,3,N/A,,,,1,,,,,,,,1,,,,1,,,,,886710
+553,934,Southern Wesleyan University,Biology,5.0,Susan Rouse,5.0,3,N/A,,,,,,,,,,,,,,,,,,,,,1145178
+554,934,Southern Wesleyan University,Computer Science,2.0,Gary Mosley,2.8,3,N/A,,,,,,,,,,,,,,,,,,,,,1181727
+555,934,Southern Wesleyan University,Religion,3.7,William Frost,2.7,3,N/A,,,,,,,,,,,,,,,,,,,,,1621410
+556,935,Southwest Baptist University,Religion,2.1,Duke Jones,4.5,22,91%,1,2,2,6,1,,2,3,,,5,2,1,1,2,3,,,1,,537678
+557,935,Southwest Baptist University,English,3.8,Todd Sukany,4.1,18,N/A,,,,1,,,,3,,,2,,,,,1,,1,,4,56420
+558,935,Southwest Baptist University,Religion,3.0,Donald Denton,3.6,15,N/A,,5,,2,1,,2,,,,,1,,,1,2,,,,,575742
+559,935,Southwest Baptist University,Psychology,2.1,Bill Walkup,4.7,15,N/A,,4,,,2,5,,2,,,1,1,,,,3,1,,,,575746
+560,935,Southwest Baptist University,Religion,3.2,Bing Bayer,4.5,13,N/A,,1,,,,,,1,,,1,,,,,,,,,,689363
+561,935,Southwest Baptist University,Political Science,2.0,Kwasi Ofori-Yeboah,4.0,13,N/A,,1,,2,1,,,2,2,,4,,1,,,4,,,,1,689366
+562,935,Southwest Baptist University,Accounting,3.4,Sharla Bailey,2.4,12,N/A,,,,,,,,,,,,,,2,,,2,,,2,20442
+563,935,Southwest Baptist University,Computer Science,3.6,James Cain,3.2,12,N/A,1,,1,3,,,,2,,,,,2,,,1,4,,,1,767767
+564,935,Southwest Baptist University,Communication,3.5,Brett Miller,4.3,11,N/A,,,,,,,,,,,,,,1,,,,,,1,324281
+565,935,Southwest Baptist University,Theology,3.3,Rodney Reeves,4.0,9,N/A,,,,,,,,1,,,,,,,,,1,,,1,56424
+566,935,Southwest Baptist University,Psychology,3.1,Richard Brewer,4.3,9,N/A,,,,,,,,,,,,,,,,,,,,,219663
+567,935,Southwest Baptist University,History,2.1,Timothy Wood,4.8,9,N/A,,1,,,1,,2,,,,1,,1,,,,,,2,,569076
+568,935,Southwest Baptist University,Religion,4.4,Jim Frost,2.6,9,N/A,,,,,,,,,,,,1,2,1,,1,,,,3,1189880
+569,935,Southwest Baptist University,Mathematics,1.5,Bob Glasgow,4.8,8,N/A,,,,,,,,,,,,,,,,,,,,,56422
+570,935,Southwest Baptist University,Economics,3.1,Rhonda Credille,3.9,8,N/A,,,,,,,,,,,,,,,,,,,,,56423
+571,935,Southwest Baptist University,English,3.0,Carla Kirchner,3.7,8,N/A,,,1,,1,1,1,2,,,,,,,1,,,1,,1,629381
+572,935,Southwest Baptist University,Biology,3.6,Paula Steiert,3.9,8,N/A,,,,,,1,,,,,,,,,,1,2,,,,850040
+573,935,Southwest Baptist University,Philosophy,4.3,Zach Manis,4.5,8,N/A,,,,,,,,,1,,1,1,1,,,,,,,1,954343
+574,935,Southwest Baptist University,Political Science,1.1,Robert Klostermeyer,4.6,8,N/A,,,,,,,,,,,,,,,,,,,,,1004291
+575,935,Southwest Baptist University,Mathematics,3.3,Steve Bowling,3.0,8,N/A,1,,,3,,,,,1,,1,,,2,1,,,,,,1361274
+576,936,Missouri State University,"Media, Journalism & Film",3.6,Andrew Twibell,2.0,174,23%,1,1,21,2,,,16,4,20,33,2,1,31,37,25,3,31,34,14,55,1850082
+577,936,Missouri State University,History,4.4,David Gutzke,2.4,169,21%,1,3,,,2,,18,2,1,,3,2,13,,10,,21,1,15,27,116588
+578,936,Missouri State University,Mathematics,3.5,Sylvia Carr,3.0,168,26%,4,,31,7,2,1,,4,3,,7,,4,23,2,,29,,4,34,76569
+579,936,Missouri State University,Law,2.6,Wayne Anderson,4.3,162,86%,,24,1,2,3,2,4,2,8,,34,5,5,,2,12,4,,10,5,72606
+580,936,Missouri State University,Computer Science,4.0,Harry Shea,1.8,155,13%,1,,11,3,1,,1,2,,,,,18,16,1,,12,,9,36,17754
+581,936,Missouri State University,Biomedical,3.5,Joshua Smith,3.8,148,49%,5,2,12,9,3,6,3,10,1,3,5,1,32,26,14,14,45,1,6,35,1189373
+582,936,Missouri State University,Chemistry,2.7,Brian High,4.6,142,89%,17,19,,10,13,10,1,6,,,16,,13,21,9,15,30,,10,8,933082
+583,936,Missouri State University,Religious Studies,2.9,Micki Pulleyking,4.3,136,77%,2,16,,5,1,,17,,4,,1,24,4,,3,12,27,,1,8,396446
+584,936,Missouri State University,Chemistry,1.8,Mark Richter,4.5,129,91%,6,10,29,2,16,22,,1,2,,7,1,12,,14,5,24,,4,2,75045
+585,936,Missouri State University,Psychology,3.5,Donald Fischer,2.0,128,N/A,,1,,,,4,1,,,,,1,3,,,1,2,,2,2,17756
+586,936,Missouri State University,Psychology,1.8,Sarah McNew,4.6,126,100%,2,9,1,11,14,22,7,2,,,,1,1,6,10,8,3,,4,,797625
+587,936,Missouri State University,Finance & Business Law,2.2,Nancy Allen,4.8,123,N/A,,17,1,4,1,4,,1,,,19,5,,,3,9,7,,,,742765
+588,936,Missouri State University,Political Science,3.0,Joel Paddock,4.5,123,85%,2,14,,6,8,,,8,19,,2,,25,,1,20,27,,14,10,85101
+589,936,Missouri State University,Geography,2.1,Deborah Corcoran,4.5,123,96%,4,6,,8,9,24,2,3,,,,1,16,11,,4,5,,2,1,75607
+590,936,Missouri State University,Astronomy,3.5,Robert Patterson,3.1,117,19%,,1,20,,1,14,5,2,2,,1,,20,,1,2,16,1,4,9,86853
+591,936,Missouri State University,Mathematics,3.6,Gary Stafford,2.8,114,17%,4,,2,,1,2,3,,2,,,,7,18,1,,20,,8,25,72602
+592,936,Missouri State University,Psychology,3.2,Brooke Whisenhunt,3.8,114,97%,3,16,,7,5,11,22,2,,,7,2,1,10,5,4,1,,2,,978331
+593,936,Missouri State University,Psychology,2.5,Tanya Whipple,4.2,108,85%,,16,,5,8,10,6,9,1,,20,4,9,11,15,8,7,1,2,,275409
+594,936,Missouri State University,Mathematics,3.2,Donna Sherrill,3.3,106,53%,1,,8,2,2,2,1,3,,,,,2,18,1,2,11,,2,11,186014
+595,936,Missouri State University,Communication,3.1,Jerri Lynn Kyle,3.7,105,67%,2,1,2,9,4,,5,7,1,1,9,1,,7,7,6,4,1,,13,66721
+596,937,Southwest Minnesota State University,Political Science,3.4,David Sturrock,3.2,33,80%,3,,,1,2,,,1,,,,,1,,1,2,,,,2,376835
+597,937,Southwest Minnesota State University,Geography,3.3,Tony Amato,2.1,32,N/A,,1,,,,,,,1,,1,,3,1,2,,1,,,1,147681
+598,937,Southwest Minnesota State University,History,3.6,Jeff Kolnick,3.3,28,N/A,,,,,,,2,1,,,1,,,2,1,1,,,,2,325552
+599,937,Southwest Minnesota State University,Chemistry,4.0,Jay Brown,3.4,25,83%,3,,,1,1,3,,1,2,,,,1,2,,,,,3,3,505482
+600,937,Southwest Minnesota State University,History,3.0,Michael Hofstetter,4.4,24,N/A,,1,,,,,1,3,,,2,,,,,,2,,,1,490939
+601,937,Southwest Minnesota State University,Education,2.8,Michelle Beach,5.0,24,100%,2,1,,15,2,,,10,,1,4,8,,,,10,,,,,1796599
+602,937,Southwest Minnesota State University,Science,3.5,Tony Greenfield,2.6,24,N/A,,,,,2,,,2,,,,,1,1,,1,1,,,,505533
+603,937,Southwest Minnesota State University,Accounting,3.7,Glen Bayerkohler,3.3,23,N/A,1,,,1,,,,1,,,,,,,2,,2,,1,1,373871
+604,937,Southwest Minnesota State University,Computer Science,3.5,Kourosh Mortezapour,2.3,22,N/A,,,,,,,,,1,,,,,,2,,1,,,1,319865
+605,937,Southwest Minnesota State University,English,2.9,James Zarzana,3.8,22,N/A,,,,,,,,,,,,,,,,,,,,,398966
+606,937,Southwest Minnesota State University,Business,3.9,Stacy Ball-Elias,2.4,22,N/A,,,,,1,,,2,,,,,,,1,,1,2,,1,505469
+607,937,Southwest Minnesota State University,English,3.5,Judy Wilson,4.3,22,N/A,,,,,,,1,2,,,1,1,,1,3,1,1,,,,505614
+608,937,Southwest Minnesota State University,Psychology,3.5,Corey Butler,4.0,22,N/A,1,,,,3,1,1,1,,,1,,2,,,,,,,,488125
+609,937,Southwest Minnesota State University,English,3.9,David Pichaske,3.1,22,80%,1,,,,,,2,1,,,1,1,1,1,,2,,,1,3,505575
+610,937,Southwest Minnesota State University,Psychology,2.6,Christine Olson,3.8,21,N/A,,,,3,1,1,,2,,,,,1,1,2,2,,,,,488968
+611,937,Southwest Minnesota State University,Business,4.1,George Seldat,1.7,21,N/A,,,,,,,,,,,,,,,,,,,,,505589
+612,937,Southwest Minnesota State University,Political Science,3.2,William Borges,3.3,20,N/A,,1,,,,,,,,,,1,,,,,,,,,483779
+613,937,Southwest Minnesota State University,Biology,3.4,Vaughn Gehle,3.9,20,N/A,,1,,,3,,,,1,,,,1,,1,1,1,,3,3,505529
+614,937,Southwest Minnesota State University,Science,3.0,Emily Deaver,4.4,20,N/A,,,,1,,,,1,,2,,,1,2,,2,2,1,,3,505505
+615,937,Southwest Minnesota State University,Sociology,2.8,Vicky Brockman,2.3,19,N/A,1,,,1,1,,,1,,,,,2,,1,,,,,1,197131
+616,938,Texas State University,Political Science,3.0,Richard Henderson,3.0,356,45%,4,9,1,5,15,52,62,1,10,,58,4,115,28,4,9,80,2,24,28,16714
+617,938,Texas State University,Biology,3.8,Francis Horne,3.3,271,68%,21,55,1,17,34,4,3,16,15,,33,4,41,1,4,10,30,3,15,65,273673
+618,938,Texas State University,Geography,1.8,Brian Cooper,4.8,243,99%,7,77,,5,25,,,6,7,,82,22,13,,,43,43,,11,1,535123
+619,938,Texas State University,Political Science,1.8,Sherri Mora,4.5,243,88%,7,31,,15,23,71,14,7,4,,59,7,15,52,4,35,7,2,5,2,555459
+620,938,Texas State University,Psychology,1.7,Amy Meeks,4.5,214,94%,5,42,,48,25,64,4,8,8,,6,24,9,1,2,35,9,,7,,273276
+621,938,Texas State University,Political Science,1.9,Ben Arnold,4.3,190,94%,2,36,20,15,36,4,7,5,6,,30,7,29,2,4,45,13,,3,1,800337
+622,938,Texas State University,Mass Communications,2.1,Laurie Fluker,4.7,189,98%,6,23,,20,3,1,,2,3,,36,28,7,,3,33,29,,4,3,16719
+623,938,Texas State University,Mathematics,2.3,Gary Zielinski,4.4,176,84%,,1,,8,18,16,,7,3,,9,2,1,27,4,8,31,,1,4,76638
+624,938,Texas State University,Chemistry,3.5,Jeff McVey,4.5,175,94%,8,18,2,13,7,28,2,8,,,42,12,11,6,21,21,37,,4,11,389046
+625,938,Texas State University,History,3.9,Jim Selcraig,3.8,174,58%,,10,,2,2,,2,2,,,4,3,21,,1,1,38,1,10,35,21172
+626,938,Texas State University,Management,2.5,Seth Frei,4.7,165,99%,20,27,3,50,61,21,8,65,2,13,7,10,4,30,50,58,9,,2,4,1953190
+627,938,Texas State University,English,2.4,John Blair,3.9,159,83%,,15,1,2,10,5,18,2,7,,25,8,17,1,3,9,15,,10,3,59432
+628,938,Texas State University,Mathematics,2.7,Walter Dorman,4.0,155,88%,5,11,,9,19,12,,8,3,,7,,6,37,4,5,25,,9,5,59884
+629,938,Texas State University,Biology,4.5,Aglaia Chandler,1.8,130,16%,2,,1,,2,5,53,3,6,,,,47,48,4,1,34,1,24,59,1850808
+630,938,Texas State University,Physics,3.9,Russell Doescher,2.4,128,N/A,,,1,,,1,2,,,,1,,2,4,2,1,2,,,10,154802
+631,938,Texas State University,English,3.6,Keith Needham,4.3,127,88%,,21,6,8,13,,42,5,,,37,11,2,3,12,3,38,2,2,21,1333836
+632,938,Texas State University,Biology,4.4,Carolyn Pesthy,2.1,126,11%,,1,,,,1,31,1,3,,,1,22,9,2,1,34,,17,36,459999
+633,938,Texas State University,Computer Science,3.8,Becky Reichenau,2.8,125,34%,4,,7,2,12,4,3,2,2,19,,,3,11,2,1,18,,6,49,169951
+634,938,Texas State University,History,3.9,Shannon Duffy,2.7,124,19%,,3,,1,7,,18,4,6,,2,,34,3,7,1,18,3,16,57,1008346
+635,938,Texas State University,Art History,3.5,Alan Pizer,3.9,123,100%,1,14,3,,3,1,7,1,1,,1,3,8,,,4,21,,,11,23177
+636,939,Southwestern Adventist University,Business,2.8,Jerry Chi,4.4,22,N/A,,,,,,,,,,,,,,,,,,,,,106780
+637,939,Southwestern Adventist University,Psychology,3.0,Mark Aldrige,4.0,21,80%,,,,,1,,3,,,,,1,3,1,,,2,2,1,1,583093
+638,939,Southwestern Adventist University,History,1.9,Steven Jones,4.6,18,80%,,4,,1,,2,,,1,,5,2,,,,,,,1,1,106816
+639,939,Southwestern Adventist University,English,2.6,Renard Doneskey,4.8,17,N/A,,,,,,1,1,2,1,,3,,,,,1,2,,,1,106803
+640,939,Southwestern Adventist University,Mathematics,3.3,Murray Cox,4.2,12,N/A,,,,,,,,,,,,,,,,,,,,,106819
+641,939,Southwestern Adventist University,Theology,2.3,William Kilgore,4.7,11,N/A,,,,1,,,1,,,,,2,1,1,1,2,,,,,106839
+642,939,Southwestern Adventist University,Theology,3.3,Ingo Sorke,4.5,11,N/A,,1,1,,,,1,,,,1,1,,,1,2,1,,1,,106840
+643,939,Southwestern Adventist University,History,3.9,Erwin Sicher,4.2,10,N/A,,,,,,,,,,,,,,,,,,,,,106812
+644,939,Southwestern Adventist University,Business,1.6,Judith Miles,4.0,10,N/A,,,,,,2,,,,,,,1,3,,,,,,,106786
+645,939,Southwestern Adventist University,Education,2.4,Michael England,3.6,9,N/A,,,,1,,,1,1,,,2,,,1,,,,,,,106795
+646,939,Southwestern Adventist University,History,4.0,Elizabeth Bowser,3.1,9,N/A,,,2,1,,1,1,,,,,,,3,2,,1,,,1,1575567
+647,939,Southwestern Adventist University,Science,3.9,Art Chadwick,3.7,7,N/A,,,,,,,,,,,,,,,,,,,,,106772
+648,939,Southwestern Adventist University,English,3.4,Andrew Woolley,4.3,7,N/A,,,,,,,,1,,,,,,,,1,,,,1,106804
+649,939,Southwestern Adventist University,Mathematics,4.6,Lawrence Turner,1.4,7,N/A,,,,,,,1,,,,,,,,,,1,,,1,106820
+650,939,Southwestern Adventist University,Health Science,4.0,Jean Alway,1.9,7,N/A,,,,,,,,,,,,,,,,,,,,,106825
+651,939,Southwestern Adventist University,Communication,2.5,Glen Robinson,4.1,6,N/A,,,,,,,,,,1,,,,,1,,,,,,106768
+652,939,Southwestern Adventist University,Physical Ed,3.0,Barbara Harsany,3.4,6,N/A,,,,,,,,,,,,,,,,,,,,,106834
+653,939,Southwestern Adventist University,English,3.7,Judy Laue,3.5,6,N/A,,,,1,1,,,,,,,,,,1,1,2,1,,2,748427
+654,939,Southwestern Adventist University,Religion,4.2,Jorge Rico,2.8,6,N/A,,,,,,,,,1,,,,1,,,1,,2,1,2,883473
+655,939,Southwestern Adventist University,Biology,3.8,Peter McHenry,3.9,6,N/A,,,,,1,1,1,,,,,,,,,,,,,,1625713
+656,940,Southwestern Assemblies of God University,Religion,3.2,Jeff Magruder,3.4,33,N/A,,2,,,,,,2,,,,,,,,,1,1,,,26469
+657,940,Southwestern Assemblies of God University,Communication,4.0,Danny Alexander,3.6,21,N/A,,,,,,,,1,,,,1,1,,1,1,1,,,3,352853
+658,940,Southwestern Assemblies of God University,Youth Ministry,1.7,Garland Owensby,4.8,19,N/A,,4,,1,,,1,,,,4,,,,,1,,,,,26460
+659,940,Southwestern Assemblies of God University,Theology,1.9,Dan Langston,4.7,18,N/A,1,,,3,1,,,,,,4,3,,,,2,,,,,26462
+660,940,Southwestern Assemblies of God University,English,3.6,Amy Alexander,4.6,18,N/A,1,,,1,,,,,,,,1,1,,1,,,,,2,333750
+661,940,Southwestern Assemblies of God University,Theology,2.7,Bruce Rosdahl,5.0,17,N/A,,2,,2,,,,1,,,,1,1,,,2,,,,,26484
+662,940,Southwestern Assemblies of God University,Psychology,3.8,William Armistead,4.3,16,N/A,,,,,,,,2,1,,,,2,2,,,,1,,1,37857
+663,940,Southwestern Assemblies of God University,History,4.2,Gary McElhany,3.0,15,N/A,,1,,,,,3,,,1,,,3,,,,,,,4,37860
+664,940,Southwestern Assemblies of God University,English,3.3,Sheba Kulothungan,4.4,13,N/A,,,,,,,,,,,,,,,,,,,,,762235
+665,940,Southwestern Assemblies of God University,English,1.8,D'Juana Montgomery,3.8,11,N/A,,,,1,1,,,,1,,,,,,,,,,,,26475
+666,940,Southwestern Assemblies of God University,Physical Ed,1.3,Adonna Otwell,4.8,11,N/A,,,,1,,,,1,1,,,,,,1,2,,,,,26478
+667,940,Southwestern Assemblies of God University,Religion,3.9,Leroy Bartel,3.5,10,N/A,,,,,,,,,,,,,,,,,,,,,26464
+668,940,Southwestern Assemblies of God University,Not Specified,3.8,Paul Brooks,2.5,10,N/A,,,,,,,,,,,,,,,,,,,,1,26474
+669,940,Southwestern Assemblies of God University,English,2.7,Dessita Rury,4.1,10,N/A,,,,1,1,,,1,,,,,,,,,,,,,26485
+670,940,Southwestern Assemblies of God University,Religion,4.3,John Wyckoff,4.2,10,N/A,,,,1,,,1,1,,,,1,1,,,,,,,,613063
+671,940,Southwestern Assemblies of God University,Theology,2.0,Larry Hester,4.3,9,N/A,,1,,,,1,1,,,,,,1,,1,,,,,,26486
+672,940,Southwestern Assemblies of God University,Theology,4.0,Larry Goodrich,4.4,9,N/A,,,,,,,,,,,,,,,,,2,,,2,153588
+673,940,Southwestern Assemblies of God University,Psychology,2.8,Calvin Carmen,3.3,8,N/A,,,,,,,,,,,,,,,,,,,,,37859
+674,940,Southwestern Assemblies of God University,English,3.3,Diane Lewis,4.5,8,N/A,,,,,,,,,,,,,,,,,,,,,154299
+675,940,Southwestern Assemblies of God University,Theology,1.4,Gary Royer,5.0,7,N/A,,1,,,,,,1,,,,2,,,,,,,,,154282
+676,941,Southwestern Christian College,Music,1.3,Amy Johnson,5.0,3,N/A,,,,1,,,,,,,1,1,,,,,,,,,1026670
+677,941,Southwestern Christian College,Mathematics,4.5,Douglas Howie,4.5,2,N/A,,,,,,,,,,,,,,,,,,,,,1300677
+678,941,Southwestern Christian College,English,3.0,Patricia Officer Evans,4.5,2,N/A,,,,,,,,,,,,,,,,,,,,,1300680
+679,941,Southwestern Christian College,Religion,3.0,Ben Foster,5.0,1,N/A,,,,,,,,,,,,,1,1,,1,,,,,1619989
+680,942,Southwestern College,History,2.9,Victor Chavez,4.0,288,83%,16,41,1,12,7,2,44,50,4,2,4,46,13,2,8,39,2,3,1,10,212958
+681,942,Southwestern College,Mathematics,2.0,Andrew Medin,4.8,254,84%,6,15,,8,14,1,,9,3,1,19,8,1,27,,30,36,,3,7,72787
+682,942,Southwestern College,Political Science,1.9,Phil Saenz,4.5,235,81%,4,8,,5,24,23,15,5,3,,14,3,5,3,5,5,5,,3,12,7202
+683,942,Southwestern College,History,2.3,Felix Tuyay,4.0,225,86%,1,6,1,2,10,14,18,2,4,,19,2,7,,30,4,3,2,1,5,7137
+684,942,Southwestern College,Mathematics,3.5,Mimi Rasky,4.3,216,77%,5,13,1,7,4,,,16,1,,7,6,8,25,1,7,23,5,5,25,59066
+685,942,Southwestern College,Psychology,3.6,Linda Rocha,2.3,207,22%,1,,6,4,2,1,19,4,1,,2,1,6,19,1,2,20,4,8,12,43497
+686,942,Southwestern College,Philosophy,1.6,Peter Bolland,4.9,199,100%,1,23,,7,5,1,12,4,,,5,25,1,5,,16,1,,,,70906
+687,942,Southwestern College,Philosophy,1.8,Alejandro Orozco,4.7,193,87%,1,20,,5,7,7,4,4,1,1,26,7,1,3,5,7,4,,1,5,12720
+688,942,Southwestern College,History,3.8,William Horlor,3.5,176,N/A,,3,2,1,,4,10,3,,,,1,2,,,1,2,9,1,12,71924
+689,942,Southwestern College,History,2.2,Laura Ryan,4.1,176,55%,1,10,,7,6,7,11,17,1,,3,13,3,3,13,14,5,12,1,27,564935
+690,942,Southwestern College,Philosophy,2.0,Ananda Spike,4.8,173,100%,1,11,,14,13,20,5,14,,,,13,,11,15,5,,,,2,1113787
+691,942,Southwestern College,Business,1.9,Frank Paiano,4.9,169,100%,8,35,,26,8,1,,35,,,27,26,3,3,4,10,,,,1,214996
+692,942,Southwestern College,Mathematics,2.5,Peter Herrera,4.0,166,53%,4,,,3,5,1,1,1,2,,6,,6,11,1,2,12,,3,6,118178
+693,942,Southwestern College,Psychology,2.8,Christopher Hayashi,4.2,163,58%,1,8,,,5,1,6,4,1,3,3,7,4,3,2,6,8,,4,7,462742
+694,942,Southwestern College,Physics,3.5,Jeffrey Veal,3.8,162,72%,1,7,,,4,,2,1,4,,1,6,6,3,,5,12,,4,10,46865
+695,942,Southwestern College,Communication,2.8,Candice Taffolla-Schreiber,4.5,158,84%,3,11,,5,14,,4,14,,12,2,4,3,2,19,8,6,,1,9,57276
+696,942,Southwestern College,Social Sciences,3.3,Norris Nagao,2.8,148,39%,2,,1,1,2,,11,3,2,1,3,,2,1,,,21,1,2,16,53161
+697,942,Southwestern College,Anthropology,3.2,Erin Browder,4.3,146,61%,,4,,2,3,4,16,2,,,1,3,5,1,,5,11,,5,11,59289
+698,942,Southwestern College,Economics,2.4,Peggy Crane,4.4,142,80%,1,1,,,7,8,3,2,,,,1,2,1,4,8,3,,2,2,81163
+699,942,Southwestern College,Reading,1.5,Robert Unger,5.0,141,100%,1,15,1,10,8,9,5,11,,,12,16,,10,13,9,1,,,,199494
+700,943,Southwestern College,Not Specified,1.0,Timothy Reed,3.8,5,N/A,,,,,,,,,,,,,,,,,,,,,877707
+701,943,Southwestern College,Religion,4.7,Paul Benware,2.5,3,N/A,,,,,,,,,,,,,,,,,,,,,1229470
+702,943,Southwestern College,English,3.0,Lisa Walker,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1386224
+703,943,Southwestern College,English,5.0,David Savage,1.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1691523
+704,944,Southwestern College,Anthropology,4.0,Maria Jelaca - Tavakoli,3.9,16,N/A,,4,,,,,1,,1,,,,,,,,4,,1,3,726327
+705,944,Southwestern College,Physics,2.8,Bob Gallup,4.8,14,N/A,1,,,1,,,,,,,1,1,,,,2,,,,,354953
+706,944,Southwestern College,Philosophy,1.3,Alejandro Orozco,5.0,11,N/A,,,,,,,,1,,,,,1,,,1,,,,,658422
+707,944,Southwestern College,Communication,3.3,William Dearmond,4.7,6,N/A,,,,,1,,,1,,,,,,,,1,,,,,27496
+708,944,Southwestern College,Mathematics,4.0,Mimi Grifkin,3.5,5,N/A,,1,,,,,,,,,,,,,1,,,,,,679909
+709,944,Southwestern College,Biology,5.0,Patrick Ross,2.9,4,N/A,,,,,,,,,,,,,,,,,,,,,1014145
+710,944,Southwestern College,Communication,3.3,Tom Jacobs,2.0,3,N/A,,,,,,,,,,,,,,,,,,,,,394242
+711,944,Southwestern College,Management,4.0,Shelley Bradbury,1.7,3,N/A,,,,,,,,,,,,,,,,,,,,1,1824707
+712,944,Southwestern College,Mathematics,1.7,Ahmad Mojiri,5.0,3,N/A,,,,1,,,,1,,,1,,,,,,,,,,761975
+713,944,Southwestern College,Mathematics,2.5,Safaee Mehdi,5.0,2,N/A,,,,1,1,,,1,,,2,,,,,,1,,,,715291
+714,944,Southwestern College,Physics,3.5,Ayax Ramirez,3.3,2,N/A,,,,,,,,,,,,,,,,,,,,,730990
+715,944,Southwestern College,Business,5.0,Chuck Stump,4.0,2,N/A,,,,,,,,,,,,,,,,,,,,,839403
+716,944,Southwestern College,Political Science,2.5,James Manstrangelo,3.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1644342
+717,944,Southwestern College,Mathematics,4.5,Deepak Aralumallige,2.8,2,N/A,,,,,,,,,,,,,,,,,,,,,1842889
+718,944,Southwestern College,Management,4.0,Vernon Friday,2.0,2,N/A,,,,,,,1,,,,,,,,1,,,,,2,2031506
+719,944,Southwestern College,Marketing,4.5,Leslie Chaffin,1.5,2,N/A,,,,,,,,,,1,,,,1,1,,,,1,2,2271012
+720,944,Southwestern College,Computer Science,3.5,Russell Schoech,5.0,2,N/A,2,,,,,,,1,,,,,,1,,2,,,,,2273521
+721,944,Southwestern College,Nursing,4.0,Caleb Ediger,1.0,2,N/A,,,,,,,,,,,,,,,,,,,,1,2339463
+722,944,Southwestern College,Theater,2.0,Allyson Moon,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,618947
+723,944,Southwestern College,Theater,2.0,Roger Moon,4.0,1,N/A,,,,,,,,,,,,,,,,,,,,,618949
+724,946,Southwestern Oklahoma State University,History,2.9,David Hertzel,4.1,69,46%,,1,,,,,7,3,1,,1,1,3,,3,1,4,,4,7,179145
+725,946,Southwestern Oklahoma State University,History,2.4,Laura Endicott,4.6,59,100%,1,6,,2,2,,,,,,2,,3,,,1,8,,,,177846
+726,946,Southwestern Oklahoma State University,Philosophy,2.8,John Bradshaw,3.4,51,80%,,,,2,,,1,1,2,,3,,2,,1,1,4,,1,,186033
+727,946,Southwestern Oklahoma State University,History,2.3,John Hayden,4.6,50,N/A,,3,,,1,,,,,,4,,,,,2,1,,,,178695
+728,946,Southwestern Oklahoma State University,Computer Science,2.9,Mehdi Raoufi,3.9,50,N/A,,,,,,,,,,,,,,,,,,,,,267091
+729,946,Southwestern Oklahoma State University,History,2.5,Fred Gates,4.5,49,N/A,1,,,1,1,,,1,,,3,,3,1,,2,3,,,,179131
+730,946,Southwestern Oklahoma State University,Chemistry,2.9,Brian Campbell,4.5,46,N/A,,2,1,,1,,,,,,2,1,1,,,2,1,,,1,208348
+731,946,Southwestern Oklahoma State University,Chemistry,3.6,Sylvia Esjornson,2.9,44,83%,2,,,3,,,1,1,,,,1,,5,,2,2,1,,1,179455
+732,946,Southwestern Oklahoma State University,History,3.0,Roger Bromert,4.2,42,N/A,,,,,,,,,,,1,1,,,,,1,,,,177836
+733,946,Southwestern Oklahoma State University,Biology,2.0,Lisa Boggs,4.7,40,N/A,,3,,1,,,,,,,3,,,,,2,,,,,177835
+734,946,Southwestern Oklahoma State University,Biology,3.7,Sue Ball,4.0,40,100%,,2,,3,,1,1,2,,,3,1,1,,,2,7,,,1,179209
+735,946,Southwestern Oklahoma State University,Political Science,1.7,Dan Brown,4.5,40,80%,1,,,1,,,1,,1,,4,,3,,,2,2,,,,179784
+736,946,Southwestern Oklahoma State University,Biology,3.3,Steven O'Neal,3.5,38,78%,3,,,1,1,9,2,2,,,,,5,,,,4,,2,2,180147
+737,946,Southwestern Oklahoma State University,English,2.6,Helen Maxson,4.5,37,N/A,,,,1,,,2,1,,,,,,1,,,,1,,,179927
+738,946,Southwestern Oklahoma State University,Psychology,3.3,Melinda Burgess,3.3,37,29%,1,3,,1,,,2,2,1,,,1,,1,2,,2,1,2,2,203346
+739,946,Southwestern Oklahoma State University,Economics,1.5,Harry Nowka,4.1,36,N/A,,,,,,,,,,,,,,,,,,,,,178287
+740,946,Southwestern Oklahoma State University,Psychology,2.6,Mike Wolff,4.3,35,N/A,,2,,,,,,,4,,,,4,,1,,2,,1,,178286
+741,946,Southwestern Oklahoma State University,Chemistry,2.3,Tim Hubin,4.7,35,100%,4,1,,6,1,,,1,2,,,,1,,3,1,5,,,,716849
+742,946,Southwestern Oklahoma State University,Biology,2.1,Bill Seibert,4.4,34,N/A,,1,,,,,,,,,1,1,,,1,2,,,,,188430
+743,946,Southwestern Oklahoma State University,Health Science,3.9,Scott Long,3.2,34,N/A,1,1,,1,1,,,,,,1,,,,1,,,,,,291755
+744,947,Southwestern University,Religion,2.6,Banafsheh Madaninejad,4.6,50,94%,2,20,,16,,,16,3,3,,8,32,5,,12,11,,,,,1819733
+745,947,Southwestern University,Political Science,4.6,Timothy O'Neill,4.4,39,N/A,,,1,,2,1,1,4,,,,,,,,3,3,,,3,176842
+746,947,Southwestern University,Mathematics,4.0,Theresa Shelton,2.4,32,29%,1,,,4,,,2,2,3,,,,4,3,1,,6,,1,13,137420
+747,947,Southwestern University,Biology,3.9,Romi Burks,3.1,31,N/A,1,,,,,1,1,2,,,,,,,1,,1,,,2,680657
+748,947,Southwestern University,Classics,4.4,Pam Haskell,2.0,28,N/A,,,,1,,,2,,,,,,1,2,,,,,,,599869
+749,947,Southwestern University,Biology,3.1,Max Taub,2.8,27,N/A,,,1,,1,,2,,1,,,,,,3,,,,,3,674928
+750,947,Southwestern University,Languages,4.0,Hal Haskell,2.9,23,N/A,,,2,1,,,,1,,,,,1,,,1,,,,1,9014
+751,947,Southwestern University,English,3.6,Eileen Cleere,3.9,22,N/A,,1,,,,,2,,,,,,,1,1,2,,,,1,246448
+752,947,Southwestern University,Chemistry,2.3,Willis Weigand,4.9,22,N/A,1,,,3,1,,,1,,,5,3,,,,3,,,,,373965
+753,947,Southwestern University,Mathematics,3.8,Gary Richter,1.7,22,25%,,,,1,,,1,,1,,2,1,5,,,,1,,2,11,794935
+754,947,Southwestern University,Political Science,4.0,Eric Selbin,4.6,21,100%,1,1,,,,,3,4,1,,4,,1,,4,3,,1,,2,176851
+755,947,Southwestern University,Communication,3.3,Bob Bednar,4.3,21,N/A,,,,,,,1,1,,,,1,,,,,,,,,249939
+756,947,Southwestern University,English,2.8,Michael Saenger,3.8,20,N/A,1,,1,2,2,,2,3,,,,,,,2,,,,,1,21882
+757,947,Southwestern University,History,3.4,Thom McClendon,3.1,18,N/A,,,,,,,1,,,,,,,,,,,,,1,9015
+758,947,Southwestern University,Psychology,3.5,Fay Guarraci,4.5,18,N/A,,,,1,,1,1,2,,1,,,,1,1,,,1,,,296407
+759,947,Southwestern University,Psychology,4.8,Traci Giuliano,4.4,18,N/A,,,,,,,1,1,,,1,,,,,2,1,,,,271628
+760,947,Southwestern University,Anthropology,3.0,Melissa Johnson,4.8,17,N/A,,,,1,,,1,1,,,,2,,,2,2,,,,,465489
+761,947,Southwestern University,Biology,4.6,Erika Borden,2.5,17,30%,1,1,,1,,,,1,1,,,,7,1,,,9,,2,12,1703265
+762,947,Southwestern University,Economics,3.7,Dirk Early,4.8,16,N/A,2,2,2,,,,,1,,,1,,1,,,3,3,,,,10445
+763,947,Southwestern University,Philosophy,3.8,Phil Hopkins,4.5,16,N/A,,,,,,,,,,,,,,,,,,,,,10446
+764,948,Spalding University,Psychology,3.6,Dede Wohlfarth,4.5,22,100%,2,2,,6,,,4,13,,,4,9,,,4,7,,,,,155520
+765,948,Spalding University,English,3.7,Merle Bachman,3.5,9,N/A,,,,,,,,,,,,,2,,1,,2,,,1,901142
+766,948,Spalding University,Communication,2.0,Iverson Warinner,4.3,8,N/A,,,,,,,,,,,,,,,,,,,,,690696
+767,948,Spalding University,Religion,2.3,Judy Cato,3.8,8,N/A,,1,,1,,,1,,,,,1,,1,,,,,,1,737396
+768,948,Spalding University,Psychology,4.0,Nicholas Lim,3.8,8,N/A,,,,1,1,2,3,,,,,,,,1,,1,,,,1390929
+769,948,Spalding University,Communication,3.0,Ra'Chanel Marshall,4.0,7,N/A,,,,1,1,1,,2,1,,,,,,2,,2,,,1,1411714
+770,948,Spalding University,Biology,2.6,Jennifer Doyle,4.8,7,N/A,2,3,,3,2,1,,,,,,,,,,,,,,,1641137
+771,948,Spalding University,Psychology,3.0,Tom Bergandi,3.7,6,N/A,,,,1,,,1,,,,,,,,1,,,,,,155532
+772,948,Spalding University,Psychology,3.2,Brenda Nash,4.6,5,N/A,,1,,,,,,,,,1,1,,,,,,,,,485321
+773,948,Spalding University,Psychology,4.8,Katherine Aponte,1.6,5,N/A,,,,,,,,,,,,,,,,,,,,,485327
+774,948,Spalding University,Fine Arts,3.6,Joyce Ogden,3.4,5,N/A,,,,1,,,,1,,,,1,,1,,1,,,,,713530
+775,948,Spalding University,Science,3.0,Terry Wheeler,3.0,5,N/A,,1,1,1,,,1,,,,,,,,1,,1,1,,2,713536
+776,948,Spalding University,Psychology,3.2,Barbara Beauchamp,4.9,5,N/A,,,,,,,1,,,,,,,1,1,2,,,,1,883069
+777,948,Spalding University,English,3.0,Young-Youn Kim,1.9,5,N/A,,,,1,,,,,,,,,,1,1,,,1,,2,1691151
+778,948,Spalding University,Marketing,3.5,Michelle Reiss,4.3,4,N/A,,1,,,,,,,,1,,,,,1,,,,,,724842
+779,948,Spalding University,Education,3.5,Barbara Foster,4.8,4,N/A,,,,,,,,,,,,,,,,,,,,,901168
+780,948,Spalding University,Psychology,3.5,David Morgan,3.0,4,N/A,,,,,,,,,,,,,,,,,,,,,1486852
+781,949,Spartanburg Methodist College,Theater,2.5,Kent Newberry,4.3,25,N/A,,1,,,1,,,1,,,,,,,,1,1,,,,326530
+782,949,Spartanburg Methodist College,History,3.9,Katherine Cann,3.8,22,N/A,,,,,,,,,,,,,,,,,,,,,568942
+783,949,Spartanburg Methodist College,Physical Ed,2.5,Barry Ward,4.9,20,N/A,,,,1,1,,1,1,,,1,1,,,,2,3,,,1,362295
+784,949,Spartanburg Methodist College,Psychology,2.0,Pete Aylor,4.8,18,N/A,,,,,,1,1,1,,,2,,,,2,2,,,,,568940
+785,949,Spartanburg Methodist College,Religion,2.1,Mark Gibbs,4.8,15,N/A,,1,1,1,,,1,,,,,1,,,,,,,,,568944
+786,949,Spartanburg Methodist College,Science,4.4,Eunice Knouse,3.5,15,N/A,,,3,1,,,,,,,,,2,,,,4,,2,7,1620673
+787,949,Spartanburg Methodist College,English,2.9,David Shuping,1.5,14,N/A,,,,,,,,,,,,,,,,,,,,,14295
+788,949,Spartanburg Methodist College,English,1.8,Lisa Isenhower,5.0,14,N/A,,,,,,,1,1,,,,1,,,,,,,,,326220
+789,949,Spartanburg Methodist College,Psychology,2.9,Mary Jane Farmer,3.9,11,N/A,,1,,,,,1,,,,,,1,,1,1,2,,,,669164
+790,949,Spartanburg Methodist College,History,3.7,Cole Cheek,4.3,11,67%,,,1,1,,,4,3,,,2,1,2,1,1,1,5,,1,1,1481567
+791,949,Spartanburg Methodist College,Mathematics,2.9,Benjamin Sloop,4.0,9,N/A,2,,,1,,,,1,,1,,,,1,1,3,4,,,3,1677223
+792,949,Spartanburg Methodist College,Music,1.6,Miranda Dimarco,5.0,8,N/A,,,,,,,,,,,,,,,,,,,,,230228
+793,949,Spartanburg Methodist College,Economics,2.8,Joseph Ongeri,2.7,8,N/A,,,,,,,,,,,,,,,,,,,,,1106767
+794,949,Spartanburg Methodist College,History,1.9,Jimmy Grant,3.9,7,N/A,,,,,,,,1,,,,1,1,,,,,,,,954578
+795,949,Spartanburg Methodist College,Computer Science,3.4,Linda Bradley,2.1,7,N/A,,,,,1,1,1,,,,,,1,3,,,1,,,3,1493618
+796,949,Spartanburg Methodist College,English,3.7,Jonathan Sedberry,4.2,6,N/A,,,,,,,1,3,,,2,,,,1,,,1,,4,1656433
+797,949,Spartanburg Methodist College,Mathematics,2.8,Janet Wilson,4.2,5,N/A,,,,,,,,,,,,,,,,,,,,,707586
+798,949,Spartanburg Methodist College,Biology,4.0,Jessica Harwood,2.7,5,N/A,,,,,,,,,,,,,,,,,,,,,1034493
