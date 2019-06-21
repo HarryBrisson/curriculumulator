@@ -65,7 +65,7 @@ function tooltip_off(d) {
   div.transition()    
       .duration(500)    
       .style("opacity", 0); 
-  update_barchart(data)
+  updateBiplot(data)
 };
 
 function initialize_visualization(data) {
