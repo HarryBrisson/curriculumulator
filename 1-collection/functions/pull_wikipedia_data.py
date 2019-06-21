@@ -95,6 +95,7 @@ def get_url_from_search_term(query):
 
 
 def get_wordcount_for_first_entry_for_search_term(query):
+	print(f'pulling first article wordcount for {query}')
 	wordcount = get_articles_data_from_search_query(query)['search'][0]['wordcount']
 	return wordcount
 
