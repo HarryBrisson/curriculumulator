@@ -11,7 +11,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
-    return('<a href="/ranker">Check out our ranker.</a>')
+    return render_template('menu.html')
 
 
 @app.route('/ranker')
