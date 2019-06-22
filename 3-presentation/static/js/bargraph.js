@@ -1,5 +1,6 @@
 
 var value_labels = false
+var bar_labels = false
 
 function get_viz_size() {
   graphHeight = document.getElementById('viz').clientHeight;
@@ -204,6 +205,21 @@ function initialize_barchart(data) {
           d3.select(this).transition().duration(500).attr("opacity",.5);
           tooltip_off(d);
         })
+
+  if (bar_labels == true) {
+
+    // place labels
+    svg.selectAll(".barLabel")
+        .data(data)
+      .enter().append("text")
+        .attr("class", "valueLabel")
+        .attr("x", 0)
+        .attr("y", function(d,i) { return yScale(d.rank) + height/data.length/2; })
+        .attr('text-anchor','start')
+        .attr('font-size',"20px")
+        .text(function(d,i) { return d['dept']; })
+
+      }
 
 
   if (value_labels == true) {
