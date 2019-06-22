@@ -1,0 +1,733 @@
+,campus_id,campus_name,dept,difficulty,name,quality,rating_count,retake,tag_accessibleoutsideclass,tag_amazinglectures,tag_bewareofpopquizzes,tag_caring,tag_cleargradingcriteria,tag_extracredit,tag_getreadytoread,tag_givesgoodfeedback,tag_gradedbyfewthings,tag_groupprojects,tag_hilarious,tag_inspirational,tag_lectureheavy,tag_lotsofhomework,tag_participationmatters,tag_respected,tag_skipclassyouwon'tpass,tag_somanypapers,tag_testheavy,tag_toughgrader,tid
+0,1700,Atlantic Cape Community College,English,4.2,Victoria Melograno,2.8,85,66%,4,2,,3,5,1,12,17,,,,2,,2,10,1,4,7,,26,629574
+1,1700,Atlantic Cape Community College,Chemistry,2.8,Jen Lee,4.3,79,71%,10,6,,36,8,6,9,13,,,16,9,,5,2,8,12,,1,13,1862544
+2,1700,Atlantic Cape Community College,Science,3.4,John Stratton,3.9,73,67%,1,2,,6,1,3,1,5,1,,3,3,3,5,2,5,5,,1,11,688221
+3,1700,Atlantic Cape Community College,English,3.7,Gene Lopresti,3.8,63,N/A,,,,,,,3,2,,,2,,,,,,2,2,,,558351
+4,1700,Atlantic Cape Community College,Mathematics,1.8,William Osler,4.8,61,100%,7,12,,17,8,2,1,8,,,6,5,,2,4,15,2,,,,1397934
+5,1700,Atlantic Cape Community College,History,3.0,Richard Gibbons,3.7,61,31%,,2,,,4,,4,1,2,,1,,9,1,,2,3,2,2,9,539588
+6,1700,Atlantic Cape Community College,Literature,3.5,Regina Van Epps,3.6,58,86%,,,,3,1,1,5,8,,3,,1,,4,3,2,1,2,,6,189791
+7,1700,Atlantic Cape Community College,Mathematics,2.6,Amy Shelton,3.8,58,80%,,,1,3,6,4,1,1,2,1,,,,3,5,6,2,,1,1,256467
+8,1700,Atlantic Cape Community College,Mathematics,3.7,John Atsu-Swanzy,3.0,57,N/A,,,,3,1,,,2,1,,1,9,1,3,4,3,3,,1,3,850209
+9,1700,Atlantic Cape Community College,English,1.8,Effie Russell,4.3,54,90%,2,2,,6,2,,2,7,,1,2,7,,,1,9,1,1,,1,566747
+10,1700,Atlantic Cape Community College,Social Science,3.5,Heather Boone,2.8,54,33%,,,1,1,1,,7,1,2,1,,,2,2,3,,6,1,,11,845049
+11,1700,Atlantic Cape Community College,History,3.2,Augustine Nigro,3.4,52,64%,,4,3,1,,4,5,3,1,,4,,2,2,6,3,,3,2,7,700079
+12,1700,Atlantic Cape Community College,Computer Science,2.7,James Taggart,4.2,52,N/A,1,1,,1,3,,,3,,,,1,,1,2,4,,,,,339778
+13,1700,Atlantic Cape Community College,Biology,4.6,Barbara Heard,2.8,50,23%,,,2,,1,,1,1,1,,,,2,1,,,10,1,6,13,948601
+14,1700,Atlantic Cape Community College,Economics,3.1,Paula Manns,3.5,49,30%,,,,,1,1,1,1,1,3,,3,6,3,1,,2,1,1,7,189980
+15,1700,Atlantic Cape Community College,Communication,3.1,Keith Forrest,3.9,48,80%,2,4,,3,1,,1,11,,3,4,1,2,1,1,7,2,,,7,641623
+16,1700,Atlantic Cape Community College,Mathematics,3.1,Jed Soifer,2.5,47,N/A,,,,2,,2,,1,,,3,1,2,,3,,4,,1,3,473758
+17,1700,Atlantic Cape Community College,Social Science,2.4,Michael Bolicki,3.8,46,73%,1,2,,2,1,4,,5,,,1,4,3,5,5,2,2,1,,2,764791
+18,1700,Atlantic Cape Community College,Biology,3.3,Jolie Master,4.0,45,82%,,5,1,2,3,1,3,2,1,,1,2,4,4,,1,10,1,2,7,1509709
+19,1700,Atlantic Cape Community College,Anthropology,4.1,Louise Kaplan,3.8,44,N/A,,,,,,,,,,,,,,,,,,,,,78953
+20,1703,Austin Business College,English,3.6,Rowland Cadena,3.3,5,N/A,,,,,,,,,,,,,,,,,,,,,871033
+21,1703,Austin Business College,English,1.0,Becky Villarreal,2.0,1,N/A,,,,,,,,,,,,,,,,,,,,,896670
+22,1704,Austin Community College,Physics,3.4,John Cise,2.6,213,32%,9,7,2,8,3,32,41,4,3,9,8,4,82,105,12,6,33,1,16,34,494827
+23,1704,Austin Community College,Mathematics,3.2,Christopher Golubski,4.4,157,82%,6,28,3,37,5,,1,23,3,,22,34,1,43,7,55,66,,9,54,1864692
+24,1704,Austin Community College,Mathematics,3.0,Michael Huff,3.8,151,79%,7,8,2,14,7,7,2,16,1,2,17,1,22,24,8,13,17,2,7,25,282837
+25,1704,Austin Community College,English,4.0,David Coe,3.5,151,53%,4,5,6,4,1,,26,12,2,,5,3,2,4,1,5,9,11,,43,449580
+26,1704,Austin Community College,English,4.1,Prudence Arceneaux,3.3,146,53%,5,15,2,6,2,14,11,23,,,8,8,1,10,14,9,11,13,3,51,719039
+27,1704,Austin Community College,Government,3.4,Roy Casagranda,4.3,145,75%,2,29,,1,3,18,14,2,,,24,10,14,,11,9,23,,4,9,883510
+28,1704,Austin Community College,English,2.8,Judy Sanders,4.2,132,83%,15,,,22,39,,11,48,14,,,1,,2,,10,1,12,,13,285826
+29,1704,Austin Community College,English,3.1,Christopher Arevalo,3.2,129,37%,8,,3,,13,,23,16,7,,1,2,6,3,3,3,6,10,,19,363972
+30,1704,Austin Community College,Chemistry,1.7,Steve Kirschner,4.4,120,78%,,19,,6,5,11,,2,,,28,9,4,1,2,10,8,,1,,59827
+31,1704,Austin Community College,Chemistry,2.8,Madan Mohan,3.4,119,72%,10,22,,20,13,1,12,14,4,,2,22,5,1,6,23,7,,8,10,732201
+32,1704,Austin Community College,English,3.6,David Lydic,4.5,114,84%,9,2,1,15,5,3,14,36,1,,9,1,4,5,8,15,13,10,,26,617971
+33,1704,Austin Community College,History,3.1,Cameron Addis,4.2,113,59%,1,15,2,1,8,,36,14,1,,1,3,4,1,2,5,3,,10,9,688884
+34,1704,Austin Community College,Government,1.8,Wajma Nasher,4.8,113,100%,2,16,3,5,22,16,5,7,6,4,2,5,7,2,35,17,5,,2,,1329286
+35,1704,Austin Community College,Psychology,3.1,Missi Patterson,4.5,112,100%,,2,,1,3,,,6,,,3,1,,2,,2,1,,,,955182
+36,1704,Austin Community College,Mathematics,2.8,Tinh Bui,4.6,111,94%,10,22,10,15,8,,,20,1,,1,8,2,7,2,14,8,,1,2,744672
+37,1704,Austin Community College,Government,1.8,Kris Seago,4.9,111,97%,1,14,,9,13,12,5,13,2,,9,6,1,,7,10,,,,,492189
+38,1704,Austin Community College,Government,3.2,Veronica Reyna,4.2,111,89%,6,10,,25,16,20,14,20,3,2,7,10,1,5,16,24,8,,3,7,1275735
+39,1704,Austin Community College,History,2.9,Melissa Bonafont,4.0,110,61%,4,5,,2,8,8,29,7,6,,,3,16,2,16,2,7,,5,4,263558
+40,1704,Austin Community College,Biology,3.5,Eric VanGorkom,4.3,110,100%,1,14,7,6,4,,4,2,,,9,9,7,,1,4,25,,3,7,1208812
+41,1704,Austin Community College,Mathematics,2.7,Julie Kostka,4.8,107,94%,8,7,3,19,8,1,1,22,1,,1,3,1,16,6,7,15,,4,2,1536187
+42,1705,Bacone College,Biology,2.7,Jyoti Abraham,4.1,7,N/A,,,,,,,,,,,,,,,,,,,,,585336
+43,1705,Bacone College,Religion,2.4,Leroy Thompson,2.6,7,N/A,,,,,,,,,,,,,,,,,,,,,585343
+44,1705,Bacone College,Religion,2.5,Thea McKee,4.9,6,N/A,,,,,,,,,,,,,,,,,,,,,1618322
+45,1705,Bacone College,History,4.4,Russel Lawson,2.6,5,N/A,,,,,,,,,,,,,,,,,,,,,766022
+46,1705,Bacone College,Theater,3.0,Layne Ehlers,4.5,4,N/A,,,,,,,,,,,,,,,,,,,,,585325
+47,1705,Bacone College,Psychology,1.3,Teresa Cash,5.0,4,N/A,,,,,1,,,,,,,,,,1,,1,,,,585329
+48,1705,Bacone College,Chemistry,3.8,"Peter Sullivan,",3.3,4,N/A,,,,,,,,,,,,,,,,,,,,,585338
+49,1705,Bacone College,Business,3.0,Heesam Kang,3.5,3,N/A,,,,,,,,,,,,,,,,,,,,,585326
+50,1705,Bacone College,Business,5.0,Dr. Jeff Bruns,4.5,3,N/A,,,,,,,,,,,,,,,,,,,,,738836
+51,1705,Bacone College,Mathematics,1.7,Linda Strange,5.0,3,N/A,,1,,1,,,,1,,,,,,,,,,,,,876085
+52,1705,Bacone College,Mathematics,4.0,Mitchell Hunt,4.0,3,N/A,,,,1,,1,,1,,,,,,,1,,,,,1,1916961
+53,1705,Bacone College,Nursing,4.0,Joo-Hee Han,4.0,2,N/A,,,,,,,,1,,,,,,,1,,1,,,,1659169
+54,1705,Bacone College,Nursing,4.0,Georgie Stoops,5.0,2,N/A,,1,,,,,,1,,,,,,,,1,,,,,1733298
+55,1705,Bacone College,English,3.0,Jennie J Love,4.5,2,N/A,,,,,,,,1,,,,1,,,1,,,,,,1875046
+56,1705,Bacone College,Mathematics,1.0,Jeff Gaffen,2.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1468558
+57,1705,Bacone College,Nursing,3.0,Jamie Flower,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1733300
+58,1705,Bacone College,Nursing,3.0,Caysie Garza,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1733301
+59,1705,Bacone College,Biology,1.0,Joseph Abraham,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1733302
+60,1705,Bacone College,Humanities,3.0,Melissa Holderby,5.0,1,N/A,,,,,1,,,,,,,,,,1,,,,,1,2142876
+61,1706,Bainbridge State College,Political Science,2.6,John Vanzo,4.6,22,N/A,,3,,,1,1,4,3,,,2,,1,,,,2,,,1,454551
+62,1706,Bainbridge State College,History,3.7,Michael Kirkland,3.6,22,N/A,,2,,,,,3,,,,,,,,4,,,,,3,647359
+63,1706,Bainbridge State College,Communication,2.8,Wynton Hall,4.9,18,N/A,,,,,,,,,,,,,,,,,,,,,673899
+64,1706,Bainbridge State College,Psychology,4.3,Lugenia Dixon,2.1,16,N/A,,,,,,,,,,,,,,,,,,,,,694153
+65,1706,Bainbridge State College,History,2.2,David Nelson,4.5,10,N/A,1,3,,,1,,,2,,,,1,,,,1,,,1,,1305463
+66,1706,Bainbridge State College,English,4.1,Betty Laface,2.9,10,N/A,,,,,,,2,1,,1,,,,3,3,,,,,4,694152
+67,1706,Bainbridge State College,Computer Science,2.9,Ben White,3.9,9,N/A,,,,,,,,,,,,,2,2,,,1,,,1,137172
+68,1706,Bainbridge State College,Computer Science,2.1,Jenna Miley,2.5,9,N/A,,,,,,,,,,,,,,,,,,,,1,673895
+69,1706,Bainbridge State College,Mathematics,2.6,Elwanda Coston,3.5,9,N/A,1,,,,1,1,,,,,,,,1,,,1,,,,1305886
+70,1706,Bainbridge State College,English,2.7,Patrick Smith,4.8,8,N/A,,,,1,,,,1,,,,,,,,1,,,,,117206
+71,1706,Bainbridge State College,Office Systems Technology,2.9,Tatyana Pashnyak,4.6,8,N/A,,,,,,,,,,,,,,,,,,,,,796822
+72,1706,Bainbridge State College,Biology,3.5,Adele Cunningham,4.2,7,N/A,,,,,1,3,,,,,,1,2,,2,1,,,2,,1801515
+73,1706,Bainbridge State College,Mathematics,2.8,Patty Lord,3.7,6,N/A,,,,,,1,,,,,,,,,1,,,,,,294118
+74,1706,Bainbridge State College,English,3.8,Carlise Womack,4.3,6,N/A,,,,,,,,,,,,,,,,,,,,,461940
+75,1706,Bainbridge State College,Physical Education,1.8,David Sarrette,4.6,6,N/A,,,,,,,,,,1,,,,,1,,1,,,,1195739
+76,1706,Bainbridge State College,Science,3.8,Jenny Harper,3.4,6,N/A,,,,,,,1,1,,1,,,,,,,1,,,3,1387384
+77,1706,Bainbridge State College,Mathematics,2.5,Wesley Whitehead,5.0,6,100%,,,,4,1,,,3,,,1,,,,,4,,,,,1575920
+78,1706,Bainbridge State College,English,3.7,Emily Dowd,2.9,6,N/A,,,,,,,3,1,,,,,,2,3,,,1,,1,1706098
+79,1706,Bainbridge State College,Chemistry,3.7,Eric A Dueno,2.7,6,N/A,,,,,,,,,,,,,,,,,1,,,1,1754795
+80,1706,Bainbridge State College,Nursing,1.2,Cynthia Davis,4.8,5,N/A,,,,,,,,,,,,,,,,,,,,,673892
+81,1707,Baker College of Jackson,Psychology,2.5,Bradley Schweda,4.2,18,N/A,,,,,,,,,,,,,,,,,,,,,499748
+82,1707,Baker College of Jackson,English,2.1,Tony Farina,5.0,15,N/A,,,,,,,,,,,,,,,,,,,,,669855
+83,1707,Baker College of Jackson,Psychology,3.5,Andrea Vanestenberg,3.4,9,60%,,,,1,,,,4,,,,1,,2,9,1,1,,,3,1925317
+84,1707,Baker College of Jackson,Medicine,3.5,Lisa Tyrl,4.9,8,N/A,,,,,,,,,,,,,,,,,,,,,1258643
+85,1707,Baker College of Jackson,Health Science,3.9,Rachel Mifsud,3.1,8,N/A,,,,,,,,,,,,,,,,,,,,,1298043
+86,1707,Baker College of Jackson,Psychology,2.3,Robert Powell,4.9,7,N/A,,1,,,,,,,,,,,,1,1,,,,,,52512
+87,1707,Baker College of Jackson,Mathematics,1.9,Teresa Double,4.8,7,N/A,,,,,,,,,,,,1,,1,,1,,,,,737678
+88,1707,Baker College of Jackson,Science,3.0,Terri Green,3.9,7,N/A,,,,,,,,,,,,,,,,,,,,,1031106
+89,1707,Baker College of Jackson,Health Science,3.0,Marc Ellsworth,3.9,6,N/A,,,,,,,,,,,,,,,,,,,,,588351
+90,1707,Baker College of Jackson,Law,4.5,Dr. Jack Jordan,3.6,6,N/A,,,,,1,,,1,,,1,,,,,,,,,,863399
+91,1707,Baker College of Jackson,Business,2.8,Steve Gates,4.3,6,N/A,,,,,,,,,,,,,,,1,,,1,,,1310443
+92,1707,Baker College of Jackson,Business,2.7,Jeff Lake,4.3,6,N/A,,,,1,3,,,1,,,,,,,4,2,1,,,,1939091
+93,1707,Baker College of Jackson,Architecture,2.8,Ken Hack,4.2,5,N/A,,,,,,,,,,,,,,,,,,,,,197138
+94,1707,Baker College of Jackson,English,2.8,Melissa Coll,4.8,5,N/A,,,,,,,,,,,,,,,,,,,,,695245
+95,1707,Baker College of Jackson,Mathematics,2.2,Barbara Lown,5.0,5,N/A,,,,,1,,,1,,,,,,,,,,,,,1079951
+96,1707,Baker College of Jackson,Science,3.8,Deb Hadfield,4.4,5,N/A,,,,,,,,1,,,,,,1,,,,,,1,1116574
+97,1707,Baker College of Jackson,Business,3.8,Tracy Nothnagel,3.4,5,N/A,,,,1,2,,1,,,,,,,,,1,,,,1,1310445
+98,1707,Baker College of Jackson,Education,1.5,Crystal Shaw,4.0,4,N/A,1,,,,1,,,,,,,,,,1,,,,,,800943
+99,1707,Baker College of Jackson,Mathematics,2.3,Marti Shean,4.0,4,N/A,,,,1,,,,1,,,,,,,,,1,,,,966084
+100,1707,Baker College of Jackson,Science,3.3,Jason Jakubas,4.5,4,N/A,,,,,,,,,,,,,,,,,,,,,1319191
+101,1708,Baltimore City Community College,English,3.1,Jahon Vance,3.9,96,71%,1,,,15,36,19,14,49,,4,,26,,2,6,2,1,2,1,14,852540
+102,1708,Baltimore City Community College,Biology,3.1,Anil Malaki,4.2,67,89%,2,8,,5,4,3,6,3,,,,,1,,4,5,1,5,1,10,1009391
+103,1708,Baltimore City Community College,Biology,2.3,Elias Kima,4.8,60,N/A,,,,,,,,,,,,,,,,,,,,,1728561
+104,1708,Baltimore City Community College,Biology,2.5,Amrita Madabushi,4.6,57,100%,15,6,1,20,5,3,3,16,,,1,15,,,13,17,2,,,2,1687215
+105,1708,Baltimore City Community College,Biology,2.1,Patrick Connor,4.8,53,N/A,,,,,,,,,,,,,,,,,,,,,820252
+106,1708,Baltimore City Community College,Mathematics,2.5,Daniel Izume,4.7,53,98%,17,14,,7,7,8,3,31,,6,,16,,2,16,19,1,,,1,2159416
+107,1708,Baltimore City Community College,English,1.9,Paul Long,4.8,49,95%,,2,,10,8,1,5,19,,,6,3,,3,7,13,,3,,3,720770
+108,1708,Baltimore City Community College,Philosophy,4.0,Theodore Tchamala,1.9,49,50%,1,1,,,,2,5,2,3,,2,1,1,1,3,1,5,7,1,12,1129246
+109,1708,Baltimore City Community College,Biology,3.4,Emmanuel Okereke,3.5,47,60%,,6,,1,8,1,4,4,,,1,,9,1,,3,11,,5,8,977324
+110,1708,Baltimore City Community College,Biology,1.6,Samson Mengesha,4.9,42,100%,,7,,4,2,,,6,,,8,1,,,1,11,1,,,,1161868
+111,1708,Baltimore City Community College,Biology,3.2,Elfagid Tekaligne,3.0,42,88%,1,3,1,2,2,1,1,2,1,,2,3,1,3,2,,2,,1,,564691
+112,1708,Baltimore City Community College,Biology,2.7,David Ward,4.5,40,96%,7,8,,15,5,2,,10,,,10,6,,2,2,12,,,,,1275950
+113,1708,Baltimore City Community College,English,2.2,Theron Coleman,5.0,37,100%,1,3,3,6,6,5,2,5,,1,,4,,2,2,9,3,,,1,1256568
+114,1708,Baltimore City Community College,Mathematics,1.9,Raymond Orocco-John,4.8,37,88%,,7,,5,2,1,,7,,,6,3,,3,5,3,5,1,,,1366559
+115,1708,Baltimore City Community College,History,4.5,Baba Zak Kondo,2.1,34,N/A,,1,,,1,,6,1,1,,,1,1,,5,,1,10,,15,1451068
+116,1708,Baltimore City Community College,Biology,2.5,Adewale Laditan,4.4,30,75%,,3,,2,3,,,1,1,,3,2,2,,,2,3,,,1,1154685
+117,1708,Baltimore City Community College,History,3.5,Solomon Osagie Ii,3.0,30,38%,,2,,2,,,6,1,3,1,,2,1,1,4,,1,1,,11,536851
+118,1708,Baltimore City Community College,History,4.8,Baba Zak Kondo,1.7,29,N/A,,,1,,1,,12,,,,,1,,,,1,,14,1,18,1501516
+119,1708,Baltimore City Community College,Mathematics,2.2,Curtis Jones,4.8,27,92%,2,6,,10,,1,1,8,,,4,7,,1,3,13,3,,,2,1792531
+120,1708,Baltimore City Community College,English,3.0,Lynn Kerr,4.1,26,N/A,,,,,,,,,,,,,,,,,,,,,446284
+121,1709,Barstow Community College,Mathematics,3.1,Carl Yuan,4.8,206,100%,54,35,,48,32,42,,86,,,10,20,,2,34,38,4,,3,1,1146823
+122,1709,Barstow Community College,Computer Science,2.7,Jacob Batarseh,4.8,121,100%,12,18,,39,27,,7,36,1,,2,12,1,3,22,42,3,,,7,1583939
+123,1709,Barstow Community College,History,3.6,Ramon Vasconcellos,3.9,51,71%,1,8,,5,2,,5,7,4,1,7,2,6,1,10,8,8,1,3,4,771510
+124,1709,Barstow Community College,Management,3.8,Paul Anthony Courtney,4.5,40,100%,,12,,19,,1,19,4,,,,28,4,1,13,11,,2,,,2146584
+125,1709,Barstow Community College,Mathematics,3.5,Sona Vartanian,2.2,36,57%,,1,,1,1,,2,1,,,,1,1,2,1,,4,,,1,771489
+126,1709,Barstow Community College,Biology,3.0,B Sage,3.8,33,57%,2,3,,1,1,2,,1,1,,,2,5,1,5,,2,,2,2,676527
+127,1709,Barstow Community College,History,3.6,Mark Cauble,2.7,31,N/A,,,,,,,,,,,,,,,,,,,,,599029
+128,1709,Barstow Community College,English,2.8,Michelle James,4.4,28,69%,1,,,,6,,3,9,,,,4,1,4,4,2,,6,,5,761509
+129,1709,Barstow Community College,Biology,3.8,Beverly Ranney,3.5,27,53%,2,1,3,4,,2,7,3,1,3,1,4,,3,7,7,4,,,4,1858040
+130,1709,Barstow Community College,Sociology,2.8,Dawn Howey,3.8,26,44%,,3,,2,2,2,5,2,,,,1,,2,5,3,2,1,2,,732705
+131,1709,Barstow Community College,History,3.2,Tomasz Stanek,3.6,26,100%,,1,,1,4,1,11,9,,,,1,1,,6,1,3,2,,5,1123313
+132,1709,Barstow Community College,Psychology,3.0,Kristina Roberts,3.8,25,70%,1,1,,2,2,4,9,3,,,,,,,4,1,,,,1,432646
+133,1709,Barstow Community College,Political Science,2.6,John Macias,3.0,25,60%,,,1,3,2,1,,,2,,5,5,3,,,2,1,,,1,511780
+134,1709,Barstow Community College,Psychology,2.4,Joann Jelly,3.8,25,N/A,,,,1,1,2,1,,,,,,1,,3,1,,,,,658492
+135,1709,Barstow Community College,Mathematics,3.1,Rodolfo Duque,4.1,22,75%,6,3,1,4,2,,,3,2,,1,1,,8,5,7,6,,1,4,1944202
+136,1709,Barstow Community College,Mathematics,1.8,Sally Vandenberg,4.3,22,100%,2,2,,6,5,,,1,2,,,1,1,3,,2,,,1,,670391
+137,1709,Barstow Community College,Health Science,1.7,Taylor Puryear,4.7,22,100%,1,,,,9,10,1,5,,,1,2,,2,7,1,2,,,,1666928
+138,1709,Barstow Community College,Not Specified,2.6,Nancy Nunes-Gill,4.2,20,67%,1,2,,2,2,,2,7,,,,1,,5,4,4,,1,1,3,1666924
+139,1709,Barstow Community College,Biology,3.6,Julie Gallagher,4.6,20,90%,1,9,,9,,,2,1,,,4,14,,2,6,8,1,1,,1,2159276
+140,1709,Barstow Community College,English,3.7,Christie Firtha,3.3,19,80%,1,1,,2,,,2,2,,,,1,,2,4,1,1,,,6,1359256
+141,1710,Barton County Community College,Philosophy,3.2,Gil Cloud,3.1,19,75%,1,1,,1,1,,6,3,,,,2,1,1,8,1,4,,,2,1524036
+142,1710,Barton County Community College,Mathematics,3.8,Joseph Harrington,3.3,17,50%,4,1,,1,1,1,,1,,,,,5,8,,,4,,7,5,1892655
+143,1710,Barton County Community College,English,4.3,Charles Davis,1.7,16,20%,,,,,,2,5,,,,,,1,5,,,1,3,2,4,407565
+144,1710,Barton County Community College,Psychology,1.8,Joel Lundstrom,4.8,14,N/A,,,,,1,1,,2,,,,,,,,,,,,,482071
+145,1710,Barton County Community College,Biology,2.4,Adrian Walker,4.7,14,100%,,,,2,1,3,3,6,,,,,,1,1,3,,,,1,1142217
+146,1710,Barton County Community College,Biology,2.8,John Simmons,3.6,11,N/A,,,,,1,,,,,,,,,,1,,,,,,492183
+147,1710,Barton County Community College,Computer Science,2.3,Brenda Siebold,4.3,11,60%,,,,,3,6,1,4,,,,,,1,1,,2,,,,1829523
+148,1710,Barton County Community College,Psychology,2.6,Rick Bealer,5.0,10,N/A,,3,,,,1,,,,,2,1,,,,2,,,,,69707
+149,1710,Barton County Community College,Chemistry,3.4,Karey Marshall,3.9,10,67%,3,1,,1,,3,4,5,,,,1,,1,1,,1,,,2,1969880
+150,1710,Barton County Community College,History,2.9,Mike Cox,3.5,10,N/A,,,,,,1,1,2,,,,,1,,2,1,3,,,1,1397940
+151,1710,Barton County Community College,Biology,2.9,Ryan Rehmeier,4.6,8,100%,,2,,2,6,,4,3,,,,,,,,,,,,,1829519
+152,1710,Barton County Community College,Communication,2.5,Alissa Duncan,4.8,8,100%,1,,,1,4,1,,5,,,1,,,1,2,1,1,,,,1880423
+153,1710,Barton County Community College,Social Science,3.7,Ed Johnson,2.6,8,N/A,,,,,1,2,,,,,,,2,,,,,,,,69709
+154,1710,Barton County Community College,Physics,3.4,Tracie Schroeder,2.0,7,N/A,,,,,1,,2,,1,,,,,1,1,,,,2,2,2033894
+155,1710,Barton County Community College,Mathematics,2.0,Brian Koch,4.9,6,N/A,,,,2,1,1,,,,,,,,,,1,1,,,,1801186
+156,1710,Barton County Community College,History,3.5,Rob Martin,4.8,6,100%,2,2,,1,1,,,6,,,1,,,,1,4,,,,,2386336
+157,1710,Barton County Community College,Health Science,1.7,Denise Del Carmen,4.9,6,N/A,,,,1,2,,,1,,,,1,,,1,,,,,,1829521
+158,1710,Barton County Community College,English,3.4,Mary Barrows,3.8,5,N/A,,,,,,,,,,,,,,,,,,,,,503315
+159,1710,Barton County Community College,Mathematics,2.8,Angela Sullivan,4.0,5,N/A,,,,,1,,,,,,,,,1,,1,1,,1,,1695234
+160,1710,Barton County Community College,Religion,2.8,John Mack,3.9,5,N/A,,,,,,1,1,1,,,,,,,,,1,1,,1,1829517
+161,1712,Bauder College,Nursing,2.2,Therese Binfon,4.6,31,N/A,,5,,12,5,1,4,9,,,,11,1,5,10,14,,1,,3,1838261
+162,1712,Bauder College,Mathematics,4.0,Tezera Tsegaye,3.3,4,N/A,,,,,,,,,,,,,,,,,,,,,1804656
+163,1712,Bauder College,Business,2.7,Alana Saunders,4.8,3,N/A,,,,,,,,,,,,,,,,,,,,,1042709
+164,1712,Bauder College,Nursing,3.7,Charles Oduyoye,5.0,3,N/A,,,,,,,,,,,,,,,,,,,,,1770846
+165,1712,Bauder College,English,2.5,Richard Williams,4.8,2,N/A,,,,,,,,,,,,,,,,,,,,,797083
+166,1712,Bauder College,Not Specified,1.0,Joseph O'Brien,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,797086
+167,1712,Bauder College,Criminal Justice,2.5,Stephanie Burgess,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1287464
+168,1712,Bauder College,Computer Science,1.0,Roderick Herring,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1770848
+169,1712,Bauder College,Not Specified,1.0,Pam Morton,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,657814
+170,1712,Bauder College,Marketing,1.0,Dennis Alexander,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,739596
+171,1712,Bauder College,Mathematics,2.0,Rosylyn Bryant,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1687198
+172,1712,Bauder College,Education,2.0,Diahanna Fuller,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1887393
+173,1712,Bauder College,Nursing,5.0,Grace Sobers,1.0,1,N/A,,,,,,,,,,1,,,,,,,,,,,2053894
+174,1712,Bauder College,Business,4.0,Cardell Ellis,4.0,1,N/A,,,,,1,,,,,,,1,,,,1,,,,,2230089
+175,1713,Bay de Noc Community College,English,3.6,Nanci Love,2.5,41,N/A,,,,,,,1,,,,,,,,,,,1,,2,57639
+176,1713,Bay de Noc Community College,English,2.2,Bill Milligan,3.6,36,N/A,,,,,,,,,,,,,,,,,,,,,151626
+177,1713,Bay de Noc Community College,Civilization,4.1,John Mathews,2.5,36,N/A,,,2,,,4,1,1,,,,,1,,1,,4,,,5,940912
+178,1713,Bay de Noc Community College,Psychology,3.2,Greg Cutler,4.0,29,N/A,,,,,,,1,1,,,2,,,,1,2,,,,,72980
+179,1713,Bay de Noc Community College,Political Science,2.4,Molly Campbell,4.3,24,N/A,1,1,,1,,,,,,,,,,,1,2,,,,,103547
+180,1713,Bay de Noc Community College,Communication,2.1,Crystal Dwyer,3.5,23,N/A,,,,,,,,,,,,,,,,,,,,,68100
+181,1713,Bay de Noc Community College,History,2.0,George Cole,3.6,22,N/A,,,,,,,,,,,,,,,,,,,,,72982
+182,1713,Bay de Noc Community College,Social Science,2.5,Steven Buckbee,4.5,21,N/A,,,,,,,,,,,,,,,,,,,,,22765
+183,1713,Bay de Noc Community College,Mathematics,2.8,Spencer Slade,4.8,19,N/A,1,1,,,,,,4,,,1,1,,,1,2,,,,,95872
+184,1713,Bay de Noc Community College,Mathematics,2.7,Joe Shaw,3.7,18,N/A,,,,,1,,,,,,1,,1,,,,,,1,,166610
+185,1713,Bay de Noc Community College,Biological Sciences,3.6,Marc LaBeau,3.9,17,N/A,,,,,1,,,,,,1,,2,,,1,3,,1,2,58665
+186,1713,Bay de Noc Community College,Engineering,2.9,Jerry Havill,4.0,16,N/A,,,,,,,,,,,,,,,,,,,,,166702
+187,1713,Bay de Noc Community College,Science,3.6,Tom Warstler,2.8,16,N/A,,,,,,,,,,,,,,,,,,,,,524706
+188,1713,Bay de Noc Community College,Social Science,1.8,Daniel Doyle,4.8,15,N/A,,,,1,,,,1,,,,1,1,,,,,,,,58666
+189,1713,Bay de Noc Community College,Anthropology,4.2,Stella Hansen,2.8,14,N/A,,1,,,1,,,,,,,1,,,,,,,,1,22764
+190,1713,Bay de Noc Community College,History,3.3,Dr. Juneann Karweick,4.6,14,N/A,,,,,,,,,,,,,,,,,,,,,696051
+191,1713,Bay de Noc Community College,Mathematics,3.4,Sarah Flum,3.2,13,N/A,,,,,,,,,,,,,,,,,,,,,167586
+192,1713,Bay de Noc Community College,Science,3.5,Brian Black,4.5,12,N/A,,,,1,,1,,2,,,2,,1,2,,2,,,,1,128819
+193,1713,Bay de Noc Community College,Health Science,1.4,Denise Dufek,4.8,12,N/A,,,,,,,,1,,,,,,,,,,,,,166676
+194,1713,Bay de Noc Community College,Business,2.8,Shirley Gollach,3.8,12,N/A,,,,,,,,,,,,,,,,,,,,,170733
+195,1714,Bay Mills Community College,History,3.0,Rick Elder,2.7,3,N/A,,,,1,,,,1,,,,,,,1,,,,,,801827
+196,1714,Bay Mills Community College,English,2.7,Maria Canterero,3.8,3,N/A,,,,,,,,,,,,,,,,,,,,,1169010
+197,1714,Bay Mills Community College,English,3.0,Brody Waybrant,4.5,3,N/A,,,,,,,,,,,,,,,,,,,,,1481781
+198,1714,Bay Mills Community College,Computer Science,4.3,Duane Bedell,4.8,3,N/A,,,,,,,,,,,,,,,1,1,,,,,1588086
+199,1714,Bay Mills Community College,Mathematics,4.3,Jan Miller,3.1,3,N/A,,1,,,,,,1,,,,,,1,1,,1,1,,,1711203
+200,1714,Bay Mills Community College,English,3.3,Ildiko Melis,3.1,3,N/A,,,,,,,1,1,,,,,,2,,,2,1,,2,2138358
+201,1714,Bay Mills Community College,Mathematics,3.0,James Sawaski,3.5,2,N/A,,,,,1,,,,,,,,,1,,,,,,,1518365
+202,1714,Bay Mills Community College,Computer Science,3.0,Shannon Jones,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1483742
+203,1714,Bay Mills Community College,Biology,4.0,Jaime Farrow,1.0,1,N/A,,,,,,,1,,,,,,,1,,,,,,1,2042747
+204,1715,Bay State College,English,3.3,Pamela Grill,3.8,23,N/A,,,,,,,,2,,,,,,1,1,2,,1,,2,145975
+205,1715,Bay State College,Psychology,2.5,Karina Money,4.8,17,N/A,,,,1,,,,,,,,1,,,1,,,,,,1811192
+206,1715,Bay State College,Liberal Arts & Sciences,2.5,Jeff Mason,4.6,12,N/A,,,,,,,,2,,,1,,,,2,3,1,,,,569616
+207,1715,Bay State College,Information Science,3.4,Elena Swaim,3.9,7,N/A,,1,,,,,,1,,2,,,,1,,,,,,2,302714
+208,1715,Bay State College,Allied Health,2.6,Rosana Darang,4.5,7,N/A,,1,1,,,,1,2,,,1,2,,,,3,,,,1,1622986
+209,1715,Bay State College,English,1.5,Kirsten Greenidge,4.4,6,N/A,,,,,,,,,,,,,,,,,,,,,145978
+210,1715,Bay State College,Humanities,4.0,Lin Nulman,1.8,6,N/A,,,,,,,,,,,,,,,,,,,,,302746
+211,1715,Bay State College,Music,3.3,Jess White,4.5,6,N/A,1,,,,,,,,,,,1,,,1,,2,,,1,1467503
+212,1715,Bay State College,Business,3.2,Patrick Preston,4.4,5,N/A,,,,,,,,1,,,1,,,,,,,,,1,717076
+213,1715,Bay State College,Medicine,2.5,Laura Wallus,5.0,4,N/A,,,,1,,,,,,,1,,,,,1,,,,,302726
+214,1715,Bay State College,English,2.3,David Finklestein,3.0,4,N/A,,,,,,,1,1,,,,,,,1,,,,,,668079
+215,1715,Bay State College,Fine Arts,2.7,Margaret Mohan,3.2,3,N/A,,,,,,,,,,,,,,,,,,,,,302738
+216,1715,Bay State College,English,3.0,Mike Baron,4.0,3,N/A,,,,,,,,,,,,,,,,,,,,,1171516
+217,1715,Bay State College,Education,1.7,Stella Fateh,5.0,3,N/A,,,,,,1,,,,,,,,1,,1,,,,,1614609
+218,1715,Bay State College,English,2.3,Jessica Felizardo,5.0,3,N/A,,,,,1,,,2,,,1,,,,,1,,,,,1686856
+219,1715,Bay State College,Computer Science,2.0,Ron Smith,3.5,3,N/A,,,,1,,,,,,,,,,1,,1,2,,,,1732649
+220,1715,Bay State College,English,4.0,Caroline Kautsire,3.0,3,N/A,,,,,,,,,,,,,,,,,,,,,1806709
+221,1715,Bay State College,Mathematics,5.0,Neil Van Luevan,1.0,2,N/A,,,,,,,,,,,,,,,,,,,,,931277
+222,1715,Bay State College,Nursing,2.0,Georgia Thoidis,5.0,2,N/A,,,,1,1,,,,,,,,,,,1,,,,,1650617
+223,1715,Bay State College,Design,2.0,Karen Kaplan,4.5,2,N/A,,,,,,,,,,,,,,,,,,,,,1732648
+224,1716,Beal College,Psychology,2.6,Dr. Robert Veon,4.3,9,N/A,,,,,,,,,,,,,,,,,,,,,104483
+225,1716,Beal College,Medicine,3.6,Barbara Marchelletta,4.4,5,N/A,,,,,,,,,,,,,,,,,,,,,1236145
+226,1716,Beal College,Social Science,2.0,Mike Andrick,4.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1504117
+227,1717,Beaufort County Community College,Engineering,3.8,Ben Cole,4.3,101,89%,1,2,2,6,12,3,2,12,,,2,4,3,17,13,22,35,,1,18,832908
+228,1717,Beaufort County Community College,Computer Science,2.9,Ken Robol,3.2,27,N/A,,4,,1,,,1,3,,1,4,4,1,1,2,1,,1,,1,972011
+229,1717,Beaufort County Community College,English,3.3,Mike Davis,4.3,24,N/A,,,,,,,,1,,,,,,,1,1,,,,,242248
+230,1717,Beaufort County Community College,English,2.3,Bryan Oesterreich,4.4,19,N/A,,,,,,,,,,,,,,,,,,,,,242247
+231,1717,Beaufort County Community College,English,2.8,Wellyn Dawson,2.7,16,N/A,,,,,,,,,,,,,,,,,,,,,611967
+232,1717,Beaufort County Community College,English,3.9,Amanda Stevens,4.0,14,71%,2,,,,1,,2,9,,,7,,,1,5,5,,2,,4,2155991
+233,1717,Beaufort County Community College,Computer Science,1.9,Laura Gipson,3.7,13,N/A,,,,,,,,,,,,,,,,,,,,,242242
+234,1717,Beaufort County Community College,Chemistry,2.4,Bill Smith,4.9,13,N/A,,,,,,,,,,,,,,,,,,,,,627435
+235,1717,Beaufort County Community College,Psychology,2.2,Judith Meyer,4.4,11,N/A,,1,,1,,,,,,,,,,,,1,,,,,242259
+236,1717,Beaufort County Community College,History,2.2,Tim Mattimoe,4.5,11,N/A,,,,,,,,,,,,,,,,,,,,,588316
+237,1717,Beaufort County Community College,Mathematics,4.3,Jay Sullivan,4.3,9,N/A,,,,,,,,,,,,,,,,,,,,,1044612
+238,1717,Beaufort County Community College,Computer Science,2.2,Debra Baker,4.3,6,N/A,,,,,,,,,,,,,,,,,,,,,272155
+239,1717,Beaufort County Community College,Computer Science,3.5,Toler Whiting,4.0,6,N/A,,,,,,,,,,,,,,,,,,,,,709030
+240,1717,Beaufort County Community College,Biology,3.8,Teresa Crozier,4.8,6,N/A,,,,,,,,,,,,,,,,,,,,,908232
+241,1717,Beaufort County Community College,Engineering,2.8,Joey Mayo,4.3,6,100%,,,,1,2,,,3,,1,2,1,,,5,1,1,,,,2120163
+242,1717,Beaufort County Community College,Mathematics,3.4,Mr. John James,2.7,5,N/A,,,,,,,,,,,,,,,,,,,,,479296
+243,1717,Beaufort County Community College,English,2.0,Dixon Boyles,4.9,4,N/A,,,,,,,,,,,,,,,,,,,,,242249
+244,1717,Beaufort County Community College,Languages,1.3,Jose Mendoza,4.4,4,N/A,,,,,,,,,,,,,,,1,1,1,,,,821639
+245,1717,Beaufort County Community College,Biology,4.0,Ana McClanahan,4.5,4,N/A,,,,1,,,,,,,,1,,,,1,,,,,1353532
+246,1717,Beaufort County Community College,Chemistry,2.8,Amanda Carlisle,5.0,4,N/A,3,1,,2,1,1,,1,,,1,1,,,,,,,,,2181059
+247,1718,Bel-Rea Institute of Animal Technology,Not Specified,3.9,Angela Taibo,4.4,24,N/A,,,,,,,,,,,,,,,,1,1,,,1,224977
+248,1718,Bel-Rea Institute of Animal Technology,Science,3.0,Michaela Witcher,4.5,23,N/A,,,,,,,,,,,,,,,,,,,,,354496
+249,1718,Bel-Rea Institute of Animal Technology,Chemistry,3.5,Erik Fausak,3.3,16,50%,2,3,,,1,2,1,1,1,1,,1,2,1,1,,,1,1,,1625546
+250,1718,Bel-Rea Institute of Animal Technology,Animal Science,2.8,Tammy Schneider,4.6,12,N/A,,,,,,,,,,,,,,,,,,,,,224978
+251,1718,Bel-Rea Institute of Animal Technology,Writing,3.6,Rosemary Lewis,4.8,11,N/A,,,,,,,,,,,,,,,,,,,,,716641
+252,1718,Bel-Rea Institute of Animal Technology,Animal Science,3.0,Amy Johnson,4.7,9,N/A,,,,,,,,,,,,,1,,,,,,,,897763
+253,1718,Bel-Rea Institute of Animal Technology,Animal Science,2.0,Liz Salan,4.9,8,N/A,,,,2,,,,,,,1,1,,,,2,,,,,1600749
+254,1718,Bel-Rea Institute of Animal Technology,Management,1.9,Annette Temple,5.0,8,N/A,,2,1,,1,,,1,,,4,2,,2,,,,,,,1796594
+255,1718,Bel-Rea Institute of Animal Technology,Animal Science,2.0,Cynthia Medina,4.2,5,N/A,,,,,,,,,,,,,,,,,,,,,1154009
+256,1718,Bel-Rea Institute of Animal Technology,Biology,3.0,Jessie Loberg,4.9,4,N/A,1,1,,,,,,,,,,,,,,1,,,,,1291444
+257,1718,Bel-Rea Institute of Animal Technology,Animal Science,2.3,Robyn Keiter,5.0,3,N/A,,,,,,,,1,,,1,1,,,,2,,,,,1858567
+258,1718,Bel-Rea Institute of Animal Technology,Animal Science,4.0,Nolan Rucker,5.0,2,N/A,,2,,,,,,,,,,,,,2,2,,,,,2136122
+259,1718,Bel-Rea Institute of Animal Technology,Science,2.0,Amber Latyshev,5.0,1,N/A,1,1,,,1,,,,,,,,,,,,,,,,2162378
+260,1718,Bel-Rea Institute of Animal Technology,Animal Science,3.0,Patrick Hemming,1.0,1,N/A,,,,,,,1,,,,,,1,,,,,,,,2182053
+261,1719,Bellingham Technical College,Health Science,3.0,Lowell Wester,4.7,39,100%,1,8,,2,7,,3,5,,,4,,,3,1,1,2,,1,,901070
+262,1719,Bellingham Technical College,Health Science,3.2,Andrea Olah,4.1,27,58%,,1,1,,1,,3,6,,,1,,2,2,2,4,4,,2,7,864106
+263,1719,Bellingham Technical College,Mathematics,3.4,Vicky Moyle,2.7,16,N/A,,,,1,1,,3,2,,,,,,2,,1,,1,,1,1310925
+264,1719,Bellingham Technical College,Nursing,3.0,Roxanne Telling,4.2,15,N/A,,,,,1,,,1,,,,,,,,,1,,,,705773
+265,1719,Bellingham Technical College,Biology,3.0,Kate Yamamoto,3.4,14,N/A,,,,,,,,,,,,,,,,,,,,,1273286
+266,1719,Bellingham Technical College,Mathematics,2.6,Geneva Blake,4.6,14,N/A,,,,,1,,,1,,,,,,1,,2,,,,,1365232
+267,1719,Bellingham Technical College,Computer Science,2.2,Mike Massey,4.0,13,N/A,,,,,,,,,,,1,,1,,,1,1,,1,1,469080
+268,1719,Bellingham Technical College,Computer Science,2.8,Greg Rehm,4.2,12,N/A,,1,,1,,,,,,,,,,,1,,,,,,363033
+269,1719,Bellingham Technical College,Psychology,1.5,Steve Mudd,4.0,12,57%,1,1,,1,1,,1,3,1,2,3,,,,2,2,1,,,1,1555336
+270,1719,Bellingham Technical College,Mathematics,3.1,Tyler Honeycutt,4.0,12,70%,1,1,,2,3,,,,1,1,1,,,1,,3,1,,,,1968987
+271,1719,Bellingham Technical College,Psychology,1.9,Carl Oekerman,4.7,10,N/A,,,,,,,1,2,,,1,1,,1,1,2,1,,,,1258898
+272,1719,Bellingham Technical College,Social Science,3.7,David Maricle,4.8,9,N/A,,1,,,,,,,,,1,,2,,,2,,,,,792195
+273,1719,Bellingham Technical College,Biology,4.4,Carol Gavareski,3.5,9,N/A,,,,,,,,,,,,,,,,,,,,,1408980
+274,1719,Bellingham Technical College,Biology,3.9,George Wilkinson,3.1,9,56%,1,1,,1,3,,1,2,,,,,3,3,1,1,,1,2,1,2351531
+275,1719,Bellingham Technical College,Computer Science,2.3,Lee Falta,4.1,8,N/A,,,,1,,,1,1,,1,,,,1,,,,,,,363031
+276,1719,Bellingham Technical College,Computer Science,2.5,Jack Wollens,3.5,8,N/A,,,,,,,1,,1,,,,,1,,,,,,,727421
+277,1719,Bellingham Technical College,Mathematics,3.3,David Rangel,4.4,8,N/A,,,,1,1,,,1,,,,,,,1,1,,,,1,1804424
+278,1719,Bellingham Technical College,Biology,4.7,Gabriel Mast,2.0,7,N/A,,,,,,,,,,,,,,,,,,,,,1537460
+279,1719,Bellingham Technical College,Mathematics,3.3,Calhan Ring,3.0,7,N/A,,,,,1,,,,,,,,1,3,,,2,,1,2,1807549
+280,1719,Bellingham Technical College,Chemistry,3.7,Aaron Miller,1.6,7,14%,1,,,,,,3,,,,,,3,2,,,2,,1,1,2293537
+281,1720,Belmont College,English,4.0,Carter Kaplan,2.9,17,N/A,1,,,,,,,,1,,,1,3,1,,,2,,,2,724913
+282,1720,Belmont College,Science,2.2,Chris Clantz,4.8,10,N/A,,,,1,1,,,1,,,,,,,,,,,,,233483
+283,1720,Belmont College,Business,2.8,Tom Attkinson,4.7,10,N/A,,,,,,,,,,,,,,,,,,,,,553109
+284,1720,Belmont College,English,4.5,Cindi Yanez,3.8,10,N/A,,,,,,,,,,,,,,,,,,,,,1015262
+285,1720,Belmont College,Computer Science,3.3,Jacqueline Driscoll,4.4,8,N/A,,,,1,,,,1,,,,,,,,1,,,,,136876
+286,1720,Belmont College,Computer Science,2.4,Hank Cardello,4.7,8,N/A,,,,1,,,1,,,,1,,,,,,,,,,553115
+287,1720,Belmont College,Criminal Justice,3.5,Desiree Lyonette,5.0,8,100%,2,,,3,,1,,4,,,1,,,2,3,1,1,,,1,1906619
+288,1720,Belmont College,English,2.1,Jon Stansell,4.0,7,N/A,,,,,,,,2,1,1,1,2,1,,,,2,,,,1748392
+289,1720,Belmont College,Psychology,3.7,Howard McLeskey,4.8,6,N/A,,,,,,,,,,,,,,,,,,,,,521082
+290,1720,Belmont College,Mathematics,2.0,Joe Perrie,4.6,6,N/A,,,,,,,,,,,,,,,,,,,,,554098
+291,1720,Belmont College,Sociology,2.5,Gary Ballard,3.7,6,N/A,,,,,,,,,,,,,,,,,,,,,621255
+292,1720,Belmont College,Mathematics,2.4,Jodi McFarland,2.8,5,N/A,,,,1,2,,,1,1,,,,,2,,,,,,,1093917
+293,1720,Belmont College,English,3.2,Jesse Gipko,3.9,5,N/A,,,,,,,1,,,,,,,,,,,1,,1,1728935
+294,1720,Belmont College,Not Specified,1.3,Tim Houston,5.0,3,N/A,,,,,,,,,,,,,,,,,,,,,357944
+295,1720,Belmont College,Mathematics,3.7,Terry Caldwell,3.7,3,N/A,,1,,1,1,,,1,,,,,,,,,,,,,959332
+296,1720,Belmont College,English,2.0,Zachary Thuring,5.0,3,N/A,,,,,,,,,,,,,,,,,,,,,1549296
+297,1720,Belmont College,Biology,3.7,Suzanne Davis Clutter,4.3,3,N/A,1,1,,3,1,,,1,,,,1,,,,1,,,,,2361132
+298,1720,Belmont College,Psychology,2.0,Bill Konkle,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,685347
+299,1720,Belmont College,Mathematics,2.0,Mary Ellen Cassidy,3.3,2,N/A,,,,,,,,,,,,,,,,,,,,,1354615
+300,1720,Belmont College,History,1.5,Thomas Buckley,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1472189
+301,1722,Bergen Community College,Mathematics,3.3,Walter Rothaug,3.7,785,87%,26,6,,63,144,19,114,118,10,,9,29,6,253,174,67,15,23,44,74,26767
+302,1722,Bergen Community College,Business,2.0,Patrick M Sheil,4.8,472,99%,1,99,,27,19,46,11,54,7,,66,87,5,,47,78,14,,4,3,1284073
+303,1722,Bergen Community College,Languages,4.4,Alphonse Dattolo,4.9,216,99%,6,4,,92,9,,,33,,,,75,,1,,92,1,,,1,205491
+304,1722,Bergen Community College,Biology,1.8,Robert Amitrano,4.9,196,100%,2,26,,20,12,,1,12,,,7,21,7,,1,29,3,,3,,200579
+305,1722,Bergen Community College,Social Science,3.0,Theodore Solomon,3.5,191,65%,,8,,1,3,,,1,2,,16,10,4,2,12,8,12,,2,5,173139
+306,1722,Bergen Community College,Mathematics,2.8,Lenore Lerer,3.9,180,61%,1,3,,2,2,3,1,3,3,,5,,,8,4,1,8,,2,9,222208
+307,1722,Bergen Community College,Business,1.7,Micheal Kahn,4.6,172,89%,,11,,9,,1,1,8,,,8,12,,,7,13,1,,,,1418587
+308,1722,Bergen Community College,Biology,3.3,Marilou Limguangco,4.9,171,100%,4,27,,22,14,39,,17,,,17,18,,1,22,32,2,,,,1004349
+309,1722,Bergen Community College,Biology,2.0,Robert Dill,4.8,162,96%,,7,,10,,9,,4,2,,18,9,1,,2,17,2,,5,1,193907
+310,1722,Bergen Community College,English,2.0,Brian Altano,4.9,160,N/A,,2,,7,1,,2,10,,,2,4,,,3,5,,,,,53360
+311,1722,Bergen Community College,Business,4.2,Robert Saldarini,2.4,160,N/A,,1,,1,1,,6,1,,,,1,1,4,3,1,5,2,,18,194123
+312,1722,Bergen Community College,History,2.2,Farivar Fatemi,4.3,155,N/A,,2,,2,2,,,,,,4,1,1,2,2,1,3,,,2,88795
+313,1722,Bergen Community College,Philosophy,3.5,George Cronk,4.0,148,88%,,,,2,4,,7,5,,,,1,,3,9,1,,,,5,123429
+314,1722,Bergen Community College,Economics,4.6,Mostapha Baligh,1.5,148,N/A,,,,,,,,,,,,,,,,,,,,,209402
+315,1722,Bergen Community College,Economics,4.2,Richard Comerford,3.0,144,22%,1,,,,4,1,14,1,8,,1,,11,,1,1,8,,5,21,225563
+316,1722,Bergen Community College,Mathematics,4.0,Corinne Kallman,3.2,138,N/A,,,,1,1,,1,2,,,,,,4,,,1,,,4,181676
+317,1722,Bergen Community College,Psychology,2.3,Sidney Birnback,4.1,138,60%,,6,,6,1,1,4,3,3,,6,4,2,,,2,6,,1,1,119406
+318,1722,Bergen Community College,English,2.6,Michael Berkowitz,4.1,138,67%,,1,1,2,2,1,11,5,,1,5,2,,6,2,8,2,8,,12,356451
+319,1722,Bergen Community College,Communication,2.7,Mike Echols,3.8,134,89%,,6,3,2,6,,,5,2,2,11,2,3,,6,5,14,,,7,254423
+320,1722,Bergen Community College,Writing,1.8,Douglas Hoehn,4.1,130,N/A,,,,,1,,,1,,,,,,,,,,,,,1147574
+321,1723,Berkeley College,English,1.0,Jea Lizz Basubas,5.0,62,100%,27,15,,13,16,10,2,25,,2,10,10,,,22,17,10,3,,3,2323796
+322,1723,Berkeley College,Business,3.2,Frank Khoury,3.8,40,N/A,,,,,,,1,,,,,,1,,,,,,,1,409803
+323,1723,Berkeley College,Criminal Justice,2.3,Fernando Uribe,5.0,29,N/A,,,,,,,,,,,,,,,,,,,,,1289341
+324,1723,Berkeley College,Economics,2.9,Emmanuel Mulumba,3.9,27,N/A,,,1,,1,,,2,,1,,,1,,1,1,3,,,,605591
+325,1723,Berkeley College,English,2.6,Tom Farrington,4.3,20,N/A,,2,,,,,,,,,,2,,,,,,,,,585379
+326,1723,Berkeley College,Business,2.9,Guy Adamo,3.7,18,N/A,,,,,,,1,,1,,,,,,1,,3,,,2,191520
+327,1723,Berkeley College,Marketing,3.2,Chris Ehiobuche,3.3,18,N/A,,1,,,,,,,,2,,,,,1,1,1,1,,2,607510
+328,1723,Berkeley College,Management,1.7,Andrew Raleigh,4.3,17,N/A,,,,,,,,1,,,2,1,,,,1,1,,,,823120
+329,1723,Berkeley College,Business,4.6,A Avallone,2.2,17,N/A,,,,,,,,,,,,,,,,,,,,,1027872
+330,1723,Berkeley College,Not Specified,3.2,William Filerino,3.8,16,60%,1,2,,1,,,,1,,,,2,,,3,,,,,1,894229
+331,1723,Berkeley College,Marketing,2.8,Bruce Belowich,4.7,13,N/A,,,,,1,,,1,,,,,,,1,,,,,,344921
+332,1723,Berkeley College,English,3.9,Peter Field,2.7,13,N/A,,,,,,,,,,,,,,,,,,,,,441115
+333,1723,Berkeley College,Mathematics,3.3,Manuel Ferreira,3.0,13,N/A,,,,,,1,,,,,,,1,,,,,,,,1066442
+334,1723,Berkeley College,Sociology,2.6,Hui-Wen Tu,4.7,13,100%,1,1,,1,,,1,8,,,,,,1,9,6,1,,,,1846417
+335,1723,Berkeley College,Accounting,4.1,Lynne Remedios,2.5,12,N/A,,,,,,,,,,,,,,,,,,,,,595213
+336,1723,Berkeley College,Psychology,1.8,Gary Belkin,4.5,12,N/A,,,,1,,,,1,,,1,,,,1,,,,,1,1753661
+337,1723,Berkeley College,Mathematics,1.7,John Zarelli,4.6,11,N/A,,,,,,,,,,,,,,,,,,,,,583596
+338,1723,Berkeley College,English,1.7,Amalea Schrader-Rank,4.5,11,N/A,,,,,,,,,,,,,,,,,,,,,1260572
+339,1723,Berkeley College,Science,3.5,Sabina Gitlits,3.5,11,N/A,,,,,6,,7,,,,,,,7,,1,,,,4,2025857
+340,1723,Berkeley College,Law,2.5,Deborah Ranges,4.5,10,N/A,,,,,,,1,2,,,,,,,,2,,,,,758806
+341,1724,Berks Technical Institute,English,1.3,Phil Barbers,4.9,12,N/A,,,,,,,,,,,,,,,,,,,,,461468
+342,1724,Berks Technical Institute,Computer Science,2.4,Frank Goryl,4.7,11,N/A,,,,,,,,,,,,,,,,,,,,,364774
+343,1724,Berks Technical Institute,Computer Science,1.5,Howard Fernsler,4.3,8,N/A,,,,,,,,,,,,,,,,,,,,,291079
+344,1724,Berks Technical Institute,Communication,2.6,Jenn Churico,4.4,7,N/A,,,,1,,,,,,,,,,,,1,,,,,823990
+345,1724,Berks Technical Institute,Computer Science,2.4,Paul Andersen,4.4,7,N/A,,1,,,,,,,,,,,,,,1,,1,,,1073030
+346,1724,Berks Technical Institute,Computer Science,1.2,Jen Koons,4.7,6,N/A,,,,,,,,1,,,,1,,,,1,,,,,461466
+347,1724,Berks Technical Institute,Business,2.0,Tracey Redinger,4.6,5,N/A,,,,,,,,,,,,,,,,,,,,,573637
+348,1724,Berks Technical Institute,Medicine,2.0,Debbie Damiani,3.3,5,N/A,,,,,,,,,,,,,,,,,,,,,1250484
+349,1724,Berks Technical Institute,Criminal Justice,3.3,Christine Bitler,2.3,4,N/A,,,,,,,,,,,,,1,,,,,,,,1871315
+350,1724,Berks Technical Institute,Computer Science,3.0,Sonny Chang,5.0,3,N/A,,,,,,,,1,,,1,1,,,,,,,,,1452903
+351,1724,Berks Technical Institute,English,2.0,Lisa McGowan,3.5,3,N/A,,,,,,,,,,,,,,,,,,,,,1583211
+352,1724,Berks Technical Institute,Medicine,1.5,Cindy Bergenstock,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,878950
+353,1724,Berks Technical Institute,Criminal Justice,1.0,Richard Karstien,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1848987
+354,1724,Berks Technical Institute,Accounting,3.0,Barbara Bennett,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,772838
+355,1724,Berks Technical Institute,Business,4.0,Dennis Arms,4.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1439448
+356,1724,Berks Technical Institute,Computer Science,3.0,Spencer Leddy,3.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1462217
+357,1724,Berks Technical Institute,Computer Science,5.0,Gene Henderson,2.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1467628
+358,1724,Berks Technical Institute,Information Science,2.0,Robert Mallon,4.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1575017
+359,1724,Berks Technical Institute,English,1.0,Sorangel Fontanez,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1903005
+360,1724,Berks Technical Institute,Computer Science,1.0,Jennifer Churico,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,2017923
+361,1725,Berkshire Community College,Health Science,3.3,Tom Carey,4.7,30,100%,,4,,1,5,,,,,,9,1,,,1,4,3,,,,160373
+362,1725,Berkshire Community College,Science,2.8,Thomas Tyning,4.5,22,N/A,,1,,1,,2,,1,,1,4,3,2,,1,2,,,,,262982
+363,1725,Berkshire Community College,History,3.0,Chris Laney,4.3,21,N/A,,,,,1,,3,3,,,1,1,1,1,3,,,1,,,481478
+364,1725,Berkshire Community College,History,2.1,June Tooley,4.8,21,100%,1,3,,5,1,3,,1,,,,1,1,,1,2,1,,,,262563
+365,1725,Berkshire Community College,Psychology,3.3,Wayne Klug,4.3,20,N/A,,,2,1,2,1,2,,,,,,1,1,,1,,1,1,2,253309
+366,1725,Berkshire Community College,Biology,3.1,Fayette Reynolds,4.6,19,N/A,1,3,,1,,,,,,,2,,,,,2,,,,,160342
+367,1725,Berkshire Community College,Psychology,3.6,Susan Pinsker,3.6,19,N/A,,1,,,1,,1,,,,,,,,,,,,,,167269
+368,1725,Berkshire Community College,Sociology,3.2,Colin Adams,3.0,19,60%,1,1,,1,1,3,3,,2,,,,1,3,1,,2,,1,2,1101252
+369,1725,Berkshire Community College,Business,4.1,Eric Gauger,4.0,18,N/A,,,,,1,,,,,,,,,,,1,1,,,,262871
+370,1725,Berkshire Community College,English,3.1,Mari Lonano,3.0,18,N/A,,,,,,,,1,,,1,1,,,1,,,,,1,262916
+371,1725,Berkshire Community College,Business,2.4,Abu Selimuddin,3.4,18,N/A,1,,,2,2,,,1,,,2,,1,,,1,,,,1,262962
+372,1725,Berkshire Community College,Fine Arts,3.3,Keith Shaw,4.2,18,N/A,,6,,1,4,,1,1,,,,3,2,,,1,3,,,,262964
+373,1725,Berkshire Community College,Sociology,4.4,Stacy Evans,3.0,17,N/A,,,,,,,5,2,,,,,1,1,1,1,2,4,,4,262761
+374,1725,Berkshire Community College,Communication,2.1,Constance Berman,3.4,16,N/A,,,,,,3,1,1,,,,,,,3,,,1,,1,262701
+375,1725,Berkshire Community College,Computer Science,2.9,Gregory Panczner,3.0,15,N/A,,,,,,,1,,,,,,,1,1,,2,,,3,262936
+376,1725,Berkshire Community College,Chemistry,3.4,D. Clifford Myers,3.4,14,N/A,,,,,1,,,,,,,,,,,1,1,,,,262932
+377,1725,Berkshire Community College,Biology,2.6,Joseph Kravitz,4.7,13,N/A,,3,,1,2,,,,,,5,2,,2,,2,,,,,1437597
+378,1725,Berkshire Community College,Biology,2.6,Frank Schickor,4.7,12,N/A,2,5,,1,,,,,,,1,2,1,,,1,,,,,1066863
+379,1725,Berkshire Community College,Mathematics,3.6,Sandra Ketchum,2.6,11,N/A,,,,,,,,,,,,,,,,,,,,,262901
+380,1725,Berkshire Community College,Science,3.8,Charles Weinstein,2.5,11,N/A,,,,,,,,,,,,,,,,,,,,,262987
+381,1727,Bethany Lutheran College,Anthropology,2.7,William Kessel,4.2,19,N/A,,,,,,,,,,,,,,,,,,,,,496901
+382,1727,Bethany Lutheran College,English,2.9,Ramona Czer,2.5,18,N/A,,,,,,,,,,,,,1,1,,,,,,1,219818
+383,1727,Bethany Lutheran College,Communication,2.6,Angie Jahr,3.8,15,N/A,,,,,,,,,,,,,,,,,,,,,496027
+384,1727,Bethany Lutheran College,History,4.1,Ryan MacPherson,3.9,14,N/A,,1,,,,,1,,,,,,,,1,,,,,,672468
+385,1727,Bethany Lutheran College,English,2.2,Robert Hanna,3.4,14,N/A,,,,,,,,2,,,1,,,,,1,,,,,1001747
+386,1727,Bethany Lutheran College,Communication,2.6,Angi Forsythe,3.7,12,N/A,,,,,,,,,,,,,,,,,,,,,821358
+387,1727,Bethany Lutheran College,Communication,2.6,Jon Loging,2.8,12,N/A,,,,,,,,1,1,,,,1,,1,1,1,,,1,588844
+388,1727,Bethany Lutheran College,Business,2.6,Dean Shoop,4.7,11,N/A,,,,1,,,,,,,,,,,,1,1,,,,494585
+389,1727,Bethany Lutheran College,Theater,3.3,Peter Bloedel,3.6,10,N/A,,,,,,,,3,,,1,1,,,2,2,,,,,436380
+390,1727,Bethany Lutheran College,Religion,2.3,Erling Teigen,3.3,10,N/A,,,,,,,,,,,,,,,,,,,,,496011
+391,1727,Bethany Lutheran College,Religion,2.7,Mark Harstad,4.2,10,N/A,,,,,,,,,,,,,,,,,,,,,588013
+392,1727,Bethany Lutheran College,Mathematics,3.4,Julie Kjeer,5.0,10,N/A,2,,,3,,,,1,,,1,,,,1,1,,,,,1001752
+393,1727,Bethany Lutheran College,Computer Science,1.7,Mark Meyer,3.6,9,N/A,,,,,,,,,,,,,,,,,,,,,788576
+394,1727,Bethany Lutheran College,History,3.4,John Boubel,3.8,8,N/A,,,,,,,,,,,,,,,,,,,,,674493
+395,1727,Bethany Lutheran College,Religion,1.6,Thomas Rank,3.9,8,N/A,,,,,,,,,,,,,,,,,,,,,788586
+396,1727,Bethany Lutheran College,Psychology,4.1,Jen Wosmek,3.5,8,N/A,,,1,,,,1,,,1,,,,2,,,1,,,,892177
+397,1727,Bethany Lutheran College,Biology,2.7,Doyle Holbird,4.0,8,N/A,,,,1,1,,,,,,,,1,,,,,,,,1621028
+398,1727,Bethany Lutheran College,Sociology,1.7,Patti Reagles,3.8,7,N/A,,,,1,,,1,,,,,,,,,,,,,,546118
+399,1727,Bethany Lutheran College,Religion,1.3,Mark Degarmeaux,4.9,7,N/A,,,,,,,,,,,,,,,,,,,,,1302386
+400,1727,Bethany Lutheran College,History,2.7,Nicholas Kaminsky,3.5,7,N/A,,1,,2,2,,,4,,,,,,,,2,,,,,1959698
+401,1728,Bevill State Community College,History,2.6,Bruce Lowery,4.4,21,N/A,,1,,,,,,,,,1,,1,,2,1,,,,,362777
+402,1728,Bevill State Community College,Mathematics,3.8,Zonja Coleman,2.0,21,20%,,,,1,,,,,,,1,,,1,1,,3,,,1,392782
+403,1728,Bevill State Community College,English,2.9,Angie Lazarus,4.0,16,N/A,1,1,,,,1,4,1,,,2,,,,,,,1,,3,801675
+404,1728,Bevill State Community College,Psychology,2.7,Leslie Cummings,4.2,15,N/A,,,,,,,,,,,,,,,,,,,,,362781
+405,1728,Bevill State Community College,Biology,3.8,Jeffery Stewart,2.6,12,38%,2,,1,2,,,1,,,,1,,1,2,2,1,5,,,2,740742
+406,1728,Bevill State Community College,Music,2.5,Stephen Rizzo,3.8,11,N/A,,,2,,,1,,,,2,1,,,,,,,,,,740744
+407,1728,Bevill State Community College,English,2.0,Leisha Hultgren,4.0,11,N/A,,,,,,,,,,,,,,,,,,,,,804530
+408,1728,Bevill State Community College,Mathematics,2.8,Mary Richardson,3.7,10,N/A,1,,,,,,,,,,,,,1,1,,,,,,1008076
+409,1728,Bevill State Community College,Mathematics,2.8,Kris Jenkins,2.3,10,N/A,,,,,,,,,,,,,,2,,,2,,1,2,392778
+410,1728,Bevill State Community College,Nursing,3.8,Delores Dotson,3.3,9,N/A,,,,1,,,2,1,,,,1,1,,,,4,,,3,868112
+411,1728,Bevill State Community College,Biology,3.6,Doug Sizemore,4.8,8,N/A,,,,,,,,,,,,,,,,,,,,,152070
+412,1728,Bevill State Community College,Chemistry,1.4,Teresa Johnson,4.9,7,N/A,,,,,,,,,,,,,,,,,,,,,740747
+413,1728,Bevill State Community College,Business,1.8,Lisa Wilhite,4.9,6,N/A,,,,,,,,,,,,,,,,,,,,,322892
+414,1728,Bevill State Community College,Computer Science,2.0,Rebecca Vanzant,4.2,5,N/A,,,,,,,,,,,,,,,,,,,,,813310
+415,1728,Bevill State Community College,Not Specified,1.6,Loretta Bartlett,4.3,5,N/A,,,,,,,,,,,,,,,,,,,,,813311
+416,1728,Bevill State Community College,Mathematics,2.5,Susan Horne,4.5,4,N/A,,,,,,,,,,,,,,,,,,,,,862957
+417,1728,Bevill State Community College,Nursing,3.0,Tami Wade,5.0,4,N/A,1,2,,2,,,,,,,1,2,,,,4,,,,,1980407
+418,1728,Bevill State Community College,Psychology,3.3,Emily DeBray Rasberry,5.0,4,N/A,3,1,,2,,1,,2,,,1,,,,1,,,,,,2114653
+419,1728,Bevill State Community College,English,3.5,Jimmy Ellenburg,4.0,4,N/A,,,,2,,,,2,,,3,,,,1,,,,,1,2123514
+420,1728,Bevill State Community College,English,3.7,Mary Beth Barber,4.0,3,N/A,,1,,,,,,,,,,,,,,1,,,,1,968558
+421,1730,Big Bend Community College,History,3.8,Chris Riley,3.5,34,83%,,5,,,2,,3,1,,2,2,1,1,1,2,,1,,,1,314876
+422,1730,Big Bend Community College,Philosophy,2.0,Dennis Knepp,4.6,23,N/A,,,,3,,,1,2,,,4,,,,1,,,,,,314893
+423,1730,Big Bend Community College,English,3.4,Steve Close,4.2,18,N/A,,,,,,,2,5,,1,,1,,4,1,,1,,,3,825220
+424,1730,Big Bend Community College,Business,2.7,Les Michie,4.7,15,100%,1,,,1,1,1,,,,,2,2,2,2,1,4,,,,,949415
+425,1730,Big Bend Community College,Mathematics,2.8,Salah Abed,3.9,15,33%,1,1,,2,3,,,2,3,,3,2,,,1,2,3,,4,2,1697168
+426,1730,Big Bend Community College,Mathematics,2.6,Barbara Whitney,3.9,14,N/A,1,1,,,,,,2,,,1,,,,,1,,,,,314867
+427,1730,Big Bend Community College,English,2.6,John Carpenter,4.3,12,N/A,,,,1,,,2,1,,1,1,,,,1,,,,,,561882
+428,1730,Big Bend Community College,English,2.2,Matt Sullivan,5.0,12,N/A,,,,,,,,,,,,1,,,1,1,,,,,668028
+429,1730,Big Bend Community College,Sociology,2.6,Joe Rogers,4.5,11,N/A,,,,,,,,,,,,,,,,,,,,,314873
+430,1730,Big Bend Community College,English,2.0,Dave Hammond,5.0,11,N/A,,,,1,,,,2,,,3,2,,,,1,,,,,711600
+431,1730,Big Bend Community College,Not Specified,2.6,Rie Palkovic,3.9,10,N/A,,,,,,,,1,,,2,1,,,1,,1,,,,314884
+432,1730,Big Bend Community College,Mathematics,3.7,Sonia Farag,2.8,10,N/A,,,,1,,2,,,,,,,,2,,,,,,2,705603
+433,1730,Big Bend Community College,Art History,2.3,Fran Palkovic,4.0,9,N/A,,,,,,,,1,,,,1,,,1,,,,,1,314888
+434,1730,Big Bend Community College,Languages,1.4,Angela Leavitt,3.2,9,N/A,,,3,,,,,1,,,,,,2,2,1,,,,,1145749
+435,1730,Big Bend Community College,Communication,1.4,Mitch Poth,4.7,9,N/A,,,,1,,,,,,1,1,,,,2,,1,,,,1623113
+436,1730,Big Bend Community College,Chemistry,3.3,John Peterson,4.4,9,N/A,,,,3,1,,,2,,,,,2,,,1,2,,,2,1658855
+437,1730,Big Bend Community College,Mathematics,3.2,Tyler Wallace,4.0,8,N/A,,,,1,,,,1,,,,,,,1,2,,,,,1329496
+438,1730,Big Bend Community College,Criminal Justice,2.3,Ryann Leonard,4.8,8,N/A,3,1,,,1,,,3,,,1,,,,,3,,,,,1556469
+439,1730,Big Bend Community College,English,2.0,Octaviano Gutierrez,4.9,8,N/A,,1,,2,1,1,,1,,,2,1,,,1,,1,,,,1780227
+440,1730,Big Bend Community College,Biology,4.7,Mariah Whitney,3.2,8,N/A,,,1,1,1,,4,1,,,,,1,1,,,3,,,5,1845790
+441,1731,Bishop State Community College,Biology,2.8,Beverly Joseph,4.1,43,75%,1,1,2,2,1,,1,4,2,2,6,1,5,,7,5,9,,1,1,380633
+442,1731,Bishop State Community College,Biology,3.0,Tammy Dennis,3.6,37,78%,1,,1,3,,1,2,2,,1,4,1,3,,2,4,8,,2,4,1012048
+443,1731,Bishop State Community College,Biology,3.4,Sylvester Hackworth,4.2,36,67%,,,,2,2,,1,3,,2,,,,3,2,2,3,,1,3,1073628
+444,1731,Bishop State Community College,Biology,3.1,Elizabeth Schlosser,3.4,35,100%,2,,,6,2,4,3,1,,5,2,2,3,1,6,1,1,,,1,900427
+445,1731,Bishop State Community College,Mathematics,4.1,Melanie Smith,1.8,28,N/A,,,,,,,,,,,,,1,,,,,,,,804192
+446,1731,Bishop State Community College,Biology,2.9,Clint Foster,4.2,27,N/A,,,,4,,3,1,3,,1,,1,2,,5,3,5,,1,5,1705512
+447,1731,Bishop State Community College,English,3.7,Lashonda Robinson,2.1,22,29%,,,,,,,2,2,,1,,,4,,1,,,2,,8,1276569
+448,1731,Bishop State Community College,English,2.2,Kim Smith,4.8,21,N/A,2,2,,3,2,,,7,,1,1,,1,,,4,,,,,584704
+449,1731,Bishop State Community College,Mathematics,3.5,Latonya Ellis,2.7,21,20%,,,3,1,,,,1,,,,,,4,1,,2,,1,3,705850
+450,1731,Bishop State Community College,English,1.8,Dana Escobio,4.8,21,86%,1,1,,8,3,,1,7,,,3,4,,,3,2,,2,,2,1244079
+451,1731,Bishop State Community College,Psychology,2.8,William Nast,4.3,19,N/A,,1,,1,,1,1,3,1,,,1,,,1,1,1,,,1,403981
+452,1731,Bishop State Community College,Mathematics,2.1,Jeffery Dyess,4.7,18,N/A,,,,,,,,1,,,2,,,1,2,1,1,,1,,900423
+453,1731,Bishop State Community College,Psychology,2.9,Malverean Harris,3.5,16,N/A,,,1,,,1,2,2,,,,,1,,,,1,,1,,380640
+454,1731,Bishop State Community College,Music,3.6,M. Pollinitz,2.5,16,N/A,,,2,,,,,,,,,,,,,,2,,,4,787967
+455,1731,Bishop State Community College,English,1.9,Julie King,4.6,15,N/A,,1,,1,1,1,,1,,,1,,,,,2,,,,,1167658
+456,1731,Bishop State Community College,Mathematics,2.6,Amy Shaw,4.7,15,83%,1,3,,7,,,,7,,,,9,,2,3,6,3,,,,1921166
+457,1731,Bishop State Community College,Biology,4.4,MR. Russell,3.8,14,N/A,,,2,,,,1,,,,,,,,,,,,,2,1735838
+458,1731,Bishop State Community College,History,3.5,Caesar Smith,2.1,14,20%,,,1,,,,4,1,3,,,1,2,1,1,1,1,1,2,2,1737339
+459,1731,Bishop State Community College,Communication,2.8,Nancy Lenoir,4.8,13,N/A,,,,2,,1,2,2,,,1,2,,,,1,,,,,408159
+460,1731,Bishop State Community College,Biology,3.5,Darline Laffitte,3.1,13,N/A,,,,1,,,2,1,,,1,2,,,3,,3,,1,1,767347
+461,1732,Bismarck State College,Political Science,3.0,Jason Matthews,4.8,33,100%,2,16,,3,2,,,9,2,,17,6,8,,5,8,9,,,,1104488
+462,1732,Bismarck State College,Mathematics,3.0,David Peterson,4.9,17,100%,3,3,,4,4,,,4,,,5,2,,,,6,1,,,,1344272
+463,1732,Bismarck State College,Biology,2.6,Noah Kover,4.6,16,N/A,,,,,,,,,,,,,,,,,,,,,764816
+464,1732,Bismarck State College,Computer Science,2.4,Matt Frohlich,4.5,15,N/A,1,,,1,,,,1,,,,1,,,,2,,,,,1024324
+465,1732,Bismarck State College,English,4.0,Joshua Kern,2.6,15,20%,1,,,,,,,,,1,2,,1,4,1,2,1,1,,9,1546784
+466,1732,Bismarck State College,Mathematics,2.2,Art Rude,3.8,14,N/A,,,,,,,,,,,,,,,,,,,,,520219
+467,1732,Bismarck State College,Chemistry,4.3,Scott Tchaekofske,4.0,14,60%,2,,,,,,,1,,,2,1,,3,1,,6,,1,5,1075505
+468,1732,Bismarck State College,Communication,3.2,Sheryl Omlid,2.9,13,N/A,2,,,3,,,1,3,,,,,,1,1,,1,,,1,1633499
+469,1732,Bismarck State College,Sociology,1.8,Wendy Pank,4.8,12,N/A,1,3,,2,,,,,,,2,1,,,1,3,,,,,1031754
+470,1732,Bismarck State College,Biology,4.2,Shawn Iverson,2.8,12,50%,,,1,,2,,6,2,,,1,,2,,,2,7,,1,5,1767295
+471,1732,Bismarck State College,English,3.4,Jaclyn Allen,3.8,11,N/A,,,,,,,,1,,,,,,,,,1,1,,1,811202
+472,1732,Bismarck State College,Mathematics,2.5,David Poffenberger,4.5,11,100%,,1,,4,3,,,4,1,,7,,,,1,6,,,,1,1965029
+473,1732,Bismarck State College,Communication,2.9,Carol Cashman,3.1,10,N/A,,,,,1,,,1,,,1,,2,,,,,,,1,350156
+474,1732,Bismarck State College,English,1.5,Jane Schreck,4.3,10,N/A,,,,2,,2,,3,,3,1,2,1,1,2,1,,,,,664243
+475,1732,Bismarck State College,Philosophy,2.8,Tayo Basquiat,4.5,10,N/A,,,,3,,,4,3,,,2,2,,,4,1,,,,1,1510206
+476,1732,Bismarck State College,Business,2.5,Kevin Cavanagh,3.2,10,N/A,,,,,,,,1,,,1,,,,,1,,,,,1656109
+477,1732,Bismarck State College,English,3.1,Lynn Severson,3.1,9,N/A,,,,,,,,1,,,,,,,1,,,,,,504902
+478,1732,Bismarck State College,Political Science,3.0,David Sitte,2.6,9,N/A,,,,,,,,,,,1,,,,,,,,,1,619746
+479,1732,Bismarck State College,English,4.1,Annmarie Kajencki,2.5,9,N/A,,,,,,,,,,,,,,,,,2,1,,2,1562835
+480,1732,Bismarck State College,Biology,3.7,Jean Rolandelli,3.0,9,N/A,,,,,,,2,,,1,,,,,3,,3,,1,3,1646062
+481,1733,Black Hawk College,English,3.6,Galen Leonhardy,4.8,286,97%,3,16,,23,19,,9,63,,,20,51,1,23,5,32,5,2,,9,91697
+482,1733,Black Hawk College,Psychology,2.2,Mike Staub,4.6,127,96%,4,16,,6,5,4,7,2,,,30,6,5,,1,10,,,1,1,436134
+483,1733,Black Hawk College,History,2.6,Jay Pearce,4.8,106,100%,,13,,5,5,,3,13,1,1,7,4,2,,9,7,7,,,,255887
+484,1733,Black Hawk College,English,3.2,Verity Whitley,3.6,103,89%,4,3,,22,16,,1,31,,,4,15,,3,16,28,,2,1,8,139355
+485,1733,Black Hawk College,Humanities,3.0,Fred Ingold,3.6,102,92%,9,9,1,11,14,,2,24,1,,,5,1,1,3,16,1,,,1,564473
+486,1733,Black Hawk College,Psychology,2.3,Traci Davis,4.8,102,91%,1,10,,4,2,5,1,4,1,,14,3,,,1,6,,,,,583162
+487,1733,Black Hawk College,English,3.1,Torria Norman,3.6,76,80%,1,,2,2,2,1,,6,,1,6,,,1,,1,,,,4,148248
+488,1733,Black Hawk College,Communication,1.5,Rich Morthland,4.3,61,73%,1,1,,1,3,,,6,3,2,6,3,,,4,3,2,,,,382139
+489,1733,Black Hawk College,Philosophy,3.5,Bill Desmond,4.0,57,40%,,2,,1,,1,3,1,3,,2,2,3,,1,,4,,1,4,158685
+490,1733,Black Hawk College,Mathematics,3.1,Albert Stacey,3.6,57,N/A,2,,,3,,,,2,,1,5,1,,3,3,3,3,,,1,436553
+491,1733,Black Hawk College,English,3.9,Erskine Carter,3.3,54,N/A,,,,,,,1,1,,,,,,,1,1,,,,1,463178
+492,1733,Black Hawk College,Sociology,3.0,Bruce Leblanc,4.2,53,78%,1,4,1,1,1,5,4,5,,1,3,2,4,,3,,4,1,,,544656
+493,1733,Black Hawk College,Chemistry,3.1,Chuck Leland,3.8,51,73%,2,1,1,,3,1,3,2,2,,2,,7,,,1,8,,,6,462218
+494,1733,Black Hawk College,Economics,3.6,Paul Lockard,3.3,48,56%,1,2,,,,,1,1,,,,1,3,,2,1,9,,4,10,278925
+495,1733,Black Hawk College,English,4.0,Maryan Wherry,2.5,48,N/A,,,,,,,,,,,,,,,,,,,,,366781
+496,1733,Black Hawk College,History,2.8,Mark Esposito,3.9,48,57%,,,,1,1,,7,4,2,,,,3,8,,1,1,3,,2,390570
+497,1733,Black Hawk College,History,3.1,James Larrabee,4.2,44,100%,1,7,,1,2,,6,2,,,5,3,,1,1,3,,,1,,1204232
+498,1733,Black Hawk College,English,1.9,Amy Kolker,4.8,42,93%,,2,9,11,6,,5,20,,,6,6,,1,4,11,1,,,,1583246
+499,1733,Black Hawk College,English,2.3,Andrew Hoogheem,4.8,41,96%,4,12,3,4,2,7,2,26,1,,14,6,5,3,5,5,,,,1,1809490
+500,1733,Black Hawk College,Biology,3.3,Todd Linscott,4.2,40,N/A,1,,,2,1,7,2,1,,,,,,2,,2,2,,,,275341
+501,1734,Black Hawk College: East Campus,Psychology,3.3,Robert Lee,3.5,20,N/A,,,,,,,,,,,,,,,,,,,,,275621
+502,1734,Black Hawk College: East Campus,History,2.9,Jeff Spanbauer,3.9,9,N/A,,,,,,,,,,,,,,,,,,,,,253515
+503,1734,Black Hawk College: East Campus,Chemistry,2.5,Alan Abbott,3.3,9,N/A,,,,1,,,,,,,,,1,3,2,1,2,,1,,275625
+504,1734,Black Hawk College: East Campus,English,3.1,Toni Smith,3.8,8,N/A,,,,1,1,,3,2,,,,,,,,1,1,2,,1,306413
+505,1734,Black Hawk College: East Campus,Sociology,2.1,Ken Maguire,4.8,8,N/A,,,,,,,,,,,,,,,,,,,,,335094
+506,1734,Black Hawk College: East Campus,Mathematics,3.6,Deana Bobzein,3.8,8,N/A,,,,,,,,,,,,,,,,,,,,,338899
+507,1734,Black Hawk College: East Campus,English,1.3,Amy Kolker,5.0,6,N/A,,,,,,,,,,,1,,,,,1,,,,,338901
+508,1734,Black Hawk College: East Campus,Biology,4.2,Katie Anderson,3.8,4,N/A,,,,,,1,,1,,,,,2,2,,2,,,1,2,2108249
+509,1734,Black Hawk College: East Campus,Biology,3.0,Isaac Stewart,5.0,4,N/A,2,2,,1,1,,,1,,,2,1,,,,2,,,,,2414463
+510,1734,Black Hawk College: East Campus,Business,4.0,Darcy Jeffries,1.8,3,N/A,,,,1,,,,,,1,,,,1,2,,,,,,1807460
+511,1734,Black Hawk College: East Campus,Mathematics,5.0,J Haenggi,1.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1493504
+512,1734,Black Hawk College: East Campus,Political Science,3.5,Kirk Watson,4.3,2,N/A,,1,,,,,,1,,,,,,,,,,,,1,1849448
+513,1734,Black Hawk College: East Campus,Mathematics,5.0,Briana Mills,1.0,2,N/A,,,,,,,,,,,,,,2,,,,,2,2,2230034
+514,1734,Black Hawk College: East Campus,Biology,2.0,R White,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1091726
+515,1734,Black Hawk College: East Campus,Agriculture,1.0,Lee Denzer,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1411793
+516,1734,Black Hawk College: East Campus,Economics,1.0,Mike Yaklich,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1873705
+517,1734,Black Hawk College: East Campus,Agriculture,1.0,Jared Boyert,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,2039479
+518,1734,Black Hawk College: East Campus,Mathematics,3.0,Marco Annoni,5.0,1,N/A,1,,,1,,1,,,,,,,,,,,,,,,2437457
+519,1735,Blackfeet Community College,Writing,2.8,Woody Kipp,3.5,4,N/A,,,,,,,,,,,,,,,,,,,,,773497
+520,1735,Blackfeet Community College,Women's Studies,1.0,Willy Licker,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1411243
+521,1735,Blackfeet Community College,Architecture,3.0,Terry Garland,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1535943
+522,1735,Blackfeet Community College,Health Science,2.0,Katharine Mann,2.0,1,N/A,,,,,,,1,,,,,,,,1,,1,,,,2363856
+523,1736,Blackhawk Technical College,Mathematics,3.0,Julie Bellman,4.5,41,N/A,1,,,1,1,,,2,,,2,1,,4,,2,2,,,2,205825
+524,1736,Blackhawk Technical College,Computer Science,4.3,Denny Wright,3.3,26,N/A,2,,,1,1,,,1,,,,,,,,1,,,,,68952
+525,1736,Blackhawk Technical College,Communication,1.8,John Norland,4.8,18,N/A,,,,1,1,,,1,1,,,,,,,2,,,,,323486
+526,1736,Blackhawk Technical College,Computer Science,3.5,Amy Burns,2.5,17,N/A,,,,,,,,,,,,,,,,,,,,,68949
+527,1736,Blackhawk Technical College,Computer Science,3.6,Orinda Conway,3.1,17,N/A,,,,,,,,,,,,,,,,,,,,,68950
+528,1736,Blackhawk Technical College,Communication,4.7,Kedron Wiersgalla,1.8,15,N/A,,,,,,,,,,,,,,,,,,,,,298736
+529,1736,Blackhawk Technical College,Science,3.5,James Stec,4.8,14,N/A,1,,,3,1,,,1,,,2,,,,,2,1,,,1,718380
+530,1736,Blackhawk Technical College,Computer Science,2.3,Jeff Scott,4.5,11,N/A,,,,,,,,,,,,,,,,,,,,,68948
+531,1736,Blackhawk Technical College,Business,1.4,Dave Gile,4.8,11,N/A,,1,,,1,,,,,,,,,,,,,,,,842073
+532,1736,Blackhawk Technical College,Law,1.8,Jody Cooper,4.9,10,N/A,,,,,,,,,,,,,,,,,,,,,323482
+533,1736,Blackhawk Technical College,Marketing,3.2,Cindy Leverenz,3.5,10,N/A,,,,1,,,,3,,,1,2,1,,2,,,,,1,841319
+534,1736,Blackhawk Technical College,Psychology,2.2,Rubina Jan,4.7,10,N/A,,,,3,1,,1,1,,,1,1,,,2,2,,,,1,1479353
+535,1736,Blackhawk Technical College,Management,3.4,Steve Bielefeldt,4.6,8,N/A,,,,,,,,,,,,,,,,,,,,,1380034
+536,1736,Blackhawk Technical College,Business,4.3,Julia-Lavinia Baldiviesio,2.9,8,N/A,,,,,,,,1,,1,,,1,,,1,,1,,2,1698809
+537,1736,Blackhawk Technical College,Communication,3.0,Jason Nado,3.1,7,N/A,,2,,,1,1,,1,,,,1,,4,,1,1,1,,4,1915416
+538,1736,Blackhawk Technical College,Mathematics,4.1,Marshall Mundt,3.1,7,N/A,,,,,1,,,,,,3,,1,6,1,,5,,,3,2062642
+539,1736,Blackhawk Technical College,Business,4.1,Jeffrey Kropp,2.5,7,N/A,1,,,1,,,1,1,,,,,1,4,1,,1,,1,2,2110253
+540,1736,Blackhawk Technical College,Communication,2.8,Sarah Schwartz,3.5,6,N/A,,,,3,,,,2,,,,1,,,,,1,1,,1,1912399
+541,1736,Blackhawk Technical College,Chemistry,3.4,Bruce Hund,4.0,5,N/A,,,,,,,,,,,,,,,,,,,,,1510633
+542,1736,Blackhawk Technical College,Psychology,1.6,Cheryl Harsevoort,5.0,5,N/A,,1,,2,1,,,1,,,,,,,1,2,,,,,1750295
+543,1737,Bladen Community College,History,2.7,Cliff Tyndall,4.3,18,N/A,,,,,,,,,,,,,,,,,,,,1,673787
+544,1737,Bladen Community College,Biology,3.3,Cheston Saunders,5.0,10,100%,3,1,,5,3,2,,3,,1,,2,,2,5,2,,,,,2026343
+545,1737,Bladen Community College,Science,2.0,William Resseguie,4.9,8,N/A,,,,,,,,,,,,,,,,,,,,,438693
+546,1737,Bladen Community College,Communication,2.0,Ann Russell,3.3,8,N/A,,,,,,,,1,,,,,,,1,,,,,1,598460
+547,1737,Bladen Community College,Biology,3.6,John Knechtges,4.6,7,N/A,,1,,,,,,,,,,,,,,1,1,,,,222008
+548,1737,Bladen Community College,Social Science,2.3,Nash Hester,2.9,7,N/A,,,,,,,,,,,,,,1,,,,,,,598458
+549,1737,Bladen Community College,Mathematics,3.2,Robert Herring,3.2,6,N/A,,,,,,,,,,,,,,,,,,,,,222004
+550,1737,Bladen Community College,Computer Science,3.7,Bruce Crocker,2.6,6,N/A,,,,,,,,,,,,,,,,,,,,,222006
+551,1737,Bladen Community College,Psychology,1.3,Diane Walker,4.9,6,N/A,,,,,,,,,,,,,,,,,,,,,222007
+552,1737,Bladen Community College,English,1.8,Ella Jo Sellers,4.9,5,N/A,,,,,,,,,,,,,,,,,,,,,684558
+553,1737,Bladen Community College,Mathematics,1.3,Samatha Pope,5.0,4,N/A,,,,,,,,,,,,,,,,,,,,,438707
+554,1737,Bladen Community College,Computer Science,3.7,Ophelia Munn-Goins,3.7,3,N/A,,,,,,,,1,,,,1,,,,,,,,1,458976
+555,1737,Bladen Community College,Languages,2.7,Mathew Haun,5.0,3,N/A,,,,,,,,,,,,,,,,,,,,,678174
+556,1737,Bladen Community College,Chemistry,3.0,Lisa DeVane,5.0,3,N/A,,1,,1,1,,,,,,,1,,,,1,,,1,,1938779
+557,1737,Bladen Community College,Mathematics,2.0,Sharon Autry,4.8,2,N/A,,,,,,,,,,,,,,,,,,,,,853847
+558,1737,Bladen Community College,History,3.5,Ray Sheppard,4.5,2,N/A,,,,,1,,,1,,,,,,,1,,,,,,1546796
+559,1737,Bladen Community College,Biology,2.0,Pamela Locklear-King,5.0,2,N/A,,2,,,,,,1,,,,,,,1,1,1,,,,2110321
+560,1737,Bladen Community College,Criminal Justice,3.0,John Trogdon,5.0,2,N/A,,2,,1,,,,1,,,,,,,,1,,,1,,2196228
+561,1737,Bladen Community College,Psychology,4.5,Jay Watson,3.5,2,N/A,,1,,,,,,,,,,,,,2,1,,,,1,2272316
+562,1737,Bladen Community College,Biology,3.0,Donald Patterson,5.0,2,N/A,1,2,,,,,,1,,,,,,,1,1,,,,,2272320
+563,1738,Everest College,Communication,2.4,Jason Karpf,4.7,5,N/A,,,,1,1,,,1,,,,,,,,,,,,,1710047
+564,1738,Everest College,Medicine,3.7,Aaron Holsworth,4.8,3,N/A,,,,,,,,,,,,,,,,,,,,,1199573
+565,1738,Everest College,Medicine,1.0,Ashleigh Bouziden,5.0,1,N/A,,1,,1,,,,,,,1,,,,,,,,,,1840483
+566,1738,Everest College,Business,2.0,Wayne Peacock,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1875011
+567,1738,Everest College,Business,1.0,Ralph Miller,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1982033
+568,1739,Blinn College,Mathematics & Engineering,4.2,Raul Aparicio,2.3,61,19%,1,,5,1,2,,5,2,3,,,,3,31,,2,18,,4,27,452154
+569,1739,Blinn College,Geology,3.4,Michael Dalman,3.5,59,46%,1,1,,3,4,9,4,2,1,,3,1,5,17,10,1,1,,12,7,323383
+570,1739,Blinn College,History,3.9,Martha Kline,3.1,57,19%,,1,,1,1,,12,3,,,,,1,5,5,,5,5,,15,497212
+571,1739,Blinn College,Government,1.8,Thaddaus Hill,4.5,54,82%,1,5,,2,1,8,,3,1,,11,8,1,,6,7,2,,1,,965417
+572,1739,Blinn College,History,3.1,Carrie Coston,3.5,52,61%,1,5,,3,5,6,18,6,1,,,2,1,7,12,7,5,1,4,13,1331748
+573,1739,Blinn College,History,2.1,Larry Watson,4.0,50,86%,1,1,4,1,8,19,10,11,2,1,2,,3,1,3,,1,,,3,528986
+574,1739,Blinn College,Sociology,1.6,Steve Sebesta,4.6,50,100%,,1,,3,2,1,2,3,2,,5,1,1,4,1,4,2,,,,553057
+575,1739,Blinn College,Political Science,2.4,Lee Brown,3.9,49,N/A,,,,,,,,,,,,,,,,,,,,,42808
+576,1739,Blinn College,History,2.5,Thomas Born,4.3,43,87%,1,8,,1,4,2,7,2,,,8,,2,,3,3,2,,1,7,552216
+577,1739,Blinn College,Philosophy,2.0,Paul Stearns,4.5,43,95%,1,9,,11,7,4,5,20,,,4,6,3,2,10,3,1,,,2,1555625
+578,1739,Blinn College,Literature,2.0,L. Chilton,4.0,39,91%,1,1,,3,1,,5,8,,,4,3,5,1,1,2,,3,,,189495
+579,1739,Blinn College,Psychology,2.5,Larry Thomas,4.4,39,79%,2,3,,2,3,1,7,6,,,7,3,,5,4,6,,2,,3,452153
+580,1739,Blinn College,History,1.8,Ken McCullough,4.0,39,43%,,,,1,,1,3,1,,7,,2,,2,12,,6,,,,517141
+581,1739,Blinn College,Biology,4.1,C Whittaker,2.6,38,N/A,,,,1,,,8,,1,1,,,12,3,,,4,,3,16,435869
+582,1739,Blinn College,Mathematics & Engineering,3.5,Yvette Janecek,3.0,38,27%,,,5,1,2,,,2,,,,1,2,8,3,,3,,3,10,1188074
+583,1739,Blinn College,English,3.1,Jeffery Scott,4.0,37,60%,1,4,4,,2,,4,7,,,,,,,1,1,4,4,,14,169686
+584,1739,Blinn College,English,3.8,Mark Bernier,3.8,35,90%,2,2,,6,,,3,6,,,1,4,1,,5,2,4,6,,9,112414
+585,1739,Blinn College,English,3.2,Amy Winningham,3.7,35,43%,1,,,,,,2,4,,,,,,5,3,,,6,,5,1212564
+586,1739,Blinn College,History,3.4,John Castree,4.0,35,69%,3,3,,,5,1,5,9,,,,,5,1,2,3,10,10,1,14,1877124
+587,1739,Blinn College,Mathematics & Engineering,4.5,Stan Kubicek,2.3,34,60%,4,2,8,3,2,,1,3,,,1,1,2,6,,1,7,,2,10,527056
+588,1740,Blue Mountain Community College,Anthropology,2.4,Linc Debunce,4.0,16,N/A,,,,2,2,,,1,,,,,2,,1,1,,,1,,60133
+589,1740,Blue Mountain Community College,Writing,4.2,Gregg Berlie,2.7,15,N/A,,,,,,,,,,,,,2,,1,,1,,,4,1097115
+590,1740,Blue Mountain Community College,English,3.5,Shaindel Beers,3.0,12,40%,,1,,,,,3,2,,,,,,1,,1,2,1,,5,1543919
+591,1740,Blue Mountain Community College,Mathematics,3.1,Ingrid Larson,4.3,10,N/A,,,2,,,,,,,,,,,1,3,1,2,,,,794368
+592,1740,Blue Mountain Community College,English,4.0,Alison Timmons,3.3,8,N/A,1,,,,,,1,2,,,,,,1,2,1,,1,,5,1774611
+593,1740,Blue Mountain Community College,Social Science,2.7,Tina Martinez,3.8,7,N/A,,,,,,,,,,,,,,,,,,,,1,48662
+594,1740,Blue Mountain Community College,Health Science,2.1,Wells Jones,5.0,7,N/A,,,,,,,,1,,,1,,,,1,,,,,,564277
+595,1740,Blue Mountain Community College,Mathematics,3.7,Bob Hillenbrand,2.6,7,N/A,,,,,,,,,,,,,,,,,,,,,706378
+596,1740,Blue Mountain Community College,Criminal Justice,3.9,Les Balsiger,5.0,7,N/A,,,,,,,,,,,,,,,,,,,,,1040626
+597,1740,Blue Mountain Community College,Communication,2.3,Doug Radke,4.8,6,N/A,,,,1,,,1,1,,,,,,,1,,,,,,60130
+598,1740,Blue Mountain Community College,Mathematics,3.2,Gary Parker,3.6,6,N/A,2,,,,,1,,1,,,,1,,3,,1,,,,2,1906982
+599,1740,Blue Mountain Community College,Computer Science,3.2,Stan Beach,2.6,6,N/A,,,,1,1,,1,2,,,1,,1,,,,,,,3,2021168
+600,1740,Blue Mountain Community College,Graphic Arts,2.0,Micheal Booth,3.3,5,N/A,,,,,1,,,1,,,,1,,,,,2,,,,998062
+601,1740,Blue Mountain Community College,Computer Science,4.4,Pete Hernberg,2.1,5,N/A,,,,,,,,1,1,,,,2,2,,,,1,,4,1906984
+602,1740,Blue Mountain Community College,Mathematics,4.0,Ron Wallace,2.8,4,N/A,,,,,,,,,,,,,,,,,,,,,673288
+603,1740,Blue Mountain Community College,Science,4.2,Michelle Miller,4.3,4,N/A,1,,,,2,1,,1,,,,,2,,,,,,,2,1035120
+604,1740,Blue Mountain Community College,Not Specified,3.5,Jan Hood,3.6,4,N/A,,,,,1,,,,,,,,,,,,,,,1,1138019
+605,1740,Blue Mountain Community College,Music,2.5,Margaret Mayer,4.7,4,N/A,,2,,,1,1,,,,,,2,,,,1,,,,,1475563
+606,1740,Blue Mountain Community College,Engineering,3.0,Anne Marie Hardin,3.1,4,N/A,,,,,,,,1,,,,,,2,1,,1,,,1,2022738
+607,1740,Blue Mountain Community College,Biology,4.3,Mark Peterson,3.8,3,N/A,,,,,,,,,,,,,,,,,,,,,414375
+608,1741,Blue Ridge Community College,History,4.3,Patricia Furnish,2.5,54,N/A,,,,,,,,,,,,,,,,,,,,,100651
+609,1741,Blue Ridge Community College,History,2.4,Russ Foster,3.9,29,N/A,,1,,,,,3,,,,1,,2,,,1,1,1,,,373793
+610,1741,Blue Ridge Community College,Languages,3.1,Kyle Kiser,4.8,28,100%,6,3,,6,,,1,8,,,18,9,,,11,10,9,,,,2205644
+611,1741,Blue Ridge Community College,English,3.0,Katie Winkler,3.1,27,17%,1,,,,,,,,3,,,1,,,1,,,,,4,645167
+612,1741,Blue Ridge Community College,English,3.7,Jennifer Parrack-Rogers,3.8,21,N/A,,,,1,,,1,1,,,1,2,,,,,1,2,,1,814205
+613,1741,Blue Ridge Community College,Mathematics,2.5,David Blevins,4.3,21,60%,1,,,3,,2,,3,,,,,,,1,2,1,,,,862995
+614,1741,Blue Ridge Community College,Mathematics,3.3,Claire Barnett,2.9,19,N/A,,,,,1,,,,,,,,,,,,,,,1,722862
+615,1741,Blue Ridge Community College,English,2.9,Ben Hardy,4.8,19,N/A,,1,,,,,2,3,,,1,,,,2,,,,,,944551
+616,1741,Blue Ridge Community College,Communication,3.7,Jacob Kulp,2.0,18,N/A,,,,,,,1,,,,,,,,,,,1,,1,528536
+617,1741,Blue Ridge Community College,English,2.1,Sam Sonnier,4.7,16,100%,,3,,2,,,,3,,,3,4,,,2,2,,,,,1518696
+618,1741,Blue Ridge Community College,Music,3.3,Kevin Ayesh,3.6,15,N/A,,,,,,,,,,,,,,,,,,,,,100658
+619,1741,Blue Ridge Community College,Science,4.4,Chester Lilly,2.3,14,N/A,,1,,,,,1,,,,,,,,,,,,,1,100656
+620,1741,Blue Ridge Community College,Accounting,4.7,Jana Hosmer,3.1,14,N/A,1,,,,,,1,1,,,,,,3,1,,,,,5,1011882
+621,1741,Blue Ridge Community College,Psychology,3.1,Laurel Krautwurst,4.6,13,N/A,,,,,,,,,,,,,,,,,,,,,454577
+622,1741,Blue Ridge Community College,Languages,2.3,Connie Vera,3.4,13,N/A,,1,,,,,,,,,1,,,1,,,,,1,1,703438
+623,1741,Blue Ridge Community College,English,3.8,Caren Kessler,3.6,13,N/A,,,,,,,,2,,,,,,1,1,1,,,,,1182606
+624,1741,Blue Ridge Community College,Mathematics,2.9,Gayle Snyder,4.2,12,N/A,,,,,,,,,,,,,,,,,,,,,89320
+625,1741,Blue Ridge Community College,Biology,2.5,David Davis,5.0,12,N/A,,,,,,,,,1,,1,,1,,,1,,,,,297393
+626,1741,Blue Ridge Community College,Fine Arts,3.2,Jennifer Treadway,4.6,12,N/A,,,,1,1,,,,,,2,1,,,,1,,,,,731211
+627,1741,Blue Ridge Community College,Mathematics,3.1,Olivia Martin,4.1,12,N/A,2,,,2,2,,,,,,,,,2,,1,,,,1,1211299
+628,1742,Fortis College,Economics,4.5,Bruce McFarling,3.5,2,N/A,,,,,,,,,,,,,,,,,,,,,1236106
+629,1742,Fortis College,English,3.0,Mary Anne Anderson,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1311741
+630,1744,Bossier Parish Community College,Mathematics,2.7,Stacy Black,4.5,73,100%,2,9,,8,,1,,9,,,4,4,,10,4,5,4,,2,2,880591
+631,1744,Bossier Parish Community College,Chemistry,2.2,Kerry McNamara,4.5,70,95%,7,11,,7,4,4,,6,1,,4,2,,6,2,4,4,1,,3,656183
+632,1744,Bossier Parish Community College,History,2.2,Jeff Lynn,4.6,68,90%,,18,,2,1,14,4,1,1,,22,11,5,,2,13,9,,1,1,1113719
+633,1744,Bossier Parish Community College,English,4.0,Jessica Cobbs,2.4,68,24%,1,,1,1,5,3,9,7,1,,,,,6,3,,6,8,4,27,1011694
+634,1744,Bossier Parish Community College,Science,2.5,Vernon Leggett,4.8,56,100%,7,18,,3,7,,,2,2,,,,5,,2,11,12,1,2,2,769633
+635,1744,Bossier Parish Community College,Biology,1.8,Judith Coston,5.0,54,100%,5,5,,14,8,10,3,8,,1,5,5,2,2,5,17,2,,,,707957
+636,1744,Bossier Parish Community College,Biology,3.4,Ty Bryan,3.8,45,86%,2,,,1,1,,2,,1,,4,2,1,,1,,6,,1,4,383364
+637,1744,Bossier Parish Community College,Biology,3.6,Dee Ann Staats,3.0,41,41%,,6,1,,5,,1,2,1,,,,8,1,3,6,18,1,1,7,1616703
+638,1744,Bossier Parish Community College,Psychology,2.0,Dawn Young,3.6,40,53%,1,,,1,3,3,5,1,2,1,1,,,,2,,3,,4,1,864228
+639,1744,Bossier Parish Community College,Mathematics,4.5,Virginia Eaves,2.0,39,N/A,,,,2,,,,,,,,,,1,,,,,1,2,812465
+640,1744,Bossier Parish Community College,Speech,3.1,Rona Leber,3.3,34,50%,,,,,,,1,2,,,,,,1,3,2,1,2,,3,700575
+641,1744,Bossier Parish Community College,Social Science,1.6,Gail Hendrix,4.9,33,N/A,,,,1,,,1,1,,,2,1,,2,3,2,1,,,2,1344285
+642,1744,Bossier Parish Community College,Mathematics,2.6,Michelle Barnickel,3.9,33,56%,,1,2,3,4,1,,6,,,10,1,2,8,2,4,7,2,1,4,1711175
+643,1744,Bossier Parish Community College,Biology,3.4,Bob Boykin,3.7,32,N/A,,1,,,,1,1,1,,,3,,1,1,1,2,2,,,1,819089
+644,1744,Bossier Parish Community College,Biology,3.6,Tara Breeland,3.6,32,N/A,,1,2,1,4,5,2,1,,,,,,1,,,2,,1,1,1451077
+645,1744,Bossier Parish Community College,Biology,4.6,Elaine Cox,3.1,32,N/A,,,,1,2,,,2,,,,,,1,2,,5,,,3,381818
+646,1744,Bossier Parish Community College,Political Science,1.5,Gene Barattini,5.0,31,N/A,,,,2,,,,1,,,,2,,,,1,,,,,331907
+647,1744,Bossier Parish Community College,Biology,3.5,Jamie Adams,2.9,31,50%,2,3,,4,2,2,,2,,3,,1,4,5,5,2,15,,4,12,1864077
+648,1744,Bossier Parish Community College,Criminal Justice,3.2,Dan Cain,4.7,27,N/A,,1,,,,1,1,2,,,,,,2,,2,4,1,1,,206795
+649,1745,Bowling Green State University: Firelands College,Mathematics,2.7,William Huepenbecker,4.0,33,80%,,1,,,2,,,1,,,2,,1,3,2,,3,,,2,351335
+650,1745,Bowling Green State University: Firelands College,Social Science,3.3,Timothy Jurkovac,3.9,31,80%,,5,,,,,,,2,,2,1,2,,,,,,1,3,98511
+651,1745,Bowling Green State University: Firelands College,History,3.3,Michael Kimaid,4.1,28,N/A,,,,,,,2,2,,,,,1,1,1,1,,2,,3,721243
+652,1745,Bowling Green State University: Firelands College,Psychology,2.1,Tammy Ramirez,4.3,27,90%,4,2,,2,9,,,6,,,2,2,2,,2,6,,,,,1389814
+653,1745,Bowling Green State University: Firelands College,Psychology,3.4,Tatiana Panas,4.3,25,89%,3,5,,3,2,1,1,6,,,2,2,1,,1,1,4,,,1,675883
+654,1745,Bowling Green State University: Firelands College,English,1.9,John Moor,4.9,24,N/A,,1,,4,1,,,3,2,,3,,,,1,3,,,,,351333
+655,1745,Bowling Green State University: Firelands College,Sociology,1.9,Julie Didelot,4.5,23,N/A,,1,,2,,,2,1,,2,2,1,1,,6,3,2,1,,,1085089
+656,1745,Bowling Green State University: Firelands College,Philosophy,3.5,Theodore Bach,3.9,23,83%,3,4,,1,2,,11,4,,,1,2,3,,4,3,6,1,,,1747030
+657,1745,Bowling Green State University: Firelands College,Biology,3.1,Tammy May,4.9,22,100%,1,5,1,4,1,6,1,1,,,5,,1,,,2,4,,,3,378803
+658,1745,Bowling Green State University: Firelands College,English,1.6,Jolene Buehrer,4.8,21,N/A,,,,4,3,,1,9,,,,,,,2,2,,,,,404757
+659,1745,Bowling Green State University: Firelands College,Biology,4.4,Seth Gardner,3.0,21,70%,1,,,,,2,2,2,1,,3,,11,,2,2,16,,3,12,1924123
+660,1745,Bowling Green State University: Firelands College,Biology,3.1,Ram Veerapaneni,5.0,21,100%,2,6,,10,4,,,10,,,5,2,,,2,12,,,,1,1924118
+661,1745,Bowling Green State University: Firelands College,Biology,4.0,Christine Genovese,3.8,20,N/A,,1,,,2,,,,1,,1,,1,,3,1,4,,,4,413944
+662,1745,Bowling Green State University: Firelands College,Communication,3.2,Sue Ellen McComas,2.8,19,N/A,,1,1,1,,1,1,4,2,,,2,,1,1,1,,,,,1371179
+663,1745,Bowling Green State University: Firelands College,Mathematics,4.8,Nga-Wai W Liu,1.6,18,N/A,,,,,,,,,,,,,,,,,,,,,657064
+664,1745,Bowling Green State University: Firelands College,Political Science,3.3,Stephanie Walls,4.3,17,88%,2,3,,2,1,,2,4,1,,,,3,3,2,4,6,,,1,1769141
+665,1745,Bowling Green State University: Firelands College,Psychology,3.0,Chris Fluckinger,4.1,16,90%,1,2,,1,1,,2,2,,1,,1,3,5,8,,4,1,,3,1617772
+666,1745,Bowling Green State University: Firelands College,Mathematics,1.9,Brent Fox,4.1,15,N/A,,,,1,,,,1,,,,,,,,1,,,,,572188
+667,1745,Bowling Green State University: Firelands College,Psychology,3.0,Chris Mruk,4.7,15,N/A,1,2,,1,1,,,1,1,,1,1,,,2,2,2,,,,771396
+668,1745,Bowling Green State University: Firelands College,Languages,2.2,Leonel Carrillo,4.7,15,100%,1,1,,2,3,,,7,,1,10,1,,1,2,8,,,,,1614548
+669,1746,Bradford School,Computer Science,2.5,Lee Cottrell,4.4,10,N/A,,,,,,,,,1,,,,,1,,,,1,,,683743
+670,1746,Bradford School,Accounting,2.3,Tabitha Hosty,3.5,8,N/A,,,,,,,,1,,,,1,,,,1,,,,,669082
+671,1746,Bradford School,English,2.0,Terri Butler,4.5,5,N/A,,,,,,,,,,,,,,,,,,,,,680055
+672,1746,Bradford School,Management,2.4,Gina Czina,4.4,5,N/A,,,,,,,,,,,,,,,,,,,,,723423
+673,1746,Bradford School,Design,2.7,Donna Painter,5.0,3,N/A,,,,,,,,,,,,,,,,,,,,,677715
+674,1746,Bradford School,Computer Science,1.0,Mike(?) Williams,4.3,3,N/A,,,,,,,,,,,,,,,,,,,,,680060
+675,1746,Bradford School,Culinary Arts,3.0,Geoff Burgess,3.3,2,N/A,,,,,,,,,,,,,,,,,,,,,1524485
+676,1746,Bradford School,Culinary Arts,3.0,Donald Hauck,3.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1524486
+677,1746,Bradford School,Culinary Arts,1.0,Michelle Willoughby,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1524721
+678,1746,Bradford School,Graphic Arts,4.0,Lefteris Emmanuel Heretakis,5.0,1,N/A,,,,,,,1,1,,,,,,,,1,,,,,2330305
+679,1747,Bradford School: Pittsburgh,Design,2.7,Sara Tinnick,4.2,21,N/A,,1,,1,,,,,,,,2,,,,2,,,,,1181497
+680,1747,Bradford School: Pittsburgh,Marketing,1.7,Gina Czina,4.2,18,N/A,,,,,,,,,,,,,,,,,,,,,239472
+681,1747,Bradford School: Pittsburgh,Sociology,1.9,Helene Lawson,4.4,7,N/A,,,,,,,,,,,,,,,,,,,,,488946
+682,1747,Bradford School: Pittsburgh,Business,2.8,Donna Painter,3.2,6,N/A,,,,,,,,,,,,,,,,,,,,,830531
+683,1747,Bradford School: Pittsburgh,Hospitality,2.0,Marisa Boff,4.1,5,N/A,,,,,,,,,,,,,,,,,,,,,1030645
+684,1747,Bradford School: Pittsburgh,Law,2.3,John Nuzum,4.7,3,N/A,,,,,,,,,,,,,,,,,,,,,1416221
+685,1747,Bradford School: Pittsburgh,Sociology,1.5,Keary Rouff,4.3,2,N/A,,,,,,,,,,,,,,,,,,,,,972103
+686,1747,Bradford School: Pittsburgh,History,4.5,Marvin Thomas,2.5,2,N/A,,,,,,,,,,,,,,,,,,,,,1186975
+687,1747,Bradford School: Pittsburgh,Business,3.0,Lisa Johns,3.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1325822
+688,1747,Bradford School: Pittsburgh,Medicine,3.0,Cynthia Boles,5.0,2,N/A,,,,1,,,,2,,,,,,,1,1,1,,,,1814240
+689,1747,Bradford School: Pittsburgh,Writing,3.5,Beth Farnsworth,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1868713
+690,1747,Bradford School: Pittsburgh,Medicine,4.0,Natalie Burke,5.0,1,N/A,,,,1,,,,,,,1,,,,,1,,,,,2077852
+691,1747,Bradford School: Pittsburgh,Design,4.0,Richard Coble,5.0,1,N/A,,,,,,,,1,,,,,,,,1,,,,1,2235493
+692,1748,Art Institute of York,Design,3.6,Shane Stehman,4.2,17,N/A,,,,,,,,,,,,,,,,,,,,,692464
+693,1748,Art Institute of York,Graphic Arts,3.2,Robert Buchanan,3.4,13,N/A,,,,,,,,,,,,,,,,,1,,,,677757
+694,1748,Art Institute of York,Design,3.7,Ebe Gordon,4.3,12,N/A,,,,,,,,1,,,1,,,,1,,,,,,657688
+695,1748,Art Institute of York,Design,3.4,Mike Klinedinst,2.5,9,N/A,,,,,,,,,,,,,,1,,,,,,1,657635
+696,1748,Art Institute of York,Graphic Arts,3.0,Tom Notarangelo,4.9,8,N/A,,,,,,,,1,,,,1,,,,,,,,,677762
+697,1748,Art Institute of York,Drawing,3.2,Darren Jordan,3.2,6,N/A,,,,,,,,,,,,,1,,,,1,,,1,1552574
+698,1748,Art Institute of York,Marketing,1.8,Matt Feeser,3.7,5,N/A,,,,,,,,1,,,,1,,,,1,,,,,657715
+699,1748,Art Institute of York,Psychology,1.4,Goodwin Michelle,4.6,5,N/A,,,,,,,,,,,,,,,,,,,,,678099
+700,1748,Art Institute of York,Communication,1.6,George Rutledge,2.2,5,N/A,,,,,,,,,,,,,,,,,,,,,731932
+701,1748,Art Institute of York,Web Design,2.4,Dominique Jordan-Tosh,4.2,5,N/A,,,,,,,,2,,,,,,,,2,,,,,1747999
+702,1748,Art Institute of York,Design,2.3,Dennis Kushner,4.9,4,N/A,,,,,,,,,,,,,,,,,,,,,775797
+703,1748,Art Institute of York,Design,3.3,Ora Bentz,4.7,3,N/A,,,,,,,,,,,,,,,,,,,,,488348
+704,1748,Art Institute of York,Design,4.7,Ed Kahler,5.0,3,N/A,,,,,,,,,,,,,,,,,,,,,657667
+705,1748,Art Institute of York,Graphic Arts,2.3,Roger Petersen,4.0,3,N/A,,,,,,,,,,,,,,,,,,,,,692470
+706,1748,Art Institute of York,Design,4.3,Matt Quickel,4.2,3,N/A,,,,1,,,,1,,,,1,,,,,,,,,692472
+707,1748,Art Institute of York,Design,2.7,Phillip Smith,3.2,3,N/A,,1,,,,,1,,,,1,,,,,,,,,,1095300
+708,1748,Art Institute of York,Design,2.0,Sally Hawthorne,4.8,2,N/A,,,,,,,,,,,,,,,,,,,,,692465
+709,1748,Art Institute of York,Design,3.5,Beverly Harkins,3.0,2,N/A,,,,,,,,,,,,,,,,,,,,,702365
+710,1748,Art Institute of York,Digital Arts,4.0,Will Guntrum,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,909666
+711,1748,Art Institute of York,Digital Arts,3.0,Patrick Niebrugge,4.5,2,N/A,,,,,,,,,,,,,,,,,,,,,1478651
+712,1749,Bramson ORT College,Design,1.8,Bentsion Janashvili,4.8,13,N/A,,6,,,,1,,4,,,1,5,,,3,1,,,,,1711228
+713,1749,Bramson ORT College,Mathematics,2.6,Kevin Ali,4.9,10,N/A,,2,,,,,,1,,,,,,2,1,,2,,,,1794860
+714,1749,Bramson ORT College,Psychology,2.3,Nurit Sharon,4.6,7,N/A,,,,,,,,,,,,,,,,,,,,,542045
+715,1749,Bramson ORT College,Accounting,4.2,Tack Chu,4.7,5,N/A,,,,1,,,,1,,,,,,,,,,,,,1777032
+716,1749,Bramson ORT College,Biology,1.6,Kristina Deda,5.0,5,N/A,,2,1,2,,1,,2,,1,,2,,1,1,2,,,,,2101137
+717,1749,Bramson ORT College,Medicine,1.8,Emil Asdurian,4.5,4,N/A,,1,,,,,,1,,,1,1,,1,,,,,,,1167989
+718,1749,Bramson ORT College,Computer Science,3.5,Damindra Persaud,3.0,4,N/A,,,,,,,,1,,,,1,,,,1,,,,,1750234
+719,1749,Bramson ORT College,Finance,3.0,Chudi Chiejina,3.8,4,N/A,,,,,,,,,,,,,,,,,,,,,1819392
+720,1749,Bramson ORT College,English,3.7,Nicole Morehouse,3.7,3,N/A,,,,,,,,,,,,,,,,,,,,,1721091
+721,1749,Bramson ORT College,English,3.0,Alice Ghimisian,4.7,3,N/A,,2,,,1,,,1,,,,1,,,1,,,,,,1839082
+722,1749,Bramson ORT College,Medicine,1.3,Orlando Ruiz,4.3,3,N/A,,,,,,,,1,,,,,,,1,1,,,,,1967051
+723,1749,Bramson ORT College,Law,3.7,Robert Greenberg,5.0,3,N/A,1,2,,,,,,,,,1,2,,,,2,,,,,2260367
+724,1749,Bramson ORT College,Accounting,3.5,Michael Cohen,3.8,2,N/A,,,,,,,,,,,,,,,,,,,,,603240
+725,1749,Bramson ORT College,Information Science,2.0,William Wei,4.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1411114
+726,1749,Bramson ORT College,English,4.0,Zack Slavutsky,3.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1573777
+727,1749,Bramson ORT College,Computer Science,1.0,Geffrey Waxman,4.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1726332
+728,1749,Bramson ORT College,History,2.5,Arnold Feinblatt,4.3,2,N/A,,,,,,,,,,,,,,,,,,,,,1804674
+729,1749,Bramson ORT College,Business,1.0,Mitchell Marcus,3.8,2,N/A,,,,,,,,,,,,,,,,,,,,,1819393
+730,1749,Bramson ORT College,Medicine,1.0,Regina Lopez,5.0,2,N/A,,1,,,,,,,,,,1,,,,1,,,,,1885540
+731,1749,Bramson ORT College,Computer Science,2.5,Yelena Yasem,1.5,2,N/A,,,,,,,,,,,,,,,,,,,,,1967061

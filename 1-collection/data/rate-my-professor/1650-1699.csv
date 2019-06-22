@@ -1,0 +1,595 @@
+,campus_id,campus_name,dept,difficulty,name,quality,rating_count,retake,tag_accessibleoutsideclass,tag_amazinglectures,tag_bewareofpopquizzes,tag_caring,tag_cleargradingcriteria,tag_extracredit,tag_getreadytoread,tag_givesgoodfeedback,tag_gradedbyfewthings,tag_groupprojects,tag_hilarious,tag_inspirational,tag_lectureheavy,tag_lotsofhomework,tag_participationmatters,tag_respected,tag_skipclassyouwon'tpass,tag_somanypapers,tag_testheavy,tag_toughgrader,tid
+0,1650,Allegany College of Maryland,Psychology,3.3,Kurt Hoffman,3.9,31,N/A,,2,,,,1,,1,,,1,,,1,1,1,,,,1,622074
+1,1650,Allegany College of Maryland,Psychology,2.8,Rick Layman,2.5,29,N/A,,,,,1,3,4,,1,,,,2,,1,,1,,,,104624
+2,1650,Allegany College of Maryland,Mathematics,4.1,Don Robinson,2.3,28,N/A,,,,,1,,,,,,,,,1,,,,,,1,346566
+3,1650,Allegany College of Maryland,English,4.4,Lynn Bowman,2.3,28,17%,1,,,,1,,1,,,4,,1,1,3,3,,10,4,,10,1105061
+4,1650,Allegany College of Maryland,Computer Science,2.6,Dennis Buskirk,3.9,24,N/A,,,,2,2,1,,1,,,1,,,,,,,,,,269549
+5,1650,Allegany College of Maryland,Physics,3.1,Betty A'Hearn,2.9,21,N/A,,,,,,,,,,1,,,,,,,2,,,2,814330
+6,1650,Allegany College of Maryland,English,1.3,Dudley Brown,3.8,16,N/A,,,,,,,,,,,,,,,,,,,,,233885
+7,1650,Allegany College of Maryland,English,2.1,Ron Jenkins,4.5,15,N/A,1,4,,1,1,,3,5,1,,1,1,1,1,1,1,3,2,,1,1179834
+8,1650,Allegany College of Maryland,Mathematics,2.1,Stacey Boggs,4.3,14,N/A,,,,,,,,,,,,,,1,1,1,,,,,720859
+9,1650,Allegany College of Maryland,Mathematics,3.1,Mark Shore,3.3,13,N/A,,,,,,,,,,,,,1,,1,,2,,1,2,533347
+10,1650,Allegany College of Maryland,Not Specified,3.5,Steve Fairgieve,3.5,13,N/A,,,,1,,1,,,,,,,,,,,,,,,562446
+11,1650,Allegany College of Maryland,Fine Arts,1.8,Robyn Price,4.7,12,N/A,,,,,,1,,,,,,,,,1,,,,,,86669
+12,1650,Allegany College of Maryland,Chemistry,2.3,James Stickler,3.9,12,N/A,,,,,,,,,,,,,,1,,,,,,,784548
+13,1650,Allegany College of Maryland,Education,2.0,Bev Wilcox,4.6,11,N/A,,,,,,,,1,,,,,,,1,,1,,,,24906
+14,1650,Allegany College of Maryland,Psychology,2.3,Frank Hagar,3.1,11,N/A,,,,,,,,,,,,,,,,,,,,,465251
+15,1650,Allegany College of Maryland,Biology,4.1,Tim Turner,3.3,11,N/A,,,,,1,,,,1,,,,4,,,1,4,,1,3,1391017
+16,1650,Allegany College of Maryland,Medicine,2.2,William Rocks,4.2,10,N/A,,,,,,,1,1,,,,,,,,,,,,,301332
+17,1650,Allegany College of Maryland,Philosophy,3.5,Jim Zamagias,3.5,10,N/A,,,,,,,,,,,,,,,,,,,,,346567
+18,1650,Allegany College of Maryland,Computer Science,1.8,Jim House,4.8,10,N/A,1,,,1,1,,,2,,,,,,,,,,,,,501289
+19,1650,Allegany College of Maryland,Sociology,2.5,Linda Zajdel,4.5,10,N/A,,,,,,,,,,,,,,,,,,,,,559421
+20,1651,Allen Community College,Agriculture,2.8,Phillip Reilly,4.0,32,94%,16,,,2,13,17,2,16,,,,,,3,4,5,,,3,,1318564
+21,1651,Allen Community College,Mathematics,2.9,Steve Sodergren,4.8,29,N/A,,4,,,3,2,,1,,,4,2,,1,,,1,,,,139108
+22,1651,Allen Community College,English,3.9,Jeffery Fouquet,4.6,25,N/A,,,,,,,,,,,,,,,,,,,,,1057794
+23,1651,Allen Community College,History,2.2,Steven Dodson,4.8,21,100%,1,5,,3,1,,,,2,,,2,1,,,4,1,,1,,139112
+24,1651,Allen Community College,Biology,4.0,Sondra Dubowsky,2.1,19,N/A,,,,,,,,,,,,,,,,,,,,,446670
+25,1651,Allen Community College,History,2.8,Jonathan Wells,4.7,19,N/A,,2,,1,,,,1,,,2,1,,,,,,,,,1203066
+26,1651,Allen Community College,English,2.6,Julie Gifford,3.9,14,N/A,,,,,,,,,,,,,,,,,,,,,139117
+27,1651,Allen Community College,Physics,3.6,Les Thomas,3.0,10,N/A,,,,,,,1,,,,,,,,,,,,,1,357527
+28,1651,Allen Community College,Psychology,2.5,Jeff Cox,4.0,10,N/A,,,,,,,1,,,,,,,,1,,,,,,655338
+29,1651,Allen Community College,English,4.7,Susan McKinnis,2.4,9,N/A,,,,,,,1,,,,,,1,,,,,,,1,709181
+30,1651,Allen Community College,Communication,2.8,Terri Piazza,4.6,9,100%,,1,,3,2,,,6,,1,2,4,,,4,4,,,,,2257366
+31,1651,Allen Community College,Mathematics,3.8,Karen McKarnin,2.0,8,N/A,,,,1,,,,1,,,,,,,,,1,,,1,935883
+32,1651,Allen Community College,Biology,4.0,Terry Callendar,2.3,8,N/A,,,,,,,,,,,,,1,,,,3,,,3,1318603
+33,1651,Allen Community College,Mathematics,2.6,Doug Joseph,3.8,7,N/A,,,,,1,,,,,1,,,,1,,,,,,,862584
+34,1651,Allen Community College,Communication,2.0,Adam Jenkins,4.8,7,N/A,,,,1,2,,,2,,,,,,,1,,,,,,1318434
+35,1651,Allen Community College,Biology,3.1,Debra Erikson,4.8,7,N/A,,,,3,1,,,3,,,,2,,,,,,,,,1318475
+36,1651,Allen Community College,Psychology,1.4,Tracey Sypher,3.4,7,40%,,,2,1,,1,,,,,1,,1,,1,1,,,,,1318609
+37,1651,Allen Community College,Physics,3.1,Yadav Pandit,3.9,7,71%,2,1,,,2,1,1,3,,,,,,3,3,,1,1,,,2185436
+38,1651,Allen Community College,Agriculture,2.3,Terry Powelson,3.8,6,N/A,,,,1,,,,,,,1,,,,,1,,,,,298620
+39,1651,Allen Community College,Computer Science,2.8,Mike Higgins,4.2,5,N/A,,,,,,,,,,,,,,,,,,,,,139098
+40,1652,LeHigh Valley College,Chiropractic Education,3.5,Robert Blum,4.3,13,N/A,,7,,1,1,,2,2,,,3,1,,,,5,3,,,5,1587519
+41,1652,LeHigh Valley College,Accounting,3.9,Mansour Farhat,4.4,7,N/A,,,,,,,,,,,,,,,,,,,,,539862
+42,1652,LeHigh Valley College,Psychology,2.6,Lorry Bradley,4.9,7,N/A,,,,,,,,,,,,,,,,,,,,,705538
+43,1652,LeHigh Valley College,Criminal Justice,4.2,Richard Kipp,4.8,5,N/A,,,,1,,,,,,,,,,,,,1,,,,849311
+44,1652,LeHigh Valley College,Graphic Arts,4.3,Joshua Miller,4.7,3,N/A,,,,,,,,,,,,,,,,,,,,,782188
+45,1652,LeHigh Valley College,Medicine,2.5,Mary Brinker,4.8,2,N/A,,1,,,,,,,,,,1,,,1,,,,,,707413
+46,1654,Alpena Community College,English,2.3,Priscilla Homola,2.6,31,N/A,,,,,,,2,,,,,,,1,,,,,,,35803
+47,1654,Alpena Community College,English,1.9,Shawn Sexton,4.2,27,N/A,1,,,1,,,,2,,,,,,,1,,,,,,202647
+48,1654,Alpena Community College,Science,3.7,John Bellows,4.0,25,N/A,1,1,,2,,,1,1,,,4,,,,1,3,1,,,,35810
+49,1654,Alpena Community College,Science,2.7,Deborah Hautau,3.9,19,N/A,,,,,1,,,,,,,,1,,,,,,,,35808
+50,1654,Alpena Community College,History,2.8,Matt Dunckel,3.3,19,N/A,,2,,1,1,,4,1,,,,,2,,1,,4,,,,37219
+51,1654,Alpena Community College,English,2.9,Denise Bazzett,4.0,17,N/A,,,,,,,,,,,,,,,,,,,,,156269
+52,1654,Alpena Community College,Psychology,2.5,Amber McLarney-Vesotski,4.6,17,N/A,,,,2,2,1,,,,,1,2,,1,2,1,,,,,479090
+53,1654,Alpena Community College,Computer Science,3.0,Dan Tuuri,4.7,16,N/A,,,,,,,,,,,,,,,,,,,,1,1246464
+54,1654,Alpena Community College,Science,3.9,Mark Milostan,3.0,15,N/A,,,,,,,1,,,,,,,,,,,,,1,35809
+55,1654,Alpena Community College,Education,3.5,Josephine Bitler,3.9,15,N/A,,,,1,,,,1,,,,,,,1,,,,,,1246935
+56,1654,Alpena Community College,Mathematics,2.9,Thomas Gougeon,4.7,14,N/A,,1,,1,,,,,,,,,,,,,1,,,,35812
+57,1654,Alpena Community College,Science,2.1,Kendall Summerix,4.5,11,N/A,,2,,1,,,,,,,2,,,,,1,,,,,37222
+58,1654,Alpena Community College,History,3.3,Kuehnlein Timothy,4.3,11,N/A,,1,,1,3,1,,2,,,1,1,1,,1,1,2,1,,,708682
+59,1654,Alpena Community College,Mathematics,2.4,Jim Berles,4.8,11,N/A,,,,,1,,,2,,,,1,,2,,2,,,,,1193262
+60,1654,Alpena Community College,Mathematics,2.2,Michael Kelley,4.6,11,N/A,,,,1,,,,,1,,2,,,,,2,1,,,,1193273
+61,1654,Alpena Community College,English,2.5,Karol Walchak,4.8,11,N/A,,,,1,,1,,,,3,,,,,3,,1,,,,1506139
+62,1654,Alpena Community College,Communication,2.0,Nan Hall,4.5,10,N/A,,,,,,,,,,,,,,,,,,,,,35807
+63,1654,Alpena Community College,Mathematics,1.9,Steven Lewis,4.8,10,N/A,,,,1,,,,,,,,1,,,,1,,,,,37221
+64,1654,Alpena Community College,Fine Arts,3.1,Laurie Wade,4.4,9,N/A,,,,,,,,2,,,,1,,,2,2,1,,,,71104
+65,1654,Alpena Community College,Humanities,3.0,Terry Hall,3.4,9,N/A,,,,,,,,,,,,,,,,,,,,,357128
+66,1656,Alvin Community College,Political Science,3.0,Kevin Jefferies,3.3,87,60%,3,1,1,,6,,28,4,1,1,3,,12,19,4,3,,2,2,13,772045
+67,1656,Alvin Community College,Biology,3.3,John Matula,4.5,83,85%,1,11,,10,5,,,5,,,13,1,,2,5,6,6,,1,6,720492
+68,1656,Alvin Community College,History,3.2,Johanna Hume,4.5,76,95%,5,11,1,2,10,,17,9,,,4,1,2,1,1,5,7,,2,2,241330
+69,1656,Alvin Community College,Speech,2.4,"William ""Bill"" Waggoner",4.7,66,100%,1,10,,,2,1,3,14,3,,16,3,,,2,13,2,,,4,1217704
+70,1656,Alvin Community College,Psychology,1.5,Tonya Creel,4.8,64,100%,,12,,6,4,1,3,7,,,10,4,1,,3,12,,1,1,,82237
+71,1656,Alvin Community College,History,3.5,Andrew Joseph Pegoda,4.3,62,91%,,8,1,12,3,2,39,16,,1,,4,1,19,28,7,5,6,,9,1916018
+72,1656,Alvin Community College,Music,2.7,Chad Robinson,4.5,62,95%,6,13,,6,12,26,12,20,5,,5,3,10,,9,19,17,,2,2,2199317
+73,1656,Alvin Community College,English,2.2,Gilbert Benton,4.8,58,N/A,,,,,,,,,,,,,,,,,,,,,156751
+74,1656,Alvin Community College,Speech,3.2,Earnest Burnett,3.5,57,42%,,,,,2,2,,2,,3,1,,3,,7,1,11,,,11,874574
+75,1656,Alvin Community College,Economics,2.4,Gregory Roof,4.5,55,N/A,,5,,2,1,2,,,,,6,1,,,,2,5,,,1,244855
+76,1656,Alvin Community College,Mathematics,3.6,Charles Kilgore,3.0,53,46%,2,2,,1,2,,3,3,,,3,,3,4,,2,7,,4,6,241324
+77,1656,Alvin Community College,Mathematics,2.8,Ralph Best,3.5,51,71%,1,1,3,2,3,,1,1,1,,,,3,7,3,2,7,,1,3,757458
+78,1656,Alvin Community College,Mathematics,3.5,Deanna Dick,3.3,51,62%,2,2,1,2,3,,,3,1,,,,2,5,3,1,,1,4,1,201701
+79,1656,Alvin Community College,History,2.6,Chris Chance,3.5,50,83%,2,,,1,1,1,5,2,,,,,2,1,2,,2,,,1,997616
+80,1656,Alvin Community College,English,4.0,Linda Matteson,2.0,48,17%,1,1,1,,,,,4,1,,,,4,5,1,,8,6,,16,721340
+81,1656,Alvin Community College,Mathematics,2.9,James Boler,3.7,45,83%,5,,,1,4,,,5,4,,,1,6,1,4,2,4,,,1,239828
+82,1656,Alvin Community College,Economics,3.7,Tim Reynolds,2.5,44,83%,2,,,,3,,5,2,,,,,2,2,,,,1,1,1,399614
+83,1656,Alvin Community College,English,4.4,Bea Hugetz,2.2,41,10%,1,,1,,,,2,1,,,,,1,11,,,4,7,1,13,390981
+84,1656,Alvin Community College,Psychology,3.5,Nancy Lobb,3.1,41,46%,,2,,,2,2,10,4,1,,1,1,1,3,2,1,3,,5,8,435764
+85,1656,Alvin Community College,Psychology,1.9,Jean Raniseski,4.8,40,100%,1,2,1,2,,2,2,4,,,5,4,,,2,1,1,,,,156765
+86,1657,Amarillo College,Biology,4.3,Michael Kopenits,4.3,40,86%,1,3,,4,1,1,1,2,,,6,2,3,1,1,4,10,,3,5,463549
+87,1657,Amarillo College,Biology,3.0,Rekha Yesudas,4.9,35,N/A,,,,,,,,,,,,,,,,,,,,,1600979
+88,1657,Amarillo College,History,3.2,James Powell,4.0,34,N/A,,,,,1,,2,2,,,1,,,,1,1,,,,,99615
+89,1657,Amarillo College,Political Science,2.2,Brian Farmer,4.5,33,100%,1,2,,1,,2,3,1,,,5,,2,1,1,4,5,,,1,155131
+90,1657,Amarillo College,Psychology,2.4,Deborah Harding,4.5,29,83%,,2,,5,2,4,5,4,,,3,6,1,1,,2,2,,,1,1105585
+91,1657,Amarillo College,English,3.9,Mary Dodson,3.0,28,N/A,1,,,1,,,1,1,,,,,,2,1,,,1,,3,157986
+92,1657,Amarillo College,Biology,3.2,Robert Bauman,4.4,28,100%,2,7,,1,2,1,,,,,6,1,,,1,6,2,,,,682731
+93,1657,Amarillo College,History,2.7,Larry Adams,3.8,27,N/A,,,,2,3,,9,,,1,,,1,1,4,1,,,,5,136439
+94,1657,Amarillo College,Biology,3.1,Samuel Schwarzlose,4.7,24,100%,2,5,,6,,,,1,,,8,,,,4,4,6,,,1,1133319
+95,1657,Amarillo College,Communication,1.2,Lynae Jacob,4.8,21,N/A,,1,,3,,,,2,,,2,1,,,2,2,,,,,149311
+96,1657,Amarillo College,Mathematics,2.0,E. Carter,4.8,20,N/A,,,,2,,,,1,,,,1,,,,2,,,,,136386
+97,1657,Amarillo College,Economics,3.5,Steven Beckham,2.2,20,N/A,,,,,,,3,,1,1,,,1,1,,,,,,5,209735
+98,1657,Amarillo College,Mathematics,4.2,Tammy Holmes,3.5,19,100%,2,,,3,1,1,1,3,,,4,1,1,4,2,,6,,1,4,1566482
+99,1657,Amarillo College,Mathematics,2.5,Tara Meraz,4.8,19,100%,1,1,,6,3,1,,5,,,7,8,1,3,1,2,5,,,1,1941769
+100,1657,Amarillo College,Biology,2.7,Tiffany Lamb,4.3,19,90%,,1,,,,9,2,2,,1,8,,,,,2,6,,,1,1470887
+101,1657,Amarillo College,Biology,4.1,Junior Gonzales,4.1,18,83%,,2,1,1,6,1,,,,,1,1,1,,1,,7,,,4,463547
+102,1657,Amarillo College,Biology,3.7,Claudie Biggers,4.5,18,60%,,1,,1,,,,1,,,2,1,,2,,2,1,,2,1,614639
+103,1657,Amarillo College,Computer Science,2.2,Mark Usnick,4.9,17,N/A,3,5,,2,,,,3,,,2,1,,3,1,4,,,,1,674099
+104,1657,Amarillo College,English,4.2,Theresa Da Costa,2.1,17,18%,,,1,,1,3,1,,,,,1,,2,2,,5,1,,6,1170129
+105,1657,Amarillo College,Mathematics,3.4,Shannon Cornell,4.6,16,80%,1,3,,4,1,,,3,,,,,,1,,2,,1,,2,146197
+106,1658,American Academy of Dramatic Arts,Theater,3.8,Jackie Bartone,3.8,33,N/A,,,,,,,,,,,,,,,,,,,,,436152
+107,1658,American Academy of Dramatic Arts,Communication,3.5,Jim Demonic,4.0,31,N/A,,,,1,,,,1,,,,,,1,1,,1,,,1,428093
+108,1658,American Academy of Dramatic Arts,Theater,4.0,Jackie Solotar,2.2,22,N/A,,,,1,,,,2,,,1,,,1,1,,,,,1,1118067
+109,1658,American Academy of Dramatic Arts,Theater,3.3,Todd Peters,4.1,21,N/A,,1,,2,,,,,,,1,2,,,,,,,,,428090
+110,1658,American Academy of Dramatic Arts,Theater,2.9,Janis Powell,3.7,16,N/A,1,,,1,,,,3,,,,1,,2,,2,,,,1,439424
+111,1658,American Academy of Dramatic Arts,Theater,3.9,Barbara Rubin,3.1,8,N/A,,,,,,,,,,,,,,,,,,,,,1064525
+112,1658,American Academy of Dramatic Arts,Theater,3.5,Susan Pilar,5.0,8,N/A,,,,2,,,,4,,,,4,,,1,1,,,,,1546668
+113,1658,American Academy of Dramatic Arts,Theater,3.8,Robert Tunstall,4.8,6,N/A,,,,,,,,1,,,,,,,1,,1,,,,1118068
+114,1658,American Academy of Dramatic Arts,Not Specified,2.3,Burke Pearson,4.5,6,N/A,,,,,,,,1,,,,,,,1,,,,,,1249539
+115,1658,American Academy of Dramatic Arts,Theater,2.3,Chris Dolman,3.4,6,N/A,1,,,1,,,,,,,,,2,,,1,,,,,1376510
+116,1658,American Academy of Dramatic Arts,Music,1.5,John Baylis,4.3,4,N/A,,,,,,,,,,,,,,,,,,,,,428095
+117,1658,American Academy of Dramatic Arts,Theater,4.3,Heather Benton,4.9,4,N/A,,,,,,,,,,,,,,,,,,,,,1417375
+118,1658,American Academy of Dramatic Arts,Music,2.5,Jennifer Solos,4.8,4,N/A,,,,1,,,,,,,,,,,1,1,,,,,1859791
+119,1658,American Academy of Dramatic Arts,Theater,4.3,Craig Mathers,3.7,3,N/A,,,,,,,,,,,,,,,,,,,,,955423
+120,1658,American Academy of Dramatic Arts,Theater,4.7,Steven Ditmyer,4.8,3,N/A,,,,,,,,,,,,,,,,,,,,,1619278
+121,1658,American Academy of Dramatic Arts,Physical Education,4.0,Angela Nahigian,3.0,1,N/A,,,,,,,,,,,,,,,,,1,,,1,1970328
+122,1659,American Academy of Dramatic Arts,Theater,3.8,Judith Bohannon,4.8,13,N/A,,,,1,,,,2,,,,1,,1,1,2,,,,1,268802
+123,1659,American Academy of Dramatic Arts,Theater,3.2,Karen Hensel,4.8,10,N/A,,,,1,,,,,,,1,1,,,,,,,,,393859
+124,1659,American Academy of Dramatic Arts,Theater,3.7,Kennedy Brown,3.9,6,N/A,,,,,,,,,,,,,,,,,,,,,570451
+125,1659,American Academy of Dramatic Arts,Theater,2.2,Brenda Beck,3.7,5,N/A,,,,,,,,,,,,,,,,,,,,,634886
+126,1659,American Academy of Dramatic Arts,Theater,4.0,Linda Brennan,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1481618
+127,1660,American Commercial College,Mathematics,1.0,Joel Owidi,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1704108
+128,1661,AIB College of Business,Business,1.6,Lynn Clark,4.5,11,N/A,,,,,,,,,,,,,,,,,,,,,16305
+129,1661,AIB College of Business,Accounting,4.3,Larry Murphy,4.0,9,N/A,,,,,,,1,,,,,,,,1,1,,,,,522451
+130,1661,AIB College of Business,Political Science,3.1,Rick Kotz,4.0,7,N/A,,,,,,,,,,,,,,,,,,,,,367629
+131,1661,AIB College of Business,English,3.4,Dianne Leonard,2.6,7,N/A,,,,,,,,,,,,,,,,,,,,,689223
+132,1661,AIB College of Business,Literature,4.0,Anna Jordal,2.9,5,N/A,,,,,,,,1,,,,,,1,,1,,1,,,1840752
+133,1661,AIB College of Business,Mathematics,3.8,Jim Broussard,4.0,4,N/A,,,,,,,,,,,,,,,,,,,,,1045474
+134,1661,AIB College of Business,Accounting,2.7,Kelly Swinton,4.8,3,N/A,,,,,,,,,,,,,,,,,,,,,1512157
+135,1661,AIB College of Business,Business,1.5,Ann Wright,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1444590
+136,1661,AIB College of Business,Accounting,1.5,Amanda Daugherty,4.3,2,N/A,,,,,,,,,,,,,,,,,,,,,1447734
+137,1661,AIB College of Business,Not Specified,1.5,Erika Inglett,4.8,2,N/A,,,,,,,,,,,,,,,,,,,,,1724699
+138,1661,AIB College of Business,Law,2.0,David Steward,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1832845
+139,1661,AIB College of Business,Business,3.0,Deb Douglass,4.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1877179
+140,1661,AIB College of Business,Business,2.0,Gregg Johnson,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1538083
+141,1661,AIB College of Business,Management,1.0,Patti Ziegler,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1832844
+142,1661,AIB College of Business,Computer Science,3.0,Ann Carrothers,3.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1875866
+143,1661,AIB College of Business,Communication,3.0,Raymond Fredregill,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1979133
+144,1664,Ancilla College,Computer Science,1.8,George Schaefer,4.3,19,N/A,,,,,,,,,,,,,,,,,,,,,126985
+145,1664,Ancilla College,Science,3.4,Kristin Korcha,4.8,9,N/A,,1,,,,,1,3,,1,,,,,,1,2,1,,,951467
+146,1664,Ancilla College,Mathematics,3.3,Marie Gandy,3.8,8,N/A,,,,,,,,,,,,,,,,,,,,,127960
+147,1664,Ancilla College,Humanities,1.9,Cynthia Cawthon,4.8,7,N/A,,,,,,,,,,,,,,,,,,,,,126823
+148,1664,Ancilla College,Science,2.3,Dr. Charles Lafrance,3.9,7,N/A,,,,,,,,,,,,,,,,,,,,,128004
+149,1664,Ancilla College,Science,2.8,John Fogl,4.6,5,N/A,,,,,,,,,,,,,,,,1,1,,,1,126976
+150,1664,Ancilla College,Business,2.0,Jeev Trika,4.5,5,N/A,,,,,,,,,,,,,,,,,,,,,146662
+151,1664,Ancilla College,Sociology,2.6,Sam Soliman,4.0,5,N/A,,,,1,,,,,,,1,,,,1,1,,,,,1700546
+152,1664,Ancilla College,Computer Science,3.3,Diane Endres,3.2,3,N/A,,,,,,1,,,,,,,,1,,,,,,,951471
+153,1664,Ancilla College,Sociology,3.3,Amanda Hirsch,4.8,3,N/A,,,,,1,,,2,,,,,,,,2,,,,,951477
+154,1664,Ancilla College,Criminal Justice,1.3,Steve Vanderaa,4.3,3,N/A,,,,,,1,,,,,1,,,,,,,,,,1506982
+155,1664,Ancilla College,Business,3.0,John Gough,3.8,2,N/A,,,,,,,,,,,,,,,,,,,,,128035
+156,1664,Ancilla College,Psychology,4.0,Bobby Jones,4.0,2,N/A,,,,,,,,,,,,,,,,,,,,,951480
+157,1664,Ancilla College,Nursing,3.5,Joyce Palmateer,4.5,2,N/A,,,,,,,,,,,,,,,,,,,,,951486
+158,1664,Ancilla College,Biology,3.0,Kristy Banks,4.8,2,N/A,,,,,1,,1,,,,,,,,,1,,,,,1976604
+159,1664,Ancilla College,Computer Science,3.0,Curt Feece,4.0,1,N/A,,,,,,,,,,,,,,,,,,,,,127445
+160,1664,Ancilla College,Nursing,5.0,Patricia Bawcum,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,951469
+161,1664,Ancilla College,Mathematics,3.0,Alan Bunner,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,951470
+162,1664,Ancilla College,Music,1.0,Diana Ford,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,951473
+163,1664,Ancilla College,Mathematics,2.0,Ron Harmia,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1279534
+164,1665,Kaplan University South Portland Campus,Law,3.3,Darren Defoe,3.9,10,N/A,,,,,,,,,,,,,,,,,,,,,809834
+165,1665,Kaplan University South Portland Campus,English,3.5,Kimberly Rowe,5.0,4,N/A,,,,,,,,,,,,,,,,,,,,,1163590
+166,1665,Kaplan University South Portland Campus,Health Science,3.7,Bruno Salazar-Perea,5.0,3,N/A,,1,,1,,,,1,,,1,1,,,,1,,,,,2125392
+167,1665,Kaplan University South Portland Campus,Law,3.5,Barbara Ricker,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,987095
+168,1665,Kaplan University South Portland Campus,Business,1.5,Richard Carter,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1287855
+169,1665,Kaplan University South Portland Campus,Social Science,2.0,Rachel Rumson,3.3,2,N/A,,,,,,,,,,,,,,,,,,,,,1571399
+170,1665,Kaplan University South Portland Campus,English,1.0,Gerald Henry,4.0,1,N/A,,,,,,,,,,,,,,,,,,,,,418515
+171,1665,Kaplan University South Portland Campus,English,5.0,Langston Snodgrass,1.0,1,N/A,,,,,,,,,,,,,,,,,,,,,748382
+172,1665,Kaplan University South Portland Campus,Accounting,4.0,David Levenstam,3.0,1,N/A,,,,,,,,,,,,,,1,1,,,,,1,2156292
+173,1666,Andrew College,Psychology,3.9,Sherri Taylor,2.9,9,N/A,,,,,,,,,,,,,,,,,,,,,507906
+174,1666,Andrew College,Music,4.4,Vaughn Roste,1.9,7,N/A,,,,,,,,,,,,,,,,,,,,,667505
+175,1666,Andrew College,Fine Arts,2.5,Nathaniel Allen,4.4,6,N/A,,,,,,,,,,,,,,,,,,,,,1219748
+176,1666,Andrew College,Education,1.8,Linda Grice,2.0,5,N/A,,,,,,,,,,,,,,,,,,,,,811978
+177,1666,Andrew College,English,3.0,Lela Phillips,3.9,4,N/A,,,,,,,,,,,,,,,,,,,,,242046
+178,1666,Andrew College,Computer Science,4.0,Donnie Collins,3.3,2,N/A,,,,,,,,,,,,,,,,,,,,,1172849
+179,1666,Andrew College,Chemistry,4.0,David Rhode,3.3,2,N/A,,,,,,,,,,,,,,,,,,,,,1299682
+180,1666,Andrew College,Languages,2.0,Yamandu Acosta,3.0,1,N/A,,,,,,,,,,,,,,,,,,,,,958572
+181,1666,Andrew College,Fine Arts,1.0,Austin Barrow,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1426965
+182,1666,Andrew College,English,2.0,Amanda Knight,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1472120
+183,1666,Andrew College,Mathematics,5.0,Francis Kelly,1.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1558920
+184,1666,Andrew College,English,3.0,Malanie Burnett,3.5,1,N/A,,,,1,,,,,,,,,,,1,,,,,,1926549
+185,1666,Andrew College,Mathematics,3.0,Philip Gille,5.0,1,N/A,,,,,,,,1,,,,,,1,,,,,,1,2061279
+186,1667,Angelina College,Biology,2.8,Tom Dudley,4.8,60,80%,,7,,4,8,4,,8,,,8,,,,,7,2,1,1,,295944
+187,1667,Angelina College,Psychology,2.8,Ron Naramore,4.5,58,85%,,4,4,2,3,4,10,4,,,,1,3,4,2,3,4,3,1,,444967
+188,1667,Angelina College,Biology,4.0,Jason Lankford,3.8,57,91%,1,4,,1,,2,7,1,,,1,2,3,2,,6,4,,1,4,198030
+189,1667,Angelina College,Political Science,2.4,Debra Jenke,4.3,49,85%,1,6,1,3,4,2,7,1,1,1,2,5,,1,3,3,,1,,4,276873
+190,1667,Angelina College,English,3.5,Edith Miller,3.8,48,40%,1,,,1,1,,3,5,1,,,,1,3,1,,,5,,9,174637
+191,1667,Angelina College,Communication,1.8,Amy Morrison,5.0,47,100%,6,2,,9,4,3,1,8,,2,13,17,,,5,9,,,,,1473519
+192,1667,Angelina College,Fine Arts,3.1,Suzi Honeywell,2.9,45,50%,3,1,,1,1,,3,6,2,1,1,,,5,4,1,1,1,,4,476077
+193,1667,Angelina College,Computer Science,3.5,Bill Fisk,3.1,43,N/A,,,,1,,1,1,4,1,,,,1,4,,,,,,,431338
+194,1667,Angelina College,English,1.3,Jason Rogers,4.8,43,100%,1,3,,3,3,,,4,2,,9,,,,1,3,1,2,,,1166883
+195,1667,Angelina College,Political Science,2.8,Gene Yates,3.2,42,40%,,,,1,,,,,1,,2,,5,,4,1,5,,1,1,95142
+196,1667,Angelina College,English,1.9,Howard Cox,4.5,42,N/A,,,,,3,,,3,,,1,,,,1,1,,,,,98022
+197,1667,Angelina College,Mathematics,2.2,George Reed,4.7,41,82%,2,1,,4,5,,,6,,,5,,3,4,,2,5,,1,,240220
+198,1667,Angelina College,History,3.0,Daniel Rankin,4.2,40,80%,,5,1,,,3,9,2,,,5,,3,,1,2,,,1,2,525468
+199,1667,Angelina College,Mathematics,3.1,Susan Bradley,2.9,37,N/A,1,,,,,,1,1,1,,,,,3,,,2,,,1,110121
+200,1667,Angelina College,Psychology,2.2,Benetha Jackson,4.7,37,100%,,1,,1,3,5,2,4,,,4,4,,2,,4,,,,,172405
+201,1667,Angelina College,Criminal Justice,2.1,John Newman,4.8,35,N/A,,,,,,,,,,,,,,,,,,,,,887892
+202,1667,Angelina College,Communication,2.2,Sabrina Collins,4.3,33,100%,1,1,,2,2,3,,,,4,,,1,1,6,1,3,1,,,240223
+203,1667,Angelina College,Political Science,4.3,Olivia Wilson,1.6,33,N/A,,1,,1,,,9,,,1,,1,3,11,1,,2,4,,16,764206
+204,1667,Angelina College,Communication,1.4,Regina Julian,5.0,31,N/A,,,,,,,,,,,,,,,,,,,,,447639
+205,1667,Angelina College,English  Liberal Studies,3.9,Aaron Grimes,4.0,31,87%,8,8,1,6,17,,3,20,,,1,4,1,3,2,8,,1,,9,2187997
+206,1668,Anne Arundel Community College (all campuses),Mathematics,2.0,James Messenger,4.9,224,100%,15,48,,38,21,,,26,5,,9,10,1,6,3,34,3,,6,1,748210
+207,1668,Anne Arundel Community College (all campuses),History,2.9,Frank Alduino,3.8,155,69%,5,2,2,3,13,,16,7,1,,4,1,1,6,8,5,4,1,7,4,156977
+208,1668,Anne Arundel Community College (all campuses),Sociology,1.3,Paul Vinette,4.8,149,N/A,,2,,,,,,1,1,,1,,,,1,3,,,,,606648
+209,1668,Anne Arundel Community College (all campuses),Film,3.6,Daryl Gonder,3.5,126,22%,,2,,,,,5,2,7,,4,2,6,12,4,3,1,2,4,10,134210
+210,1668,Anne Arundel Community College (all campuses),History,3.4,David Tengwall,3.4,109,36%,3,6,,,2,1,8,4,3,,5,3,13,5,,2,2,12,4,25,115548
+211,1668,Anne Arundel Community College (all campuses),Mathematics,4.1,Marci Collins-Stewart,2.4,105,36%,,,6,,,2,2,2,,,,,,11,5,2,12,,2,22,68787
+212,1668,Anne Arundel Community College (all campuses),English,4.4,Margaret Boas,2.8,101,27%,1,2,,,2,,14,7,,,1,1,1,7,7,1,2,14,,28,666033
+213,1668,Anne Arundel Community College (all campuses),Biology,3.1,Jessamy Rango,4.7,100,83%,3,14,,12,4,17,1,7,1,,,,3,,3,4,18,,2,10,629952
+214,1668,Anne Arundel Community College (all campuses),Psychology,1.5,Matt Yeazel,4.7,93,N/A,,2,,5,,1,2,1,,,4,1,,,1,3,,1,1,1,222037
+215,1668,Anne Arundel Community College (all campuses),Mathematics,3.4,Jagmohan J. Kapoor,3.0,93,29%,,,1,4,2,,,4,4,,,1,4,6,1,3,15,,4,14,234099
+216,1668,Anne Arundel Community College (all campuses),English,3.9,Grace Sikorski,2.4,90,26%,,,,1,5,,11,5,4,,,2,2,5,8,,1,2,,23,509769
+217,1668,Anne Arundel Community College (all campuses),Mathematics,2.8,Melissa B. Spurlock,3.8,89,31%,,1,5,,2,,,6,1,,,,3,5,2,2,2,,3,12,227833
+218,1668,Anne Arundel Community College (all campuses),Mathematics,3.5,Tracy Sorrells,3.5,89,22%,,1,,1,2,1,2,,3,,2,,5,12,,1,4,,3,15,695969
+219,1668,Anne Arundel Community College (all campuses),Biology,3.8,Benjamin Weibell,3.3,89,59%,,3,1,1,4,8,4,,,2,,,3,6,5,,6,4,5,5,713507
+220,1668,Anne Arundel Community College (all campuses),History,2.2,Ritavictoria Gomez,3.6,86,100%,,3,,1,3,7,4,,2,,5,,4,,1,1,3,,1,5,68773
+221,1668,Anne Arundel Community College (all campuses),Communication,2.3,Haley Draper,4.8,83,93%,8,3,,19,13,4,2,30,1,9,9,13,,2,13,18,4,,,2,1883062
+222,1668,Anne Arundel Community College (all campuses),English,2.9,Steve Canaday,4.3,83,100%,1,1,2,2,1,1,1,4,,,3,,,,,2,,,,,147347
+223,1668,Anne Arundel Community College (all campuses),English,2.5,Majorie Paoletti,4.7,81,100%,,1,,1,3,9,5,11,,,1,2,,2,2,,1,,,2,443958
+224,1668,Anne Arundel Community College (all campuses),History,3.9,Russell Rockefeller,3.6,79,59%,2,5,,1,,2,15,2,2,,3,1,1,2,4,3,1,4,,19,558713
+225,1668,Anne Arundel Community College (all campuses),Mathematics,2.9,Michael Wright,3.8,79,77%,3,5,,2,5,9,3,2,7,,4,,2,1,,3,5,,3,1,661763
+226,1669,Anoka Technical College,Biology,3.3,Kristyn Vanderwaal,4.8,37,100%,6,12,,8,13,1,2,8,,,1,4,,2,3,17,1,,,,1751121
+227,1669,Anoka Technical College,Law,2.7,Walt Filson,4.6,25,N/A,,,,,,,,,,,,,,,,,,,,,693897
+228,1669,Anoka Technical College,Surgical Technologies,3.7,Cathy Bishop,3.8,22,100%,1,,,1,4,1,1,1,,,,,,6,2,2,5,,1,10,309169
+229,1669,Anoka Technical College,Computer Science,3.2,Mary Lebens,4.4,14,100%,,,,4,7,,,7,,,,,,5,,2,,,,1,2134172
+230,1669,Anoka Technical College,Nursing,4.0,Theresa Truckenbrod,2.3,13,N/A,,,,,,,,,,,,,,,,,2,,,2,1084304
+231,1669,Anoka Technical College,Computer Science,3.5,Lisa Hubbard,3.8,11,N/A,,,,,,,,,,,,,1,,,,,1,,1,711328
+232,1669,Anoka Technical College,Sociology,2.4,Donovan Jackman,4.3,10,100%,1,,,,,,1,5,1,,1,1,,,3,1,,,,,1733928
+233,1669,Anoka Technical College,Psychology,2.8,Robyn Spector,2.9,9,N/A,,,,,,1,,,,,,,,,,,,,,,1143144
+234,1669,Anoka Technical College,Computer Science,2.5,Alexander Minakov,4.8,9,N/A,,,,6,1,1,1,,,,1,2,,3,1,4,1,,,,2133667
+235,1669,Anoka Technical College,Medicine,3.3,Stacey Wanovich,4.0,8,N/A,1,,,,1,,,3,,,,1,,,2,1,,,,,1084252
+236,1669,Anoka Technical College,Biology,4.0,Brenda Crowley,3.6,7,N/A,,,,,,,,,,,,,,,,,,,,,730730
+237,1669,Anoka Technical College,Nursing,3.3,Christina Wilson,5.0,7,N/A,,1,,,1,,,,,,,,1,,,,,,,,1084297
+238,1669,Anoka Technical College,Nursing,1.7,Sara Rowe,5.0,7,N/A,,1,,3,2,,,2,,,,,1,,,1,,,,,1608208
+239,1669,Anoka Technical College,Computer Science,3.0,Vicki Baumgartner,3.0,6,N/A,,,,,,,,,,,,,,,,,,,,,201696
+240,1669,Anoka Technical College,English,2.3,Jean Juelich,4.8,6,N/A,,,,,,,,,,,,,,,,,,,,,204497
+241,1669,Anoka Technical College,English,2.5,Diana Ostrander,4.2,6,N/A,,,,1,1,1,,,,,,,,1,1,,,,,,897169
+242,1669,Anoka Technical College,Medicine,2.3,Sandra Lehrke,3.3,6,N/A,,,,,,,,,,,,,,,,,,,,,1084094
+243,1669,Anoka Technical College,Nursing,2.7,Mary Ann Eich,4.1,6,N/A,,,,,,,,,,,,,,,,,,,,,1084288
+244,1669,Anoka Technical College,Nursing,3.2,Lori Wahlberg,4.2,6,N/A,,,,,,,,,,,,,,,,,,,,,1084295
+245,1669,Anoka Technical College,Health Science,3.5,Noah Strom,3.3,6,N/A,,1,,,1,,1,,,,,,,,,,2,,,1,1408350
+246,1670,Anoka-Ramsey Community College,Chemistry,3.4,Kelly Befus,4.3,157,57%,2,4,2,6,4,,6,6,,,4,2,3,5,7,6,14,,1,11,538756
+247,1670,Anoka-Ramsey Community College,History,4.4,Bruce Homann,3.0,123,9%,1,,,1,1,10,38,1,3,2,,,23,6,2,2,22,7,3,44,281301
+248,1670,Anoka-Ramsey Community College,Biology,2.4,Melanie Waite-Altringer,4.0,111,68%,4,5,,2,4,3,9,4,,2,17,6,2,2,4,5,13,,7,20,930012
+249,1670,Anoka-Ramsey Community College,Science,4.0,Ed Wehling,2.8,103,64%,4,3,,3,10,,5,2,8,1,,1,11,2,4,1,13,,10,16,299043
+250,1670,Anoka-Ramsey Community College,Mathematics,3.1,Mark Omodt,4.5,86,88%,7,4,1,7,4,,,10,1,,,3,,7,1,12,7,,2,,233481
+251,1670,Anoka-Ramsey Community College,Communication,2.3,Tom McCarthy,4.7,84,100%,,12,,2,2,,8,7,,3,22,2,,,5,8,2,,,,159510
+252,1670,Anoka-Ramsey Community College,Chemistry,3.0,Lance Lund,4.5,83,100%,1,2,,5,9,5,2,6,1,,7,1,,4,2,5,2,,3,3,548660
+253,1670,Anoka-Ramsey Community College,Biology,3.5,Shawn Magner,3.7,79,61%,4,3,1,4,3,2,11,2,2,2,10,1,4,9,3,6,10,,6,17,1312310
+254,1670,Anoka-Ramsey Community College,Biology,3.3,Jennifer Braido,3.9,72,81%,1,10,,4,7,7,,4,3,1,8,4,2,2,2,7,7,,3,5,469896
+255,1670,Anoka-Ramsey Community College,Economics,2.6,Phillip Hampton,3.9,71,86%,1,9,,2,8,4,,,2,1,2,1,7,1,2,7,3,,1,7,381425
+256,1670,Anoka-Ramsey Community College,English,3.8,Catherine Bean,2.8,71,36%,,,2,1,3,1,5,6,1,8,,,,5,11,,5,3,,15,591693
+257,1670,Anoka-Ramsey Community College,English,3.1,Steve Beste,4.5,70,88%,2,5,1,4,3,,2,10,,,4,4,3,1,9,7,3,2,,13,461706
+258,1670,Anoka-Ramsey Community College,English,3.6,Munir Alam,2.2,67,N/A,,,,,,,,,,,,,,,,,,,,,608724
+259,1670,Anoka-Ramsey Community College,Biology,4.3,Debby Filler,2.2,67,33%,,1,,1,2,,6,2,,3,,,7,1,1,,9,,3,18,258302
+260,1670,Anoka-Ramsey Community College,Economics,3.5,Jane Ruliffson,2.9,66,46%,2,3,14,6,2,,8,2,,,1,2,13,14,2,,13,,4,13,1579797
+261,1670,Anoka-Ramsey Community College,Psychology,2.9,Jim Biederman,4.3,65,81%,3,7,,3,12,4,3,5,1,,,2,14,4,3,8,7,,5,12,1133624
+262,1670,Anoka-Ramsey Community College,Communication Studies,1.1,Elizabeth Sloan,5.0,65,100%,,11,,13,5,3,,9,1,,31,10,,,6,9,2,,,,1514114
+263,1670,Anoka-Ramsey Community College,Business,2.7,Jonathan Gallop,4.8,64,100%,2,25,,3,2,,2,6,4,,18,6,1,,2,8,6,,,1,595660
+264,1670,Anoka-Ramsey Community College,Geography,2.0,Victoria Downey,4.8,63,100%,3,21,2,13,6,13,1,13,1,6,32,4,2,,6,7,2,,,,1563614
+265,1670,Anoka-Ramsey Community College,Sociology,1.7,Karl Weilgus,3.5,60,82%,1,6,,2,8,,2,2,5,,2,4,4,,,6,,,,,666417
+266,1671,Antelope Valley College,Political Science,3.6,John Vento,4.6,347,80%,3,42,,7,5,9,17,11,,,29,22,2,42,44,38,21,8,3,26,430329
+267,1671,Antelope Valley College,Biology,4.1,Matthew Rainbow,2.9,276,54%,2,2,,,1,2,6,5,1,1,1,2,16,22,22,5,31,3,2,32,352554
+268,1671,Antelope Valley College,Political Science,2.6,Amaka Donn,3.8,272,89%,6,11,2,34,50,38,47,32,6,23,30,30,32,7,89,48,24,4,10,15,631006
+269,1671,Antelope Valley College,Mathematics,2.7,Nabeel Atique,4.3,261,N/A,,4,8,7,8,1,,6,,,,3,,18,23,6,18,,,17,899770
+270,1671,Antelope Valley College,English,2.5,Scott Memmer,4.9,221,100%,10,18,,38,11,,6,57,,3,40,57,,,2,32,5,,,1,924206
+271,1671,Antelope Valley College,History,2.1,Matthew Jaffe,4.8,221,88%,9,22,,16,3,,1,8,4,1,24,9,10,,5,16,18,,4,3,54099
+272,1671,Antelope Valley College,English,3.3,William Vaughn,3.6,183,57%,2,2,6,2,3,5,13,8,,,7,7,4,2,5,4,1,1,2,7,233138
+273,1671,Antelope Valley College,Business,3.3,David Adams,4.7,167,99%,8,58,,27,21,13,7,19,,1,65,40,11,3,18,82,36,,7,9,1552963
+274,1671,Antelope Valley College,English,3.1,Scott Covell,4.5,165,100%,,6,,5,2,,15,21,,,17,5,,,4,3,2,,,4,197974
+275,1671,Antelope Valley College,Mathematics,3.1,Michael Tran,3.5,156,63%,6,2,6,5,7,18,2,4,1,2,16,4,7,13,1,9,12,2,9,9,198420
+276,1671,Antelope Valley College,English,4.0,Charles Hood,2.9,148,47%,,,,2,5,,3,14,2,,3,4,1,1,5,1,1,5,1,17,207915
+277,1671,Antelope Valley College,Mathematics,2.1,Kenan Shahla,4.5,147,88%,2,8,,6,17,,,3,2,,14,2,,14,5,11,6,,,5,542638
+278,1671,Antelope Valley College,Biology,2.9,Zia Nisani,4.8,146,94%,2,10,,5,,,2,5,1,,10,9,1,2,5,8,9,,2,8,448371
+279,1671,Antelope Valley College,Mathematics,2.8,Paul Ahad,3.0,142,48%,1,1,,6,1,,2,2,,,,2,10,5,2,1,10,,4,12,506202
+280,1671,Antelope Valley College,Philosophy,3.1,Sherri Zhu,3.8,139,88%,8,17,1,14,20,,37,16,2,3,5,9,11,10,23,8,21,,4,5,777483
+281,1671,Antelope Valley College,Psychology,2.4,Irit Gat,4.5,135,100%,2,13,9,9,1,,2,5,1,,7,12,,,2,14,5,,,6,418501
+282,1671,Antelope Valley College,Health Education,2.3,Deanna Butler,4.9,134,100%,1,9,3,47,22,27,4,47,1,21,33,13,1,7,59,46,8,,,,2021259
+283,1671,Antelope Valley College,Communication,2.5,Harish Rao,4.5,127,81%,,4,,1,7,2,2,20,1,4,20,4,1,2,13,4,6,,,19,381793
+284,1671,Antelope Valley College,Biology,4.1,Callyn Yorke,2.8,119,10%,,,,,1,,4,,1,2,,,1,1,2,,8,,3,3,253801
+285,1671,Antelope Valley College,Art,3.7,Rae Agahari,4.2,114,83%,4,9,,2,3,1,3,4,1,,13,2,2,3,8,3,14,,5,25,642084
+286,1672,Antonelli College,Fine Arts,3.4,Andrea Millette,3.8,14,N/A,,,,,1,,,,,,,1,,,,,,,,1,252460
+287,1672,Antonelli College,Fine Arts,1.7,Steve Floro,5.0,7,N/A,,,,,,,,,,,,,,,,,,,,,670083
+288,1672,Antonelli College,Fine Arts,3.0,Shanon Rice,3.7,7,N/A,,,,,,,,1,,,,,,,2,,,,,,711448
+289,1672,Antonelli College,Design,4.0,Jason Pichotta,2.9,5,N/A,,,,,,,,,,,,,,,,,,,,,1319807
+290,1672,Antonelli College,Business,1.3,David Baldwin,5.0,3,N/A,,,,,,,,,,,,,,,,,,,,,1623689
+291,1672,Antonelli College,Graphic Arts,2.0,Jim Sloughman,3.3,2,N/A,,,,,,,,,,,,,,,,,,,,,657233
+292,1672,Antonelli College,English,4.0,Halie Crocker,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1386684
+293,1672,Antonelli College,Fine Arts,2.0,Barry Hovland,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1409628
+294,1672,Antonelli College,Fine Arts,3.0,Gordon Morioka,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1425969
+295,1672,Antonelli College,Business,2.0,Shannon Britton,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1700804
+296,1673,Antonelli College: Hattiesburg,Design,2.0,Joe Ng,4.0,1,N/A,,,,,,,,,,,,,,,,,,,,,514729
+297,1675,Antonelli Institute of Art and Photography,Journalism,3.9,Drew Simcox,5.0,32,N/A,,1,,,,,,1,,,,3,,,4,4,1,,,,671402
+298,1675,Antonelli Institute of Art and Photography,Design,1.5,Troy Sayers,2.4,13,N/A,,,,,,,,,,,,,,,,,,,,,594427
+299,1675,Antonelli Institute of Art and Photography,Fine Arts,3.1,Randy Davis,4.1,11,N/A,,,,,,,,,,,,,,,,,,,,,668030
+300,1675,Antonelli Institute of Art and Photography,Art History,4.6,Vlad Hartman,3.7,11,N/A,,,,,,,,,,,,,,,,,,,,,671349
+301,1675,Antonelli Institute of Art and Photography,Not Specified,2.8,Todd Murray,4.8,10,N/A,,,,,,,,1,,,1,1,,,,,,,,,818249
+302,1675,Antonelli Institute of Art and Photography,Not Specified,2.3,Robert Golding,4.7,7,N/A,,,,,,,,,,,,,,,,,,,,,668033
+303,1675,Antonelli Institute of Art and Photography,Marketing,1.7,Harris Freedman,3.1,7,N/A,,,,,,,,,,,,,,,,,,,,,668045
+304,1675,Antonelli Institute of Art and Photography,Graphic Arts,3.0,Edward Zawara,4.8,5,N/A,,,,1,,,,,,,,,,,1,1,,,,,743807
+305,1675,Antonelli Institute of Art and Photography,Fine Arts,2.0,Robert Wood,4.3,2,N/A,,,,,,,,,,,,,,,,,,,,,1550595
+306,1675,Antonelli Institute of Art and Photography,Design,2.0,Chris Patchell,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,841558
+307,1675,Antonelli Institute of Art and Photography,Fine Arts,3.0,Mimi Janosy,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1550593
+308,1675,Antonelli Institute of Art and Photography,Graphic Arts,4.0,Ronald J Cala,2.0,1,N/A,,,,,,,,,,,,,1,1,,,,,,1,2235538
+309,1676,Arapahoe Community College,Biology,4.5,Nia Bauer,2.4,118,32%,1,10,,7,5,,36,2,,2,2,1,17,26,5,2,23,6,4,69,1360396
+310,1676,Arapahoe Community College,Biology,3.5,Rachel Willard,4.4,94,88%,6,28,1,8,27,1,4,24,,1,12,9,1,3,12,24,16,,,12,1338787
+311,1676,Arapahoe Community College,History,3.8,Daniel Gore,4.5,70,77%,1,9,,,4,6,,10,4,,9,3,3,2,,2,7,3,1,7,368013
+312,1676,Arapahoe Community College,Philosophy,3.2,Jeff Broome,3.0,62,40%,,,,,4,,12,5,1,,,,3,3,3,,2,1,,10,91208
+313,1676,Arapahoe Community College,Biology,3.8,Terry Harrison,3.1,57,80%,1,,,3,4,9,5,2,,,6,,5,1,2,2,5,,4,5,1157929
+314,1676,Arapahoe Community College,Communication,3.1,Don Center,4.7,56,N/A,,,,,,,,,,,,,,,,,,,,,444526
+315,1676,Arapahoe Community College,Psychology,3.3,Allison Hagood,3.8,56,71%,,13,,4,4,1,7,4,1,,13,7,1,1,5,8,3,,1,12,930062
+316,1676,Arapahoe Community College,Mathematics,3.3,Jeff Berg,3.9,49,N/A,,,,1,1,2,,6,,1,1,1,3,8,4,1,4,,1,3,91422
+317,1676,Arapahoe Community College,Biology,3.4,Daniel Loturco,4.7,47,100%,1,9,6,2,7,3,1,8,1,,3,2,5,,,7,7,,2,12,1382154
+318,1676,Arapahoe Community College,Economics,2.3,Joan Anderssen,2.8,42,78%,1,,,2,2,10,,4,,,1,,3,7,6,,2,,,,701547
+319,1676,Arapahoe Community College,Biology,3.5,Celia Norman,3.1,42,42%,,,,3,,1,5,,,,,1,6,2,4,,5,3,2,7,615972
+320,1676,Arapahoe Community College,English,3.8,Lindsay Lewan,3.8,41,67%,1,,,1,3,,,7,1,,,,,,1,2,3,,1,5,91200
+321,1676,Arapahoe Community College,Biology,4.0,Judy Thomson,3.8,40,62%,2,,,2,3,5,4,3,,,,2,5,8,3,,9,,1,13,1146050
+322,1676,Arapahoe Community College,History,2.7,Elijah Dicks,4.7,38,81%,2,17,,1,2,4,1,1,1,1,8,2,3,,5,11,5,,,3,1772846
+323,1676,Arapahoe Community College,Business,4.2,Susan Kendall,1.8,35,20%,1,,,,,,6,3,,,,,,7,4,,2,1,,14,105029
+324,1676,Arapahoe Community College,English,4.1,Sally Wolf,2.3,33,N/A,,,,,,,,,,,,,,,,,,,,,91195
+325,1676,Arapahoe Community College,English,3.6,Lucy Graca,4.1,32,N/A,,,,,,,,,,,,,,,,,,,,,93100
+326,1676,Arapahoe Community College,Mathematics,3.2,Tracy Lawrence,4.1,32,87%,7,2,,3,7,,,7,,2,,,1,2,,9,3,,,3,91420
+327,1676,Arapahoe Community College,History,3.4,Don Walker,4.4,31,N/A,,,,,,,1,1,1,,,,2,,1,,,,,,91579
+328,1676,Arapahoe Community College,Fine Arts,2.6,Susan Goggin,3.5,30,N/A,,,,,1,,1,1,,,,,4,,1,,2,,,,323266
+329,1677,Arizona Automotive Institute,Classics,2.6,T.J. Max,4.2,5,N/A,,,,,,,,,,,,,,,,,,,,,222146
+330,1678,International Institute of the Americas,Business,2.3,Linda Berzi,5.0,4,N/A,,,,,,,,,,,,,,,,,,,,,653274
+331,1680,Arizona Western College,Philosophy,2.4,Daniel Taylor,4.7,144,100%,16,5,,30,22,11,5,29,,3,4,8,1,24,9,23,11,,,2,610870
+332,1680,Arizona Western College,Sociology,2.7,Joseph Vielbig,3.5,69,50%,,9,,,14,,11,1,8,,11,4,9,,,,2,,7,8,163092
+333,1680,Arizona Western College,English,3.6,Steve Moore,4.1,58,59%,7,1,,6,4,,9,22,,,,2,1,18,,4,,11,1,14,676497
+334,1680,Arizona Western College,Philosophy,3.7,David Burris,3.3,56,63%,3,1,5,3,4,6,18,5,2,,2,4,5,2,11,4,2,1,3,14,1588736
+335,1680,Arizona Western College,Mathematics,1.9,Lee Gibbs,4.7,54,94%,7,5,,19,13,1,,15,,,7,10,,8,3,12,5,,,1,696449
+336,1680,Arizona Western College,Psychology,1.8,Brooke Ayars,4.9,48,100%,9,21,8,16,7,,3,9,2,,15,11,,1,5,19,6,,,,2018133
+337,1680,Arizona Western College,Mathematics,2.1,Reetika Dhawan,4.6,47,83%,2,,1,8,2,3,1,2,,,3,2,,6,2,8,3,,1,,1572029
+338,1680,Arizona Western College,English,3.3,David Hannah,4.4,47,63%,,4,,8,8,,2,26,,,12,1,,9,6,6,3,1,,5,1889001
+339,1680,Arizona Western College,Science,4.0,Therese A Dehne,3.3,47,53%,4,3,1,9,6,3,18,5,,2,,8,2,14,4,4,9,2,6,17,1964069
+340,1680,Arizona Western College,Mathematics,2.5,John Pacho,4.5,41,89%,2,1,,5,13,,,6,1,,1,2,,5,4,4,,,2,2,1653043
+341,1680,Arizona Western College,English,4.0,Troy Burns,3.0,36,39%,1,1,,,4,,2,5,2,1,,,,1,3,4,4,3,,17,953876
+342,1680,Arizona Western College,Mathematics,2.5,Weicheng Xuan,3.0,35,50%,1,,,3,2,,4,4,,1,1,2,7,5,3,2,11,1,2,,1722424
+343,1680,Arizona Western College,English,2.8,Joanne Krueger,3.5,34,N/A,,,,1,,,1,,,,,,2,,,,3,1,,,665369
+344,1680,Arizona Western College,Mathematics,2.7,Sotero Alvarado,3.6,34,82%,2,1,,3,3,4,2,1,,,3,3,3,4,1,4,1,,,2,1551980
+345,1680,Arizona Western College,Languages,2.8,Brian Beeles,4.7,34,100%,4,3,,2,1,1,4,10,,,15,5,1,10,12,2,10,,,,1711786
+346,1680,Arizona Western College,Mathematics,2.3,Dan Russow,4.0,32,60%,2,1,,1,2,1,2,2,2,,5,,3,4,1,2,3,1,,3,671991
+347,1680,Arizona Western College,Mathematics,4.3,Light Bryant,2.3,32,14%,,,5,,1,,1,1,,2,,,1,3,,,5,,1,6,733150
+348,1680,Arizona Western College,English,3.0,Michael Miller,3.2,31,56%,,2,,,2,4,7,5,,,2,1,4,1,2,3,1,,,4,665536
+349,1680,Arizona Western College,Psychology,1.8,Melissa Behunin,4.8,31,89%,,4,,6,4,1,2,5,,,3,5,1,,2,5,,,1,2,1039656
+350,1680,Arizona Western College,English,3.5,Penelope Cooper,3.4,31,46%,6,1,,2,,,2,4,,,,,,2,2,,4,3,,10,957667
+351,1682,Arkansas State University: Mountain Home,Mathematics,2.4,David Bendler,4.4,19,N/A,1,,1,1,,,,2,,,,1,,,,3,1,,,,132876
+352,1682,Arkansas State University: Mountain Home,History,3.9,Clement Mulloy,3.3,18,N/A,,,,,,,,,,,,,3,,,,3,,2,1,619456
+353,1682,Arkansas State University: Mountain Home,History,3.5,Sandra Garland,2.7,18,N/A,,,,,,,,,,,,,,,,,,,,,619458
+354,1682,Arkansas State University: Mountain Home,Science,3.9,Ronald Schofield,2.4,14,N/A,,,,,,,,,,,1,,,,1,1,,,,,349053
+355,1682,Arkansas State University: Mountain Home,Computer Science,3.3,Cynthia Kirksey,2.9,11,N/A,,,,,,,,,,,,,,,,,,,,1,384755
+356,1682,Arkansas State University: Mountain Home,Biology,3.3,Eddie Dry,4.0,10,N/A,1,,,,,,1,1,,1,,,,,1,1,,,1,1,519025
+357,1682,Arkansas State University: Mountain Home,Psychology,3.1,Milton Hatcher,2.7,9,N/A,,,,,,,,,,,,,,,,,,,,,619454
+358,1682,Arkansas State University: Mountain Home,Business,3.2,Troylene Perry,3.6,9,N/A,,,,,,,,1,,,,1,,,1,,,,,,619462
+359,1682,Arkansas State University: Mountain Home,English,2.0,Kenneth Hays,4.1,8,N/A,,,,,,,,,,,,,,,,,,,,,197545
+360,1682,Arkansas State University: Mountain Home,Law,2.9,Jim Bailey,4.8,8,N/A,,,,,,,,,,,,,,,,,,,,,429879
+361,1682,Arkansas State University: Mountain Home,Mathematics,2.3,Kristy Preis,4.6,7,N/A,,,,,,,,1,,,,,,,,,,,,,197548
+362,1682,Arkansas State University: Mountain Home,English,2.7,Susan Bergman,3.8,6,N/A,,,,,,,,,,,,,,,,,,,,,132797
+363,1682,Arkansas State University: Mountain Home,Sociology,1.5,Kenrick Thompson,4.4,6,N/A,,,,,,,,,,,,,,,,,,,,,429881
+364,1682,Arkansas State University: Mountain Home,English,3.3,Rebecca Baird,3.8,6,N/A,,,,,,1,,,,,,,,,,,,,,1,619450
+365,1682,Arkansas State University: Mountain Home,Sociology,3.5,Shelia Priest,4.4,6,N/A,,1,,,1,1,,,,,,,3,,,,3,,,1,1486951
+366,1682,Arkansas State University: Mountain Home,English,2.6,Tamara Mitchell,3.5,5,N/A,1,,,2,1,,2,3,,,,1,,2,2,1,1,,,2,1934155
+367,1682,Arkansas State University: Mountain Home,Funeral Service Education,2.4,Matthew Buel,2.9,5,N/A,,,,,,,,,,,,,,,,,,,,,1563545
+368,1682,Arkansas State University: Mountain Home,Science,3.8,Toby Sutton,3.1,4,N/A,,,,,,,,,,,,,,,,,,,,,714824
+369,1682,Arkansas State University: Mountain Home,Biology,2.0,Vickey Shipley,4.4,4,N/A,,,,,,,,,,,2,,2,,,,,,,1,1152983
+370,1682,Arkansas State University: Mountain Home,Chemistry,3.0,Robert Dyer,4.9,4,N/A,,,,,,,,,,,,,,,,,,,,,1223984
+371,1683,Southwest University of Visual Arts,Design,4.5,Don Fox,4.5,4,N/A,,,,,,,,,,,,,,,,,,,,,673081
+372,1683,Southwest University of Visual Arts,Fine Arts,3.7,Michael Nolan,4.5,3,N/A,,,,,,,,,,,,,,,,,,,,,1311432
+373,1683,Southwest University of Visual Arts,Graphic Arts,2.5,Andy Moreno,3.0,2,N/A,,,,,,,,,,,,,,,,,,,,,432497
+374,1683,Southwest University of Visual Arts,Design,1.0,Andy Robles,3.0,1,N/A,,,,,,,,,,,,,,,,,,,,,728825
+375,1683,Southwest University of Visual Arts,Design,4.0,SJ Gibson,5.0,1,N/A,,,,1,,,,1,,,,,,,1,,,,,,1201000
+376,1684,The Art Center Design College - Albuquerque,Fine Arts,3.0,Richard Cutshall,1.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1303418
+377,1684,The Art Center Design College - Albuquerque,Graphic Arts,3.0,Elisa Valdez,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1578947
+378,1685,Art Institute of Cincinnati College of Design,Graphic Arts,2.8,Cyndi Mendell,2.8,8,N/A,,,,,,,,,1,,,,,,,,1,,,,421052
+379,1685,Art Institute of Cincinnati College of Design,Design,3.7,Sarah Angne,5.0,3,N/A,1,,,1,,,,1,,,,,,,,,,,,,1169364
+380,1685,Art Institute of Cincinnati College of Design,Graphic Arts,3.5,Roy Waits,4.0,2,N/A,,,,,,,,,,,,,,,,,,,,,421053
+381,1685,Art Institute of Cincinnati College of Design,Art History,1.5,Sarah Hollis,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1671855
+382,1685,Art Institute of Cincinnati College of Design,Graphic Arts,2.0,Steve Dilonardo,3.5,1,N/A,,,,,,,,,,,,,,,,,,,,,421056
+383,1685,Art Institute of Cincinnati College of Design,Design,1.0,Anne Tobe,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1599543
+384,1685,Art Institute of Cincinnati College of Design,Film,1.0,Jeffrey Nielsen,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1804827
+385,1686,The Art Institute of Dallas,Media Arts & Animation,4.0,Mike R. Eudy,4.5,24,100%,,3,,,,,,7,,,4,3,,,1,5,,,,,678661
+386,1686,The Art Institute of Dallas,Graphic Arts,3.3,Andrew Abraham,4.0,23,N/A,,,,,,,,,,,,,,,,,,,,,661128
+387,1686,The Art Institute of Dallas,Film,2.7,Lysa Ausmus,4.3,22,N/A,,1,,,,,,2,,,,1,,,,1,1,,,,88844
+388,1686,The Art Institute of Dallas,Graphic Arts,3.1,Mary Haviland,3.6,19,N/A,1,,,,1,,,2,,,,,,,1,1,1,,,2,663538
+389,1686,The Art Institute of Dallas,Fine Arts,2.3,Tim Pashley,4.4,15,N/A,,,,,,,,,,,,,,,,,,,,,674812
+390,1686,The Art Institute of Dallas,Graphic Arts,2.6,Richard Mullins,2.9,14,N/A,,,,1,1,,,1,,,,,,,,,,,,,667449
+391,1686,The Art Institute of Dallas,Film,2.6,Trayc Claybrook,2.7,12,N/A,,1,,,,,,,,,,,,1,,,,,,,663643
+392,1686,The Art Institute of Dallas,Design,4.0,Diana Souza,4.8,12,100%,1,4,,4,,,,8,,,,8,,,2,9,,,,,2385417
+393,1686,The Art Institute of Dallas,Web Design & Interactive Media,5.0,Chad Hardy,2.1,11,N/A,,,,,,,,,,,,,,,,,,,,,658815
+394,1686,The Art Institute of Dallas,Graphic Arts,1.6,Steve Barnes,4.3,11,N/A,,,,,,,,,,,,,,,,,,,,,674013
+395,1686,The Art Institute of Dallas,Media Arts & Animation,4.2,Chas Naylor,4.1,10,N/A,,1,,,,,,1,,,,,1,1,,1,1,,,,1147074
+396,1686,The Art Institute of Dallas,Graphic Arts,2.9,Kevin Kreneck,3.3,9,N/A,,,,,,,,,,,,,,,,,,,,,674043
+397,1686,The Art Institute of Dallas,Art History,4.3,Candace Uhlmeyer,3.5,9,N/A,,1,,,,,,1,,,,,,,,,1,,,,678959
+398,1686,The Art Institute of Dallas,Graphic Arts,2.6,Amy Bryant,4.5,9,N/A,,,,,,,,,,,,,,,,,,,,,679927
+399,1686,The Art Institute of Dallas,Film,2.6,Kate Yarbrough,3.2,9,N/A,,,,,,,,,,,,,,,,,,,,,696582
+400,1686,The Art Institute of Dallas,Film,2.3,Jaime Fowler,2.9,9,N/A,,,,1,,,,1,,,,,,,2,2,,,,,1265809
+401,1686,The Art Institute of Dallas,Graphic Arts,1.9,Anthony Frisbie,3.4,7,N/A,,,,,,,,,,,,,,,,,,,,,671223
+402,1686,The Art Institute of Dallas,Graphic Arts,3.9,Diana Shaffer,1.3,7,N/A,,,,,,,,,,,,,,,,,,,,,674784
+403,1686,The Art Institute of Dallas,Graphic Arts,2.3,Ray Haydel,3.9,7,N/A,,,,,,,,,,,,,,,,,,,,,1276207
+404,1686,The Art Institute of Dallas,Culinary Arts,2.8,Brenden Mesch,5.0,5,N/A,,,,,,,,,,,,,,,,,,,,,664824
+405,1687,Art Institute of Houston,Graphic Arts,4.2,Stanley Conrad,4.2,59,N/A,,,,,,,,,,,,,,,,,,,,,538473
+406,1687,Art Institute of Houston,Fine Arts,4.0,Kevin Richert,4.4,19,N/A,,,,1,,,,1,,,,,,,,1,,,,,631854
+407,1687,Art Institute of Houston,Graphic Arts,2.5,Yulia Kolonina,3.5,19,N/A,,,,,,,,1,,,,1,,,,,,,,1,632100
+408,1687,Art Institute of Houston,Design,3.4,Dianne Lafranca,3.1,19,N/A,,,,2,,,,4,,,,3,,,,1,1,,,1,637382
+409,1687,Art Institute of Houston,Graphic Arts,3.9,Greg Lofgren,4.3,16,N/A,,,,,,,,,,,,,,,,,,,,,631342
+410,1687,Art Institute of Houston,Fine Arts,1.2,Michael Henderson,4.9,14,N/A,,,,,,,,1,,,,1,,,,1,,,,,631856
+411,1687,Art Institute of Houston,Design,4.1,Michele Damato,3.4,14,N/A,,,,,,,,,,,,,,,,,,,,,1002096
+412,1687,Art Institute of Houston,Design,1.8,Bob Lapsley,4.7,12,N/A,,,,,,,,,,,,,,,,,,,,,552625
+413,1687,Art Institute of Houston,Design,1.9,Clark Ashburn,3.6,11,N/A,,,,,,,,,,,,,,,,,,,,,661098
+414,1687,Art Institute of Houston,Graphic Arts,3.0,David Bennett,4.7,10,N/A,,,,,,,,,,,,,,,,,,,,,631338
+415,1687,Art Institute of Houston,Graphic Arts,3.2,Zachary Zwicky,4.1,9,N/A,,,,,1,,,2,,,,,,1,1,1,,,,,661329
+416,1687,Art Institute of Houston,Design,3.6,Chris Thompson,4.2,9,N/A,,1,,,,,,,,,,1,,,,1,,,,,552639
+417,1687,Art Institute of Houston,Design,2.7,Leslie Magdaleno,4.8,8,N/A,,,,,,,,3,,,,2,,,1,,,,,3,800001
+418,1687,Art Institute of Houston,Education,3.9,Ramiro Saavedra,4.8,8,N/A,,1,2,,,3,,,,,3,,1,,,1,,,,4,1812845
+419,1687,Art Institute of Houston,Art,3.5,Stanko Gakovic,4.0,8,86%,,1,,4,,,,3,,1,,1,,1,2,3,,,,3,2046779
+420,1687,Art Institute of Houston,Culinary Arts,3.3,Al King,2.6,7,N/A,,,,,,,,,,,,,,,,,,,,,698288
+421,1687,Art Institute of Houston,History,1.5,Wil McCorquodale,4.9,6,N/A,,,,,,,,,,,,,,,,1,,,,,699424
+422,1687,Art Institute of Houston,Graphic Arts,3.8,Bob Heliton,3.6,6,N/A,,,,,,,,,,,,,,,,,,,,,741393
+423,1687,Art Institute of Houston,Design,3.8,Lynda Wood,2.5,6,N/A,,,,1,,,,,,,,1,2,3,1,,,1,,2,1785278
+424,1687,Art Institute of Houston,Design,2.6,Bill Lannigan,2.1,5,N/A,,,,,,,,,,,,,,,,,,,,,120702
+425,1688,The Art Institute of California - Los Angeles,Art,3.6,Michael Doliveck,4.0,34,N/A,,,,,,,,,,,,,,,,,,,,,577531
+426,1688,The Art Institute of California - Los Angeles,Media Arts,3.4,Michael Rogers,3.3,24,N/A,,,,,,,,,,,,,,,,,,,,,427538
+427,1688,The Art Institute of California - Los Angeles,Graphic Arts,3.6,Anne Fishbein,3.4,24,N/A,,,,,,,,1,,,,,,,1,,,,,1,430479
+428,1688,The Art Institute of California - Los Angeles,Education,3.0,Randi Munn,2.8,24,N/A,,,,,,,,,,,,,,,,,,,,,447223
+429,1688,The Art Institute of California - Los Angeles,Graphic Arts,3.8,Hoang Vu,3.3,24,N/A,,,,,,,,,,,,,,,,,,,,,591702
+430,1688,The Art Institute of California - Los Angeles,Design,4.3,Marjan Hormozi,3.5,24,N/A,,,,,,,,1,,,,1,,2,,1,,,,2,763882
+431,1688,The Art Institute of California - Los Angeles,English,2.1,Beth Rhodes,4.8,21,N/A,,,,,,,,,,,,,,,,,,,,,591706
+432,1688,The Art Institute of California - Los Angeles,Film,2.8,Jessy Hoffman,4.8,21,N/A,1,,,,,,,1,,,,1,,,,,,,,,714818
+433,1688,The Art Institute of California - Los Angeles,English,2.2,Dan Stoller,4.9,18,N/A,,,,,,,,,,,,,,,,,,,,,629233
+434,1688,The Art Institute of California - Los Angeles,Design,3.8,Susanne Manheimer,3.3,18,N/A,,,,,,,,,,,,,,,,,,,,,685534
+435,1688,The Art Institute of California - Los Angeles,Computer Science,2.4,Pete Markiewicz,3.9,16,N/A,,,,,,,,,,,,,,,,,,,,,476904
+436,1688,The Art Institute of California - Los Angeles,Design,2.5,Jack Keely,4.5,16,N/A,,,,,,,,1,,,,,,,1,1,,,,,658747
+437,1688,The Art Institute of California - Los Angeles,English,1.9,Jenny Wadsworth,5.0,15,N/A,,,,,,,,,,,,,,,,,,,,,427539
+438,1688,The Art Institute of California - Los Angeles,Design,3.2,Long Nguyen,4.7,15,N/A,,,,,,,,,,,,,,,,,,,,,629232
+439,1688,The Art Institute of California - Los Angeles,Film,3.3,Jim Redden,3.7,13,N/A,,,,,,,,1,,,1,,,,1,,,,,,443701
+440,1688,The Art Institute of California - Los Angeles,Film,1.7,Seth Hill,4.3,12,N/A,1,,,,,,,1,,,,,1,,,,,,,,622717
+441,1688,The Art Institute of California - Los Angeles,Graphic Arts,2.6,Kohl King,4.9,12,N/A,,,,,,,,,,,1,,,,,,,,,1,1330626
+442,1688,The Art Institute of California - Los Angeles,Computer Science,1.8,John Francis,4.3,11,N/A,,,,,,,,,,,,,,,,,,,,,625800
+443,1688,The Art Institute of California - Los Angeles,Computer Science,3.2,Nick Marks,4.0,11,N/A,,,,,,,,,,,,,,,,,,,,,674677
+444,1689,The Art Institute of Pittsburgh (All),Graphic Arts,3.5,Robert Mazzaferro,4.5,28,N/A,,,,,,,,,,,,,,,,,,,,,968297
+445,1689,The Art Institute of Pittsburgh (All),History,2.4,Frederick Lorini,2.4,25,N/A,,,,,,,,,,,,,1,,,,,,,,349925
+446,1689,The Art Institute of Pittsburgh (All),Psychology,2.7,Rebecca Suhoza,4.8,24,N/A,,,,,,,,,,,,,,,,,,,,,188943
+447,1689,The Art Institute of Pittsburgh (All),Film,3.0,Don Gabany,3.8,22,N/A,,,,,,,,,,,,,,,,,1,,,1,130398
+448,1689,The Art Institute of Pittsburgh (All),English,2.5,Doug Anke,3.8,22,N/A,,,,,,,,,,,,,1,,,,,1,,1,683863
+449,1689,The Art Institute of Pittsburgh (All),Art History,4.2,Angela Love,3.8,21,N/A,,,,,,,,1,,,,,,,,1,,,,1,669976
+450,1689,The Art Institute of Pittsburgh (All),Graphic Arts,3.4,Mark Bender,4.5,20,N/A,,,,1,,,,1,,,,1,,,,,,,,,349923
+451,1689,The Art Institute of Pittsburgh (All),Design,2.4,Jeff Styers,3.8,18,N/A,,,,,,,,,,,,,,,,,,,,,441118
+452,1689,The Art Institute of Pittsburgh (All),Interactive Media Design,2.7,Mike Cantella,4.9,18,N/A,,,,,,,,,,,,,,,,,,,,,672916
+453,1689,The Art Institute of Pittsburgh (All),Graphic Arts,4.7,D Giuliani,2.1,18,N/A,,,,,,,,,,,,,,,,,,,,,683864
+454,1689,The Art Institute of Pittsburgh (All),Industrial Design,2.7,Alan Assad,4.4,17,N/A,,,,,,,,,,,,,,,,,,,,,782578
+455,1689,The Art Institute of Pittsburgh (All),History,3.4,Stan Spewock,4.8,16,N/A,,,,,,,2,,,,,,1,2,,1,,,,,545556
+456,1689,The Art Institute of Pittsburgh (All),Fine Arts,2.8,Mike Malle,4.3,16,N/A,,,,,,,,,,,,,,,,,,,,,677717
+457,1689,The Art Institute of Pittsburgh (All),Design,4.6,David Pence,2.6,16,N/A,,,,1,,,,,,,,,1,2,1,,1,,,3,683860
+458,1689,The Art Institute of Pittsburgh (All),Computer Science,1.9,David Barton,3.7,13,N/A,,,,,,,,,,,,,,,,,,,,,366153
+459,1689,The Art Institute of Pittsburgh (All),Design,2.9,Karl Huber,4.4,13,N/A,,,,,2,,,3,,,3,2,,,,,,,,1,682441
+460,1689,The Art Institute of Pittsburgh (All),Film,3.0,Andrew Briskar,4.9,13,N/A,,1,,,,,,1,,,,1,,,,,,,,,697762
+461,1689,The Art Institute of Pittsburgh (All),Fine Arts,3.2,Pamela Frandina Meheran,4.1,13,N/A,,,,,,,,,,,,,,,,,,,,,1515690
+462,1689,The Art Institute of Pittsburgh (All),Ethnic Studies,4.5,Diane Bowser,4.3,12,N/A,,,,,,,,,,,,,,,,,,,,,511824
+463,1689,The Art Institute of Pittsburgh (All),Art History,3.1,Flavia Zortea,4.9,12,N/A,,1,,,,,,,,,1,1,,,,,,,,,546373
+464,1690,Art Institutes International Minnesota,English,3.1,Michael Courteau,4.7,20,100%,1,1,,1,1,,,5,,,,,,,2,3,,1,,,165862
+465,1690,Art Institutes International Minnesota,Fine Arts,2.0,Doug Garder,3.7,20,N/A,,,,,,,,,,,,,,1,2,,1,,,,627664
+466,1690,Art Institutes International Minnesota,Graphic Arts,2.9,Tim Armato,2.8,15,N/A,,,,,,,,,,,,,,,,,,,,,669318
+467,1690,Art Institutes International Minnesota,English,2.4,Christopher Title,4.6,14,N/A,,,,,,,,,,,1,,,,,1,,,,,164499
+468,1690,Art Institutes International Minnesota,Graphic Arts,2.5,Steve Paul,4.1,13,N/A,,,,,,,,,,,,,,,,,,,,,175812
+469,1690,Art Institutes International Minnesota,Film,3.0,Rolf Belgum,3.8,12,N/A,,1,,1,,,,,,,,,,,,,,,,,682789
+470,1690,Art Institutes International Minnesota,Graphic Arts,2.6,Lisa Loudon,4.6,10,N/A,,,,,,,,1,,,,,,,,,,,,,681351
+471,1690,Art Institutes International Minnesota,Fine Arts,4.0,Brett Kallusky,3.5,10,N/A,,,,,,,,,,,,,,,,,,,,,1169444
+472,1690,Art Institutes International Minnesota,Communication,2.3,Deborah Weiss,4.3,9,N/A,,,,,,,,,,,,,,,,,,,,,627661
+473,1690,Art Institutes International Minnesota,Illustration,2.0,William Reynolds,4.6,9,N/A,,,,,,,,,,,,,,,,,,,,,627663
+474,1690,Art Institutes International Minnesota,Graphic Arts,2.1,Jim Felgate,4.6,9,N/A,,,,,,,,,,,,,,,,1,1,,,,657902
+475,1690,Art Institutes International Minnesota,Architecture,4.4,Korrin Lohmann,4.3,8,N/A,,,,,,,,,,,,,,,,,,,,,736319
+476,1690,Art Institutes International Minnesota,Graphic Arts,3.3,Jon Dege,4.2,7,N/A,,,,,,,,2,,,2,,,,,,,,,,686519
+477,1690,Art Institutes International Minnesota,Architecture,3.6,Beata Morris,3.9,7,N/A,,,,,1,,,1,,,,,,,,,,,,,769627
+478,1690,Art Institutes International Minnesota,Graphic Arts,3.0,Julie Longo,4.0,7,N/A,,,,,,,,1,,,,1,,,2,2,2,,,,1540472
+479,1690,Art Institutes International Minnesota,Not Specified,4.0,Ann George,2.7,6,N/A,,,,,,,,,,,,,,,,,,,,,294777
+480,1690,Art Institutes International Minnesota,Graphic Design,1.8,Brendon Farley,4.5,5,N/A,,,,,,,,,,,,,,,,,,,,,627659
+481,1690,Art Institutes International Minnesota,Fine Arts,2.6,Anthony Marchetti,4.3,5,N/A,,,,,,,,,,,,,,,,,,,,,1138094
+482,1690,Art Institutes International Minnesota,Culinary Arts,3.4,Byron Korus,5.0,5,N/A,,,,,,,,1,,,1,1,,,1,1,1,,,,1670126
+483,1690,Art Institutes International Minnesota,Health Science,2.0,William Lendway,4.6,5,N/A,,,,,,,,,,,,,,,,1,,,,,1686499
+484,1691,Asheville Buncombe Technical Community College,Political Science,2.8,Kasey Ryan Baker,4.7,179,97%,11,63,10,18,16,38,1,51,18,,102,22,20,1,44,45,23,8,1,8,2045053
+485,1691,Asheville Buncombe Technical Community College,Economics,3.6,Jonathan Bricker,3.7,44,30%,1,,,7,2,,3,2,,,1,1,1,3,,3,4,,1,3,441072
+486,1691,Asheville Buncombe Technical Community College,Biology,2.9,Paula Trilling,4.8,42,100%,1,12,,8,1,2,1,3,,,6,3,,,2,14,2,,2,3,604169
+487,1691,Asheville Buncombe Technical Community College,English,4.3,Lisa York,3.0,41,17%,,,,3,,,1,2,2,,,1,1,5,3,,1,3,,12,1199758
+488,1691,Asheville Buncombe Technical Community College,History,3.1,April Birchfield,4.1,40,83%,1,6,,1,1,,4,1,,,1,,,,2,3,,1,,,293270
+489,1691,Asheville Buncombe Technical Community College,Psychology,1.9,Rock Doddridge,4.6,39,N/A,,4,2,3,1,3,1,1,,,5,7,,,,7,1,,,,866262
+490,1691,Asheville Buncombe Technical Community College,Mathematics,2.5,Ron Layne,4.7,36,N/A,,1,,3,,,,1,,,2,1,,1,,1,,,,,243224
+491,1691,Asheville Buncombe Technical Community College,Engineering,3.4,Tom Sharar,4.8,36,100%,3,5,6,3,,,,6,,1,,1,,,2,7,9,,,3,578710
+492,1691,Asheville Buncombe Technical Community College,Languages,3.4,Kate Bove,3.3,36,N/A,,,,1,,,,2,,,,,,,1,1,1,,,,1612172
+493,1691,Asheville Buncombe Technical Community College,Biology,3.4,Russ Palmeri,4.3,32,82%,2,7,,3,1,,,5,,,2,2,1,,4,10,3,,,,932942
+494,1691,Asheville Buncombe Technical Community College,English,2.7,Ellen Perry,4.5,32,100%,3,1,,14,2,,5,11,1,,2,3,,,2,5,1,,,1,1354249
+495,1691,Asheville Buncombe Technical Community College,Communication,3.6,Heidi L Smathers,1.9,32,N/A,,,,1,,1,1,,,3,1,,1,2,2,,3,,,9,1820100
+496,1691,Asheville Buncombe Technical Community College,Biology,3.7,Lee Swendsen,2.5,30,29%,,,,,1,4,6,,,,,,2,1,2,,3,,,4,1003117
+497,1691,Asheville Buncombe Technical Community College,Spanish,4.1,Valerie Watts,2.4,29,N/A,1,1,,,,,4,,,,2,,,12,2,,,,,11,1754519
+498,1691,Asheville Buncombe Technical Community College,Mathematics,2.5,Jillian McMeans,4.5,29,67%,1,,2,3,3,,,3,1,,4,,,11,1,5,6,,2,1,1514905
+499,1691,Asheville Buncombe Technical Community College,English,2.8,Heather Vaughn,4.5,29,83%,1,,,2,1,,,5,,1,,1,,3,1,,,,,2,1176419
+500,1691,Asheville Buncombe Technical Community College,Mathematics,3.3,Joshua Cushman,3.6,29,60%,2,4,,,4,,1,4,,1,8,,,7,4,1,6,,4,5,1606815
+501,1691,Asheville Buncombe Technical Community College,English,3.0,Ren Decatur,3.7,28,N/A,,,,,,,,,,,,,,,,,,,,,170069
+502,1691,Asheville Buncombe Technical Community College,Computer Science,2.2,Jean Finley,4.5,28,N/A,,,,,,,,,,,,,,2,,,,,,1,832724
+503,1691,Asheville Buncombe Technical Community College,English,3.5,Erik Moellering,4.0,28,83%,1,,,5,5,,5,15,1,,2,5,,2,3,3,1,5,,6,1567783
+504,1692,Ashland Community College,Psychology,3.4,Virgil Davis,4.3,42,N/A,1,1,,,,,1,2,1,,2,,1,,2,1,1,,1,1,129636
+505,1692,Ashland Community College,History,2.6,Daniel Mahan,4.2,28,N/A,,,,,,,1,1,,,,,,,,1,,,,1,166328
+506,1692,Ashland Community College,Biology,3.3,Mary Cat Flath,4.8,25,N/A,,1,1,2,,,,3,,,,1,1,,,6,4,,,1,379520
+507,1692,Ashland Community College,Social Science,2.8,Kathy Edwards,4.4,24,N/A,2,,,1,,1,,1,,,,2,,1,3,1,,,,,160511
+508,1692,Ashland Community College,History,2.0,Ernie Tucker,4.1,21,N/A,,,,,,,,,,,,,,,,,,,,,68878
+509,1692,Ashland Community College,Literature,3.3,Scott Nunley,1.5,21,N/A,,,,,,,,,,,,,,,,,,,,,160534
+510,1692,Ashland Community College,Theater,2.6,Edward Figgins,2.6,19,N/A,,,,1,,,,,,,1,1,,,,,,,,,146102
+511,1692,Ashland Community College,Economics,3.8,Tim Hosto,2.9,19,N/A,,,,1,,,,,,,,2,,,2,,,,1,,150028
+512,1692,Ashland Community College,Literature,2.3,Kevin Coots,4.7,19,N/A,,,,,,,,,,,,,,,,,,,,,160523
+513,1692,Ashland Community College,Communication,2.2,Amy Poteet,4.2,18,N/A,,,,,,,,1,,,,,,,1,,,,,1,164802
+514,1692,Ashland Community College,Biology,3.4,Alan Alley,3.7,18,N/A,,1,,1,1,2,1,,,,2,,4,1,1,,1,,,4,1186839
+515,1692,Ashland Community College,Biology,4.0,Jamie McCumbee,2.3,17,N/A,,,,,,,,,,,,,,2,1,,1,,,2,248107
+516,1692,Ashland Community College,Mathematics,3.5,Hossein Mohebbian,4.0,15,N/A,,,,,,,,,,,,1,,,1,,1,,,,179065
+517,1692,Ashland Community College,Mathematics,3.1,Cindy Shelton,4.5,15,N/A,1,,,4,1,,,1,,,,3,,1,1,2,3,,,1,256958
+518,1692,Ashland Community College,Chemistry,2.4,James Schimdt,4.2,13,N/A,,,,,,,,,,,,,,,2,2,,,,1,179054
+519,1692,Ashland Community College,English,2.5,Joe Napora,4.4,13,N/A,,,,1,,,,2,,,,,,,,1,,,,,225886
+520,1692,Ashland Community College,Psychology,3.1,Uma Swanson,2.4,13,N/A,,,,,,,,,,,,,,,,,,,,,234382
+521,1692,Ashland Community College,Mathematics,3.9,Richard Merritt,4.2,13,100%,,3,,2,,,,3,,,3,,,1,,,2,,,1,1737231
+522,1692,Ashland Community College,Religion,1.4,Ron Enders,4.8,12,N/A,,1,,,,,,1,,,,1,,,,,,,,,733815
+523,1692,Ashland Community College,Criminal Justice,4.3,Don O'Pell,3.6,11,N/A,,,,,,,,,,,,,,1,,,,1,,1,171756
+524,1693,Asnuntuck Community College,Fine Arts,2.2,Michael Demers,4.3,56,86%,,,,2,2,1,3,7,,,2,1,,1,5,4,,1,,,1556566
+525,1693,Asnuntuck Community College,English,3.5,Marilyn Turner,2.0,31,60%,,,,1,2,,1,,,,,,,1,4,,,,,1,605452
+526,1693,Asnuntuck Community College,English,2.7,John Sheirer,4.3,30,100%,1,,1,,5,,,7,,,,,,,2,2,2,,,,377201
+527,1693,Asnuntuck Community College,English,1.9,Bob Bergquist,4.8,26,N/A,,,,,,,,,,,,,,,1,,,,,,171430
+528,1693,Asnuntuck Community College,Psychology,1.9,Jean Egan,4.3,26,N/A,1,2,,3,1,1,,3,,,,1,,,,3,,,,,582656
+529,1693,Asnuntuck Community College,Communication,3.5,Wendy Nelson,4.0,26,50%,2,,,1,,,,3,,,,1,1,,4,,5,,,4,1255251
+530,1693,Asnuntuck Community College,Computer Science,2.0,Vince Motto,3.0,25,N/A,,,,,,,,,,,,,,,,,,,,,435136
+531,1693,Asnuntuck Community College,Mathematics,1.8,Michael Rood,5.0,25,N/A,1,2,,,,1,,,,,,1,,,,1,,,,,551407
+532,1693,Asnuntuck Community College,Business,2.1,Jim Wilkinson,4.0,23,88%,1,3,,1,1,4,,5,,,6,3,,,3,4,,,,,720192
+533,1693,Asnuntuck Community College,English,2.4,Joe Finckel,5.0,22,100%,2,1,,3,3,,,5,,,4,4,,,,5,,,,,1669807
+534,1693,Asnuntuck Community College,Biology,3.2,Michelle Coach,4.0,22,88%,,,,5,6,1,2,7,,,,,,,2,5,4,,,3,1457233
+535,1693,Asnuntuck Community College,English,2.8,Edwina Trentham,4.6,21,N/A,,,,,,,,,,,,,,,,,,,,,225383
+536,1693,Asnuntuck Community College,Business,3.6,Bill Searle,4.4,17,N/A,,,,,,,,1,,,1,,,,,1,,,,,550251
+537,1693,Asnuntuck Community College,Sociology,2.4,Laurie Chancey,4.5,14,100%,1,4,1,3,4,,1,3,,2,4,1,1,1,4,5,,,,,1876230
+538,1693,Asnuntuck Community College,Fine Arts,2.0,Tony Cirone,3.8,13,N/A,,,,2,1,,,,,,,,,1,,1,,,,,452363
+539,1693,Asnuntuck Community College,Mathematics,3.4,Pat H.,3.8,13,N/A,,,,,1,,,,,,,,,,,,1,,,,454210
+540,1693,Asnuntuck Community College,Computer Science,1.9,Cheryl Turgeon,4.5,13,N/A,,,,1,4,2,,4,,,,,,,3,,,,,,1248134
+541,1693,Asnuntuck Community College,History,4.0,Elle Van Dermark,3.5,13,29%,,,,1,,1,7,3,,,,,,6,1,,3,2,,3,1526186
+542,1693,Asnuntuck Community College,English,2.1,Bruce Johnson,4.8,12,N/A,,,,,1,,,1,,,,,,,,1,,,,,601356
+543,1693,Asnuntuck Community College,Psychology,3.1,Heather D''Orlando,4.5,12,80%,,2,,2,2,1,1,6,,,,3,,1,2,2,,,,2,1771250
+544,1695,Athens Technical College,Anatomy,4.2,Randall Fameree,4.0,100,82%,,5,1,12,6,7,10,2,,,1,3,3,1,2,6,17,,,6,896265
+545,1695,Athens Technical College,Mathematics,2.0,John Riggott,5.0,57,100%,1,1,,10,2,4,,9,2,,5,1,,,2,8,1,,,,856344
+546,1695,Athens Technical College,Anatomy,3.7,Lee Nichols,4.6,47,N/A,,6,1,1,,,1,1,,,3,1,1,,1,2,5,,,3,1311714
+547,1695,Athens Technical College,Psychology,2.5,Brenda Murphy,4.7,46,N/A,,1,,4,,,,3,,,6,2,,,1,3,1,,,,886138
+548,1695,Athens Technical College,History,3.6,Susan Larson,4.5,46,100%,3,1,,12,16,2,12,10,,,11,5,2,1,4,25,10,,,3,1751949
+549,1695,Athens Technical College,English,4.0,Marilyn Edwards,2.8,45,18%,1,1,,,,,5,,2,,,,5,2,2,,4,,3,8,827325
+550,1695,Athens Technical College,Criminal Justice,2.0,Mike Sellers,5.0,41,100%,,6,,5,2,,,2,,,6,5,,,7,10,,,,,1159598
+551,1695,Athens Technical College,Psychology,2.3,Barry Stennett,4.2,36,N/A,,1,,2,,1,4,,,,1,,,4,,1,,2,,,967429
+552,1695,Athens Technical College,Mathematics,3.5,Alysen Heil,2.5,35,N/A,,,,,1,,,,,,,,,3,1,,3,,1,6,816607
+553,1695,Athens Technical College,Mathematics,1.5,Melody Pike,4.9,35,N/A,,,1,17,4,1,,12,,,2,3,,,4,9,,,,,1587557
+554,1695,Athens Technical College,English,3.0,Dave Rathgeber,4.0,30,N/A,1,1,,3,2,,,7,,,,,,,1,1,,1,,4,967577
+555,1695,Athens Technical College,Psychology,1.9,Kimberly Morris,4.8,29,100%,,3,2,8,,4,1,4,,,1,3,,,5,7,,1,,,965747
+556,1695,Athens Technical College,English,2.5,Michelle Ritter,4.5,27,67%,,,,,3,,2,3,,,,,,,2,1,,1,1,4,803121
+557,1695,Athens Technical College,Microbiology,4.2,Margaret Chambers,3.7,26,N/A,,1,,1,,,3,1,,,,1,2,,,,3,,,7,1068964
+558,1695,Athens Technical College,Sociology,1.2,Brenda Beach,4.9,25,100%,2,2,,7,4,3,,8,,1,4,2,,,8,2,1,,,,1890074
+559,1695,Athens Technical College,Sociology,1.5,Rodney Parks,4.9,24,N/A,,,,1,,,,1,,,,,,,2,,,,,,1265529
+560,1695,Athens Technical College,English,2.5,Elizabeth Hoffman,4.7,24,N/A,,,,1,,,,2,,,,1,,,1,,,,,1,1310274
+561,1695,Athens Technical College,English,3.5,Susan Larson,4.5,24,100%,,6,,7,9,3,1,7,,,3,9,,1,2,8,1,,,2,1727946
+562,1695,Athens Technical College,Anatomy,4.6,Vanessa Williams,1.9,23,18%,1,1,9,,3,,9,,1,,,,4,,,,17,,5,17,2055539
+563,1695,Athens Technical College,English,3.6,Al Dixon,2.9,21,N/A,,,,,1,,1,1,,,,,,2,2,,2,,,6,717537
+564,1696,ATI Career Training Center,Physical Education,1.3,Mark Spreizer,5.0,3,N/A,,,,,,,,,,,,,,,,,,,,,1618657
+565,1698,ATI College of Health,Health Science,2.8,Alberto Perez,4.8,17,N/A,,,,,,,,,,,,,,,,,,,,,1115105
+566,1698,ATI College of Health,Science,3.7,Louis Jimenez,5.0,13,N/A,,,,,,,,,,,,,,,,,,,,,1283130
+567,1698,ATI College of Health,Psychology,3.3,Alex Milov,4.9,10,N/A,,,,,,,,,,,,,,,,,,,,,1323843
+568,1698,ATI College of Health,Health Science,5.0,Kibreab Ghebresilasse,1.7,5,N/A,,,,,,,,,,,,,,,,,,,,,1289750
+569,1698,ATI College of Health,Health Science,3.3,Carlos Gallostra,4.7,3,N/A,,,,,,,,,,,,,,,,,,,,,1434689
+570,1698,ATI College of Health,Health Science,1.0,Peggy Napoleon,5.0,3,N/A,,,,,,,,,,,,,,,,,,,,,1460574
+571,1698,ATI College of Health,Science,4.5,Catherine Dias,2.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1434691
+572,1698,ATI College of Health,Medicine,2.0,Aizhan Stuart-Valcarce,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1460565
+573,1698,ATI College of Health,Mathematics,1.0,Fred Gonzaga,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1460578
+574,1699,Atlanta Metropolitan State College,Psychology,2.3,Ricardo Frazer,3.8,53,71%,,4,,1,,7,4,3,,1,,2,3,,5,1,1,,2,1,1003441
+575,1699,Atlanta Metropolitan State College,Biology,4.1,Alvin Harmon,2.8,37,60%,,4,,1,2,,8,1,2,,2,2,,,1,4,2,,1,7,1259399
+576,1699,Atlanta Metropolitan State College,History,3.3,Kenja McCray,4.2,33,88%,1,3,,2,1,1,6,3,,,,2,1,,6,1,1,,,,1124875
+577,1699,Atlanta Metropolitan State College,Biology,3.4,Vasanta Chivukula,3.5,33,N/A,1,,,1,,,,5,,,,1,,1,1,2,,,,1,1393185
+578,1699,Atlanta Metropolitan State College,Biology,3.7,Bryan Mitchell,4.0,32,N/A,,,,,,,,,,,,,,,,1,,,,1,1068950
+579,1699,Atlanta Metropolitan State College,Computer Science,3.0,Babatunde Onabanjo,3.7,32,93%,,,,2,2,4,2,8,,,1,4,,12,3,9,,,,8,412976
+580,1699,Atlanta Metropolitan State College,Physical Education,1.4,Jonathan Kowal,4.9,30,100%,1,1,,4,7,8,,3,,2,6,1,1,1,1,2,,,,,1269112
+581,1699,Atlanta Metropolitan State College,Mathematics,3.1,James Dowdell,3.3,27,57%,,,,2,2,3,,1,,,7,,1,6,,1,5,,,3,1003428
+582,1699,Atlanta Metropolitan State College,Biology,2.7,Ossie Carney,4.6,26,N/A,,,,,,,,,,,,,,,,,,,,,1138358
+583,1699,Atlanta Metropolitan State College,Fine Arts,1.9,Jason Sweet,4.3,26,N/A,,,,,1,,,1,,,,,,,,,,,,,1197343
+584,1699,Atlanta Metropolitan State College,Mathematics,4.1,Gyuheui K Choi,1.9,25,17%,,,1,,,2,1,,2,,2,,,2,2,,1,,,3,914103
+585,1699,Atlanta Metropolitan State College,Sociology,2.6,Michelle Geisert,3.2,25,N/A,,,,,,4,2,2,,,,,,2,1,,2,,1,3,1003439
+586,1699,Atlanta Metropolitan State College,Biology,1.6,Morris Blasingame,5.0,23,N/A,,3,,1,3,3,,1,,,,1,,,2,2,,,,,1003411
+587,1699,Atlanta Metropolitan State College,History,3.5,Gregory Fuller,3.3,23,N/A,,,1,,,,6,1,,,,,1,1,7,,1,,,6,1335664
+588,1699,Atlanta Metropolitan State College,Biology,2.4,Brian Crawford,4.5,23,80%,1,4,,6,5,,7,6,,,,3,5,,1,4,3,,4,,1489325
+589,1699,Atlanta Metropolitan State College,Political Science,2.1,Vance Gray,4.8,22,N/A,,1,,,2,1,2,1,,,,,,,,2,,,,2,1577673
+590,1699,Atlanta Metropolitan State College,Mathematics,2.5,Shreyas Desai,4.2,21,N/A,,1,1,,,,,,,,,,,,,,1,,,1,280524
+591,1699,Atlanta Metropolitan State College,Accounting,3.3,A J Ananaba,2.3,21,N/A,,1,,,,,,,,1,,1,1,,,,,,,2,761921
+592,1699,Atlanta Metropolitan State College,English,2.5,Jerri Harmon,4.7,19,N/A,,,,,,,,,,,,,,,,,,,,,280522
+593,1699,Atlanta Metropolitan State College,English,1.9,Lisa Mallory,4.8,19,N/A,,1,,4,,,1,4,,,,2,,1,,2,2,,,1,752426

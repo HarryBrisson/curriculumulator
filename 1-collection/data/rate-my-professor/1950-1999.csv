@@ -1,0 +1,501 @@
+,campus_id,campus_name,dept,difficulty,name,quality,rating_count,retake,tag_accessibleoutsideclass,tag_amazinglectures,tag_bewareofpopquizzes,tag_caring,tag_cleargradingcriteria,tag_extracredit,tag_getreadytoread,tag_givesgoodfeedback,tag_gradedbyfewthings,tag_groupprojects,tag_hilarious,tag_inspirational,tag_lectureheavy,tag_lotsofhomework,tag_participationmatters,tag_respected,tag_skipclassyouwon'tpass,tag_somanypapers,tag_testheavy,tag_toughgrader,tid
+0,1951,Cuyahoga Community College (all campuses),Mathematics,2.5,Serita McGunia,4.8,172,100%,3,5,2,51,25,13,,31,,,2,25,,37,19,56,12,,,1,1603413
+1,1951,Cuyahoga Community College (all campuses),Mathematics,1.9,Alexander Torgov,4.4,101,88%,6,8,,13,18,1,1,13,,,,,1,6,6,24,3,,2,5,1619231
+2,1951,Cuyahoga Community College (all campuses),Mathematics,4.0,Dottie Walton,2.3,101,12%,,2,,2,5,,1,2,4,,,1,1,15,2,1,12,,12,40,872771
+3,1951,Cuyahoga Community College (all campuses),Psychology,2.4,Alan Gerding,4.7,99,95%,2,16,,2,4,13,2,6,1,,15,7,,1,5,7,3,,1,3,1112198
+4,1951,Cuyahoga Community College (all campuses),Earth Science,2.6,Michelle Davis,4.8,93,97%,16,20,,39,20,42,12,38,,,3,26,1,17,,18,,2,,1,2011300
+5,1951,Cuyahoga Community College (all campuses),Mathematics,3.3,Malek Abou-Diab,3.4,88,64%,3,,7,3,3,2,3,3,2,1,,,6,,2,,7,1,,7,1004697
+6,1951,Cuyahoga Community College (all campuses),Anthropology,2.0,Paul Hanson,4.8,82,100%,4,9,4,17,4,2,13,25,,1,4,10,,2,11,15,1,,,2,1286284
+7,1951,Cuyahoga Community College (all campuses),Mathematics,2.9,Kenneth Washington,3.9,81,75%,1,2,6,1,4,,,3,,,1,5,1,3,1,5,9,,2,9,870051
+8,1951,Cuyahoga Community College (all campuses),Nursing,3.1,Deborah Crider,2.9,80,31%,,5,,7,1,,10,3,3,1,2,4,10,2,1,6,7,2,5,5,1023222
+9,1951,Cuyahoga Community College (all campuses),English,3.3,Tracy Greene,2.9,79,50%,,2,,,3,4,1,8,,1,9,3,11,3,5,1,13,10,,17,229891
+10,1951,Cuyahoga Community College (all campuses),English,2.6,Pamela Hardman,4.4,74,75%,2,1,,6,11,2,2,25,,,2,4,,6,4,9,4,2,,7,419202
+11,1951,Cuyahoga Community College (all campuses),English,3.0,Mary Hurst,4.9,72,N/A,,1,,1,,,,3,,,1,4,,1,,3,4,,,,664695
+12,1951,Cuyahoga Community College (all campuses),Biology,2.4,Joe Koch,4.8,68,100%,7,33,,16,15,8,,13,1,1,3,4,1,,2,30,7,,1,2,1843348
+13,1951,Cuyahoga Community College (all campuses),Political Science,3.5,Shawn Easley,4.0,68,57%,3,6,,5,1,2,8,3,1,,3,1,11,5,,1,3,,1,9,689341
+14,1951,Cuyahoga Community College (all campuses),Philosophy,1.6,Mary Jane Horton,4.5,68,89%,,,,7,17,2,17,23,1,,,5,,3,4,7,,2,4,2,949941
+15,1951,Cuyahoga Community College (all campuses),History,3.6,Mary Hovanec,3.4,67,N/A,,,,,2,,3,1,,1,,,1,3,5,1,2,1,,5,353313
+16,1951,Cuyahoga Community College (all campuses),Mathematics,3.4,Mike McCraith,4.0,67,52%,5,2,,3,4,1,,6,,2,11,1,1,11,2,2,8,,6,12,804767
+17,1951,Cuyahoga Community College (all campuses),Psychology,3.0,Nahla Harik-Williams,3.7,67,44%,1,4,,3,4,1,7,3,,1,1,1,4,,3,2,3,1,1,4,398976
+18,1951,Cuyahoga Community College (all campuses),Business,2.0,Rudy Stralka,4.8,66,100%,,4,,2,1,,,2,,2,3,3,,1,7,2,1,,,,475343
+19,1951,Cuyahoga Community College (all campuses),Social Science,2.3,Rachel Stehle,4.5,65,100%,1,4,,1,6,4,8,7,,,2,,,3,3,3,,2,1,,803864
+20,1953,Cuyamaca College,Psychology,2.6,Steve Weinert,4.3,233,98%,3,23,,19,5,2,8,12,4,3,48,11,3,2,2,23,3,,,4,52577
+21,1953,Cuyamaca College,Science,4.1,Laurie LeBlanc,2.6,168,30%,,2,,,1,1,7,1,1,,1,1,2,13,4,1,29,,1,42,102688
+22,1953,Cuyamaca College,Computer Science,2.4,David Raney,4.4,158,70%,1,,,16,20,11,2,27,,,1,,,19,4,4,1,2,2,7,97119
+23,1953,Cuyamaca College,Mathematics,3.5,Terrie Nichols,3.3,147,80%,,1,5,1,1,1,1,1,,5,4,1,1,8,4,2,10,,,7,52768
+24,1953,Cuyamaca College,English,2.9,Seth Slater,3.3,130,70%,,8,1,5,5,1,12,12,5,4,5,6,5,7,10,9,11,8,2,12,1029734
+25,1953,Cuyamaca College,Communication,1.8,Nancy Jennings,4.5,125,91%,1,7,1,7,6,4,,10,2,5,1,12,1,1,8,10,2,,1,2,52586
+26,1953,Cuyamaca College,Biology,4.0,Kathryn Nette,3.0,111,21%,1,,2,2,,,5,1,,1,,,2,3,,2,5,8,7,17,52777
+27,1953,Cuyamaca College,Communication,1.7,Nanette Wier,4.8,110,93%,2,2,,13,5,1,,14,1,,7,7,,,8,8,4,,,1,91784
+28,1953,Cuyamaca College,Mathematics,2.7,Bryan Elliott,4.3,103,88%,2,5,,5,5,4,1,6,,2,3,1,3,8,6,3,2,1,1,2,52584
+29,1953,Cuyamaca College,History,3.8,Suzanne Haber,2.8,96,69%,1,,,,3,5,3,7,,,,,2,4,,,,,2,4,52579
+30,1953,Cuyamaca College,Mathematics,3.2,Scott Eckert,3.7,96,65%,4,,2,9,3,1,1,4,3,,,3,3,16,2,4,8,2,,9,84331
+31,1953,Cuyamaca College,Computer Information Systems,2.1,Timothy Phillips,4.8,90,100%,6,2,,7,5,,1,5,,,4,6,,2,1,6,,,,,1071650
+32,1953,Cuyamaca College,Economics,2.9,Anthony Zambelli,3.4,86,N/A,,,,,,,,,,,,,,,,,,,,,67080
+33,1953,Cuyamaca College,English,2.8,Lindy Brazil,4.5,83,71%,,3,,6,2,4,3,9,,,,3,1,5,2,5,1,3,,3,187597
+34,1953,Cuyamaca College,English,2.6,Kimberly Wolfe,4.8,81,88%,,4,,7,3,3,3,11,,,11,2,,6,,,2,6,1,2,64992
+35,1953,Cuyamaca College,Mathematics,2.1,Dan Curtis,4.4,81,100%,2,14,,8,10,3,4,9,,1,2,,1,5,1,9,11,,,2,905299
+36,1953,Cuyamaca College,Mathematics,2.2,Eric Preibisius,4.8,78,100%,1,3,,7,1,4,,1,,2,2,1,,3,2,2,3,,,,52771
+37,1953,Cuyamaca College,English,3.1,Tim Pagaard,4.5,78,N/A,,1,,1,,,4,4,,,5,1,,2,,3,,,,1,52775
+38,1953,Cuyamaca College,Philosophy,3.8,Paul Carmona,3.0,77,N/A,,1,1,,,,6,,,,,,2,3,,,1,,1,3,38669
+39,1953,Cuyamaca College,Accounting,2.5,Christopher O'Byrne,4.2,76,60%,,3,,4,,,,2,,,2,,,1,1,1,1,,2,,65046
+40,1954,Cypress College,Sociology,2.7,Larry Curiel,4.5,264,73%,2,46,5,6,16,,8,8,1,,26,37,19,,1,48,17,,16,25,60158
+41,1954,Cypress College,History,2.7,David Halahmy,4.8,259,90%,21,45,1,19,17,2,17,17,1,1,2,26,10,,2,38,22,,4,10,254488
+42,1954,Cypress College,Political Science,2.5,Peter Mathews,3.3,202,60%,5,12,,8,9,18,18,4,4,,2,20,20,2,4,11,4,,3,7,219021
+43,1954,Cypress College,Sociology,3.0,Regina Rhymes,3.8,201,81%,4,4,,5,20,1,29,23,9,6,4,4,9,11,10,6,3,6,13,6,256452
+44,1954,Cypress College,History,3.4,Michael Flores,3.3,198,63%,8,1,,2,9,2,47,25,3,3,11,4,3,22,13,6,17,19,1,41,221914
+45,1954,Cypress College,Psychology,2.3,Carlos Sandoval,4.3,181,69%,1,13,21,4,5,3,32,6,2,,23,6,4,2,3,8,18,1,2,6,308228
+46,1954,Cypress College,Psychology,1.4,Susan Johnson,4.5,168,97%,2,8,,10,5,5,5,7,3,5,16,7,1,2,4,12,6,,1,,348207
+47,1954,Cypress College,History,1.7,Carol Lewis,4.6,160,83%,1,25,,6,16,29,4,8,2,,13,5,11,,1,14,9,1,7,1,230386
+48,1954,Cypress College,Accounting,3.2,Ann Sheridan-Solis,4.5,154,93%,9,7,2,29,8,12,24,8,,17,,10,2,43,39,40,43,,1,3,1069236
+49,1954,Cypress College,History,3.0,Brian Seiling,4.6,150,86%,2,20,,7,5,1,1,7,1,,28,4,8,,3,14,18,2,1,7,145649
+50,1954,Cypress College,Physics,2.5,Michael Frey,4.3,145,89%,7,12,2,16,2,12,6,7,2,1,13,17,8,3,3,17,20,,2,4,432049
+51,1954,Cypress College,Geography,2.6,Armando Mendoza,4.0,140,74%,5,8,1,5,7,12,6,5,2,1,10,1,8,1,5,3,19,2,,7,345653
+52,1954,Cypress College,Philosophy,2.6,Greg Cavin,4.2,137,68%,,4,,7,6,1,12,12,,,1,7,11,,4,6,14,4,,5,431176
+53,1954,Cypress College,Communication,2.3,John Lambros,4.5,137,76%,,7,,1,7,1,1,7,1,,15,3,8,,4,1,5,1,1,10,152190
+54,1954,Cypress College,Anthropology,3.6,Becky Floyd,3.6,136,38%,2,3,,1,4,20,20,,,2,1,2,15,5,6,3,11,2,6,16,612455
+55,1954,Cypress College,Political Science,2.5,Gloria Badal,3.9,136,83%,7,8,,11,10,12,25,1,4,,5,6,5,2,20,12,9,2,7,11,1010070
+56,1954,Cypress College,Philosophy,2.9,Will Heusser,3.9,134,83%,1,3,,10,20,28,26,18,1,,8,5,6,5,27,2,5,,2,11,243231
+57,1954,Cypress College,Ethnic Studies,3.7,Daniel Lind,4.3,132,46%,1,20,1,2,2,7,35,3,,,6,5,20,1,3,3,15,3,1,24,512457
+58,1954,Cypress College,Radiological Sciences,2.4,Michael Frianeza,4.9,130,100%,6,17,,29,8,7,1,12,,,12,14,,,4,25,8,,1,3,1511701
+59,1954,Cypress College,English,2.8,Christie Diep,3.8,122,82%,,5,,3,9,,20,6,,1,,4,2,8,9,6,,3,1,4,80183
+60,1956,Dabney S. Lancaster Community College,English,3.5,Anne Henley Rowe,4.3,29,96%,4,3,,10,6,2,,24,,2,6,2,,4,8,6,6,1,,3,1951147
+61,1956,Dabney S. Lancaster Community College,English,3.8,Tondalaya Vanlear,2.8,16,N/A,,,,1,1,,2,,,,,1,,2,,,,3,,5,245782
+62,1956,Dabney S. Lancaster Community College,Social Science,2.6,John Barnes,4.2,14,N/A,,,,,,,,,,,,,,,,,,,,,48283
+63,1956,Dabney S. Lancaster Community College,Computer Science,2.4,Sam Benke,5.0,9,N/A,2,,,3,,,,1,,,2,3,,,,3,,,,,855143
+64,1956,Dabney S. Lancaster Community College,English,2.5,Joe Shaver,3.4,8,N/A,1,,,,,,,1,,,,,,,,1,,,,,245780
+65,1956,Dabney S. Lancaster Community College,Accounting,1.7,Paula Seagle,3.9,7,N/A,,,,,,,,,,,,,,,,,,,,,292636
+66,1956,Dabney S. Lancaster Community College,English,3.1,Mattie Smith,3.4,7,N/A,,,,,,,,1,,,,1,,,1,,,,,,1321001
+67,1956,Dabney S. Lancaster Community College,Biology,3.3,Stan Willenbring,3.0,7,N/A,,,,,,,1,,,,,,,,,,,,,2,1516358
+68,1956,Dabney S. Lancaster Community College,Mathematics,2.7,Gary Appel,4.0,4,N/A,,,,,,1,,,,,1,,,,,,1,,1,1,641099
+69,1956,Dabney S. Lancaster Community College,Criminal Justice,1.7,Gary Boyer,4.7,3,N/A,,,,,,1,,,,,,,,,,,1,,,1,450967
+70,1956,Dabney S. Lancaster Community College,Psychology,3.3,Tina Dressler,4.2,3,N/A,,,,,,,,,,,,,,,,,,,,,1166536
+71,1956,Dabney S. Lancaster Community College,Psychology,3.0,Rob Goralewicz,5.0,3,N/A,,,,,,,,1,,,1,1,,,,,,,,,1462898
+72,1956,Dabney S. Lancaster Community College,Mathematics,1.7,Stephen Nicholson,4.7,3,N/A,,,,1,,,,1,,,,,,2,2,1,1,,,,1802711
+73,1956,Dabney S. Lancaster Community College,Education,2.7,Joe Walker,4.3,3,N/A,,,,1,,,,2,,,,1,,,2,3,,,,,2155815
+74,1956,Dabney S. Lancaster Community College,Nursing,2.5,Lynn McAllister,4.3,2,N/A,,,,,,,,,,,,,,,,,,,,,1674459
+75,1956,Dabney S. Lancaster Community College,Accounting,3.0,Ralph Sass,3.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1721475
+76,1956,Dabney S. Lancaster Community College,Education,1.0,Markus Maier,5.0,1,N/A,,,,1,,,,,,,,1,,,1,,,,,,1950228
+77,1956,Dabney S. Lancaster Community College,English,1.0,Jen Coleman,3.5,1,N/A,,,1,,,,,,,,,,,,1,,,,,,2077980
+78,1956,Dabney S. Lancaster Community College,Culinary Arts,2.0,Phillip McManus,4.5,1,N/A,,,,,1,,,1,,,,,,,1,,,,,,2139219
+79,1957,Dakota County Technical College,Communication,3.4,Anna Verhoye,3.7,44,63%,1,3,,5,4,,1,14,2,2,1,9,2,3,13,7,1,,2,5,1482815
+80,1957,Dakota County Technical College,Computer Science,4.0,Judy Suddendorf,3.1,22,63%,,1,,1,2,,1,,,,,,,4,,,8,,,7,831592
+81,1957,Dakota County Technical College,English,2.4,Mark Grant,4.8,19,N/A,1,2,,,,,,2,,,2,,,,,3,1,,,,663883
+82,1957,Dakota County Technical College,Graphic Arts,1.8,Mary Belanger,2.8,14,N/A,1,,,,,,,,,,,,,,,,1,,,,680026
+83,1957,Dakota County Technical College,Psychology,2.5,Joe Eells,3.6,12,80%,1,,,,1,,2,1,,1,,,1,,3,1,,1,,,680031
+84,1957,Dakota County Technical College,Computer Science,3.1,Betty Krueger,3.9,11,N/A,,,,,2,,1,2,,,,,,1,1,1,,,,1,461020
+85,1957,Dakota County Technical College,Graphic Arts,2.5,DeAnn Engvall,3.8,11,N/A,1,,,,2,,,2,,,,,,1,,1,,,,,554805
+86,1957,Dakota County Technical College,Biology,3.7,Cassandra Moe,3.1,11,N/A,1,,,1,,,,1,,,1,,,1,1,,1,1,,1,740221
+87,1957,Dakota County Technical College,Computer Science,2.0,Kathy Niebur,4.8,11,N/A,,,,,1,,,4,,,,2,,,,3,,,,,1250022
+88,1957,Dakota County Technical College,English,1.8,Brett Kolles,5.0,10,N/A,,1,,1,,,,3,,,,1,,1,,2,,,,,1553342
+89,1957,Dakota County Technical College,Biology,3.7,Kristine Squillace Stenlund,2.9,10,N/A,,,,2,,1,,1,,1,,,,2,,1,1,1,,3,1441254
+90,1957,Dakota County Technical College,Health Science,2.6,Susan Johanson,4.0,9,N/A,,2,,,1,,,1,,,,1,,1,,1,1,,,1,1161961
+91,1957,Dakota County Technical College,Nursing,3.8,Carol Buttz,3.2,9,N/A,,,,,,,,,,,,,,,,,,,,,1250034
+92,1957,Dakota County Technical College,Marketing,3.1,Carie Statz,4.0,8,N/A,,,,,,,,,,,,,,,,,,,,,680066
+93,1957,Dakota County Technical College,Computer Science,2.1,Darryl Erickson,4.2,8,N/A,,,,3,1,,,1,,,,2,,,1,2,,,,,691263
+94,1957,Dakota County Technical College,Business,2.4,Charlotte Kodner,4.5,8,N/A,,1,,2,1,,,3,,,,,,,,2,,,,,1183605
+95,1957,Dakota County Technical College,Computer Science,2.6,Nathan Blommel,4.9,8,N/A,,,,2,1,,,1,,,,1,,,,2,,,,,1580954
+96,1957,Dakota County Technical College,Biology,1.9,Kyle Forgette,4.3,8,N/A,,,,,,,,,,,,,,,,,,,,,1654551
+97,1957,Dakota County Technical College,Graphic Arts,2.4,Peter Skoro,3.6,7,N/A,,,,,1,,,,,,,1,,,,1,,,,,680049
+98,1957,Dakota County Technical College,Sociology,2.7,Denise Strenger,3.9,7,N/A,,,,,1,1,1,1,,1,,,,,,,1,,,1,1701216
+99,1958,Dallas Institute of Funeral Service,Science,3.7,Wayne Cavender,3.4,9,N/A,,,,,,,,,,,,,,,,,,,,,666048
+100,1958,Dallas Institute of Funeral Service,Business,2.5,Robert Clark,3.6,8,N/A,,,,,,,,,,,,,,,,,,,,,730734
+101,1958,Dallas Institute of Funeral Service,Mortuary Science,2.5,Brian Mullins,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1818839
+102,1958,Dallas Institute of Funeral Service,Business,1.0,Pam Swindling,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,940022
+103,1959,Danville Area Community College,Economics,2.9,Steve Downing,4.3,22,N/A,,1,,,,,,,,,1,,,,,,,,,,268588
+104,1959,Danville Area Community College,Biology,3.4,John Hoagland,3.6,18,N/A,,,,,,,,,,,,,,,,,,,,,416448
+105,1959,Danville Area Community College,Mathematics,3.5,Alan Thompson,4.3,16,N/A,,,,1,,1,,2,,,,,,1,,1,3,,,1,663097
+106,1959,Danville Area Community College,Philosophy,3.8,Greg Holden,2.9,15,N/A,,1,,,,,1,,,,,,2,,,,2,1,,1,770525
+107,1959,Danville Area Community College,English,3.7,Edward Gallagher,2.9,15,N/A,,,,,1,,1,1,1,,1,,1,,,2,,2,,3,672235
+108,1959,Danville Area Community College,History,2.9,Rich Pate,4.8,14,N/A,,,,,,,,1,,,,1,,,,1,,,,,336930
+109,1959,Danville Area Community College,Biology,2.7,Wendy Brown,4.5,14,N/A,,1,,2,1,,1,,,,,,,,,1,1,,,,416453
+110,1959,Danville Area Community College,Psychology,2.2,Tom Solon,3.4,13,N/A,,,,,,,,,,,,,,,,,,,,,416449
+111,1959,Danville Area Community College,English,4.2,Nancy McCoy,2.5,12,N/A,,,,,,,,,,,,,,,,,,,,,268594
+112,1959,Danville Area Community College,Science,3.5,Kathy Sturgeon,4.3,12,N/A,,,,,,,,,,,,,,,,,,,,,730981
+113,1959,Danville Area Community College,Agriculture,1.5,Craig Potter,4.6,11,N/A,,,,,,,,,,,1,,,,,,,,,,600415
+114,1959,Danville Area Community College,Accounting,3.9,Lyle Hicks,2.7,10,N/A,,,,,,,,,,,,,,,,,,,,,560439
+115,1959,Danville Area Community College,Biology,3.4,Ann Muench,3.7,9,N/A,,,,,,,1,,,,,,,,,,1,,,1,525860
+116,1959,Danville Area Community College,Mathematics,3.4,Quen Chen,2.9,9,N/A,,,,,1,,,,,,1,,,1,,,,,,,663098
+117,1959,Danville Area Community College,Political Science,3.0,Chuck Hantz,4.1,8,N/A,,,,,,,,,,,,,,,,,,,,,416459
+118,1959,Danville Area Community College,Physics,3.8,Don York,3.2,8,N/A,,,,,,,,,,,,,,,,,,,,,770604
+119,1959,Danville Area Community College,Mathematics,3.6,Eric Rayburn,3.0,7,N/A,1,,,,,,,1,,,,,,,,,,,1,,731000
+120,1959,Danville Area Community College,Chemistry,3.0,Richard Christman,3.4,6,N/A,,,,,,,,,,,,,,,,,,,,,416447
+121,1959,Danville Area Community College,Fine Arts,3.3,Jamie Berthel,3.9,6,N/A,,,,,,,1,1,,,,,1,,2,,,,,1,740042
+122,1959,Danville Area Community College,English,2.7,Ryan Stone,4.2,6,N/A,,,,,,,,,,,,,,,,,,,,,1132783
+123,1960,Danville Community College,Religion,3.6,Juan Carlos Rey,4.8,56,91%,2,6,1,1,2,,1,3,,,3,2,1,,6,5,1,,1,,1308154
+124,1960,Danville Community College,English,2.5,Sherry Gott,4.1,20,N/A,,,1,1,,,1,,,,,1,,,1,,,,,2,655351
+125,1960,Danville Community College,Physics,4.0,Mukesh Chhajer,3.1,19,N/A,,,,,,,,,,,,,,1,,1,1,,2,4,1200200
+126,1960,Danville Community College,Mathematics,3.6,Constantine Terzopolus,3.1,16,N/A,,,,2,3,,,,1,,,,1,,,,4,,1,4,1042665
+127,1960,Danville Community College,Chemistry,3.3,Jonathan Stoddard,3.6,16,75%,1,1,,2,2,,2,1,,1,3,,5,,2,3,5,,1,3,1796596
+128,1960,Danville Community College,Sociology,2.6,Vickie Taylor,4.2,15,N/A,,2,,1,1,,,,,,4,2,,,2,2,1,,,,638962
+129,1960,Danville Community College,History,3.0,Mark Wallace,4.5,15,N/A,,,,,,,,1,,,,,,,,,,,,1,1136993
+130,1960,Danville Community College,English,2.6,Carmen Eichman,4.7,14,N/A,,,,,,,,1,,,,,,,,,,,,1,868186
+131,1960,Danville Community College,Biology,2.8,Mark Sanderford,4.8,14,N/A,,,,,,,,,,,,,,,,,,,,,897487
+132,1960,Danville Community College,History,2.7,Ana Ruiz-Fodor,2.7,14,N/A,,1,1,1,,2,3,1,,,,,1,,2,,,,,1,1375652
+133,1960,Danville Community College,English,2.0,Ted Maier,4.8,13,N/A,1,1,,2,1,,1,1,,,1,2,,,2,,1,,,,1443683
+134,1960,Danville Community College,Criminal Justice,3.5,John Wilt,2.3,11,N/A,,,,,,,2,,,,,,,1,,,2,1,,3,674504
+135,1960,Danville Community College,History,2.8,Kinney Rorrer,5.0,10,N/A,,,,,,,,,,,,,,,,,,,,,333146
+136,1960,Danville Community College,Computer Science,2.1,Charlie Adams,4.1,9,N/A,,,,,,,,,,,,,,,,,,,,,638958
+137,1960,Danville Community College,Mathematics,4.6,Jue-Ling Tai,1.9,9,N/A,,,,,,,,,,,,,1,1,,,1,,,4,1221553
+138,1960,Danville Community College,Geology,1.6,Joel Gregory,4.6,9,N/A,,1,,,3,,,,,,,3,1,,1,3,,,,,1592606
+139,1960,Danville Community College,Biology,4.1,Christopher Pantazis,5.0,9,100%,,5,,1,,,1,3,,,5,3,1,,1,2,,2,,2,1982525
+140,1960,Danville Community College,Sociology,1.8,Meadors Helen,4.4,8,N/A,,,,,,1,1,,,,,,1,,,,,,,,191738
+141,1960,Danville Community College,Humanities,1.1,Donald Bowden,3.5,8,N/A,,1,,,,,,,,,,,,,,,,,,,734088
+142,1960,Danville Community College,Biology,3.8,David Baflour,4.9,8,N/A,1,1,,1,,,1,1,,,1,,1,,,,2,,3,,1002593
+143,1961,Darton State College,Political Science,1.7,Roger Marietta,4.7,60,75%,1,1,5,7,2,10,2,3,1,,8,2,,,4,5,1,,,1,109034
+144,1961,Darton State College,English,4.3,Ronald (Wayne) Partridge,3.8,44,67%,,,1,,5,1,8,11,,,1,,,1,2,8,6,3,1,10,1691499
+145,1961,Darton State College,History,2.3,David Latona,4.3,38,100%,1,2,,2,3,2,3,5,,,,,1,,2,2,4,,1,1,723835
+146,1961,Darton State College,Biology,2.7,Richard Foreman,4.5,35,100%,3,4,2,12,5,5,1,15,,,6,1,2,2,3,4,,,,,1455493
+147,1961,Darton State College,Biology,3.2,Lyndasue Crowe,4.7,33,N/A,,,,,1,,,1,,,,,1,,1,1,,,,2,129122
+148,1961,Darton State College,Political Science,2.4,Sarah Kuck,4.8,33,100%,,2,,1,7,,,4,,,2,3,1,,1,6,3,,,,1195914
+149,1961,Darton State College,English,2.3,Talia Ashley,4.9,33,N/A,,,,,,,,,,,,,,,,,,,,,1430577
+150,1961,Darton State College,Biology,3.9,Douglas Wyatt,3.0,27,N/A,,1,,,,,,,,,,,,,,1,1,,,,449528
+151,1961,Darton State College,History,3.1,Richard Haydel,4.5,25,N/A,,,,,,,,,,,,,,,,,,,,,346041
+152,1961,Darton State College,Economics,4.1,Aaron Johnson,2.0,24,17%,,,3,1,,1,3,1,,,,,4,3,,,,,2,7,1152366
+153,1961,Darton State College,Mathematics,2.8,Tanya O'Keefe,4.7,22,N/A,,,,,,,,,,,,,,,,,,,,,431000
+154,1961,Darton State College,Biology,2.6,Alan Wilson,4.3,22,N/A,,3,,1,1,,,,1,1,6,2,1,,1,3,1,,,3,1046054
+155,1961,Darton State College,English,3.0,Madison Brown,4.0,22,64%,1,,,5,5,1,1,7,,,,1,3,1,2,2,,,,3,1556063
+156,1961,Darton State College,English,3.7,Jamie Barker,4.8,21,100%,1,3,,3,3,,2,2,,,1,2,,,2,3,6,,,4,1661388
+157,1961,Darton State College,English,2.1,Ulf Kirchdorfer,4.8,20,100%,1,,,5,3,,,10,1,,2,7,,,1,2,,,,,705507
+158,1961,Darton State College,Mathematics,2.2,Brad Young,4.8,20,N/A,,1,,2,1,,,1,,,1,,,,,,,,,,1241606
+159,1961,Darton State College,Biology,4.3,Josie Moore,2.7,20,N/A,,,,1,1,,4,,,,2,1,5,,1,,3,,1,9,1452438
+160,1961,Darton State College,Humanities,1.5,Jodie Kretzer,4.6,20,100%,1,2,,9,5,2,,14,,,1,3,,1,5,6,,,,,1938682
+161,1961,Darton State College,Foreign Languages,3.1,Shigeru Tanaka,4.7,19,80%,1,,,4,,,,5,,,1,2,,3,6,1,,,,1,285964
+162,1961,Darton State College,Nursing,4.1,Latrona Lanier,3.5,18,N/A,,,,,,,,,,,,,,1,1,,1,,,1,1459083
+163,1962,Davenport University-Central Region,Computer Science,2.9,Lonnie Decker,3.8,15,N/A,,,,,,,,,,,,,,,,,,,,,90149
+164,1962,Davenport University-Central Region,Communication,2.4,Greg Wright,4.2,11,N/A,,,,3,1,,1,1,,,3,,,1,1,2,,,,1,1606949
+165,1962,Davenport University-Central Region,Biology,4.2,Betsy Diegel,3.0,10,N/A,,,,,,,,,,,,,,,,,,,,,913427
+166,1962,Davenport University-Central Region,Humanities,1.9,Robert Shubitowski,4.2,9,N/A,,,,,,,,,1,,,,,,1,,,1,,,61519
+167,1962,Davenport University-Central Region,Biology,4.5,Shelley Patterson,2.4,8,N/A,,,,,,,,,,,,,,,,,,,,,600688
+168,1962,Davenport University-Central Region,Ethnic Studies,2.7,Karen Willing,5.0,8,N/A,1,,,1,,,,,,,,,,,,1,,,,,616394
+169,1962,Davenport University-Central Region,Computer Science,2.3,Chad Dewey,4.9,6,N/A,,1,,1,,,,,,,,,,,,1,,,,,1508664
+170,1962,Davenport University-Central Region,Computer Science,3.7,Victor Wilkinson,4.0,4,N/A,1,,,,2,,,,,,,,,,,1,1,,,1,1831246
+171,1962,Davenport University-Central Region,Nursing,2.7,Denise Lipscomb,5.0,3,N/A,,,,,1,,,1,,,,,,,,1,,,,,841239
+172,1962,Davenport University-Central Region,Health Science,1.7,Ruth Taylor,5.0,3,N/A,,,,1,,,,,,,,,,,,1,,,,,845881
+173,1962,Davenport University-Central Region,Management,1.7,Merle Davis,5.0,3,N/A,,,,,,,,,,,,,,,,,,,,,863691
+174,1962,Davenport University-Central Region,Biology,2.3,Robert Niemi,4.8,3,N/A,,,,,,,,,,,,,,,,,,,,,1227815
+175,1962,Davenport University-Central Region,Biology,2.7,Melissa Haswell,4.8,3,N/A,1,,,1,,,,2,,,,,,1,1,,,,,,1249599
+176,1962,Davenport University-Central Region,English,2.7,Ryan Donlan,4.2,3,N/A,,,,,,,,,,,,,,,,,,,,,1414133
+177,1962,Davenport University-Central Region,Mathematics,2.3,Debbie Steiner,4.8,3,N/A,,,,,,,,,,,,,,,,,,,,,1608395
+178,1962,Davenport University-Central Region,Mathematics,3.0,Scott Slancik,3.7,3,N/A,,,,,,,,,,,,,,,,,,,,,1683338
+179,1962,Davenport University-Central Region,Biology,2.0,Misty Sutton,5.0,3,N/A,,1,,,,2,,1,,,2,,,,,,,,,,1908153
+180,1962,Davenport University-Central Region,Nursing,3.3,Sarah Brooks,4.7,3,N/A,2,,,1,,,,1,,,,,,,,3,1,,,,2111726
+181,1962,Davenport University-Central Region,Nursing,3.5,Mary Stewart,3.5,2,N/A,,,,,,,,,,,,,,,,,,,,,989857
+182,1962,Davenport University-Central Region,Computer Science,2.0,Cassandra Chasnis,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1180911
+183,1963,Davidson County Community College,Physical Ed,3.9,Jerry Loflin,2.5,34,42%,1,,,2,,,6,2,2,,,1,3,1,8,3,17,,3,21,670522
+184,1963,Davidson County Community College,Sociology,3.1,Natasha Sessoms,3.2,28,N/A,,,,,,,,,,,,,,,,,,,,,1708837
+185,1963,Davidson County Community College,Psychology,3.9,Donnell Griffin,3.2,27,N/A,,,1,1,1,,5,2,,,1,2,1,2,4,,3,1,,8,794686
+186,1963,Davidson County Community College,Computer Science,3.3,Matt Huntanar,4.0,24,N/A,,,,,,,,,,,,,,,,,,,,,141010
+187,1963,Davidson County Community College,English,3.2,Catherine Drader,4.5,23,100%,1,,,8,,2,2,3,,2,2,8,,1,5,2,1,,,,1246727
+188,1963,Davidson County Community College,Education,2.1,Susan Scarboro,4.0,21,60%,1,,,3,,,,2,,,1,3,,2,,4,,1,,1,419442
+189,1963,Davidson County Community College,History,2.8,Gerald Bosch,3.7,17,N/A,1,,,1,3,,2,1,,,2,,3,,1,1,,2,,1,790361
+190,1963,Davidson County Community College,English,3.4,Jon Foster,2.4,17,40%,,,,1,1,1,,4,,,1,1,,4,1,2,2,6,,6,1019853
+191,1963,Davidson County Community College,Mathematics,3.5,Gloria Johnson,3.3,16,50%,2,,,1,1,,,3,,2,,,,1,1,1,3,1,,5,419450
+192,1963,Davidson County Community College,Biology,2.9,Dana Jafroodi,4.4,15,N/A,,,,,,1,,1,,,,1,,,,,,,,1,230500
+193,1963,Davidson County Community College,Computer Science,2.2,Jon Casteel,3.0,15,N/A,,,,,,,,,,,,,,,,,,,,,454423
+194,1963,Davidson County Community College,English,3.2,Jo Delossantos,4.0,13,N/A,,,,,,,,1,,,,,,,,,,,,,790370
+195,1963,Davidson County Community College,Biology,3.6,Joseph Felts,3.2,13,N/A,,,,,,,5,,,1,,,1,1,2,,1,,,3,1233137
+196,1963,Davidson County Community College,Psychology,3.4,Barry Johnson,3.5,13,80%,2,3,,1,2,,3,,1,,5,2,2,1,1,3,1,,,3,1709719
+197,1963,Davidson County Community College,Communication,2.9,Sylvia Walters,3.9,12,N/A,,,,2,1,,,3,,1,,,,,3,,1,1,,2,792116
+198,1963,Davidson County Community College,Biology,2.6,Alan Newton,4.9,12,100%,1,1,3,4,3,2,,1,,1,1,,3,,1,,6,,,,1827984
+199,1963,Davidson County Community College,Psychology,3.0,Julie Grimes,4.3,11,N/A,,1,,,,,,1,,,1,1,,,,,,,,1,1435407
+200,1963,Davidson County Community College,Biology,4.0,Patricia Alfing,3.5,11,80%,,,,2,,2,3,1,,,,,2,,,1,2,,1,2,1708269
+201,1963,Davidson County Community College,Business,3.8,Dorsey Dyer,2.6,10,N/A,,,,,,,,,,,,,,,,,,,,,419447
+202,1963,Davidson County Community College,English,2.3,Dana Hatcher,5.0,10,N/A,,,,,,,,,,,,,,,,,,,,,419449
+203,1965,Dawson Community College,Criminal Justice,4.0,Holly Dershem-Bruce,2.9,9,N/A,,,,,,1,,1,,,,,,1,2,,1,1,,2,1045579
+204,1965,Dawson Community College,Psychology,2.8,Rajesh Malik,4.4,4,N/A,,,,,,,,1,,,,1,,,,1,,,,,615208
+205,1965,Dawson Community College,Psychology,3.0,Abe Worenklein,4.7,3,N/A,,,,,,,1,,,,1,,,,,,,,,,615209
+206,1965,Dawson Community College,Computer Science,4.3,Joe Drivdahl,4.7,3,N/A,,,,,,,,,,,,,,,,,,,,,1102760
+207,1965,Dawson Community College,Business,3.0,Kristin Aus,3.0,2,N/A,,,,,,,,,,,,,,,,,,,,,998097
+208,1965,Dawson Community College,Psychology,2.0,Kenneth Korpi,3.8,2,N/A,,,,,,,,,,,,,,,,,,,,,1045586
+209,1965,Dawson Community College,Chemistry,2.5,Thomas Reeves,4.8,2,N/A,,1,,,,,,1,,,,1,,,,,,,,,1593677
+210,1965,Dawson Community College,Business,1.0,Gail Ring,4.0,1,N/A,,,,,,,,,,,,,,,,,,,,,484209
+211,1965,Dawson Community College,English,4.0,Mat Bergbusch,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,484210
+212,1965,Dawson Community College,Music,3.0,Casey Malkuch,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1592611
+213,1965,Dawson Community College,Music,3.0,Lisa Schields,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1592614
+214,1965,Dawson Community College,Communication,4.0,Satish Babu,3.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1619608
+215,1965,Dawson Community College,Biology,2.0,Kevin Pena,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1670874
+216,1965,Dawson Community College,Law,5.0,Ted Irwin,1.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1863297
+217,1966,Daytona State College,Psychology,2.5,Richard Rogers,4.5,245,87%,2,21,,13,19,3,13,13,1,,27,13,1,4,8,7,12,,2,5,77637
+218,1966,Daytona State College,Biology,4.0,James Backer,2.5,188,55%,1,2,3,1,7,6,10,4,1,,2,,26,2,2,2,21,,14,29,348606
+219,1966,Daytona State College,Biology,3.0,Richard Doolin,4.8,182,N/A,,,,,,,,,,,,,,,,,,,,,317989
+220,1966,Daytona State College,Biology,3.8,Peter Lovell,4.2,178,81%,7,29,,3,11,,4,8,3,,2,3,9,1,3,13,26,,8,13,982288
+221,1966,Daytona State College,English,2.3,Lee Dorbad,4.6,163,89%,,4,,2,4,,2,5,2,,7,2,2,,8,2,5,3,,1,260041
+222,1966,Daytona State College,Mathematics,2.0,Natalie Weaver,4.7,157,75%,2,3,,8,3,,1,9,,3,12,1,1,11,5,9,7,1,2,4,191003
+223,1966,Daytona State College,Mathematics,2.5,Rafaat Okasha,4.5,138,100%,2,1,,6,,5,,2,1,,,2,,4,4,9,2,,,1,366367
+224,1966,Daytona State College,Mathematics,2.1,Ethan Repyneck,4.4,130,100%,2,,,9,2,,1,8,,,11,3,,2,2,9,,,,,305443
+225,1966,Daytona State College,Mathematics,2.7,Brian Smith,4.5,123,94%,6,5,,11,8,1,,8,,1,5,1,,5,1,6,,,2,3,293113
+226,1966,Daytona State College,Mathematics,3.0,Paul Capps,3.8,117,78%,2,5,,7,2,1,,3,,1,1,,3,5,2,3,1,,,2,167557
+227,1966,Daytona State College,Social Science,2.3,Nick Petropouleas,4.2,115,85%,,4,,3,6,1,7,,4,,11,1,6,,4,5,4,,3,6,53417
+228,1966,Daytona State College,Biology,3.2,Kevin Jordan,3.7,111,62%,,7,,,6,,9,1,4,1,4,4,9,,12,2,6,,1,7,360542
+229,1966,Daytona State College,Psychology,1.6,Alice Godbey,4.9,111,100%,6,14,,19,15,1,,14,1,,,12,3,1,2,18,2,,,,437887
+230,1966,Daytona State College,Humanities,2.8,Robert Arcuri,4.3,107,N/A,,1,,,,,,1,,,,,,,,,,,,,167544
+231,1966,Daytona State College,Science,2.6,Eric Jones,3.8,106,100%,,6,,,5,,2,1,,,5,5,1,,1,2,1,,,,479579
+232,1966,Daytona State College,Journalism,3.1,Elena Jarvis,2.8,105,50%,,1,,,2,1,2,3,2,1,,1,1,2,9,4,13,,,12,415622
+233,1966,Daytona State College,Psychology,1.3,Alan Schlossman,4.6,103,100%,,1,,2,1,,,3,1,,4,3,5,,3,2,1,,,,287110
+234,1966,Daytona State College,Science,3.4,Bruce Maring,3.9,98,71%,,1,1,3,4,5,4,1,1,,,,2,,2,2,5,,,5,483477
+235,1966,Daytona State College,Mathematics,3.4,Victor Pareja,4.2,98,N/A,,,1,6,2,1,,1,,,3,,,2,2,3,3,,,5,402248
+236,1966,Daytona State College,Physics,3.0,Gajendra Tulsian,4.0,98,63%,1,2,,3,5,4,3,4,1,,2,3,10,3,3,,5,,,3,278400
+237,1967,De Anza College,Mathematics,3.5,Farshod Mosh,3.5,536,56%,5,9,3,9,11,2,5,10,7,26,10,15,10,25,25,29,55,2,9,52,52679
+238,1967,De Anza College,Political Science,3.4,Nicky Yuen,3.9,423,60%,5,12,1,31,14,24,63,27,4,6,2,36,2,39,22,29,6,2,1,26,286564
+239,1967,De Anza College,Mathematics,4.0,Edwin Njinimbam,2.2,344,40%,,1,6,,4,26,6,4,2,4,3,1,10,2,3,6,21,,7,38,18752
+240,1967,De Anza College,Mathematics,3.3,Kejian Shi,3.0,332,54%,6,2,,20,38,12,12,26,5,,4,1,16,54,,17,25,2,12,36,89065
+241,1967,De Anza College,Mathematics,2.2,Mohamad Rezvani,4.4,316,90%,7,19,,27,44,22,3,18,4,,4,10,7,11,7,33,7,,7,4,929841
+242,1967,De Anza College,Physics,3.6,David Newton,4.3,306,75%,4,24,7,4,4,2,4,8,1,,23,18,2,5,2,16,15,,6,22,69924
+243,1967,De Anza College,History,2.3,Benjamin Kline,4.7,305,96%,3,43,1,3,10,3,3,5,3,,59,22,9,1,2,24,27,1,2,1,18755
+244,1967,De Anza College,History,2.8,Carol Cini,4.3,305,79%,24,68,,54,8,23,25,41,6,1,48,50,17,3,9,39,13,4,4,29,22004
+245,1967,De Anza College,Mathematics,3.2,Hassan Bourgoub,2.4,297,23%,4,,2,3,7,4,19,2,4,,3,1,6,30,,3,11,2,4,21,171408
+246,1967,De Anza College,Mathematics,2.7,Richard Lopez,4.1,281,68%,10,34,2,37,6,23,1,27,,,13,7,11,20,2,19,39,2,10,48,203137
+247,1967,De Anza College,Mathematics,2.9,Millia Ison,3.0,266,31%,2,1,7,3,12,9,7,4,4,,,,16,47,2,3,19,1,14,24,86246
+248,1967,De Anza College,Humanities,1.7,Salamander Breiter,4.8,264,100%,,29,,9,3,5,11,8,,,34,27,2,7,1,16,4,,1,1,553431
+249,1967,De Anza College,Psychology,3.1,Charles Ramskov,3.5,261,60%,,6,,2,4,18,13,1,4,2,7,4,3,3,,5,2,2,3,11,87532
+250,1967,De Anza College,Mathematics,3.5,Bertrand Lo,4.0,246,21%,1,14,2,3,12,,3,14,3,2,,2,11,13,9,4,35,4,11,57,914875
+251,1967,De Anza College,Political Science,2.0,Gregory Druehl,4.7,244,97%,,20,,14,3,13,5,4,,,20,11,,1,,9,11,,1,,156482
+252,1967,De Anza College,Mathematics,3.3,Mehrdad Khosravi,4.2,244,73%,4,31,8,17,7,18,5,13,,,28,19,10,58,12,39,39,1,10,39,1149395
+253,1967,De Anza College,Mathematics,3.3,Rupinder Sekhon,3.0,232,43%,,1,2,2,1,,1,1,,,5,1,5,5,1,,4,,,6,111854
+254,1967,De Anza College,Philosophy,1.8,Nicholas Baiamonte,4.1,229,55%,1,11,1,3,22,10,20,3,8,,12,4,5,4,3,5,7,,2,8,1036255
+255,1967,De Anza College,Astronomy,2.1,Sherwood Harrington,3.5,228,74%,2,6,,3,20,,15,1,9,,3,2,12,,1,1,9,,6,3,92833
+256,1967,De Anza College,Economics,3.7,Roger Mack,3.3,223,N/A,,,,,,,,,,,,,,,,,,,,,85125
+257,1968,Dean College,English,3.3,Jeffrey Skillings,3.4,42,40%,,,,,,,4,1,2,,,,4,1,,,4,,1,5,301103
+258,1968,Dean College,History,3.0,Harry Kreshpane,3.8,40,N/A,,,,,,,,1,,,2,1,,,1,1,,,,,292820
+259,1968,Dean College,Communication,3.1,Vic Michaels,4.3,39,N/A,1,,,,,1,,1,,,3,1,,1,,2,1,,,1,301088
+260,1968,Dean College,Mathematics,2.1,Steven Gonsalves,4.7,36,N/A,,,,,,,,,,,,,,,,,,,,,301077
+261,1968,Dean College,Psychology,2.9,Randy Reno,4.2,36,N/A,,,,,,,2,,,,,,,,1,1,1,,,1,568394
+262,1968,Dean College,History,2.5,Robert Lawson,4.3,30,N/A,,1,,3,,,,,,,2,1,,,,1,,,,,673533
+263,1968,Dean College,English,3.1,Marge Morian-Boyle,3.8,28,80%,3,,,2,,,6,6,,,,1,1,5,2,6,3,,,3,301089
+264,1968,Dean College,English,2.8,Wayne Cresser,3.6,26,N/A,,,,,,,,,,,,,,,,,,,,,301071
+265,1968,Dean College,Theater,2.0,James Beauregard,4.2,25,N/A,,,,,,1,,1,,,,1,,,,,,,,,301064
+266,1968,Dean College,Fine Arts,2.7,Lisa Granata,3.1,22,N/A,,,,1,,,,1,,,1,,,,2,1,1,,,1,301078
+267,1968,Dean College,Mathematics,3.3,Lobat Hashemi,4.5,20,N/A,,1,,,,,,,,,,,,,,,,,,1,1214006
+268,1968,Dean College,Philosophy,2.6,Jed Griswold,4.1,19,N/A,,,,,,,,,,,,,,,,,,,,,271172
+269,1968,Dean College,English,3.2,Jo-Ann Reid,3.3,16,N/A,,,,,,,2,1,,,,1,2,2,,,1,1,,1,301099
+270,1968,Dean College,Criminal Justice,4.1,Dawn Couture,4.3,15,N/A,,,,,,,1,,,,,,,1,,1,2,,,1,696213
+271,1968,Dean College,Accounting,2.2,George Brooker,5.0,14,N/A,,,,,,,,,,,,,,,,,,,,,253874
+272,1968,Dean College,English,2.5,Marsha Nourse,2.6,14,N/A,,,,,,,,,,,,,1,,,,,,,,301094
+273,1968,Dean College,Biology,3.4,Dawn Poirier,4.2,14,N/A,,,,1,,,,1,,,,2,,,1,1,,,,,301096
+274,1968,Dean College,Biology,3.9,Laurie McDonough,2.8,14,N/A,,,,,,,,,,,,,,,,,,,,,637820
+275,1968,Dean College,Business,2.3,Lyn Benton,4.3,12,N/A,,,,,,,,,,,,,,,,,,,,,301065
+276,1968,Dean College,Theater,2.4,Craig Handel,4.4,11,N/A,,,,,,,,,,,,,,,,,,,,,301079
+277,1969,Dean Institute of Technology,Education,2.3,Steve Falavolito,5.0,3,N/A,,,,,,,,,,,,,,,,,,,,,922348
+278,1970,Deep Springs College,Political Science,5.0,Felix Forms,1.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1751307
+279,1971,Georgia Piedmont Technical College,Psychology,4.5,Linda Gilmore,1.9,34,N/A,,,1,,,,2,,,,,,,1,2,,,,1,2,627942
+280,1971,Georgia Piedmont Technical College,Psychology,1.4,John Gamble,4.9,31,100%,,1,1,,2,,,1,,,4,,,,1,1,3,,,1,1135379
+281,1971,Georgia Piedmont Technical College,Mathematics,2.0,Francis Nyandeh,4.2,27,N/A,,,,1,,,,,,,,,,,,1,,,,,622428
+282,1971,Georgia Piedmont Technical College,Mathematics,2.8,Cornell Grant,4.7,24,N/A,,,,3,3,,,2,,,1,,,1,1,1,,,1,,1742827
+283,1971,Georgia Piedmont Technical College,English,3.4,Kristen Westrick,3.1,23,N/A,,,,,,1,5,2,,,,,,3,1,,,,,4,1001673
+284,1971,Georgia Piedmont Technical College,English,3.6,Claudette Alexander-Thomason,3.3,21,N/A,,1,,3,,,2,4,,1,2,2,3,,2,1,2,2,,4,1180423
+285,1971,Georgia Piedmont Technical College,Computer Science,2.5,Todd Meadors,4.7,19,N/A,,,,1,,,,2,,,,,,,,,,,,,744552
+286,1971,Georgia Piedmont Technical College,Mathematics,1.6,Olando Ransby,3.6,18,N/A,,,,,,,,1,,,2,2,,,,,,,,,817648
+287,1971,Georgia Piedmont Technical College,Mathematics,1.8,Stephen B Peprah,4.3,17,N/A,,,,,,,,,,,,,,1,,1,,,,,1800820
+288,1971,Georgia Piedmont Technical College,Communication,3.1,Aretha Walker,3.1,15,N/A,,,,,,1,,,,,,,,1,1,,1,,,3,1311840
+289,1971,Georgia Piedmont Technical College,Sociology,2.3,Julia Allen,4.2,14,N/A,,,,,,,,,,,,,,,,,,,,1,890092
+290,1971,Georgia Piedmont Technical College,Humanities,1.8,Delores Guilley,4.7,14,N/A,,2,,1,,1,1,,,2,,1,,,2,3,5,,,,1619615
+291,1971,Georgia Piedmont Technical College,English,1.5,Mary Lindquist,4.2,13,N/A,,,,,,,,,,,,,,,,,,,,,627953
+292,1971,Georgia Piedmont Technical College,Biology,3.9,Hamid E Eltigani,4.0,13,N/A,,,,,,,,,,,,,,,,,,,,,1873796
+293,1971,Georgia Piedmont Technical College,English,3.2,Claudia Stokes,3.2,13,N/A,,,,1,1,,,,,,,,,,,1,,,,,590445
+294,1971,Georgia Piedmont Technical College,Mathematics,2.3,Marge Lasalle,4.3,12,N/A,,,,,,,,,,,,,,,,,,,,,800690
+295,1971,Georgia Piedmont Technical College,English,3.8,Maria Johnson,3.3,12,N/A,,1,,,,,,,,,,,,,1,1,,,,,997268
+296,1971,Georgia Piedmont Technical College,English,3.7,Darci Dees,2.0,12,N/A,,,,,,,,,,,,,,1,,,,1,,1,1841231
+297,1971,Georgia Piedmont Technical College,English,3.7,Loretta Crosson,3.2,10,N/A,,,,,,,,,,,,,,,,,,,,,627943
+298,1972,Delaware County Community College,Psychology,1.9,Rex Johnson,4.9,216,100%,9,20,1,30,20,51,9,34,1,2,12,20,2,2,17,35,4,,,,118669
+299,1972,Delaware County Community College,Biology,4.0,Elias Argyris,4.6,159,88%,25,24,,116,5,52,97,65,4,,,45,28,1,17,95,10,,15,2,2182500
+300,1972,Delaware County Community College,Sociology,3.6,Chuck Baker,3.1,153,35%,2,4,4,1,2,,21,6,3,,3,5,4,2,9,4,14,4,2,18,209103
+301,1972,Delaware County Community College,Psychology,2.3,Anne Williamson,4.7,129,97%,11,7,,27,17,55,6,43,1,10,26,12,3,12,53,24,5,3,1,,1682499
+302,1972,Delaware County Community College,English,4.2,Henrik Eger,2.3,106,N/A,,,,,,,,,,,,1,,1,,,1,,,1,154007
+303,1972,Delaware County Community College,Biology,2.9,Bela Dadhich,4.3,96,92%,2,7,,6,2,1,1,4,1,,4,6,1,,,9,4,,,1,163554
+304,1972,Delaware County Community College,English,3.6,Gina Gennari,2.8,93,40%,,,,,2,1,3,,2,,,,,1,1,,,1,,5,223150
+305,1972,Delaware County Community College,Computer Science,2.8,Marjorie Feroe,2.0,88,17%,2,,3,2,,4,6,2,1,,,1,5,9,,1,1,1,1,4,129079
+306,1972,Delaware County Community College,Biology,3.9,Harry Haines,4.7,83,94%,12,11,,21,8,,3,3,,,,8,3,,3,,3,1,,7,591826
+307,1972,Delaware County Community College,Sociology,3.6,Adriana Bohm,3.2,80,17%,,2,1,3,2,1,14,8,3,,,2,1,6,4,1,4,5,5,31,230986
+308,1972,Delaware County Community College,Mathematics,2.0,Paul Canepa,4.8,79,90%,3,7,,13,9,1,,8,,,9,3,,4,,17,1,,2,1,1297230
+309,1972,Delaware County Community College,Psychology,1.8,Shontae Graham,4.7,75,N/A,,,,,,,,,,,,,,,,,,,,,1548811
+310,1972,Delaware County Community College,Biology,3.1,Steven Aquilani,4.5,75,89%,2,4,,5,2,,1,1,1,,,3,3,,,7,1,,1,6,129075
+311,1972,Delaware County Community College,Psychology,4.3,Theodore Lewandowski,2.1,72,N/A,,1,,,,,1,,,,,,,,,,,,,1,184101
+312,1972,Delaware County Community College,Mathematics,3.1,Raymond Maruca,4.3,70,N/A,,,,,1,,,,,,,,3,2,,1,5,,2,3,118672
+313,1972,Delaware County Community College,Economics,3.6,Ali Ataiifar,2.9,69,80%,,,1,1,2,4,8,1,,,,,1,2,3,1,3,,1,7,220798
+314,1972,Delaware County Community College,Languages,1.9,Francesco Bellini,4.7,66,75%,3,7,,2,6,,7,4,,,8,11,3,1,5,4,6,,,4,1213123
+315,1972,Delaware County Community College,Psychology,2.0,John Linder,3.8,64,N/A,,,,,,,,,,,,,,,,,,,,,129078
+316,1972,Delaware County Community College,English,2.7,Dianne Shames,4.7,64,100%,,1,,7,,1,10,1,,,8,10,,,4,6,6,,,2,216659
+317,1972,Delaware County Community College,Biology,3.4,Steve Lin,4.0,64,77%,4,8,,3,9,12,7,4,,,,2,8,3,6,4,4,,2,7,1099781
+318,1973,Delgado Community College (ALL),Mathematics,2.8,David Sanders,4.3,137,79%,16,6,,30,8,29,1,30,,1,17,9,3,9,9,12,19,2,5,14,1439358
+319,1973,Delgado Community College (ALL),Biology,2.2,Craig Blalock,4.8,122,98%,9,38,,22,10,17,5,9,,,22,5,1,1,2,41,20,,1,3,1637515
+320,1973,Delgado Community College (ALL),Biology,3.8,Chris Leblanc,3.6,112,60%,9,7,,6,2,7,13,4,1,,6,5,1,,2,2,6,,3,16,488836
+321,1973,Delgado Community College (ALL),Biology,3.0,Amanda Rosenzweig,4.3,101,82%,3,13,2,14,4,14,2,21,,,,6,6,3,5,3,8,,2,8,521342
+322,1973,Delgado Community College (ALL),Biology,2.4,Thomas Russell,4.5,95,94%,2,22,,10,8,14,3,13,1,,7,16,7,1,3,21,4,,2,3,614656
+323,1973,Delgado Community College (ALL),Business,1.9,John Arbour,4.9,93,100%,3,41,,12,22,8,8,35,3,1,40,10,6,6,4,31,,,,,1835731
+324,1973,Delgado Community College (ALL),Biology,3.3,Marceau Ratard,3.1,89,61%,1,5,1,1,5,14,6,1,1,,4,1,3,9,2,,3,,4,8,448692
+325,1973,Delgado Community College (ALL),Biology,1.9,Sarah Hunter,4.4,74,95%,2,25,1,32,9,39,14,14,,2,1,19,15,3,10,4,10,1,1,32,1902833
+326,1973,Delgado Community College (ALL),Psychology,2.0,Mike Majors,4.7,70,100%,1,18,,2,8,2,6,4,,,10,1,3,6,8,7,10,1,,2,659598
+327,1973,Delgado Community College (ALL),Biology,2.2,Todd Hymel,4.8,68,100%,2,10,1,4,4,7,3,8,,,8,7,2,,3,8,9,,,3,846802
+328,1973,Delgado Community College (ALL),Biology,3.0,Sharon Ziadeh,2.8,66,48%,6,,4,7,10,7,7,8,2,,,,9,6,5,,12,,6,8,1033237
+329,1973,Delgado Community College (ALL),History,3.3,Jennifer Lang,3.2,64,59%,4,2,,5,3,1,10,,,,1,3,2,14,9,1,,9,,2,1180897
+330,1973,Delgado Community College (ALL),Nursing,3.6,Scott Durling,4.8,63,97%,5,38,1,20,2,,7,23,,2,,14,2,7,21,20,4,1,,3,2010660
+331,1973,Delgado Community College (ALL),Biology,2.5,Jeffery Smith,4.7,61,93%,2,13,,7,7,3,1,1,1,,,2,5,3,,7,7,,1,2,1100785
+332,1973,Delgado Community College (ALL),Mathematics,2.0,Rupert Alexis,4.9,59,100%,14,2,2,20,3,2,,11,,,9,5,,4,6,25,5,,,1,1040231
+333,1973,Delgado Community College (ALL),Biology,1.4,Eddystone Nebel,4.8,57,100%,6,9,,12,8,4,,8,,,7,3,,,1,17,7,,,,1463720
+334,1973,Delgado Community College (ALL),Biology,3.8,Leonard B. Fodera,3.2,56,40%,3,5,,,4,,6,2,1,,5,4,4,2,2,1,13,,2,11,1562867
+335,1973,Delgado Community College (ALL),Mathematics,2.3,Janet Vila,4.5,56,86%,2,3,,1,10,,,3,1,,,2,1,8,1,3,11,,1,4,594735
+336,1973,Delgado Community College (ALL),Mathematics,2.6,Natasha Flowers,4.5,56,88%,7,5,1,12,3,21,,13,1,,4,2,2,11,2,10,10,,,3,1368619
+337,1973,Delgado Community College (ALL),Biology,4.3,S Delozier,3.3,54,33%,1,2,,,,,3,,,,1,,3,2,2,,6,,1,8,630598
+338,1974,Delta College of Arts and Technology,Nursing,1.5,Bob Buckley,3.3,2,N/A,,,,,,,,,,,,,,,,,,,,,737366
+339,1975,Delta Tech,Not Specified,3.3,Seth Hopkins,5.0,3,N/A,,,,,,,,,,,,,,,,,,,,,208193
+340,1975,Delta Tech,Computer Science,3.0,John Bradley,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1796388
+341,1975,Delta Tech,Business,4.0,Rebecca McNab,4.0,1,N/A,,,,,,,,,,,,,,,,,,,,,2001222
+342,1975,Delta Tech,Computer Science,4.0,Jessica Bonilla,5.0,1,N/A,,1,,,,,,,,,,,,,,1,1,,,,2290763
+343,1976,Denmark Technical College,History,3.5,Todd Irvine,4.3,2,N/A,,,,,,,,,,,,,,,,,,,,,1588097
+344,1976,Denmark Technical College,Engineering,2.0,Ambrish Lavania,5.0,1,N/A,1,,,,,,1,1,,,,,,,,,,,,,782700
+345,1976,Denmark Technical College,English,1.0,Teresa Jenkins,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1330323
+346,1976,Denmark Technical College,Science,4.0,Meenu Shukla-Dennis,5.0,1,N/A,1,1,,,,,,,,,,,,,,,1,,,,2275684
+347,1978,Lincoln College of Technology,Education,3.0,George S Rayburn,4.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1905929
+348,1979,Des Moines Area Community College,Economics,2.8,Brad Duerson,4.8,57,100%,7,,,17,16,19,3,11,,,3,3,,3,4,11,1,,,3,1803608
+349,1979,Des Moines Area Community College,Biology,4.4,William Trotter,3.1,55,86%,1,1,,,9,,,,1,,1,,6,,5,4,16,,2,4,242571
+350,1979,Des Moines Area Community College,Accounting,2.9,William Bond,4.8,53,100%,3,9,,5,13,4,2,9,1,2,8,2,4,12,4,19,17,,,1,1869635
+351,1979,Des Moines Area Community College,Psychology,2.8,Ronn Newby,4.1,41,86%,3,1,1,14,2,5,4,5,,2,17,10,1,1,2,5,1,,,4,1183502
+352,1979,Des Moines Area Community College,Biology,2.9,Curtis Eckerman,3.5,37,N/A,,,,,1,1,,,,,,,,,,,,,,,807393
+353,1979,Des Moines Area Community College,Psychology,2.9,Kate Halverson,3.5,36,64%,,1,,5,,7,8,5,,1,2,1,3,3,4,2,,,1,8,926908
+354,1979,Des Moines Area Community College,Biology,3.6,Qian Moss,4.5,32,N/A,,,,1,2,1,1,3,,,,3,,,3,3,4,,,4,553237
+355,1979,Des Moines Area Community College,English,2.5,Michael Hubbard,3.9,31,57%,,1,,,1,2,2,7,,,3,4,,1,4,1,7,1,1,5,1274609
+356,1979,Des Moines Area Community College,Mathematics,3.5,Harry McMaken,3.3,30,N/A,,,,1,2,,,2,,1,,,,1,,,3,,1,2,810654
+357,1979,Des Moines Area Community College,Computer Science,4.3,William Hollinrake,1.6,29,N/A,,,,,,,1,,,,,,,,,,1,,,10,250009
+358,1979,Des Moines Area Community College,Literature,3.7,Sharran Slinkard,3.5,28,N/A,,,,,1,,2,3,,,,,,,3,,5,2,,5,86903
+359,1979,Des Moines Area Community College,English,3.9,Darwin Pagnac,2.9,28,29%,,,,2,1,,2,3,1,,,,4,3,1,,4,4,,12,838330
+360,1979,Des Moines Area Community College,Social Science,2.1,Rudy Harris,4.0,26,N/A,,,,1,1,,,,,,1,,,,,3,2,,,,76334
+361,1979,Des Moines Area Community College,Humanities,3.9,David Hauser,3.8,26,N/A,,,,,,,,,,,,,,,,,,,,,231781
+362,1979,Des Moines Area Community College,History,4.1,Joanne Dudgeon,2.2,26,22%,,,,,1,1,2,,4,,,,2,5,,,1,1,3,8,1465445
+363,1979,Des Moines Area Community College,Journalism,2.4,Rose Toubes,3.8,25,67%,1,,,4,1,4,2,8,,,,,,2,1,3,6,4,,3,1519249
+364,1979,Des Moines Area Community College,Chemistry,2.5,Richard Roberts,4.4,23,100%,3,,,4,3,7,,2,,,2,,,2,1,2,1,,,,1176546
+365,1979,Des Moines Area Community College,History,2.9,Joe Danielson,4.3,23,60%,,4,4,,,1,1,2,1,,1,,5,,1,2,6,,,4,1573498
+366,1979,Des Moines Area Community College,Sociology,4.0,Edward Glick,2.2,22,N/A,,,,,,,,,1,,1,,5,,,,2,1,,3,903451
+367,1979,Des Moines Area Community College,History,3.2,Paul Byrd,4.5,22,100%,,9,1,1,1,,,3,1,,9,1,2,1,7,,2,1,,,1686892
+368,1981,Dine College,Science,1.5,Margaret Mayer,3.8,4,N/A,,,1,1,,1,,,,,,,1,1,1,,,,,,1407649
+369,1981,Dine College,Anthropology,3.0,Thomas Littleben,5.0,3,N/A,,1,,,,,,1,,,,,,,,2,,,,,1495399
+370,1981,Dine College,Biology,3.0,Carrie Ann Cate,4.5,2,N/A,1,,,,,,,,1,,1,,2,,,,,,,1,2383918
+371,1981,Dine College,Chemistry,3.0,Barbara Klein,5.0,2,N/A,1,,1,,,1,1,,,,,,,,1,,1,,,,2276422
+372,1981,Dine College,English,3.0,Irvin Morris,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,698646
+373,1981,Dine College,Physical Ed,1.0,Nancy Mike,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,698653
+374,1981,Dine College,Mathematics,1.0,Hsiu-Mei Line,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1407652
+375,1981,Dine College,History,3.0,Bradley Shreve,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1437074
+376,1981,Dine College,Humanities,4.0,Deborah House,4.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1481595
+377,1981,Dine College,Criminal Justice,5.0,Chuck Noris,3.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1727534
+378,1981,Dine College,English,4.0,Molly Wilson,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,2262732
+379,1981,Dine College,Business,4.0,Juanita M Fraley,3.0,1,N/A,,,,,,,,,,,,,1,,1,,1,,,,2383912
+380,1981,Dine College,Ethnic Studies,4.0,Gene A de Vecenti,1.0,1,N/A,,,,,,,,,,,,,1,,1,,1,,,,2388766
+381,1981,Dine College,Biology,2.0,Frederick Boyd,5.0,1,N/A,,1,,,1,,,,,,,,,1,,,,,,,2427548
+382,1981,Dine College,Engineering,4.0,John Murray,5.0,1,N/A,,,,,,,,,1,,,,,1,,,,,,,2500758
+383,1982,Dixie State University,Art,3.5,McGarren Flack,4.5,280,98%,7,11,,16,40,5,14,153,,,58,24,3,55,48,77,82,1,,52,1773232
+384,1982,Dixie State University,Business,2.8,Travis Seegmiller,5.0,223,99%,29,75,5,36,15,46,28,42,1,4,59,119,2,,53,108,19,,,7,2068742
+385,1982,Dixie State University,History,3.9,Joe Green,2.9,90,20%,1,3,3,,6,,17,3,,,2,2,7,3,,2,14,2,3,21,392473
+386,1982,Dixie State University,Sociology,2.3,Logan Reid,4.8,80,100%,1,18,,11,2,2,,5,,1,13,16,2,1,7,18,10,,,1,1498073
+387,1982,Dixie State University,Communication,2.7,Lawrence Anderson,4.4,77,N/A,,,,,,,,,,,,,,,,,,,,,834592
+388,1982,Dixie State University,Criminal Justice,3.3,Mike Tatum,5.0,69,97%,10,34,,40,8,2,1,17,,,3,20,5,,4,10,1,,,,1718641
+389,1982,Dixie State University,History,3.8,"Norman ""Chip"" McLeod",3.6,68,N/A,,1,,,2,,9,,,,2,1,9,,1,1,2,,,8,544517
+390,1982,Dixie State University,Biology,3.9,Del Smith,4.1,66,54%,2,4,,,6,1,,3,,,13,1,12,4,3,6,15,1,15,12,1073914
+391,1982,Dixie State University,Mathematics,2.8,Ross Decker,4.2,64,80%,10,2,,14,5,,,3,2,,6,,1,16,,13,7,,2,3,395502
+392,1982,Dixie State University,English,3.2,Tim Bywater,3.0,63,67%,,4,2,1,,1,2,4,,,2,4,4,2,2,2,7,2,,3,677479
+393,1982,Dixie State University,Art,2.9,Shane Christensen,4.6,62,98%,5,5,,17,5,5,,33,1,,8,8,,1,22,22,10,,,,977178
+394,1982,Dixie State University,Business,2.3,Chris Brown,4.9,60,98%,3,21,,7,2,1,,24,2,17,8,34,3,,10,21,3,,,,2127905
+395,1982,Dixie State University,Sociology,2.4,Matthew Smith-Lahrman,3.9,60,44%,1,2,,,,,,2,3,,7,2,3,1,2,2,2,,,2,673398
+396,1982,Dixie State University,Chemistry,3.4,David Feller,2.8,58,29%,1,1,,,4,,2,2,5,,3,1,5,,2,,5,,9,6,1568923
+397,1982,Dixie State University,Biology,4.0,Glorimar Aponte-Kline,3.3,56,46%,2,2,5,3,,5,3,2,3,,1,3,10,3,4,4,16,,10,19,1234738
+398,1982,Dixie State University,Mathematics,2.4,Lynn Hunt,4.8,55,N/A,,1,,4,1,,,2,,,8,1,,2,,8,1,,,1,665040
+399,1982,Dixie State University,Communication,2.3,Darlene Braden,4.4,52,94%,4,9,,10,9,3,2,28,4,3,22,17,1,1,17,12,3,,,,2074481
+400,1982,Dixie State University,Art,2.2,Shazad Sheikh,3.9,52,83%,3,1,,20,1,1,,13,7,,12,6,2,3,14,15,11,,,1,1990190
+401,1982,Dixie State University,Biology,4.5,Patt Allen,3.8,50,N/A,,2,,,,1,1,,,,1,2,,,,1,2,,,1,392958
+402,1982,Dixie State University,Mathematics,2.3,Odean Bowler,4.5,50,78%,2,6,,14,1,,,1,,,20,1,2,7,3,8,4,,2,,715672
+403,1983,Dodge City Community College,Humanities,2.1,Sean Creevey,4.4,17,N/A,,1,,,,,,,,,,1,,,,,1,,,,247295
+404,1983,Dodge City Community College,Physics,4.5,Stephen Crane,2.2,15,N/A,,,,,,,,,,,,,,,,,,,,,278189
+405,1983,Dodge City Community College,Computer Science,2.2,Paul Yaroslaski,4.9,14,N/A,,,,,,,,,,,,,,,,,,,,,137683
+406,1983,Dodge City Community College,Mathematics,2.3,Kent Craghead,4.0,14,N/A,,,,4,1,,,1,,,,1,,4,,3,2,1,,,298518
+407,1983,Dodge City Community College,Philosophy,3.0,Clark Coker,3.6,14,N/A,,,,,,,,,,,,,,1,2,,1,1,,,351448
+408,1983,Dodge City Community College,Sociology,4.0,Mike Ryan,1.7,13,N/A,,,,,,,,,,,,,,,,,,,,,349810
+409,1983,Dodge City Community College,History,3.3,Larry Burke,4.4,12,N/A,,,,,,,,,,,,,,,,,,,,,247293
+410,1983,Dodge City Community College,Science,3.3,Hala Amawi,4.0,12,N/A,,,,,,,,,,,,,,,,,,,,,278764
+411,1983,Dodge City Community College,English,3.0,Clark Killion,3.9,10,N/A,,,,,,,,,,1,,,,,1,,,,,1,248912
+412,1983,Dodge City Community College,Communication,2.0,John Ewy,4.8,10,N/A,,,,,,,,1,,,,1,,,,1,,,,,270123
+413,1983,Dodge City Community College,Biology,3.6,Mike Williams,3.7,10,N/A,,,,,1,1,,,,,,2,,1,,1,,,,,357995
+414,1983,Dodge City Community College,Economics,1.3,Paul Young,5.0,9,N/A,,1,,,,,,,,,1,,,,,1,1,,,1,247289
+415,1983,Dodge City Community College,English,3.0,Dana Waters,3.8,7,N/A,,,,,,,,,,,,,,,,,,,,,271749
+416,1983,Dodge City Community College,Mathematics,2.3,Dylan Faullin,4.7,7,N/A,,1,,1,,,,,,,,,,,,1,,,,,721131
+417,1983,Dodge City Community College,Communication,2.8,Marg Yaroslaski,3.0,7,N/A,,,,,,,,,2,,,,,2,,,2,,,,771742
+418,1983,Dodge City Community College,Design,1.7,Scott Garrard,4.9,6,N/A,,,,,,,,,,,,,,,,,,,,,404255
+419,1983,Dodge City Community College,English,2.7,Jane Holwerda,4.2,6,N/A,,,,,,,,,,,,,,,,,,,,,624959
+420,1983,Dodge City Community College,Physics,1.0,Steven Ellis,5.0,6,N/A,,2,,,,,,,,,1,,,,,,1,,,,1307962
+421,1983,Dodge City Community College,Computer Science,1.8,Dave Anderson,4.8,5,N/A,,,1,1,,,,1,,,1,,,,,1,,,,,652936
+422,1983,Dodge City Community College,Nursing,2.8,Tosha Fields,4.2,5,N/A,,,,3,1,,1,,,1,,1,,,1,2,1,1,,1,1435661
+423,1987,Donnelly College,Religion,2.5,Fr. John Melnick,4.8,66,N/A,,6,,,,1,1,3,,,12,11,1,1,4,9,3,1,,,1411625
+424,1987,Donnelly College,Science,3.6,Karen Judy,4.4,12,N/A,,,,,,,1,1,,,1,1,,1,,,,,,1,745328
+425,1987,Donnelly College,Religion,1.6,John Melnick,4.9,11,N/A,,2,,,,,1,1,,,1,3,,,,,,,,,1411624
+426,1987,Donnelly College,Humanities,2.5,Marie Daughtery,3.8,10,N/A,,,,,,,1,1,,,,,,,,,,1,,2,1158588
+427,1987,Donnelly College,Management,2.0,Frank Gabel,5.0,7,N/A,,,,,,,,1,,,,1,,,,1,,,,,1776604
+428,1987,Donnelly College,Mathematics,2.6,Dave Cobb,5.0,5,N/A,,,,1,,1,,,,,3,1,,,1,1,,,,,1721218
+429,1987,Donnelly College,Science,2.3,Joe Multauf,4.8,3,N/A,,,,,,,,,,,,,,,,,,,,,1158587
+430,1987,Donnelly College,History,4.5,Steve Jansen,4.0,2,N/A,,,,,,,1,1,,,,,,,,,,,,1,1506095
+431,1987,Donnelly College,English,2.0,Chet Boyd,3.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1721356
+432,1987,Donnelly College,Mathematics,4.0,Dhuha Shareef,3.0,2,N/A,1,,,,,,,,,,,1,1,,,,1,,,,2226945
+433,1987,Donnelly College,Management,4.0,Erik Crew,1.0,1,N/A,,,,,,,1,,,,,,,,,,,1,,1,1897057
+434,1987,Donnelly College,English,3.0,Melissa Lenos,4.0,1,N/A,1,1,,,,,1,,,,,,,,,,,,,,2184631
+435,1987,Donnelly College,Nursing,4.0,Patricia Palmietto,5.0,1,N/A,,,,1,,,,,,,,1,,,,1,,,,,2196640
+436,1987,Donnelly College,Nursing,4.0,Mary Teresa Morris,2.0,1,N/A,,,,,,,1,,,,,,,,,,1,,,1,2196642
+437,1987,Donnelly College,Chemistry,5.0,Ana Maradiaga,1.0,1,N/A,,,,,,,,,,,,,1,1,,,,,1,,2334300
+438,1989,Daymar College,Health Information Science,4.8,Mollie Banks,3.2,5,N/A,,1,,1,,,,,,,,1,,,,,,,,,518524
+439,1989,Daymar College,Business,2.8,Jeremy Atwell,3.1,4,N/A,,,,,,,,,,,,,,,,,,,,,500949
+440,1989,Daymar College,Strategies For Success,4.5,Sarah Hunley Rascoe,1.0,2,N/A,,,,,,,,,,,,,,,,,,,,,518593
+441,1989,Daymar College,Computer Information Systems,3.5,Ben Bedo,4.5,2,N/A,,,,,,,,,,,,,,,,,,,,,856953
+442,1990,Draughons Junior College of Business: Nashville,English,1.0,Lori Burdette,4.3,2,N/A,,,,1,,,,,,,,,,,,1,,,,,520754
+443,1990,Draughons Junior College of Business: Nashville,Law,4.0,Louise Fontecchio,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,521059
+444,1990,Draughons Junior College of Business: Nashville,Business,3.0,Joe McCasland,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1541559
+445,1991,Draughons Junior College: Clarksville,Education,3.3,Ervin Gilliam,2.6,4,N/A,,,,,,,,,,,,,,,,,,,,,579575
+446,1991,Draughons Junior College: Clarksville,Accounting,1.0,Cynthia Minnick,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,579744
+447,1991,Draughons Junior College: Clarksville,Medicine,3.0,Joseph Hall,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,580014
+448,1991,Draughons Junior College: Clarksville,Computer Science,5.0,Mark Lunsford,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,583438
+449,1991,Draughons Junior College: Clarksville,Information Science,5.0,Jim Weber,1.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1472316
+450,1992,DuBois Business College,English,3.3,Carolyn Rhoades,4.8,10,N/A,,,,,,,,,,,,,,,,,,,,,454553
+451,1992,DuBois Business College,Fine Arts,3.3,Jason Strohm,4.0,3,N/A,,,,,,,,,,,,,,,,,,,,,233630
+452,1992,DuBois Business College,Medicine,1.0,Nanette Sankey,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1327372
+453,1993,DuBois Business College: Huntingdon,Computer Science,3.7,Howard Divins,4.8,3,N/A,,,,,,,,,,,,,,,,,,,,,870980
+454,1993,DuBois Business College: Huntingdon,Law,3.0,Lindsay Snyder,4.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1696977
+455,1995,Everest College,Criminal Justice,4.5,Corrie Woods,4.9,4,N/A,,,,,,,,,,,,,,,,,,,,,1567160
+456,1995,Everest College,Law,3.0,Joseph Nigro,3.7,3,N/A,,,,,,,,,,,,,,,,,,,,,390397
+457,1996,Chief Dull Knife College,Computer Science,2.0,Xianquan Zeng,3.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1302415
+458,1996,Chief Dull Knife College,Not Specified,3.0,Catherine Feher-Elston,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1593093
+459,1997,Duluth Business University,Graphic Arts,3.3,Crystal Kilichowski,4.3,3,N/A,,,,,,,,,,,,,,,,,,,,,807981
+460,1998,Dunwoody College of Technology,Mathematics,2.0,Eeris Fritz,5.0,119,100%,,9,,21,4,,,17,,,3,10,,9,9,22,1,,1,1,956398
+461,1998,Dunwoody College of Technology,Technology,3.7,Frank Claude,3.8,24,N/A,1,,,,,,,2,,,,,,,2,2,1,,,,783788
+462,1998,Dunwoody College of Technology,Sociology,3.3,Leo Parvis,1.3,20,N/A,,,,,,,,,,,,,1,,1,,1,,,1,365907
+463,1998,Dunwoody College of Technology,Computer Science,2.6,David Mansheffer,5.0,20,N/A,,,,,1,,,,,,,,,,1,2,,,,,554348
+464,1998,Dunwoody College of Technology,Sociology,2.9,Thomas Mehle,2.0,17,N/A,,,,,,,,,,,,,,,,,,,,,554345
+465,1998,Dunwoody College of Technology,Computer Science,3.9,Rob Bentz,2.5,17,N/A,,,,,,,,,,,,,,,,,,,,,595681
+466,1998,Dunwoody College of Technology,Education,2.6,Steve Reinarts,4.7,15,N/A,1,,,1,,,,,,,,,,,,1,,,,,999573
+467,1998,Dunwoody College of Technology,Mathematics,2.9,Mary Anne Jaedike,4.2,13,N/A,,,,1,,,,,,,,1,,,,,,,,,554351
+468,1998,Dunwoody College of Technology,Computer Science,2.6,Jenny Saplis,2.3,12,N/A,,,,,,1,,,,,,,,1,1,,1,,,,1136084
+469,1998,Dunwoody College of Technology,Mathematics,2.3,Timothy Flugum,3.9,11,N/A,,1,,1,,,,,,,2,1,,,,,2,,,,1182114
+470,1998,Dunwoody College of Technology,Computer Science,2.7,Rich Arboleda,3.3,9,N/A,,,,,,,,1,,,1,,,,1,2,1,,,,577640
+471,1998,Dunwoody College of Technology,Computer Science,2.4,Tom Mehle,1.6,9,N/A,,,,,,,,,,,,,,,,,,,,,1128412
+472,1998,Dunwoody College of Technology,English,2.1,Ariane Sandford,4.4,9,N/A,,,,,1,,,1,,,,,,,1,,,,,,1303089
+473,1998,Dunwoody College of Technology,Education,2.8,Brad Cleland,4.4,9,N/A,,,,1,,,,2,,,1,,1,2,,2,2,,,,1498869
+474,1998,Dunwoody College of Technology,Quality Management,1.5,Frank Wells,2.6,8,N/A,,,,,1,,1,,,,2,,,,2,1,1,,,,855117
+475,1998,Dunwoody College of Technology,Not Specified,3.6,Brian Nelsen,2.2,8,N/A,,,,,,,,,2,,,,,3,,,,3,,,1074712
+476,1998,Dunwoody College of Technology,Automotive Technology,3.7,Dave Duval,4.1,7,N/A,,,,1,,,,,,,,1,,,,1,,,,,669121
+477,1998,Dunwoody College of Technology,Mathematics,3.6,Paul Gust,2.9,7,N/A,,,,,,,,,,,,,1,,,,,,,,734920
+478,1998,Dunwoody College of Technology,Graphic Arts,2.6,Arlinda Henderson,4.0,7,N/A,,,,1,2,,,3,,,,,2,2,,,,,,,1128419
+479,1998,Dunwoody College of Technology,Education,2.3,Ross Brower,4.2,7,N/A,,2,,1,2,1,,2,,,,1,1,3,,2,1,,,1,1347415
+480,1999,Durham Technical Community College,Economics,3.0,Tom Beveridge,4.7,105,70%,1,4,,2,,5,2,2,2,,4,,3,5,5,1,1,,,3,1136048
+481,1999,Durham Technical Community College,Mathematics,2.2,Emma Borynski,4.8,51,95%,6,12,,6,7,2,,12,2,1,,1,6,1,2,5,4,,,2,1253352
+482,1999,Durham Technical Community College,Biology,4.0,Dorothy Wood,4.2,40,88%,2,6,,7,2,1,,6,,,2,4,3,1,,8,5,,4,4,932208
+483,1999,Durham Technical Community College,History,2.3,James Depalma,4.7,39,96%,2,24,,9,3,6,1,4,3,,20,4,5,,,12,4,,1,,1910712
+484,1999,Durham Technical Community College,Mathematics,2.4,Barry Oakley,4.8,39,100%,15,6,,12,2,3,,13,,,18,6,,2,2,8,2,,,1,1510685
+485,1999,Durham Technical Community College,Chemistry,3.5,Mark Matthews,3.0,35,63%,2,,,,3,7,5,1,,,,,1,3,,,2,,1,1,909119
+486,1999,Durham Technical Community College,Biology,3.4,Michele Alexandre,3.6,35,100%,1,2,5,7,3,,2,3,,,,3,5,,2,4,4,,,,1355410
+487,1999,Durham Technical Community College,Mathematics,2.7,Angela Fipps Boone,4.8,32,100%,2,4,,3,4,7,,1,,,1,1,,,5,7,1,,3,,1550886
+488,1999,Durham Technical Community College,Psychology,3.1,Brenda East,3.1,32,50%,,1,,3,1,5,1,3,4,2,1,1,,1,4,,,2,1,,1172911
+489,1999,Durham Technical Community College,English,4.1,Perry Cumbie,3.2,31,18%,1,,,2,,,7,1,,,,,3,8,,1,2,3,,8,975601
+490,1999,Durham Technical Community College,Biology,3.2,Steven Leadon,4.8,31,100%,3,,3,5,6,,,6,,,3,,,,3,5,,,,,803703
+491,1999,Durham Technical Community College,Communication,2.6,Jason Moldoff,4.5,30,80%,,5,,,4,3,1,4,,,7,1,1,,1,3,2,,,2,1545704
+492,1999,Durham Technical Community College,English,4.1,Lea Bingham,3.0,30,60%,1,,,2,,,1,5,1,1,,1,,2,2,3,7,6,,9,749577
+493,1999,Durham Technical Community College,Biology,3.3,Gretel Guest,3.7,29,80%,,3,,,2,5,,2,2,,,,4,,1,1,3,,1,4,1474773
+494,1999,Durham Technical Community College,Philosophy,3.3,Bonnie Tilson,3.5,29,46%,,,,,1,,9,3,5,,,1,7,1,3,,5,,2,8,749604
+495,1999,Durham Technical Community College,Psychology,1.8,John Cain,4.7,28,87%,5,6,,12,7,5,,,2,,,1,,,,6,1,,,,1699781
+496,1999,Durham Technical Community College,Mathematics,3.1,Margaret Memory,4.6,27,100%,3,4,,5,2,1,,5,,,,2,,1,,4,2,,,1,1412389
+497,1999,Durham Technical Community College,Languages,2.4,Luis Olivieri,4.0,26,N/A,,,,,,,3,1,,,,,,2,,,,,,1,972000
+498,1999,Durham Technical Community College,Mathematics,3.4,Chris Mansfield,3.8,25,50%,3,,3,,1,,1,2,1,1,,2,1,2,2,3,2,,,2,591905
+499,1999,Durham Technical Community College,Sociology,2.0,Charles Slappy,3.3,22,N/A,,,,,,,,,,,,,,,,,,,,,308105

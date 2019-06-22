@@ -1,0 +1,651 @@
+,campus_id,campus_name,dept,difficulty,name,quality,rating_count,retake,tag_accessibleoutsideclass,tag_amazinglectures,tag_bewareofpopquizzes,tag_caring,tag_cleargradingcriteria,tag_extracredit,tag_getreadytoread,tag_givesgoodfeedback,tag_gradedbyfewthings,tag_groupprojects,tag_hilarious,tag_inspirational,tag_lectureheavy,tag_lotsofhomework,tag_participationmatters,tag_respected,tag_skipclassyouwon'tpass,tag_somanypapers,tag_testheavy,tag_toughgrader,tid
+0,1900,Colorado Northwestern Community College,Philosophy,3.5,Joe Wiley,3.5,2,N/A,,1,,,,,,,,,,,,,,,,,,,730683
+1,1900,Colorado Northwestern Community College,Communication,2.0,David Morton,4.3,2,N/A,,,,1,,,,1,,,1,,,,,,,,,,1972500
+2,1900,Colorado Northwestern Community College,English,3.0,Heather Zadra,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,728402
+3,1900,Colorado Northwestern Community College,English,1.0,Lee Stanley,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1275420
+4,1900,Colorado Northwestern Community College,Science,4.0,Meghan Munter,2.0,1,N/A,,,,,,,,,,,,,1,,,,1,,,1,1926207
+5,1900,Colorado Northwestern Community College,Biology,4.0,Todd Ward,3.0,1,N/A,1,,,,,,,,,,,,,,,,1,,1,,2131773
+6,1900,Colorado Northwestern Community College,Mathematics,4.0,Jessica Hearns,5.0,1,N/A,,,,1,,,,,,,,,,1,1,,,,,,2158081
+7,1900,Colorado Northwestern Community College,Health Science,3.0,Sarah Ward,4.0,1,N/A,1,,,,,1,,,,,,,,,1,,,,,,2355311
+8,1901,Colorado School of Trades,Design,4.3,John Stewart,4.3,3,N/A,,,,,,,,,,,,,,,,,,,,,683532
+9,1902,Columbia Basin College,Political Science,4.2,Gary Bullert,2.5,162,15%,1,1,,,1,4,9,1,4,,,,31,3,6,2,19,,12,32,79127
+10,1902,Columbia Basin College,English,4.6,Elaina Meiners,1.9,162,12%,,,4,1,1,7,18,2,2,,1,,3,35,5,1,17,32,1,66,622981
+11,1902,Columbia Basin College,English,3.1,Dave Abbott,3.8,156,N/A,,3,,1,2,2,,9,,1,8,3,,4,4,10,8,1,,5,157530
+12,1902,Columbia Basin College,Sociology,2.7,Debjani Chakrabarti,4.3,151,100%,,1,,6,3,2,2,4,,2,,,,,6,5,,,,,583745
+13,1902,Columbia Basin College,Computer Science,1.8,Tony Sako,5.0,117,N/A,1,,,1,1,,,3,,,2,1,,,1,4,2,,,,738879
+14,1902,Columbia Basin College,English,3.6,Matt Mathesius,4.4,113,88%,,4,1,3,10,,12,29,1,,14,4,,6,3,4,5,4,,22,167553
+15,1902,Columbia Basin College,Anthropology,3.3,Mark Taff,4.5,109,85%,4,5,,5,6,,2,9,1,,12,4,12,3,4,10,17,1,1,11,417577
+16,1902,Columbia Basin College,History,2.7,David Arnold,4.5,108,93%,2,22,,8,5,2,17,20,2,,16,9,4,6,12,9,5,,,7,672539
+17,1902,Columbia Basin College,English,4.2,Brad Sealy,2.5,101,32%,1,2,1,1,7,,33,18,1,,,1,,17,10,3,5,9,1,42,806956
+18,1902,Columbia Basin College,Psychology,2.1,Kay Lynn Stevens,4.6,95,100%,3,11,,16,7,2,7,21,,,3,7,4,2,4,13,2,2,3,3,427185
+19,1902,Columbia Basin College,English,3.1,Cliff Wakeman,4.1,91,72%,2,8,,,2,,7,14,2,,15,3,,5,2,9,15,5,2,13,267587
+20,1902,Columbia Basin College,Mathematics,3.2,Meg Bartrand,3.5,86,78%,10,7,,7,6,21,,9,,2,,6,,3,12,4,12,,,9,1140535
+21,1902,Columbia Basin College,English,2.8,Molly Mooney,4.0,82,N/A,,1,2,11,13,18,15,40,,3,7,5,2,12,14,8,9,5,,13,1989518
+22,1902,Columbia Basin College,History,3.8,Chris Herbert,3.4,80,50%,3,13,,4,4,,34,17,4,,11,1,13,4,4,3,8,18,4,33,1848984
+23,1902,Columbia Basin College,Economics,3.3,Dean Schau,2.8,79,17%,,2,1,2,2,2,15,,11,,3,,5,1,2,2,3,1,9,10,151273
+24,1902,Columbia Basin College,Psychology,3.4,Jerry Delich,3.8,79,N/A,,,,,,,,,,,,,,,,,,,,,263362
+25,1902,Columbia Basin College,Mathematics,2.9,Nicholas Criddle,4.2,77,56%,2,8,,2,1,,,3,7,,7,1,2,1,1,3,11,,4,10,889889
+26,1902,Columbia Basin College,English,2.7,Benjamin Johnson,4.0,72,54%,2,2,1,4,4,2,10,8,,3,8,,1,15,7,5,1,11,,17,1147021
+27,1902,Columbia Basin College,Mathematics,2.7,Limin Zhang,3.3,71,77%,5,3,,8,5,4,,2,2,,4,,2,10,2,,6,,1,5,772760
+28,1902,Columbia Basin College,Biology,3.9,Amy Donovan,3.3,71,52%,6,10,2,11,5,,10,12,2,2,3,3,10,8,1,3,15,,21,33,1873383
+29,1903,Columbia College,Physical Education,2.9,Nathan Rien,4.8,153,100%,3,2,1,23,27,17,19,74,1,1,3,21,,13,40,27,1,,3,2,1168354
+30,1903,Columbia College,Communication,3.7,Tim Elizondo,3.5,87,70%,1,2,,7,2,1,3,12,4,1,10,4,1,2,10,13,8,,,20,759086
+31,1903,Columbia College,History,3.1,Tom Johnson,4.0,76,67%,1,3,,1,1,,14,9,6,,,1,6,,13,4,8,,,7,37615
+32,1903,Columbia College,English,2.8,Jim Toner,4.4,45,N/A,,3,,3,,,4,7,,,1,2,,4,1,,2,,,,148531
+33,1903,Columbia College,Mathematics,3.5,Lahna VonEpps,4.0,43,90%,3,,,6,3,2,1,7,3,13,9,1,3,6,3,3,12,,2,4,1392548
+34,1903,Columbia College,Chemistry,4.0,Joe Ryan,3.3,42,N/A,,,,,,,,4,,2,,1,1,2,3,,,,,4,584868
+35,1903,Columbia College,Psychology,2.9,Tina Trolier,3.0,42,36%,1,,1,1,2,,9,,9,4,9,,,,1,2,,,2,7,94137
+36,1903,Columbia College,Social Science,4.3,Ted Hamilton,4.3,38,N/A,2,1,,1,2,,1,3,,,,2,,,1,,,,,1,148575
+37,1903,Columbia College,Mathematics,3.3,Anne Cavagnaro,4.5,32,100%,1,1,,6,1,,,1,,,7,2,,2,,5,2,,,,782319
+38,1903,Columbia College,Social Science,4.6,Paula Clarke,3.2,27,N/A,,1,,1,,,3,,,,,,,1,1,2,,,,3,259042
+39,1903,Columbia College,Science,4.4,Jerry Hodge,3.6,24,N/A,,,,,,,,,,,,,,,,,,,,,94140
+40,1903,Columbia College,Biology,3.1,Erin Naegle,4.7,24,100%,3,5,1,2,,4,,4,,,5,5,,,1,6,2,,1,2,1655899
+41,1903,Columbia College,Philosophy,3.2,Nathan Milnik,3.9,21,N/A,,1,2,,1,,7,2,,,2,,2,,1,,2,,,2,1734410
+42,1903,Columbia College,Biology,3.7,Kirsti Dyer,2.1,21,60%,,,,2,2,2,2,1,,,,,6,6,1,,,2,,3,1553601
+43,1903,Columbia College,Physics,3.3,Anca Husher,4.4,21,86%,8,4,,11,6,2,,8,1,,,8,,4,2,2,3,,1,3,2176635
+44,1903,Columbia College,Earth Science,2.9,Jeff Tolhurst,4.0,20,N/A,,1,,1,,,,1,1,2,,,1,,1,1,,,,,37617
+45,1903,Columbia College,Philosophy,2.9,Peter Lee,4.2,20,100%,,,1,,6,,3,6,,,,3,1,,1,4,,1,,1,886846
+46,1903,Columbia College,Biology,3.1,Kathy Kenna,4.4,20,80%,1,,,3,3,1,,5,,,,,1,,1,1,1,,2,1,1121287
+47,1903,Columbia College,Psychology,3.2,Bill Wilson,4.3,18,N/A,,,,,,,,,,,,,,,,,,,,,259048
+48,1903,Columbia College,English,2.7,Craig Johnston,3.1,17,29%,,,,1,2,1,2,1,,,1,,1,1,2,1,,,,1,1014449
+49,1904,Columbia Gorge Community College,Political Science,3.9,John Copp,3.3,22,67%,,1,,1,1,,,2,,,,2,2,1,5,,1,,,1,667865
+50,1904,Columbia Gorge Community College,Chemistry,3.6,Robert Kovacich,3.5,20,N/A,2,,,1,,,,,,,1,,1,,,,3,,,3,247585
+51,1904,Columbia Gorge Community College,Mathematics,2.9,John Evans,4.0,15,80%,4,2,1,,,1,,,,,,2,2,2,,,2,,,,64532
+52,1904,Columbia Gorge Community College,English,2.9,Timothy Schell,4.8,8,N/A,,1,,2,,,,2,,,2,,,,,2,,,,,695516
+53,1904,Columbia Gorge Community College,Biology,3.3,Bruce Krause,4.9,7,N/A,,,,,,,,,,,,,,,,,,,,,722374
+54,1904,Columbia Gorge Community College,Mathematics,3.0,Patricia Morse,4.1,7,N/A,1,,,1,,,,,,,,,,,1,1,,,,,1655959
+55,1904,Columbia Gorge Community College,Geology,2.5,Dennis Bokovoy,3.9,6,N/A,,,,,,,,,,,,,,,,,,,,,271885
+56,1904,Columbia Gorge Community College,Writing,1.7,Tom Kaser,4.8,6,N/A,1,,,,1,,,1,,,,,,,,,,,,,271898
+57,1904,Columbia Gorge Community College,Psychology,1.7,Dave Mason,4.9,6,N/A,,,,1,,1,,,,1,,,,,,,,,,,695514
+58,1904,Columbia Gorge Community College,Biology,2.5,Dan Ropek,3.9,6,N/A,,,,1,1,,,,3,,1,,1,,,,1,,1,,1507440
+59,1904,Columbia Gorge Community College,Psychology,2.6,Zip Krummel,4.1,5,N/A,1,,,1,,,1,1,,,1,1,1,,1,,,,,,1883560
+60,1904,Columbia Gorge Community College,Biology,3.8,Emilie Miller,3.6,5,N/A,,,,1,4,3,,1,,,,,2,,,,2,,,2,2006964
+61,1904,Columbia Gorge Community College,Writing,2.0,Leigh Hancock,4.3,4,N/A,,,,,,,,,,,,,,,,,,,,,1229049
+62,1904,Columbia Gorge Community College,Sociology,2.0,Katie Sullivan,3.3,4,N/A,,,,,,,,,,,,,,,,,,,,,1229059
+63,1904,Columbia Gorge Community College,Business,1.5,Pam Ritzenthaler,5.0,4,N/A,,,,,,,,1,,,,,,,,1,,,,,1728194
+64,1904,Columbia Gorge Community College,English,3.3,David Wild,3.7,3,N/A,,,,,,,,,,,,,,,,,,,,,983511
+65,1904,Columbia Gorge Community College,Art,1.7,Elizabeth Anderson,4.2,3,N/A,,,,,,,,,,,,,,,,,,,,,1229054
+66,1904,Columbia Gorge Community College,Business,3.7,Kenneth Leibham,2.0,3,N/A,,,,,,,,,,,,,,,,,,,,,1395399
+67,1904,Columbia Gorge Community College,Writing,3.7,Megan Callow,3.2,3,N/A,,,,,,,,,,,,,,,,,,,,,1507285
+68,1904,Columbia Gorge Community College,English,3.3,Scott Stein,3.1,3,N/A,,,1,,,,,,,,,,,,,,1,,,1,1844790
+69,1906,Columbia State Community College,History,2.4,Barry Gidcomb,4.0,71,75%,,2,1,,5,8,4,1,1,1,4,1,9,,1,4,4,1,2,2,443269
+70,1906,Columbia State Community College,English,1.5,James Senefeld,4.5,59,N/A,,3,,3,2,2,,6,,,10,1,,,,7,2,,,,235319
+71,1906,Columbia State Community College,Psychology,2.8,Linda Brunton,3.8,58,44%,,3,16,,1,3,18,2,,,2,1,1,2,4,2,4,,2,6,443267
+72,1906,Columbia State Community College,History,3.5,Thomas Flagel,4.5,57,80%,,6,,6,3,1,10,14,,,,4,2,1,6,4,8,1,,7,1221563
+73,1906,Columbia State Community College,Psychology,3.3,Louise Katz,2.6,56,25%,,,,1,2,5,11,,1,1,,,4,1,2,,1,,2,1,443270
+74,1906,Columbia State Community College,Psychology,3.5,De'Marcus Jackson,4.3,55,100%,1,2,,,1,5,4,7,,,2,5,,1,5,1,,1,,1,874294
+75,1906,Columbia State Community College,Mathematics,4.1,Robert Michael Darrell,2.4,52,36%,1,2,2,1,3,5,2,1,,,,,4,14,,,6,,,6,874289
+76,1906,Columbia State Community College,English,3.5,Jeff Hardin,3.9,44,69%,1,3,,4,,,3,3,1,,4,4,8,,1,1,1,2,1,8,610928
+77,1906,Columbia State Community College,English,2.0,Beverly Mitchell,4.7,41,71%,,3,,3,2,4,1,3,,2,7,6,2,,5,2,,,,2,443271
+78,1906,Columbia State Community College,Psychology,3.7,Cheryl McCord-Aklin,2.3,39,N/A,,1,,,,,11,,4,,3,,1,,1,,3,,4,2,286157
+79,1906,Columbia State Community College,Geography,1.8,Aubrey Flagg,4.8,37,N/A,,,,,,,,,,,,1,,,1,1,,,,,667828
+80,1906,Columbia State Community College,Sociology,2.6,Candace Warner,4.4,36,75%,2,4,,2,2,,2,1,,,2,,,1,1,2,1,1,1,6,681937
+81,1906,Columbia State Community College,History,2.3,William Andrews,4.5,35,N/A,,,,,,,,,,,,,,,,,,,,,238982
+82,1906,Columbia State Community College,Mathematics,3.7,Glenn Hudson,4.1,34,N/A,1,1,,1,,,,,,1,,1,,,1,3,1,,,,210699
+83,1906,Columbia State Community College,Mathematics,2.1,Ricky Hardison,4.8,34,100%,1,,,8,1,,,3,,,1,6,,2,1,6,,,,,454474
+84,1906,Columbia State Community College,Communication,3.2,Daniel Johnson,2.1,34,15%,,,,,,1,,,4,2,,,,2,7,1,9,5,,5,1238139
+85,1906,Columbia State Community College,Biology,3.4,Elvira Eivazova,4.2,34,71%,2,4,3,1,2,1,2,7,2,3,1,3,9,,6,5,9,,2,,1132045
+86,1906,Columbia State Community College,English,3.4,Latasha Stenson,3.0,33,67%,2,,,6,,,1,1,2,3,2,3,,1,,,2,1,1,6,732143
+87,1906,Columbia State Community College,Communication,2.1,Tom Hallquist,4.7,32,100%,1,5,,11,,,,12,,,2,12,,,2,13,,,,,1388834
+88,1906,Columbia State Community College,Biology,2.9,Spence Dowlen,4.5,32,75%,4,1,,4,,1,1,1,2,,,,2,1,,4,8,,1,2,703099
+89,1907,Columbia-Greene Community College,Psychology,3.2,Barbara Shaffer,4.8,40,92%,2,8,,18,3,1,,4,,,8,15,1,,3,14,,,,2,1715124
+90,1907,Columbia-Greene Community College,History,1.8,Kenneth Botsford,4.8,36,N/A,,,,,,,,,,,,,,,,,,,,,181795
+91,1907,Columbia-Greene Community College,Psychology,1.8,Berne Bendel,4.9,33,N/A,1,2,,6,1,,,1,,,1,5,1,1,,1,,,,,341559
+92,1907,Columbia-Greene Community College,English,2.0,Kristen Isabelle,4.5,32,N/A,,,,5,1,,,1,,,4,1,,,,3,,,,,511109
+93,1907,Columbia-Greene Community College,Mathematics,3.9,Ralph Bertelle,2.3,31,N/A,,,,,,,,,,,,,,,,,,,,,204378
+94,1907,Columbia-Greene Community College,Humanities,3.1,J. Theodore Hilscher,3.0,30,40%,1,,1,,,1,4,,4,,1,,2,1,,,,2,,3,495686
+95,1907,Columbia-Greene Community College,English,2.1,Mike Allard,4.7,29,N/A,,,,,,,,3,,,,,,,,3,,,,,486013
+96,1907,Columbia-Greene Community College,English,2.7,Gregg Berninger,4.8,26,N/A,,,,,2,,,1,,,3,,,,2,,,,,,158219
+97,1907,Columbia-Greene Community College,Psychology,2.4,Peter Cameron,4.4,26,N/A,,,,1,,,,1,,,,1,,,,,,,,,412558
+98,1907,Columbia-Greene Community College,Psychology,3.2,Kevin Kropp,4.7,26,N/A,1,,,1,4,,,,,,2,1,,,2,,1,,,,808790
+99,1907,Columbia-Greene Community College,Fine Arts,3.2,Steven Careau,4.4,24,N/A,1,2,,6,,,,11,,1,6,5,,3,4,2,,,,5,710469
+100,1907,Columbia-Greene Community College,Biology,3.2,Dawn Holsapple,3.8,21,N/A,,1,,,,,1,1,,,,,2,1,,1,2,,,3,725908
+101,1907,Columbia-Greene Community College,Business,2.4,Lee Scheinberg,4.2,20,N/A,,2,,1,,,,1,,,1,2,,,,,,,,,258645
+102,1907,Columbia-Greene Community College,Criminal Justice,2.1,Claudine Decarolis,4.7,19,N/A,,,,,,,,,,,,,,,,,,,,,540156
+103,1907,Columbia-Greene Community College,Mathematics,2.2,Joseph Scampoli,4.8,18,100%,4,,,3,,,,4,,,,1,,,,2,,,,,461485
+104,1907,Columbia-Greene Community College,Criminal Justice,3.2,William Deluca,4.8,16,N/A,,,,1,1,,1,2,,,,,,2,2,1,,,,1,844392
+105,1907,Columbia-Greene Community College,History,3.1,Nicole Strevell,4.2,16,N/A,,,,1,,,1,2,,,,,,1,,,,,1,,1148816
+106,1907,Columbia-Greene Community College,Business,3.5,Keith Beebe,3.4,14,N/A,,,,,1,1,6,1,,,,,2,1,,,2,1,,6,716454
+107,1907,Columbia-Greene Community College,Health Science,3.1,Matthew Kenny,4.1,13,N/A,,2,,,1,,,1,,,1,2,1,,,,2,,2,3,755333
+108,1907,Columbia-Greene Community College,Nursing,4.6,Marcy Mullen,3.8,13,N/A,,,,,,,,,,,,,,,,,,,,,826108
+109,1908,Columbus State Community College,Psychology,1.8,Karsten Look,4.9,200,N/A,,2,,,,,,,,,2,1,,,1,1,,,,,80296
+110,1908,Columbus State Community College,Humanities,3.5,Larry Kleinhenz,4.3,193,89%,,16,1,1,3,3,18,13,,,10,12,3,25,14,7,10,1,,10,215019
+111,1908,Columbus State Community College,English,3.6,Steve Kaczmarek,4.0,155,75%,4,8,,5,9,7,5,19,3,,4,7,3,4,6,3,2,2,,19,164021
+112,1908,Columbus State Community College,Chemistry,3.5,John Blaha,1.9,142,20%,,,,1,6,,29,2,4,,,,19,6,2,1,4,,8,22,478062
+113,1908,Columbus State Community College,Mathematics,3.7,John Nedel,2.8,138,58%,,8,,1,6,,,4,7,,,1,15,4,2,5,28,,14,25,224014
+114,1908,Columbus State Community College,Biology,3.0,Eric Kenz,4.5,136,96%,2,15,,9,3,1,4,5,1,,8,8,2,2,6,14,18,1,1,2,1150363
+115,1908,Columbus State Community College,English,2.7,Zachary Dilbeck,4.3,127,94%,8,4,2,8,27,,21,44,4,3,12,9,2,1,16,15,1,6,,13,1813173
+116,1908,Columbus State Community College,Humanities,4.6,Dona Reaser,2.3,125,23%,,2,,,1,,18,,1,,,,7,2,2,,17,3,1,22,654321
+117,1908,Columbus State Community College,Humanities,4.1,Mark Bocija,2.8,121,29%,,4,1,1,2,3,21,,,2,,3,6,21,5,1,5,7,1,16,225142
+118,1908,Columbus State Community College,Developmental Education,2.2,John Wallace,4.7,114,88%,1,2,,10,3,,1,11,,,6,2,1,3,4,10,6,,,3,544326
+119,1908,Columbus State Community College,Mathematics,2.4,Arthur Hayes,4.3,111,N/A,,,,1,,,,,,,,,,,,1,,,,,306545
+120,1908,Columbus State Community College,Political Science,1.9,Robert J Fitrakis,4.1,102,87%,,8,1,3,11,4,5,9,,,8,4,2,5,4,4,1,,,1,2031984
+121,1908,Columbus State Community College,Mathematics,2.4,Gary Gutman,4.0,101,61%,10,3,3,7,4,1,,4,6,,9,3,15,1,3,1,10,,7,,2044531
+122,1908,Columbus State Community College,Biology,3.7,Amine Kidane,2.8,99,77%,,3,,5,5,1,8,2,4,,11,5,4,,4,5,7,,5,4,357378
+123,1908,Columbus State Community College,Biology,3.8,Randy Mogg,3.2,98,54%,1,2,,2,3,,1,3,1,,,,9,1,1,1,9,,3,3,215107
+124,1908,Columbus State Community College,Chemistry,2.2,Tony Hage,4.8,98,100%,3,10,2,10,2,1,,3,,,1,2,,,4,1,1,,,,251622
+125,1908,Columbus State Community College,Social Science,1.9,Peter Karim-Sesay,4.0,98,67%,,8,2,2,2,2,1,2,3,10,6,9,6,,1,5,4,,,3,1111825
+126,1908,Columbus State Community College,Mathematics,2.1,Ken Seidel,4.8,96,100%,1,9,,9,1,2,,2,1,,9,3,,,3,9,5,,,3,137494
+127,1908,Columbus State Community College,Real Estate,3.0,Gail Karin Cash,4.8,96,100%,8,24,1,25,7,3,,26,,,24,17,2,,15,24,1,,1,1,960987
+128,1908,Columbus State Community College,Psychology,2.4,Michael Schumacher,4.2,92,80%,1,8,,3,13,1,7,1,5,,14,3,4,2,3,8,5,,5,3,125497
+129,1909,Columbus Technical College,Science,2.7,Bobby Tefft,4.6,92,100%,2,20,3,8,13,16,1,9,,,10,11,1,3,4,20,14,,3,7,1462269
+130,1909,Columbus Technical College,Psychology,2.7,Kenneth Cyrus,4.3,57,N/A,,3,,,1,1,5,,,,4,2,,,,1,10,,,1,892399
+131,1909,Columbus Technical College,English,3.7,Steve White,2.4,41,N/A,,,,,1,,,,,,1,2,,,3,,4,,,3,381252
+132,1909,Columbus Technical College,Biology,2.9,Carol Duke,4.8,34,100%,1,13,,13,5,6,,4,,,1,4,4,,,14,6,,,2,1827690
+133,1909,Columbus Technical College,Biology,3.6,Amy Sandy,3.5,31,N/A,,,,,,,,,,,,,,,,,,,,1,935656
+134,1909,Columbus Technical College,Biology,4.3,Michelle Smith,3.0,29,N/A,,,,,,2,,2,,,,,,1,,1,5,,2,6,1213657
+135,1909,Columbus Technical College,Mathematics,2.9,James D. Smith,3.4,26,N/A,,,,,1,,,,,,,,,1,,,,,1,,381250
+136,1909,Columbus Technical College,Biology,4.5,James Tipton,2.4,24,N/A,,,,,,,,,,,,,,,,,,,,,581024
+137,1909,Columbus Technical College,English,4.2,Jon Stravelakis,2.6,24,N/A,1,,,,,,1,3,,,,,2,,1,1,,1,,4,1467169
+138,1909,Columbus Technical College,Biology,3.8,Scott Crumpton,3.7,21,N/A,,,,,,,,,,,,,,,,,,,,,585824
+139,1909,Columbus Technical College,Biology,4.4,Mitchell McKinney,2.5,21,47%,,,2,3,1,,7,1,1,,1,,3,2,2,1,9,,4,13,2118562
+140,1909,Columbus Technical College,Chemistry,1.8,Alicia Anderson,5.0,19,N/A,,,,2,,,,2,,,1,,,1,,1,,,,1,926899
+141,1909,Columbus Technical College,Biology,3.5,April Murphy,4.1,18,N/A,1,,1,,2,1,,1,,,2,,,,,,,,,,1031547
+142,1909,Columbus Technical College,English,4.0,James Holzmeister,3.1,18,N/A,,2,,,1,,,1,,,1,1,,,1,,2,,,2,1597742
+143,1909,Columbus Technical College,Health Science,2.4,Pedro Valentin,4.2,16,N/A,,1,,,1,1,,1,,,2,2,,,,1,,,,2,1096870
+144,1909,Columbus Technical College,General Studies,4.5,Pamela Gudel,2.3,16,N/A,,,,,,,,,,,,,,,,,,,,,1309165
+145,1909,Columbus Technical College,English,3.8,Leslie Schorr,3.3,15,50%,2,,2,1,2,,5,6,,,,,,3,3,,3,2,,10,1874173
+146,1909,Columbus Technical College,Mathematics,2.4,Dawn Chapman,4.4,14,N/A,,,,,,,,,,,,,,,,,,,,,782569
+147,1909,Columbus Technical College,Health Science,4.5,Eddie Rhodes,2.2,14,N/A,,,,1,,,1,,,,,,1,,2,,,,,,1445673
+148,1909,Columbus Technical College,English,3.1,Kelli Wilkes,4.3,14,100%,2,3,,4,2,1,2,4,,,2,,,,,2,1,,,2,1552013
+149,1911,Commonwealth Business College: Michigan City,Computer Science,3.0,Bryan Blaschke,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1003355
+150,1912,Commonwealth Institute of Funeral Service,Science,3.1,Stuart Moen,4.5,7,N/A,,,,,,,,3,,,1,,2,,,,,1,,2,807858
+151,1912,Commonwealth Institute of Funeral Service,Law,3.3,Jason Altieri,4.2,3,N/A,,,1,,,,,1,,,1,,,,1,,1,,,,1182006
+152,1912,Commonwealth Institute of Funeral Service,Psychology,3.0,Ophelia Binkley-Webb,4.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1591885
+153,1914,Community College of Allegheny County,English,2.8,Gary Grassinger,4.2,490,79%,2,13,1,36,21,83,19,91,5,4,7,79,5,11,38,48,46,6,,3,551230
+154,1914,Community College of Allegheny County,Psychology,3.8,Barbara Radigan,3.1,167,68%,,7,2,3,2,1,16,4,1,,10,6,3,10,12,6,6,,7,7,84583
+155,1914,Community College of Allegheny County,Philosophy,4.7,Barbara Brown,1.5,141,9%,,,1,,4,3,19,,3,,1,,5,4,2,,5,8,6,52,646740
+156,1914,Community College of Allegheny County,Biology,2.4,Charles Sidun,5.0,130,N/A,,2,,1,,,,1,,,,,,,,1,,,,,562905
+157,1914,Community College of Allegheny County,History,4.1,Laurie Sprankle,2.0,112,3%,,1,2,,1,,8,,5,,,,1,19,9,1,7,6,,36,1023724
+158,1914,Community College of Allegheny County,Psychology,3.6,Angela Fiore,3.5,83,N/A,,,,,,,,,,,,,,,,,,,,,887286
+159,1914,Community College of Allegheny County,Biology,2.8,Barbara Lax,4.8,82,95%,4,14,1,3,7,1,2,2,,,,1,3,1,,16,19,,1,6,459228
+160,1914,Community College of Allegheny County,English,2.3,John Hartner,4.1,80,91%,,2,,8,5,,,8,,,11,7,,,1,3,8,2,,2,183501
+161,1914,Community College of Allegheny County,Computer Science,3.9,Helen Ortmann,2.4,76,63%,1,,,2,1,,1,3,,,,,2,7,1,,3,1,1,10,393496
+162,1914,Community College of Allegheny County,Theater,1.2,George Jaber,4.9,69,100%,,4,,8,2,2,,5,,,8,7,,,6,11,2,,,,446058
+163,1914,Community College of Allegheny County,Mathematics,2.0,Elaine Diperna,4.3,66,92%,3,,,8,23,,2,23,,,,7,1,4,3,21,2,1,2,,967381
+164,1914,Community College of Allegheny County,Philosophy,3.7,John C. Eskridge,4.2,65,N/A,,1,,,,,,,,,,1,,,,1,,,,,379514
+165,1914,Community College of Allegheny County,Business,3.6,Joann Hunter,2.3,62,20%,2,,2,,2,1,4,1,1,,1,,1,1,2,,1,,2,12,157835
+166,1914,Community College of Allegheny County,History,2.5,Jackie Cavalier,4.2,62,75%,,2,,2,5,2,7,3,2,,1,1,,5,4,1,1,,2,2,162865
+167,1914,Community College of Allegheny County,Biology,3.7,Debbie Misencik,3.2,61,100%,1,,,,2,4,1,5,,,1,,6,,,1,4,,1,11,865881
+168,1914,Community College of Allegheny County,History,4.2,Aaron Hoffman,2.9,61,40%,1,1,4,1,5,6,20,1,,,,,,5,3,,4,4,2,14,1017786
+169,1914,Community College of Allegheny County,Biology,4.6,Linda Salicce,3.4,60,43%,,1,,1,1,,,3,,,,2,3,,,2,5,,6,5,635779
+170,1914,Community College of Allegheny County,Computer Science,2.4,Eileen Wrigley,4.3,59,91%,3,1,,1,6,1,1,9,,1,,2,,1,2,3,,,,,392654
+171,1914,Community College of Allegheny County,Mathematics,3.8,Kathy Kane,4.2,56,100%,5,4,,4,7,,,5,,,2,7,1,3,,6,4,,,10,668811
+172,1914,Community College of Allegheny County,Biology,2.7,Caroline Evans,4.8,56,100%,2,13,,6,4,,,11,,1,3,4,1,1,3,10,3,,,2,1389084
+173,1915,Community College of Aurora,Biology,4.4,Rhonda Hattar,3.0,42,50%,1,3,1,1,2,1,3,2,,1,,,,14,1,1,15,1,2,23,1462888
+174,1915,Community College of Aurora,English,4.3,Nancy Fromhart,2.7,39,88%,,,1,4,2,,4,,,2,,1,,5,4,2,4,3,,8,1127405
+175,1915,Community College of Aurora,Mathematics,1.8,Jeffrey Paganini,4.5,31,88%,3,6,,8,3,3,,4,,,11,3,2,2,2,9,2,,,,407080
+176,1915,Community College of Aurora,Biology,4.6,Tom Dillon,3.7,31,67%,2,4,,2,,,1,1,,,1,,,1,4,,5,,1,9,1188881
+177,1915,Community College of Aurora,English,3.6,Michael Levell,4.6,28,100%,1,2,,4,2,1,1,6,,,5,4,,,1,3,3,,,4,1640068
+178,1915,Community College of Aurora,English,3.6,Susan Achziger,3.2,24,20%,1,,,,,,,1,,1,,1,,4,1,,4,1,,2,690735
+179,1915,Community College of Aurora,Chemistry,4.4,Tiffany Hays,2.8,20,N/A,,1,,1,2,,1,,,1,,,,1,,,4,,,5,544404
+180,1915,Community College of Aurora,Biology,3.4,Jennifer Harrell,4.6,19,N/A,,,,3,1,,,2,,,,,,,1,3,1,,,2,1320257
+181,1915,Community College of Aurora,Literature,2.8,Rachel B Blue,4.8,19,N/A,,1,,,,,,4,1,1,1,1,,2,1,1,,,,1,1783512
+182,1915,Community College of Aurora,Mathematics,3.0,Kate Yonce,4.4,18,N/A,,2,1,3,5,,,4,,,,1,,6,2,3,2,,,1,714802
+183,1915,Community College of Aurora,Biology,3.3,John Murzyn,4.8,18,N/A,1,2,,1,1,2,2,2,,,1,,2,,,1,,,,1,875806
+184,1915,Community College of Aurora,Chemistry,4.4,Martha Jackson-Carter,4.3,18,40%,1,1,1,,1,,,1,,,,,1,3,1,,2,,3,2,1498990
+185,1915,Community College of Aurora,Psychology,2.4,Jennifer Dale,4.1,17,57%,2,1,1,1,1,1,6,3,,,,,1,1,1,1,1,,,2,1498991
+186,1915,Community College of Aurora,Philosophy,3.4,Bill Honsberger,3.0,17,N/A,,4,,,,3,,,,,,2,1,,3,4,3,1,,,1565267
+187,1915,Community College of Aurora,Mathematics,2.6,William Shelton,4.3,17,100%,,2,1,3,2,,,4,,,2,1,1,1,1,1,1,,,,1781417
+188,1915,Community College of Aurora,Chemistry,3.5,Lisa Kobriger-Steffey,4.6,17,90%,1,2,,4,1,3,,2,,,3,,1,9,1,3,6,1,1,2,1861277
+189,1915,Community College of Aurora,Chemistry,3.5,Rebecca Hoenigman,3.5,16,N/A,,2,1,1,2,2,,2,,,,1,1,2,4,,4,,,1,1462887
+190,1915,Community College of Aurora,Mathematics,2.3,Kane jessen,4.6,16,100%,6,,1,9,,2,,8,,,4,3,,2,3,4,1,,,,2044510
+191,1915,Community College of Aurora,History,2.5,Brandon Williams,4.7,15,100%,1,5,1,,2,,,6,,,7,2,1,,3,5,1,,,,2043442
+192,1915,Community College of Aurora,Psychology,3.2,Bita Behforooz,4.0,15,90%,2,,2,4,3,,7,4,,,,,3,1,3,,,2,1,2,2019170
+193,1916,Community College of Baltimore County - Dundalk,Biology,3.3,Michael Anson,4.3,159,81%,5,1,,9,16,17,8,5,2,,5,4,8,,1,15,7,,1,6,991943
+194,1916,Community College of Baltimore County - Dundalk,English,2.3,Deanne Byerly,4.8,114,94%,7,1,,19,19,,5,27,,1,7,,,3,,28,4,3,,5,1727708
+195,1916,Community College of Baltimore County - Dundalk,English,1.8,Elaine MacDougall,4.6,91,N/A,,1,,10,6,,14,25,,2,,11,,5,27,7,2,,,1,580942
+196,1916,Community College of Baltimore County - Dundalk,Biology,2.7,Robin Minor,4.7,82,79%,3,9,1,16,10,19,7,6,,,4,7,,4,1,10,7,,3,2,1429527
+197,1916,Community College of Baltimore County - Dundalk,Biology,2.6,Victor Madike,4.2,78,92%,3,3,,7,4,18,3,8,,1,,1,2,,3,5,3,,2,2,798040
+198,1916,Community College of Baltimore County - Dundalk,Biology,2.5,Doug Meise,4.8,61,83%,2,4,,12,10,7,,11,,,2,2,2,,1,12,3,1,1,3,994233
+199,1916,Community College of Baltimore County - Dundalk,Biology,3.0,Alfredo Herrera,3.8,60,82%,,2,,4,10,10,1,,1,,8,,1,,,1,3,,4,2,629895
+200,1916,Community College of Baltimore County - Dundalk,Psychology,2.9,Kevin Mick,4.3,60,40%,,1,,2,3,5,3,6,,,,,1,2,1,,2,,,4,713196
+201,1916,Community College of Baltimore County - Dundalk,Languages,1.9,David Truscello,4.8,59,100%,2,1,,4,1,,1,13,,,,5,,,7,10,,,,2,363208
+202,1916,Community College of Baltimore County - Dundalk,Psychology,2.6,Ira Albert,4.3,57,83%,,2,,1,8,,3,4,1,,1,,3,,1,2,2,,6,,300957
+203,1916,Community College of Baltimore County - Dundalk,English,3.8,Anne Roberts,2.9,57,N/A,1,,,,1,,5,1,1,,,,1,7,6,,2,2,,13,705448
+204,1916,Community College of Baltimore County - Dundalk,Chemistry,4.3,Pauline Hamilton,1.8,51,N/A,,,,,,,1,,,,,,1,,,,,,1,2,1458180
+205,1916,Community College of Baltimore County - Dundalk,Mathematics,1.7,Jesse Kiefner,5.0,50,100%,7,8,,16,4,,,14,,,2,3,,4,1,7,1,,,,1629079
+206,1916,Community College of Baltimore County - Dundalk,English,2.2,Patricia Rennie,4.5,49,N/A,1,,,5,4,,8,26,,1,,1,,1,19,14,1,,,8,1811085
+207,1916,Community College of Baltimore County - Dundalk,Mathematics,2.0,Joe Whedbee,4.5,43,82%,3,2,,2,5,,,3,3,,1,,,,2,4,3,,1,,363199
+208,1916,Community College of Baltimore County - Dundalk,Biology,4.2,George Mateja,3.5,41,67%,,2,2,1,3,1,2,4,,,,,3,1,,1,2,1,1,7,871495
+209,1916,Community College of Baltimore County - Dundalk,Biology,4.4,Jen Kilbourne,2.3,38,N/A,,,,,,,2,,,,,,,,,,,,1,2,300959
+210,1916,Community College of Baltimore County - Dundalk,Mathematics,2.7,Tyrone McKoy,4.3,38,N/A,1,2,,2,1,,,2,,,3,,1,1,,4,1,,,,500673
+211,1916,Community College of Baltimore County - Dundalk,English,3.7,Allen Stockett,4.2,37,N/A,,,,1,,,,,,,,1,,,,1,,,,,363212
+212,1916,Community College of Baltimore County - Dundalk,Psychology,1.8,Linda Gronberg-Quinn,4.3,34,N/A,2,,,1,1,,,1,,,2,1,,1,1,3,,1,,,300969
+213,1917,Community College of Baltimore County - Essex,Mathematics,2.3,Anthony Calise,5.0,163,100%,7,35,,45,19,15,,34,3,,29,13,5,1,,22,7,,4,2,1657400
+214,1917,Community College of Baltimore County - Essex,Speech,2.4,Rodney Burris,4.6,109,100%,,19,2,5,,,,19,,,14,29,,1,23,19,3,,,6,1369960
+215,1917,Community College of Baltimore County - Essex,Biology,4.3,James Hershey,3.0,96,60%,2,1,,2,3,1,3,1,6,,,2,2,,2,5,11,,3,15,430775
+216,1917,Community College of Baltimore County - Essex,History,3.7,Laura Trauth,3.5,94,65%,,1,,5,3,9,12,8,,,,2,,8,6,2,1,4,2,5,25451
+217,1917,Community College of Baltimore County - Essex,Mathematics,2.5,Kambiz Askarpour,4.0,85,74%,,7,3,5,6,2,,7,3,,4,1,2,8,2,3,13,1,2,8,474596
+218,1917,Community College of Baltimore County - Essex,Mathematics,2.7,Steven Zimmer,3.7,83,69%,1,2,,2,3,,2,6,1,,3,,4,2,2,2,2,,,5,468627
+219,1917,Community College of Baltimore County - Essex,Biology,4.2,Katherine Van De Wal,3.1,81,38%,2,1,,1,2,2,5,3,2,,,,11,2,,1,5,,7,9,300945
+220,1917,Community College of Baltimore County - Essex,Mathematics,3.6,Brandon Reeves,2.7,76,N/A,,1,,5,2,,,2,,,,,,1,,3,,,,,1465363
+221,1917,Community College of Baltimore County - Essex,Biology,2.3,Jaqueline Schrader-Hayes,4.6,73,N/A,,2,,,2,5,1,,,,,1,3,,,1,2,,,3,256355
+222,1917,Community College of Baltimore County - Essex,Science,4.2,Elizabeth Shrader,2.7,73,39%,3,2,2,,1,2,14,2,,11,1,1,3,12,1,2,4,1,1,36,474036
+223,1917,Community College of Baltimore County - Essex,Mathematics,2.7,Mary Elizabeth Gore,4.2,67,83%,3,2,1,10,13,8,,8,,,2,1,1,1,,6,2,,2,,322626
+224,1917,Community College of Baltimore County - Essex,English,2.4,Deanne Byerly,4.7,66,N/A,3,,,7,9,,1,13,,1,5,1,,,1,13,4,1,,6,1682367
+225,1917,Community College of Baltimore County - Essex,Psychology,2.6,Morgan Slusher,3.5,66,67%,1,3,,1,7,12,8,4,1,,,,14,,1,1,4,1,1,3,324214
+226,1917,Community College of Baltimore County - Essex,Biology,3.6,Janet Moure,3.8,66,93%,2,6,,2,6,,2,,4,,1,3,2,,,4,14,,4,5,398186
+227,1917,Community College of Baltimore County - Essex,Biology,2.7,Mike Curran,4.5,64,N/A,,,,,,,,,,,,,,,,,,,,,900849
+228,1917,Community College of Baltimore County - Essex,Biology,4.1,Allart Kok,2.6,63,68%,1,3,,6,2,8,4,2,1,,3,2,8,,2,2,5,,6,11,850782
+229,1917,Community College of Baltimore County - Essex,Philosophy,3.7,Wayne Alt,1.9,62,N/A,,,,,,,,,,,,,,,,,,,,,77489
+230,1917,Community College of Baltimore County - Essex,Psychology,3.2,Linda Weldon,3.5,62,29%,2,1,,2,2,14,6,,2,,1,,12,,,3,1,,5,3,292605
+231,1917,Community College of Baltimore County - Essex,Psychology,3.7,John Grimes,3.9,56,N/A,,1,,2,,,5,2,,,1,,2,3,,2,1,,,6,400257
+232,1917,Community College of Baltimore County - Essex,Radiography,4.2,Erin Myers,1.3,56,N/A,,,,,,,1,,,1,,,12,1,,,,,,6,1219053
+233,1918,Community College of Beaver County,English,1.8,Frank Albert,4.9,40,100%,,2,,5,1,1,,4,,,5,9,,,1,5,1,,,,654993
+234,1918,Community College of Beaver County,History,2.9,C.V. Smith,4.5,29,N/A,,,,,,,,,,,,,,,,,,,,,187080
+235,1918,Community College of Beaver County,Science,3.0,Dennis Haggerty,3.6,28,N/A,,,,2,,,1,,,,1,1,,,1,5,3,,,1,100368
+236,1918,Community College of Beaver County,Film,2.1,Cynthia Marshall,4.5,21,N/A,1,,,2,,,,1,,,1,2,,,,,,,,,311985
+237,1918,Community College of Beaver County,Mathematics,1.8,Beth Jansto,4.9,20,100%,1,,,3,1,1,,3,1,,1,2,,,,5,,,,,439017
+238,1918,Community College of Beaver County,Science,3.5,Ursula Matuzak,2.1,19,N/A,,,,,,,,,,,,,,,,,,,,,683530
+239,1918,Community College of Beaver County,Business,4.2,Debbie Reed,2.3,18,N/A,,,2,1,,1,1,,1,1,,,4,,1,,4,,3,9,699441
+240,1918,Community College of Beaver County,English,2.4,Rick Kay,3.8,17,N/A,,,,,,,,1,,1,1,,,,,,,,,,268687
+241,1918,Community College of Beaver County,English,3.5,Malley Branchetti,3.4,17,60%,,1,,,,1,1,3,,1,,2,2,1,2,1,2,,,1,889381
+242,1918,Community College of Beaver County,Computer Science,1.7,Doug Lauffer,4.5,16,N/A,2,,,3,,,,2,,,,2,,5,,1,,,,,694855
+243,1918,Community College of Beaver County,Business,3.3,Lana Podolak,3.7,16,N/A,,,,,1,,3,,,,,,1,2,,1,,,,3,344309
+244,1918,Community College of Beaver County,Psychology,3.6,Joe Mangie,1.8,14,N/A,,,,,,,,,,,1,,,,,,,1,,2,124482
+245,1918,Community College of Beaver County,Philosophy,2.9,M. Leone,3.8,14,N/A,,,,,1,,1,,,,,,,1,1,,2,,,1,148474
+246,1918,Community College of Beaver County,Computer Science,3.5,Drew Campbell,5.0,14,100%,2,3,,,,,1,3,,,,2,3,,,3,1,,,,1325026
+247,1918,Community College of Beaver County,Psychology,3.2,Dan Klaus,4.0,13,N/A,,1,,,,,,,,,,1,,,,,,,,,696784
+248,1918,Community College of Beaver County,Accounting,2.8,Paul Rogers,4.8,12,N/A,1,,,4,,,,2,,,,3,,,,4,,,,,1890040
+249,1918,Community College of Beaver County,Writing,2.3,Drayton Link,3.5,11,N/A,,,,,,,,,,,,,,,,,,,,,684734
+250,1918,Community College of Beaver County,Not Specified,3.0,James Scott,5.0,11,N/A,,,,,,,,,,,,,,,,,,,,,912666
+251,1918,Community College of Beaver County,English,3.2,Hope Gossard,2.1,11,N/A,,,,,,,3,1,,4,,,1,3,2,,3,3,,5,1414790
+252,1918,Community College of Beaver County,Psychology,1.3,Peter Zubritsky,4.2,10,N/A,,,,,1,,,1,,,,1,,,,,,,,,1443292
+253,1919,Community College of Denver,History,3.0,Bill Ashcraft,5.0,101,100%,9,13,,15,,1,2,8,,,7,14,,,,25,,,,,893037
+254,1919,Community College of Denver,Fine Arts,1.7,Julie Ireland,4.9,94,100%,,9,,,1,2,,9,1,,20,9,,,18,12,15,,,,1228521
+255,1919,Community College of Denver,Biology,4.0,Shirley Stovall,3.0,65,50%,3,6,,3,,1,3,10,,2,,1,5,1,2,4,12,1,4,21,931801
+256,1919,Community College of Denver,Philosophy,2.5,Kurt Pond,4.7,48,97%,3,12,,16,5,1,1,12,1,1,18,8,4,1,4,15,2,1,1,4,1359499
+257,1919,Community College of Denver,Reading,2.7,Lisa Joslyn,4.2,48,93%,,2,16,12,5,8,4,29,1,,2,3,1,12,9,10,9,,1,4,1750025
+258,1919,Community College of Denver,Mathematics,3.0,Neji Sandi,3.4,44,67%,1,1,,6,,,,1,,,7,3,1,3,1,1,5,,,3,163165
+259,1919,Community College of Denver,Psychology,1.7,Kelly O'Dell,4.6,43,N/A,1,1,,,1,,,1,,,,,,,,,1,,,,1592743
+260,1919,Community College of Denver,English,3.1,Nicole Servino,4.8,42,96%,2,3,,6,9,,2,22,,1,7,5,,1,9,3,2,1,,1,1156949
+261,1919,Community College of Denver,Biology,3.1,Gail Daukas,4.4,40,75%,1,3,,14,12,13,3,7,1,,,3,2,,,11,2,,4,11,1640060
+262,1919,Community College of Denver,English,2.7,Nicholas Morris,4.9,39,100%,1,10,,3,3,3,9,11,,,20,3,1,1,9,6,2,,,1,1709677
+263,1919,Community College of Denver,Biology,2.8,Fluer Ferro,4.9,38,N/A,,5,,7,2,1,,4,,,3,7,,,1,3,2,,,,1272469
+264,1919,Community College of Denver,Mathematics,2.9,Zinaida Stilman,4.7,38,100%,5,3,,8,4,1,,9,1,2,4,2,,1,5,5,6,,,4,904180
+265,1919,Community College of Denver,Biology,3.0,Timothy Benson,4.5,38,86%,1,5,,7,5,4,1,5,,1,15,2,7,,1,9,7,,5,2,1522627
+266,1919,Community College of Denver,Mathematics,2.2,Barbara Aaker,4.6,35,N/A,1,,,1,2,3,,1,1,,3,,,3,,2,4,,,,228633
+267,1919,Community College of Denver,Communication,1.2,James K K McNeil,4.7,34,94%,3,4,,11,13,,,7,1,,15,,,,6,,5,,,,2347999
+268,1919,Community College of Denver,Mathematics,2.9,Jeffrey Spence,4.9,34,100%,2,5,,7,3,1,,7,,,12,6,,5,3,7,4,,,3,1696595
+269,1919,Community College of Denver,Biology,3.7,Dawn Cummings,3.2,33,50%,1,,1,5,1,5,6,3,,1,1,7,1,5,5,2,11,,2,6,1729620
+270,1919,Community College of Denver,English,3.2,Jeffrey Becker,4.4,32,57%,2,2,,1,1,,4,5,,1,2,1,,5,3,,1,1,,3,1358045
+271,1919,Community College of Denver,Business,3.0,Lynn Wilson,4.3,32,85%,2,6,,4,5,11,3,13,1,5,,13,2,4,8,8,2,,,3,1941107
+272,1919,Community College of Denver,English,3.8,Charlotte Howley,4.6,30,100%,2,9,,2,,,,6,,,2,15,,2,1,13,2,1,,2,1833338
+273,1920,Community College of Philadelphia,English,2.6,Joe Angelella,3.9,247,85%,3,2,7,3,3,7,14,30,,,24,2,,29,6,9,17,12,2,14,774530
+274,1920,Community College of Philadelphia,Biology,4.5,Ola Bailey,2.2,157,27%,,,2,1,3,6,5,1,2,,,1,14,,1,1,12,1,5,12,391685
+275,1920,Community College of Philadelphia,Biology,3.2,Brian Renna,4.2,141,85%,3,14,1,13,8,21,9,16,,,14,6,5,8,,11,9,1,3,10,839889
+276,1920,Community College of Philadelphia,English,2.6,Ryan Bing,4.8,127,100%,31,14,,38,31,4,7,102,,1,8,17,1,1,19,54,7,2,,2,2194529
+277,1920,Community College of Philadelphia,Biology,2.8,John Stopyra,4.0,127,82%,1,13,1,2,17,,3,1,2,,16,3,6,,,,6,,2,17,569642
+278,1920,Community College of Philadelphia,Biology,2.8,Karl Liljedahl,4.3,117,69%,1,15,,1,7,3,5,1,2,,23,2,4,,2,5,8,,2,3,703452
+279,1920,Community College of Philadelphia,English,4.1,Dennis Bartsch,3.7,114,N/A,,,,,,,,1,,,,,,,1,1,,,,,233864
+280,1920,Community College of Philadelphia,Mathematics,3.9,Reid C Huntsinger,2.8,113,21%,3,2,1,9,1,,6,5,10,1,1,6,15,4,3,5,13,2,1,19,1363612
+281,1920,Community College of Philadelphia,Sociology,3.0,Nicole Vadino,4.0,112,65%,,1,,1,4,9,11,16,,10,,4,,22,15,3,5,19,1,8,569244
+282,1920,Community College of Philadelphia,Mathematics,4.4,Atish Bagchi,2.3,112,55%,1,1,,,4,,2,3,,,2,4,5,4,4,3,18,1,3,24,349006
+283,1920,Community College of Philadelphia,Biology,3.9,Dawn Janich,3.3,107,39%,1,1,,2,2,,12,5,1,,,1,1,15,3,,4,,2,25,557257
+284,1920,Community College of Philadelphia,English,2.0,Ari Bank,4.9,104,100%,2,3,,11,1,5,3,15,,,7,12,,1,,12,,,,,693338
+285,1920,Community College of Philadelphia,Psychology,2.2,Rick Frei,4.8,103,92%,3,11,,1,5,2,9,4,,,9,5,3,,1,8,8,1,2,3,520604
+286,1920,Community College of Philadelphia,Chemistry,3.4,Annamaria Fulep-Poszmik,3.0,101,14%,,,2,2,3,,3,1,3,,1,,3,2,1,2,3,1,4,9,582207
+287,1920,Community College of Philadelphia,Biology,4.4,Robert Moskowitz,1.9,101,14%,,,,1,2,,13,,6,,,,15,,,,3,,5,7,783567
+288,1920,Community College of Philadelphia,Psychology,1.9,Martha Chavis,4.9,97,94%,,14,4,7,3,,1,7,,,15,3,2,1,2,20,9,,,,160233
+289,1920,Community College of Philadelphia,English,2.3,John Joyce,4.7,96,96%,4,3,,9,5,,4,28,,,9,12,,1,10,17,1,,,1,347238
+290,1920,Community College of Philadelphia,Biology,3.4,Jill Brambrink,4.0,96,35%,1,4,,6,8,1,6,2,2,,,3,7,5,2,5,13,,11,13,838589
+291,1920,Community College of Philadelphia,Philosophy,4.3,Martin Spear,2.7,95,17%,4,5,1,4,4,1,14,3,6,1,3,13,3,6,11,3,2,7,,5,551799
+292,1920,Community College of Philadelphia,Social Science,2.2,Christopher Murphy,4.8,92,100%,2,12,,4,9,,,3,1,,13,5,2,,1,16,10,4,,1,354771
+293,1921,Community College of Rhode Island,Psychology,3.0,Justine N. Egan-Kunicki,4.8,118,98%,24,27,5,18,34,17,7,59,1,1,24,13,6,14,34,26,15,,,,2214145
+294,1921,Community College of Rhode Island,Biology,2.9,Paul Miele,4.7,108,91%,2,18,,22,8,3,4,11,1,,25,6,1,2,12,25,16,,,3,1021065
+295,1921,Community College of Rhode Island,Biology,3.3,Don Fontes,4.0,82,71%,,1,,4,5,2,2,5,,4,4,5,,2,3,3,8,,1,1,325963
+296,1921,Community College of Rhode Island,English,2.4,Steve Forleo,4.2,81,82%,1,9,,2,,6,,1,1,4,5,9,,,3,9,3,,,,194011
+297,1921,Community College of Rhode Island,Mathematics,4.2,Todd Linton,3.3,70,43%,1,3,2,1,4,2,,8,,,1,8,2,25,1,4,14,3,6,24,1601872
+298,1921,Community College of Rhode Island,Biology,4.6,Patricia Wilhelm,3.3,68,N/A,,,,,,,,,,,,,,,,,,,,,564415
+299,1921,Community College of Rhode Island,Social Science,2.0,Dennis Najarian,4.6,66,89%,4,8,,8,2,,2,5,1,,2,3,3,2,11,10,2,1,,2,255798
+300,1921,Community College of Rhode Island,English,2.5,Debra Lilli,2.5,63,38%,,,,,,,1,3,2,2,1,,,4,2,,2,3,,3,269187
+301,1921,Community College of Rhode Island,Law,3.2,Steve Murray,3.5,59,N/A,,1,,,,,,,,,1,,,,1,1,,,,,183907
+302,1921,Community College of Rhode Island,Foreign Languages,1.7,Carol Panaccione,4.8,59,100%,,2,,12,,,,8,,1,4,15,,,4,8,,,,,489972
+303,1921,Community College of Rhode Island,Sociology,3.0,Carlton Hastings,3.6,57,50%,,1,1,1,3,,5,2,3,,4,1,11,1,3,,6,,8,7,1079620
+304,1921,Community College of Rhode Island,Psychology,2.1,Regina Traficante,4.8,56,100%,2,5,,6,6,12,6,4,1,,2,1,3,1,2,2,6,,,3,1375487
+305,1921,Community College of Rhode Island,English,1.8,Anthony Amore,4.0,55,71%,1,5,,2,3,,7,6,3,,11,4,5,,12,8,1,,,,1220082
+306,1921,Community College of Rhode Island,Psychology,2.8,Dave Alfano,4.2,53,N/A,,,,,,1,,,,,,,,,1,1,,,,,183892
+307,1921,Community College of Rhode Island,Economics,3.5,Saiful Huda,3.3,53,60%,,2,6,1,,1,3,,2,,,,2,,,,4,,1,6,191842
+308,1921,Community College of Rhode Island,History,1.7,Jack Every,4.7,53,N/A,,1,,,,,1,,,,3,4,2,,,4,,,,,282218
+309,1921,Community College of Rhode Island,Science,4.0,Brendan Britton,4.0,47,100%,2,7,,6,6,,1,5,,,3,6,1,11,1,3,10,,1,7,918942
+310,1921,Community College of Rhode Island,Psychology,2.6,Edmund Zuromski,3.9,45,N/A,,,,1,,,4,,,,1,,,,1,,1,,,1,164968
+311,1921,Community College of Rhode Island,Mathematics,3.0,Joseph Allen,3.2,44,N/A,,,,,1,,3,1,,,,,,1,,,,,,2,284001
+312,1921,Community College of Rhode Island,Business,2.7,Joann Warren,4.1,43,78%,2,,1,3,7,,1,10,2,4,,3,,,7,4,1,1,,,255799
+313,1923,Community College of the Air Force,Management,2.0,James Westdorp,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1553293
+314,1923,Community College of the Air Force,Psychology,3.0,Samantha Cunningham-Rawls,5.0,1,N/A,,,,,,,,1,,,,1,,,,1,,,,,2203383
+315,1924,Community College of Vermont,Biology,3.3,Alison Sauter,4.5,11,N/A,1,,,1,3,,1,2,,,,,,,,,,,,,1327443
+316,1924,Community College of Vermont,Humanities,2.8,Lou Colasanti,4.9,9,N/A,1,,,,,,,1,,,,,,1,2,3,,,,,1089463
+317,1924,Community College of Vermont,Mathematics,2.8,James Soisson,3.4,5,N/A,,,,,,,,,,,,,,,,,,,,,207087
+318,1924,Community College of Vermont,English,3.0,Trish Hopkins,5.0,5,N/A,,,,1,1,,,1,,,,,,,,,,,,,1102814
+319,1924,Community College of Vermont,Biology,2.3,Allison Dean,4.9,4,N/A,,1,,,,,,,,,1,,,,1,,,,,,207081
+320,1924,Community College of Vermont,History,3.3,Charles Edmonds,3.8,3,N/A,,,,,,,,,,,,,,,,,,,,,1089457
+321,1924,Community College of Vermont,Mathematics,3.0,Beth Kopeck,3.8,3,N/A,,,,,,,,,,,,,,,,,,,,,1551080
+322,1924,Community College of Vermont,Criminal Justice,4.0,Anne Cucinelli,3.5,2,N/A,,,,,,,,,,,,,,,,,,,,,721996
+323,1924,Community College of Vermont,Physics,3.0,Joseph Chase,4.8,2,N/A,,,,,,,,,,,,,,,,,,,,,1419786
+324,1924,Community College of Vermont,Science,2.5,Lucy Schumer,3.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1716363
+325,1924,Community College of Vermont,Biology,4.0,Michelle McNamara,5.0,2,N/A,,,,,,,,1,,,,1,,,,1,,,,,2387988
+326,1924,Community College of Vermont,English,4.0,Ruth Farmer,1.0,1,N/A,,,,,,,,,,,,,,,,,,,,,695887
+327,1924,Community College of Vermont,English,3.0,Eizabeth McHale,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,706975
+328,1924,Community College of Vermont,Sociology,4.0,Robert Baum,4.0,1,N/A,,,,,,,,,,,,,,,,,,,,,911667
+329,1924,Community College of Vermont,History,3.0,Elisabeth Lehr,2.5,1,N/A,,,,,,,1,,,,,,,,,,,,,,1318897
+330,1924,Community College of Vermont,Business,4.0,Marie O'Brien,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1549663
+331,1925,Compton College,Science,3.2,Fazal Aasi,4.3,166,90%,6,8,5,29,27,13,16,17,,,1,16,16,5,2,33,16,,5,6,1076390
+332,1925,Compton College,Sociology,1.9,Stephanie Eaves,5.0,105,100%,14,60,,28,11,3,,22,1,,55,41,,,25,19,,,,,2008539
+333,1925,Compton College,Biology,3.0,Eyob Wallano,3.4,93,69%,,2,19,1,2,,3,3,1,,5,6,4,,4,8,19,1,3,8,880310
+334,1925,Compton College,Mathematics,2.4,Jose Villalobos,4.5,88,96%,3,4,1,7,11,8,1,9,1,1,20,1,1,9,5,11,10,,,,633901
+335,1925,Compton College,Biology,3.3,Ayesha Sirajuddin,4.5,84,94%,11,17,4,17,14,23,9,13,2,,,10,36,6,9,17,21,,10,5,2028529
+336,1925,Compton College,Communication,1.8,Mark Shannon,4.9,78,N/A,,,,1,,1,1,5,,,4,1,,,3,,1,,,,866146
+337,1925,Compton College,Child Development,3.9,Cassandra Washington,2.5,73,38%,4,1,,7,6,3,10,8,2,4,1,3,3,3,12,1,13,,3,29,1512371
+338,1925,Compton College,Psychology,1.6,Farshid Moshrefi,5.0,68,97%,2,30,,38,13,3,,11,,1,9,18,1,,12,28,1,,,,1831606
+339,1925,Compton College,Languages,2.2,Marty Blankenship,4.8,67,100%,,5,,9,8,11,,23,,,10,6,,2,10,13,4,,,1,1722678
+340,1925,Compton College,Mathematics,2.6,A Abbassi,4.0,59,90%,2,4,1,16,3,1,1,6,,,13,2,1,8,2,3,9,,,4,478202
+341,1925,Compton College,Mathematics,2.4,M Tavakkoli,4.2,54,93%,,8,,14,10,10,1,4,4,,,3,1,9,1,3,,,,1,627060
+342,1925,Compton College,History,2.1,Jerome Evans,4.8,53,100%,,9,,9,,3,1,2,,1,12,5,,,8,16,1,,,,610102
+343,1925,Compton College,Science,2.7,Greg Walker,4.7,52,89%,,6,,5,,4,6,2,1,,8,4,,1,,3,7,,,2,1033272
+344,1925,Compton College,Political Science,3.2,Paul Flor,3.8,48,57%,,3,,1,4,4,3,1,,,,3,6,5,4,2,2,,1,9,1085078
+345,1925,Compton College,Psychology,2.2,Brad Conn,4.7,46,96%,3,4,1,5,9,1,,8,,8,3,2,8,1,4,9,7,,1,,1448572
+346,1925,Compton College,English,2.5,Amber Gillis,4.8,44,100%,1,4,,8,2,1,5,6,,1,8,3,,1,3,10,2,3,,,1453794
+347,1925,Compton College,Mathematics,2.4,Miguel Ornelas,4.5,44,91%,3,13,,6,10,8,,9,,,4,5,3,8,1,10,7,,1,3,1835083
+348,1925,Compton College,Mathematics,1.8,Jack Gill,5.0,44,100%,,9,,8,5,3,,4,,,13,4,,1,4,9,3,,,1,1464199
+349,1925,Compton College,Mathematics,2.5,Jose M Martinez,4.3,42,100%,,6,,9,6,14,,2,,,,2,2,9,1,2,5,,1,1,1571596
+350,1928,ConCorde Career College,Medicine,3.3,Paul Arnote,4.5,12,N/A,,,,,,,,,,,,,,,,,,,,,371435
+351,1928,ConCorde Career College,Medicine,4.3,Lana Conrad,3.3,7,N/A,,,,,,,,,,,,,,,,,,,,,801074
+352,1928,ConCorde Career College,Medicine,2.6,Naas Mike,3.5,5,N/A,,,,,,,,,,,,,,,,,,,,,371434
+353,1928,ConCorde Career College,Medicine,3.3,Wanda Allen,3.0,4,N/A,,,,,,,,,,,,,,,,,,,,,801021
+354,1928,ConCorde Career College,Education,3.8,Fernando McGregor,2.5,4,N/A,,,,,,,,,,,,,,,,,,,,,815905
+355,1929,Connors State College,Psychology,2.0,Gary Grady,4.7,18,100%,,6,,,4,2,,2,,,2,3,1,,,3,2,,,,1461711
+356,1929,Connors State College,Science,1.6,Stuart Woods,5.0,16,N/A,,,,1,,,,,,,2,,,,1,2,1,,,,236376
+357,1929,Connors State College,English,3.3,Sharon Hendrix,3.3,15,N/A,,,,,,,1,,,,,,1,1,1,,1,1,,2,779142
+358,1929,Connors State College,History,4.1,Jimmy White,2.8,14,N/A,,,,,,,,,,,,,,,,,1,,,1,182950
+359,1929,Connors State College,History,4.1,Patricia Wimber,2.3,14,N/A,,,,,,,2,,,,,,,,,,1,2,,3,779139
+360,1929,Connors State College,Mathematics,3.6,Lynette Rock,3.0,14,17%,,1,,,,,,,,,,,3,2,1,,4,,2,4,835737
+361,1929,Connors State College,Biology,2.7,Frank Corrado,4.8,13,100%,2,7,,5,2,,,3,,,4,3,,,1,2,,,,,1905156
+362,1929,Connors State College,English,2.8,Bridget Beaver,4.4,12,N/A,,,,,,,1,,,,,,,1,,,1,,,,71571
+363,1929,Connors State College,English,1.5,Robin Whitman-Oquinn,5.0,10,N/A,,,,,,,,,,,,,,,,,,,,,811747
+364,1929,Connors State College,Humanities,1.3,Jackson Best,2.6,9,N/A,,,,,,,,,,,,,1,,,,,,,,182958
+365,1929,Connors State College,Student Success,3.1,Debi Corrado,4.5,8,N/A,,,,2,,,,2,,,,,,,,,,,,1,182956
+366,1929,Connors State College,Nursing,3.2,Sandra Scott,4.7,8,N/A,,,,,,,,1,,,,,,,,1,1,,,,280713
+367,1929,Connors State College,Biology,2.1,Gideon Sein,3.1,8,N/A,,,,,,,,,,,,,,,,,,,,,991201
+368,1929,Connors State College,Biology,3.7,Ryan Carlton,3.8,8,N/A,,,,1,,,1,,2,,,,,1,1,,,,,1,1004859
+369,1929,Connors State College,Mathematics,3.7,Thomas Harrington,4.7,8,N/A,2,2,1,,,,,,,,,,,1,,,2,,1,,1157941
+370,1929,Connors State College,Science,2.6,Fred Crapse,4.1,8,88%,,1,2,,1,4,,2,,,1,2,,4,1,2,2,,2,,2266251
+371,1929,Connors State College,Mathematics,1.6,Chelsea Hayes,4.3,7,N/A,,,,2,,,,1,,,,1,,1,,1,,,,1,1807877
+372,1929,Connors State College,Literature,2.7,Kim Hayes,3.2,6,N/A,,,,,,,,,,,,,1,,3,1,1,,,1,898167
+373,1929,Connors State College,English,2.2,Leeann Garland,4.8,6,N/A,1,,1,,1,,2,1,,,,,,,1,,,,,1,1545886
+374,1929,Connors State College,Science,3.4,Marc Cullison,3.0,5,N/A,,,,,,,,,,,,,,,,,,,,,584870
+375,1931,Consolidated School of Business: York,Business,3.0,Derena Cedeno,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,887979
+376,1932,Contra Costa College - San Pablo,Sociology,2.0,Vern Cromartie,3.7,115,88%,1,8,,1,13,27,14,1,1,,4,7,4,1,18,10,11,1,1,7,509032
+377,1932,Contra Costa College - San Pablo,Mathematics,3.1,Trung A. Nguyen,4.5,78,81%,1,9,5,26,9,7,6,6,2,6,9,7,,29,10,17,14,,4,6,1865067
+378,1932,Contra Costa College - San Pablo,Science,3.9,Chris Tarp,4.3,73,71%,,1,,3,1,4,1,3,,,3,1,2,4,,1,7,,1,12,129558
+379,1932,Contra Costa College - San Pablo,Biology,3.4,Debra Barnes,4.8,72,60%,,7,,1,,1,,2,,,4,1,1,,,3,8,,1,3,246318
+380,1932,Contra Costa College - San Pablo,Mathematics,2.5,Terril Mead,4.8,67,100%,1,13,,10,3,7,,5,,,12,3,,4,,4,,,,1,129554
+381,1932,Contra Costa College - San Pablo,Psychology,3.1,Michel Arnold,4.1,65,48%,1,4,,2,7,,11,12,,1,4,3,1,11,3,7,4,3,,8,680117
+382,1932,Contra Costa College - San Pablo,Science,3.0,Jon Celesia,4.2,58,71%,3,8,,5,1,1,9,2,,,2,9,1,13,,4,3,1,3,,129566
+383,1932,Contra Costa College - San Pablo,English,3.5,Barbara McClain,3.2,58,N/A,,,,,,,,,,,,,,,,,,,,,417807
+384,1932,Contra Costa College - San Pablo,Biology,3.8,Ellen Coatney,4.3,58,83%,1,5,,8,7,3,2,5,,,3,5,5,3,1,9,14,,3,10,878512
+385,1932,Contra Costa College - San Pablo,Mathematics,3.0,Tim Fish,4.2,57,94%,,2,,6,4,6,,4,,,8,3,3,12,,4,19,1,,5,941839
+386,1932,Contra Costa College - San Pablo,History,3.2,Carolyn Hodge,3.8,55,67%,,,,,3,2,6,5,,1,,2,,2,1,4,3,1,,6,129568
+387,1932,Contra Costa College - San Pablo,Health Science,3.3,Aminta Mickles,4.9,52,100%,1,8,1,12,4,1,8,18,,1,,21,,2,21,16,3,,1,2,1371056
+388,1932,Contra Costa College - San Pablo,Mathematics,3.4,Emanuel Baptiste,2.9,51,N/A,1,,,1,4,,2,,,,2,1,2,,,,,,,3,380161
+389,1932,Contra Costa College - San Pablo,Chemistry,3.5,Thuy Dang,4.0,51,92%,2,3,,2,7,2,3,4,,,3,,3,3,,5,7,,1,11,670674
+390,1932,Contra Costa College - San Pablo,Humanities,1.9,Dajarah (David) Houston,3.9,50,N/A,,1,,3,,,,2,,,1,3,1,,1,1,,,,1,372006
+391,1932,Contra Costa College - San Pablo,Mathematics,2.1,Sherry Sharufa,4.8,48,87%,2,8,,6,2,3,,8,,,1,9,,2,3,9,2,,2,1,434911
+392,1932,Contra Costa College - San Pablo,English,3.6,Joy Eichner-Lynch,3.8,48,86%,2,3,,5,2,,3,9,1,,1,3,,,2,1,1,,,2,330976
+393,1932,Contra Costa College - San Pablo,Mathematics,3.3,Sue Vanhattum,2.8,47,33%,4,,1,5,,,2,4,,3,,4,6,8,2,3,2,,1,11,129559
+394,1932,Contra Costa College - San Pablo,English,3.4,Fritz Pointer,3.9,46,N/A,1,,,,,,3,3,,,,,,1,4,2,5,1,,4,733127
+395,1932,Contra Costa College - San Pablo,Fine Arts,1.7,Clay David,4.5,44,N/A,,,,,,,,,,,,,,,,,,,,,564975
+396,1933,Le Cordon Bleu College of Culinary Arts in Chicago,Culinary Arts,2.0,Anthony McPhee,4.4,27,N/A,,,,,,,,,,,,,,,,,,,,,665409
+397,1933,Le Cordon Bleu College of Culinary Arts in Chicago,Culinary Arts,2.7,Tom beckman,4.4,12,N/A,,,,,,,,,,,,,,,,,,,,,574663
+398,1933,Le Cordon Bleu College of Culinary Arts in Chicago,Culinary Arts,3.8,Tim Bucci,4.9,11,N/A,,,,,,,,,,,,,,,,,,,,,353344
+399,1933,Le Cordon Bleu College of Culinary Arts in Chicago,Culinary Arts,2.4,Alisa Gaylon,4.4,7,N/A,,,,,,,,,,,,,,,,,,,,,706214
+400,1933,Le Cordon Bleu College of Culinary Arts in Chicago,Not Specified,2.9,George Duychak,4.1,7,N/A,,,,,,,,1,,,,1,,,,,,,,,708511
+401,1933,Le Cordon Bleu College of Culinary Arts in Chicago,Culinary Arts,3.6,Karyn Hobfoll,4.3,7,N/A,,,,,,,,,,,,,,,,,,,,,718611
+402,1933,Le Cordon Bleu College of Culinary Arts in Chicago,Culinary Arts,3.0,Micheal Riley,4.3,6,N/A,,,,,,,,,,,,,,,,,,,,,694515
+403,1933,Le Cordon Bleu College of Culinary Arts in Chicago,Culinary Arts,3.0,Marilyn McNabb,3.1,6,N/A,,,,,,,,,,,,,,,,,,,,,823687
+404,1933,Le Cordon Bleu College of Culinary Arts in Chicago,Culinary Arts,2.5,Cara Benski-Mcphee,4.5,6,N/A,,,,,1,,,,,,1,1,,,1,,1,,,,823688
+405,1933,Le Cordon Bleu College of Culinary Arts in Chicago,Hotel & Restaurant Management,2.2,Eric Bell,4.3,5,N/A,,,,,,,,,,,,,,,,,,,,,708506
+406,1933,Le Cordon Bleu College of Culinary Arts in Chicago,Culinary Arts,1.8,Mark Maassen,4.3,4,N/A,,,,,,,,,,,,,,,,,,,,,409962
+407,1933,Le Cordon Bleu College of Culinary Arts in Chicago,Culinary Arts,3.5,Jim McGuiness,4.6,4,N/A,,,,,,,,,,,,,,,,,,,,,706236
+408,1933,Le Cordon Bleu College of Culinary Arts in Chicago,Culinary Arts,4.5,Nancy Carey,4.0,4,N/A,,,,,,,,,,,,,,,,,,,,,967213
+409,1933,Le Cordon Bleu College of Culinary Arts in Chicago,Culinary Arts,1.7,Michael Salzinski,5.0,3,N/A,,,,,,,,,,,,,,,,,,,,,663347
+410,1933,Le Cordon Bleu College of Culinary Arts in Chicago,English,1.0,Mike Dice,4.7,3,N/A,,,,,,,,,,,,,,,,,,,,,812075
+411,1933,Le Cordon Bleu College of Culinary Arts in Chicago,Culinary Arts,1.5,Juanita Cruz,2.8,2,N/A,,,,,,,,,,,,,,,,,,,,,706232
+412,1933,Le Cordon Bleu College of Culinary Arts in Chicago,Culinary Arts,2.5,Brian Karam,4.8,2,N/A,,,,,,,,,,,,,,,,,,,,,1186509
+413,1933,Le Cordon Bleu College of Culinary Arts in Chicago,Culinary Arts,4.0,Jeff Sing,2.5,1,N/A,,,,,,,,,,,,,,,,,,,,,657263
+414,1933,Le Cordon Bleu College of Culinary Arts in Chicago,Culinary Arts,4.0,John Fuente,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1450908
+415,1933,Le Cordon Bleu College of Culinary Arts in Chicago,Culinary Arts,2.0,Robert Cano,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1711574
+416,1935,Copiah-Lincoln Community College,History,3.4,Brett Shufelt,4.9,8,N/A,,1,,,,,,,,,,,,,1,1,,,,,1578379
+417,1935,Copiah-Lincoln Community College,Accounting,3.2,Neisha Legget,2.3,6,40%,,,,1,,,,,1,3,,1,3,3,,1,,,,,2023901
+418,1935,Copiah-Lincoln Community College,Mathematics,2.8,Craig Hennington,5.0,4,N/A,1,1,,,,,,,,,1,,,,,,,,,,378554
+419,1935,Copiah-Lincoln Community College,Biology,4.2,Anita Cliburn,3.5,4,N/A,,,2,,,,1,,,,,,,,1,1,2,,,2,2023871
+420,1935,Copiah-Lincoln Community College,Communication,3.0,Mary Warren,4.3,3,N/A,1,,,1,,1,,1,,,1,,,,2,,,,,,2357623
+421,1935,Copiah-Lincoln Community College,Psychology,3.0,Kieth Stovall,4.7,3,N/A,2,2,,,,,,1,1,,,,,,1,1,,,1,,2357626
+422,1935,Copiah-Lincoln Community College,Mathematics,4.0,Alicia Reynolds,3.0,2,N/A,,,,,,,,,,,,,,,,,,,,,378557
+423,1935,Copiah-Lincoln Community College,Mathematics,1.0,Eddie Brit,4.5,2,N/A,,,,,,1,,,,,,,,1,,,,,,,1693342
+424,1935,Copiah-Lincoln Community College,Biology,3.5,Leslie Hood,3.0,2,N/A,,,,1,,,,,,,1,,,,,1,,,,,1839343
+425,1935,Copiah-Lincoln Community College,Architecture,2.5,Nicole Donald,4.8,2,N/A,,,,,1,,,1,,,,,,,,1,,,,,2023896
+426,1935,Copiah-Lincoln Community College,Biology,4.5,Angela Smith,3.0,2,N/A,,,,,,,,,,,1,,,,,1,2,,1,1,2380080
+427,1935,Copiah-Lincoln Community College,Chemistry,4.0,Shelly Smith-Huskey,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1594556
+428,1935,Copiah-Lincoln Community College,Humanities,3.0,Glenda Silverii,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1715786
+429,1935,Copiah-Lincoln Community College,Geology,2.0,Brittany L Trent,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1846022
+430,1935,Copiah-Lincoln Community College,English,2.0,Ashley Dugas,4.0,1,N/A,,,,,,,,,,,,,,,,,,,,,2023903
+431,1935,Copiah-Lincoln Community College,Biology,4.0,Rita Henley,2.5,1,N/A,,,,,,,,,,,,,1,,,,,1,,1,2026527
+432,1935,Copiah-Lincoln Community College,Mathematics,2.0,Eddie Britt,5.0,1,N/A,,,,,,,,,,,,,,1,,1,,,,,2030672
+433,1935,Copiah-Lincoln Community College,Sociology,1.0,Melnee Berry,4.0,1,N/A,,,,,1,,,,,,,,,,,,1,,,,2253231
+434,1935,Copiah-Lincoln Community College,Biology,5.0,Devin Burt,2.0,1,N/A,,,,,,,,,,,,,1,,,,,,1,1,2380389
+435,1935,Copiah-Lincoln Community College,Psychology,1.0,Keith Stovall,5.0,1,N/A,,,,,,1,,,1,,1,,,,,,,,,,2450197
+436,1936,Corning Community College,Psychology,3.3,Harold Hunzinker,4.0,105,63%,1,1,1,2,2,,1,2,,,4,2,4,2,5,5,7,,1,7,36806
+437,1936,Corning Community College,Criminal Justice,4.6,Mark Hartwell,4.9,64,N/A,1,4,,1,,,,1,,,,4,,1,,3,,,,,1112167
+438,1936,Corning Community College,Science,2.6,David Pindel,4.8,53,100%,3,4,,5,1,,1,10,,,1,3,1,,,9,2,,,,37384
+439,1936,Corning Community College,Computer Science,3.5,Hans-Peter Appelt,3.3,37,N/A,,,,2,1,,,,,1,,1,1,1,1,2,,,,,37727
+440,1936,Corning Community College,Psychology,3.5,Don Borden,3.3,36,N/A,,,,,,,1,,1,1,,,1,1,1,,1,,1,1,44309
+441,1936,Corning Community College,Philosophy,2.8,Vince Lisella,4.2,33,N/A,,2,,,,,,1,,,1,1,,,2,1,,,,,40435
+442,1936,Corning Community College,Psychology,2.2,Lee Gernert-Larrea,4.7,31,100%,2,5,,3,2,,1,3,1,,10,3,,1,1,6,3,,,1,1057858
+443,1936,Corning Community College,Mathematics,3.0,Ray Labounty,4.2,31,100%,4,1,2,2,1,,,1,,,,,,3,1,2,5,,,1,44452
+444,1936,Corning Community College,Mathematics,2.4,Lori Barrett,4.2,30,N/A,1,,,2,,3,1,1,,,5,1,,2,,,,,,,47254
+445,1936,Corning Community College,History,2.6,Sky Moss,4.8,30,100%,,3,,2,1,,,4,1,,5,4,,,,5,,,1,,205740
+446,1936,Corning Community College,Graphic Arts,2.6,Kathy Connery,4.4,30,N/A,,,,,,,,,,,1,,,,,,,,,,314523
+447,1936,Corning Community College,Science,2.9,Marvin Bunch,4.3,28,N/A,,,,,,,,,,,,,,,,,,,,,36810
+448,1936,Corning Community College,English,2.3,Christine Atkins,4.6,28,89%,,1,,4,,,,3,,,5,5,,,4,1,1,,,,671658
+449,1936,Corning Community College,Mathematics,3.0,George Hurlburt,4.2,28,N/A,,,,2,1,3,,4,,,,,,,,1,,,,,37383
+450,1936,Corning Community College,Science,2.7,Don Nyberg,4.4,27,N/A,,,,,,,,,,,,,,,,,,,,,36807
+451,1936,Corning Community College,Science,3.1,Ruth Wenner,3.2,27,N/A,1,,,,1,,1,1,,,,,2,1,2,,4,1,,2,37387
+452,1936,Corning Community College,English,3.0,Edward Dougherty,4.2,27,40%,2,,,1,1,,1,1,,,1,,,2,,,,1,,2,44815
+453,1936,Corning Community College,Science,2.2,Larry Josbeno,4.1,27,N/A,,,,,,1,1,,,,,,,1,,,,,,,44886
+454,1936,Corning Community College,Science,3.5,Nancy Almann,4.3,27,N/A,,,,,,,,,,,,,,,,,,,,,754397
+455,1936,Corning Community College,History,3.5,Walter Smith,2.9,25,N/A,,,,,,,,,,,,,,,,,,,,,37566
+456,1937,Cossatot Community College of Arkansas,English,3.6,Sunni Thibodeau,3.2,13,N/A,,,,,,,,,,,,,,,,,,,,,400333
+457,1937,Cossatot Community College of Arkansas,History,3.0,Bruce Franklin,4.2,11,N/A,,,,,1,,,2,,,,,1,,,,,,,,458424
+458,1937,Cossatot Community College of Arkansas,Sociology,1.6,Sonya Stephens,4.1,7,N/A,,,,,,,,,,,,,,,,,,,,,637460
+459,1937,Cossatot Community College of Arkansas,Biology,3.5,Crystal Sims,4.2,4,N/A,,,,1,,,,,,,,,,1,,,,,,1,788523
+460,1937,Cossatot Community College of Arkansas,Mathematics,2.8,Michael Wright,4.1,4,N/A,,,,,,1,,,,,1,,,,,,,,,,1187851
+461,1937,Cossatot Community College of Arkansas,Biology,2.0,Karen Arbuckle,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1679509
+462,1937,Cossatot Community College of Arkansas,Psychology,2.0,Sonya Stephens,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1354889
+463,1937,Cossatot Community College of Arkansas,Mathematics,2.0,Mike Kinkade,3.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1582702
+464,1937,Cossatot Community College of Arkansas,Agriculture,3.0,Ewgtb Etgb,3.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1620473
+465,1938,Cosumnes River College,Sociology,1.8,Paul Zisk,4.5,367,81%,,46,2,11,9,10,8,4,13,,64,14,15,,5,32,9,2,3,11,162434
+466,1938,Cosumnes River College,Political Science,4.1,Martin Morales,3.5,261,60%,1,13,,2,,2,23,6,9,2,,10,12,1,13,13,33,6,3,35,361627
+467,1938,Cosumnes River College,Psychology,3.8,Everett Hannan,2.0,235,14%,,2,,1,4,,32,3,2,,,2,38,,,,12,5,8,29,413011
+468,1938,Cosumnes River College,History,3.5,Jason Newman,4.3,196,87%,,13,,4,8,1,8,7,,,,3,4,,2,6,12,6,,6,200362
+469,1938,Cosumnes River College,English,2.3,David Weinshilboum,4.6,179,97%,6,6,1,4,6,14,11,21,1,2,32,12,,2,,14,5,1,,1,526358
+470,1938,Cosumnes River College,History,4.2,Gabriel Gorman,3.8,178,72%,4,7,,1,7,,22,8,2,,7,,9,4,2,2,18,1,3,20,408659
+471,1938,Cosumnes River College,Economics,3.9,Edwin Fagin,2.9,173,53%,4,5,13,3,3,5,10,6,,4,,1,10,25,7,3,14,,6,28,1161128
+472,1938,Cosumnes River College,Mathematics,4.0,Ronald Breitenbach,3.6,156,65%,3,14,,2,8,,2,8,6,,4,1,15,12,,13,23,,3,34,1134609
+473,1938,Cosumnes River College,Philosophy,4.2,Richard Schubert,3.5,149,73%,2,5,4,3,,,4,5,,,4,2,4,,6,4,9,1,,11,409168
+474,1938,Cosumnes River College,Nutrition,2.2,Alison Dimond,4.8,144,97%,2,16,,15,24,6,5,39,,,,20,1,,24,7,1,,2,1,634842
+475,1938,Cosumnes River College,Philosophy,2.4,Chuck Van Patten,3.7,136,N/A,1,1,,,1,1,2,1,1,,3,2,6,1,3,,3,1,,5,135778
+476,1938,Cosumnes River College,Communication,1.5,Daniel Dubray,4.9,131,100%,2,5,,13,9,3,,25,,1,4,10,1,,12,23,5,,,,298356
+477,1938,Cosumnes River College,English,3.6,Melanie Lewis,3.8,130,33%,1,2,,2,1,,15,5,1,1,2,1,1,5,6,2,9,17,,17,287371
+478,1938,Cosumnes River College,Computer Science,2.9,Markus Geissler,3.5,129,8%,,,6,2,1,7,14,5,2,,4,1,,6,3,,2,,,15,234235
+479,1938,Cosumnes River College,Anthropology,2.7,Amanda Paskey,3.8,128,50%,,2,4,1,3,3,7,2,2,5,1,2,3,2,4,1,4,,3,11,992446
+480,1938,Cosumnes River College,Mathematics,3.3,Glenn Pico,2.3,126,N/A,,,,2,,1,,,,,,,,1,,,,1,,,316841
+481,1938,Cosumnes River College,Mathematics,4.2,Lora Stewart,3.4,126,67%,2,1,2,4,8,1,,10,2,,3,5,3,30,3,4,10,,6,21,400176
+482,1938,Cosumnes River College,Economics,3.6,Richard Le,2.8,124,N/A,,,,,,,2,,1,,,,,1,,,,,,1,162426
+483,1938,Cosumnes River College,Mathematics,1.9,Mark Hunter,4.5,123,N/A,,1,,4,,,,1,,,2,,1,1,,3,4,,,3,162423
+484,1938,Cosumnes River College,Nutrition,1.8,Timaree Hagenburger,4.7,123,74%,2,13,,10,3,7,6,14,1,4,5,17,8,6,6,7,3,1,,7,736041
+485,1939,Cottey College,English,3.0,Michael Emery,3.5,27,N/A,1,1,,,,1,,,1,,,,,,1,,1,1,,,499303
+486,1939,Cottey College,English,3.6,Trisha Stubblefield,4.2,27,N/A,,,,,,,,3,,,,,,,1,3,,,,2,673547
+487,1939,Cottey College,Philosophy,3.1,Kevin Rouintree,4.6,19,N/A,1,,,,1,,,2,,,,,,,,2,,,,,154387
+488,1939,Cottey College,History,3.5,Angela Firkus,4.0,17,N/A,,1,,,,,,1,,,,,,,1,,,,,,154464
+489,1939,Cottey College,Languages,3.1,Mark Pearson,4.4,13,N/A,,,,,,,,,,,,,,,,,,,,,499290
+490,1939,Cottey College,Science,3.3,Sinan Ozkal,3.7,13,N/A,,,,,,,,,,,,,,,,,,,,,505212
+491,1939,Cottey College,Languages,2.2,Carmen Bourbon,4.7,13,N/A,,,,,,,,,,,,,,,,,,,,,1470526
+492,1939,Cottey College,Physical Ed,1.2,Thersa Burger,5.0,11,N/A,,,,1,,,,1,,,,,,,1,,,,,,499295
+493,1939,Cottey College,History,3.1,Derek Rivard,3.3,11,N/A,,,,,,,2,,,,,,,,,,,,,,614415
+494,1939,Cottey College,Theater,2.1,Rusalyn Andrews,2.9,11,N/A,,,,,,,,,,,,,,,,,,,,,614427
+495,1939,Cottey College,Biology,3.3,Chris Peterson,3.8,10,N/A,,,,,,,,,,,,,,,,,1,,,1,154431
+496,1939,Cottey College,Psychology,2.5,Julie Tietz,3.1,10,N/A,,,,,,,,,,,,,,,,,,,,,154446
+497,1939,Cottey College,English,2.5,Don Perkins,4.8,10,N/A,,,,,,,,,,,,,,,,,,,,,505219
+498,1939,Cottey College,Theater,2.8,Michael Denison,3.5,10,N/A,,,,,,,,,,,,,,,,,,,,,614425
+499,1939,Cottey College,Economics,3.6,Gary Lunkenheimer,3.7,9,N/A,,,,,,,,,,,,,,,,,,,,,682959
+500,1939,Cottey College,Chemistry,4.0,Urszula Wilhelm,1.6,9,N/A,,,,,,,,,,,,,,,,,,,,,1265889
+501,1939,Cottey College,Biology,3.6,Robert Jones,4.7,8,N/A,,,,,,,,1,,,,,,,,1,,,,1,688064
+502,1939,Cottey College,Mathematics,2.3,Susan Callahan,4.2,8,N/A,,,,,,,,,,,,,,,,,,,,,741556
+503,1939,Cottey College,Music,3.3,Theresa Spencer,2.9,7,N/A,,,,,,,,,,,,,,,,,1,,,1,722234
+504,1939,Cottey College,Mathematics,3.7,Linus Sikes,2.8,6,N/A,,,,,,,,,,,,,,,,,,,,,499292
+505,1940,County College of Morris,Mathematics,4.3,Jeffrey Jones,2.1,174,20%,1,,1,2,,1,3,2,,,1,,6,25,4,,19,2,,33,287817
+506,1940,County College of Morris,Science,3.1,Timothy Mure,4.3,137,83%,2,20,1,9,7,4,,6,4,,17,9,5,5,4,13,15,,2,1,753990
+507,1940,County College of Morris,Psychology,3.3,Frederic Wynn,3.0,132,33%,1,2,1,,,,11,,2,,2,2,3,,3,7,5,,2,4,163761
+508,1940,County College of Morris,Criminal Justice,1.7,Nicholas Irons,4.9,125,N/A,,5,,4,1,7,,6,,,10,4,,,3,12,,,,,135795
+509,1940,County College of Morris,Biology,3.9,William Hunter,4.0,113,44%,3,7,,2,1,,5,1,5,,3,2,7,,,6,14,,3,19,151898
+510,1940,County College of Morris,Sociology,3.6,Laszlo Marcus,2.7,110,N/A,,,,,,,,,,,,,3,,,,3,1,,5,57231
+511,1940,County College of Morris,Mathematics,2.5,Dale Garlick,4.8,110,100%,1,8,,2,1,1,,1,1,,,4,,1,3,7,4,,,3,156773
+512,1940,County College of Morris,English,1.9,Philip Chase,4.8,108,100%,3,7,1,8,6,,14,10,,,6,8,,,3,7,,1,,2,266329
+513,1940,County College of Morris,Psychology,3.1,John Williford,4.4,106,77%,,12,,4,,,5,2,,1,7,11,1,,5,10,1,,,6,127509
+514,1940,County College of Morris,Communication,3.0,Michelle Altieri,4.4,96,96%,7,4,,8,11,2,4,18,2,,2,3,,7,11,8,7,,,5,1259616
+515,1940,County College of Morris,History,1.7,Mark Washburne,4.6,93,80%,,6,,1,5,,1,2,4,,3,2,2,,,7,12,,1,,127501
+516,1940,County College of Morris,English,4.7,Sandra Lee Jackson,1.3,91,N/A,,,,,,,1,,,,,,,,,,,,,1,194519
+517,1940,County College of Morris,Psychology,1.9,Dolores Reilly,4.5,88,100%,1,7,,3,9,,1,6,1,,4,3,,,3,6,2,,,1,218961
+518,1940,County College of Morris,Economics,4.2,Calvin Hoy,2.7,85,N/A,,2,,,,,2,,2,,,1,5,,,2,6,,1,11,321818
+519,1940,County College of Morris,History,3.3,Rita Heller,3.1,84,82%,1,3,,2,1,,4,3,3,,2,2,2,,6,1,4,,2,6,120051
+520,1940,County College of Morris,Biology,3.1,Greg Erianne,4.8,81,89%,4,11,,10,12,22,4,8,,,,14,7,,1,17,12,,3,7,1764445
+521,1940,County College of Morris,Psychology,1.9,Debbie Sullivan,4.8,79,92%,3,6,,14,1,,,6,1,,6,7,1,,,10,,,,3,266337
+522,1940,County College of Morris,Mathematics,4.1,Jorge Sarmiento,2.2,78,30%,,2,,,,,,,1,,,,1,8,,,7,1,,14,289040
+523,1940,County College of Morris,Psychology,4.0,Phyllis Goldman,1.9,75,N/A,,,,,,,,,,,,,,,,,,,,,151914
+524,1940,County College of Morris,History,3.1,James Bising,3.5,75,63%,,6,,,,,,1,3,,5,2,1,,3,,6,,,1,175439
+525,1941,Court Reporting Institute of Dallas,Writing,1.0,Robert Saddler,2.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1723844
+526,1941,Court Reporting Institute of Dallas,Law,1.0,Don Scoggins,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1723850
+527,1942,Cowley County Community College,English,2.4,Dianne Flickinger,4.3,82,97%,8,5,,29,9,,2,37,1,,3,13,,3,8,26,4,2,,4,1266829
+528,1942,Cowley County Community College,History,3.2,Frank Arnold,3.2,38,43%,,2,,,,1,3,1,2,,,,2,,1,,2,,2,2,164717
+529,1942,Cowley County Community College,Mathematics,2.5,David Hays,4.6,36,N/A,,,,4,2,,,3,,,,1,1,3,,,,,,,305723
+530,1942,Cowley County Community College,Music,3.1,Gary Gackstatter,3.9,30,N/A,,,,,,,,,,,,,,,,,,,,,205815
+531,1942,Cowley County Community College,Mathematics,2.4,Loretta Waldroupe,4.5,28,100%,2,1,,9,4,1,,9,,,1,2,,4,2,9,1,,,1,389532
+532,1942,Cowley County Community College,Mathematics,2.8,Uwe Conrad,4.5,22,83%,2,2,,3,3,,,2,,,3,2,,1,1,3,5,,,,326631
+533,1942,Cowley County Community College,Social Science,4.3,Chris Mayer,3.5,21,N/A,,,,,,,,,,,,,,,,,,,,,164702
+534,1942,Cowley County Community College,Humanities,2.8,Dejon Ewing,3.7,21,N/A,,,,1,,,,,,1,,,,,2,1,,,,,189082
+535,1942,Cowley County Community College,Economics,4.3,Todd Kelley,4.0,20,N/A,,,,,,,,,,,,,,,,,,,,,305846
+536,1942,Cowley County Community College,Humanities,3.1,Lois Sampson,3.6,19,N/A,,,,,,,,,,,,,,,,,,,,,164706
+537,1942,Cowley County Community College,History,4.0,Carol Ludlam,3.0,19,N/A,,,,,,,,,,,,,,,,,,,,1,239442
+538,1942,Cowley County Community College,Economics,2.4,Todd Shepherd,4.7,18,N/A,,1,,,,,,,,,2,2,,,,,,,,,189814
+539,1942,Cowley County Community College,Biology,4.3,Scott Layton,3.0,18,N/A,1,,,,,,,,,,,,2,2,2,1,4,,,3,347483
+540,1942,Cowley County Community College,Psychology,3.0,Cathy Hendricks,3.6,17,N/A,,,,,,,,,,,,,,,,,,,,,164709
+541,1942,Cowley County Community College,Humanities,1.9,Richard Vorak,4.2,16,N/A,,,,,2,,2,1,1,,,,,2,3,,,,,,305729
+542,1942,Cowley County Community College,Science,2.8,Linda Grossman,4.7,13,N/A,,,,,,,,,,,,,,,,,,,,,119205
+543,1942,Cowley County Community College,Mathematics,3.7,Karolee Weller,2.0,13,N/A,,,,,,,,,,,,,,,,,,,,,164711
+544,1942,Cowley County Community College,Sociology,1.6,Betty Ross,4.1,12,N/A,,,,,,,,,,,,,,,,,,,,,305788
+545,1942,Cowley County Community College,Fine Arts,1.0,Don Williamson,4.9,12,N/A,,,,,1,,,1,,,,,,,,,,,,,305843
+546,1942,Cowley County Community College,Fine Arts,1.8,Mark Flickinger,5.0,11,N/A,,,,,,,,1,,,2,3,,,,3,,,,,233696
+547,1943,Crafton Hills College,Psychology,3.5,T.L. Brink,3.4,140,55%,12,3,2,3,11,,8,10,1,,2,2,7,7,20,7,6,3,1,31,417249
+548,1943,Crafton Hills College,Mathematics,2.5,Steve Ramirez,4.7,125,91%,2,10,1,23,17,10,,13,,,5,8,1,18,12,17,14,,,6,417973
+549,1943,Crafton Hills College,Political Science,3.0,Steven Hellerman,3.5,122,64%,,4,1,1,12,1,6,2,1,1,11,3,9,3,5,1,12,,7,25,554982
+550,1943,Crafton Hills College,History,2.9,Jane Beitscher,3.4,105,N/A,,3,2,1,,4,7,1,1,2,11,4,,1,1,4,3,,,7,554978
+551,1943,Crafton Hills College,Biology,3.6,Ruth Greyraven,2.8,98,30%,1,3,,,1,5,12,5,,,,3,6,9,7,1,9,3,6,23,1141495
+552,1943,Crafton Hills College,Mathematics,2.8,Jodi Hanley,4.3,89,88%,2,6,1,1,6,,,4,,,10,1,1,5,,2,6,,1,4,554969
+553,1943,Crafton Hills College,Biology,4.1,Lisa Shimeld,4.1,85,N/A,,1,2,4,3,,2,1,,,3,,,1,2,5,9,,,7,338003
+554,1943,Crafton Hills College,Science,3.5,Sam Truong,4.7,82,97%,2,14,,10,11,12,7,4,,,8,9,1,,7,23,28,,3,5,1586981
+555,1943,Crafton Hills College,Chemistry,2.4,Kimberly Salt,4.4,81,94%,2,10,,2,4,3,1,5,,,4,3,1,4,4,7,11,,1,4,542613
+556,1943,Crafton Hills College,English,4.0,Kris Acquistapace,3.5,75,N/A,,1,,,2,,7,2,,,,2,3,2,3,,12,1,,10,417242
+557,1943,Crafton Hills College,Physics,3.8,Matt Adams,2.8,74,38%,1,1,1,,4,2,1,,,,,1,1,7,1,1,1,2,3,8,417762
+558,1943,Crafton Hills College,English,1.6,Ryan Bartlett,4.7,73,94%,1,,,11,2,1,4,11,,2,6,4,,1,2,9,,1,,,682154
+559,1943,Crafton Hills College,English,3.8,Steven Estus,3.4,70,79%,5,4,4,5,2,,11,17,,3,7,4,,2,5,5,5,2,,12,688191
+560,1943,Crafton Hills College,English,1.8,Randee Cowles,4.8,65,100%,,3,1,5,5,3,,4,,,5,,,,,5,,,,,364684
+561,1943,Crafton Hills College,Mathematics,2.0,Kathleen Gibson,4.0,59,N/A,,,,,,,,2,,,2,1,,2,,,,,,1,455564
+562,1943,Crafton Hills College,English,3.7,Jonathan Anderson,4.3,56,87%,,5,,1,,,21,15,,,3,5,1,2,5,4,3,2,,7,309972
+563,1943,Crafton Hills College,Philosophy,3.1,Chris Biffle,4.1,54,N/A,,,,,,,,,,,,,,,,,,,,,179296
+564,1943,Crafton Hills College,Mathematics,3.1,Robert Crise,3.7,54,67%,2,,,4,5,2,1,1,1,,5,1,2,1,1,8,3,,1,5,367462
+565,1943,Crafton Hills College,English,3.6,Ted Phillips,4.3,52,75%,,1,4,3,3,,5,12,,3,1,4,1,8,2,11,1,10,,15,1500672
+566,1944,Craven Community College,Psychology,2.5,Patricia Kerlin,4.9,33,100%,,9,,2,1,,,7,,,4,3,,2,1,9,2,,,1,683223
+567,1944,Craven Community College,Psychology,2.0,Mitch Fortescue,4.3,26,80%,,2,,1,3,,,1,2,,,2,1,,,2,,,,,240053
+568,1944,Craven Community College,Mathematics,3.6,Jack Griffin Dodd,3.7,20,N/A,,,,1,2,,2,,,,4,7,,1,1,1,,,,3,1712088
+569,1944,Craven Community College,Chemistry,3.0,Donald Carpenetti,4.4,20,90%,4,3,,2,1,2,1,4,,,9,,1,,4,6,3,,,2,1463697
+570,1944,Craven Community College,Biology,4.3,Jessica Cofield,1.9,17,18%,1,,,,,1,1,,,,2,,5,8,,1,1,3,6,10,1457697
+571,1944,Craven Community College,History,2.9,Robert Scull,4.0,15,N/A,,,,,,,,,,,,,,,,,,,,,722183
+572,1944,Craven Community College,Biology,3.1,Shawn Moore,4.3,14,N/A,1,,,,,,,,,,,,,,1,,1,,,,735188
+573,1944,Craven Community College,English,2.9,Kyle Warner,4.7,14,100%,1,,,4,2,,3,6,,,5,2,,,1,2,,,,,1313342
+574,1944,Craven Community College,English,2.9,Heather Hamilton,4.9,14,N/A,,,,,,,,,,,,,,,,,,,,,1832935
+575,1944,Craven Community College,Mathematics,3.5,Beth Andrews,3.7,13,N/A,,,,,,,,,,,,,,1,,,1,,1,,347387
+576,1944,Craven Community College,English,2.6,Quincy Lieske,4.5,13,N/A,,1,,3,3,,3,2,,,1,1,,,1,2,,,,,1340954
+577,1944,Craven Community College,English,3.9,Jessica Saxon,3.8,13,33%,,2,,1,,,2,4,,,,2,,5,1,1,,2,,6,1567199
+578,1944,Craven Community College,English,2.8,Sherry Faithful,4.2,12,N/A,,,,,,,,,,,,,,,,,,,,,357752
+579,1944,Craven Community College,English,4.5,Kaisy Wilkerson-Mills,1.8,12,N/A,,,,,,,2,1,,,,,,3,2,,1,3,,10,1617625
+580,1944,Craven Community College,Biology,3.7,Jay Majors,4.5,12,90%,,4,,,4,,4,1,,,2,2,1,2,1,,3,,,1,1917452
+581,1944,Craven Community College,Mathematics,2.9,Edward Sabat,4.4,12,90%,2,2,,6,1,,,5,,,2,,1,3,,7,1,,,,2109956
+582,1944,Craven Community College,Sociology,1.9,Caroline Whitehead,4.2,11,N/A,,,,,,,,,,,,,,,,,,,,,240139
+583,1944,Craven Community College,Theater,2.1,Kerry Cox,3.9,11,N/A,,,,,,,1,1,,,,,,1,2,1,,,,,332854
+584,1944,Craven Community College,Mathematics,2.6,Fawaz Hjouj,5.0,11,N/A,,,,,,,,,,,,,,,,,,,,,547529
+585,1945,Crowder College,English,2.1,John Allred,4.4,40,N/A,,1,,7,2,,1,16,,,7,1,,,4,18,,,,,1856147
+586,1945,Crowder College,Biology,3.0,David H. Jamieson,4.8,21,N/A,1,1,,1,,,,,1,,4,,,,,1,1,,,,1795561
+587,1945,Crowder College,English,3.6,Debra Brown,2.7,19,N/A,,,,,,,3,1,,,,,,3,1,,,,,1,733085
+588,1945,Crowder College,Biology,4.2,Stacey Pugh-Towe,3.9,18,N/A,,1,,1,,,,1,,,1,,,1,1,2,3,,1,2,242399
+589,1945,Crowder College,Political Science,4.6,Ron Cole,3.0,15,N/A,,,,1,,,1,,,,,,,1,1,,1,,1,2,87483
+590,1945,Crowder College,Mathematics,1.4,Cheryl Ingram,5.0,13,N/A,,,,2,,,,,,,,2,,,,,,,,,575494
+591,1945,Crowder College,English,3.3,Gary Lowe,3.4,12,N/A,,,1,,,,,,,,,,,,,,2,1,,1,181574
+592,1945,Crowder College,Theater,1.7,J.P. Dickey,4.9,12,N/A,1,,,2,,,,,,,2,,,,,1,,,,,575497
+593,1945,Crowder College,Science,1.8,Randy Dunn,4.7,12,N/A,,1,,,,,,1,,,2,1,,,,,1,,,1,888790
+594,1945,Crowder College,Journalism,2.5,Latonia Bailey,3.3,11,N/A,1,,,4,,,,2,,,1,,,,4,,,,,,678947
+595,1945,Crowder College,Communication,2.6,Suzanne Puckett,5.0,11,N/A,,,,,,,1,,,,1,,,,,,,,,,903606
+596,1945,Crowder College,History,2.2,Keith R Zoromski,4.9,10,100%,,,,2,2,1,,4,,,3,2,,,1,3,,,,,1806263
+597,1945,Crowder College,Psychology,2.6,Nathan Gandy,4.1,9,N/A,,2,,1,2,1,,1,,,,,1,,1,,,1,2,1,1455846
+598,1945,Crowder College,Science,3.9,Peter Broglio,3.0,8,N/A,,,,,,,1,,1,,,,1,,,,,,,,87474
+599,1945,Crowder College,Accounting,2.8,Carolyn Strauch,3.0,8,N/A,,,,,,2,,2,,,,,,1,,,,,,,87478
+600,1945,Crowder College,History,3.5,Brett Smithson,2.4,8,N/A,,,,,,,,,,,,,,,,,,,,,296533
+601,1945,Crowder College,Economics,3.6,Sharon Johnson,3.0,8,N/A,,,,,,,,,,,,,,,,,,,,,634140
+602,1945,Crowder College,Physics,4.6,Herb Schade,3.4,7,N/A,,,,,,,,,,,,,,,,,,,,,194277
+603,1945,Crowder College,Art History,2.7,Allen Bishop,3.6,7,N/A,,,,,,,,1,,1,,,,,,,,,,,895892
+604,1945,Crowder College,Biology,3.5,Matthew Rees,3.5,6,N/A,,,,,1,,,,,,,,1,,,1,1,,1,1,888780
+605,1946,Crowley's Ridge College,Religion,1.8,Paul McFadden,4.6,4,N/A,,,,,,,,,,,,,,,,,,,,,267747
+606,1946,Crowley's Ridge College,Religion,3.5,Ricky Hale,2.5,2,N/A,,,,,,,1,,,,,,,,,,1,,,1,886675
+607,1946,Crowley's Ridge College,Science,3.5,Cathie Butler,3.5,2,N/A,,,,1,,,,1,,,,,1,,,1,1,,,1,2182264
+608,1947,Cuesta College,Fine Arts,3.3,Doug Highland,4.5,183,100%,4,1,1,34,11,,2,80,1,,22,29,1,8,45,53,7,,,14,478849
+609,1947,Cuesta College,History,2.5,Anthony Koeninger,4.5,167,88%,,21,1,5,7,,17,4,,,19,19,8,,8,12,10,,3,6,292863
+610,1947,Cuesta College,Mathematics,2.6,Joe Vasta,4.9,165,96%,6,39,,19,16,2,,7,9,,69,11,1,4,1,30,18,,17,8,128315
+611,1947,Cuesta College,Political Science,3.7,Aaron Rodrigues,3.0,112,67%,1,6,,3,2,,23,1,8,,4,,3,,4,2,8,1,7,8,54208
+612,1947,Cuesta College,History,3.5,Mark Weber,3.9,101,77%,,8,12,1,5,2,17,2,2,,,,3,8,2,2,11,,1,5,120414
+613,1947,Cuesta College,Science,4.0,Nancy Mann,3.0,99,80%,,1,1,4,3,,5,1,2,,6,1,1,5,4,1,10,,,9,60084
+614,1947,Cuesta College,Anthropology,3.9,Lise Mifsud,4.2,99,74%,2,14,,4,5,1,11,6,6,,20,6,9,1,3,8,14,,6,8,447574
+615,1947,Cuesta College,Psychology,2.8,Katy Neidhardt Dittmer,4.7,99,95%,3,34,,16,15,7,11,8,2,,27,12,2,,5,22,10,,3,5,434225
+616,1947,Cuesta College,Social Science,2.7,Victor Krulikowski,4.3,95,73%,1,15,,,3,,20,2,6,,15,1,8,2,2,4,6,1,5,12,215797
+617,1947,Cuesta College,Sociology,3.0,Francis Ha,2.8,95,27%,1,2,,1,7,1,7,6,2,1,2,,3,3,2,2,,2,9,9,219864
+618,1947,Cuesta College,Biology,2.8,Ron Ruppert,4.5,86,83%,10,4,,8,10,,2,5,3,,9,1,5,5,3,11,8,,7,3,164957
+619,1947,Cuesta College,Chemistry,3.8,Greg Baxley,4.1,85,94%,10,8,1,9,6,,3,12,,,3,6,,6,,7,5,,,5,505059
+620,1947,Cuesta College,Mathematics,3.8,Greg Lewis,2.8,81,31%,,,1,1,,,,,5,,,,6,5,,,13,1,3,11,379843
+621,1947,Cuesta College,English,3.8,Stephen Leone,3.7,80,78%,4,3,,10,4,,3,16,1,1,,2,2,6,12,5,4,5,,12,76003
+622,1947,Cuesta College,History,3.0,Jonathan Wilson,4.5,77,69%,,10,,4,1,,,,3,,10,1,4,,,2,3,,2,5,93263
+623,1947,Cuesta College,Mathematics,2.1,Jennifer Sanders-Moreno,4.9,77,100%,6,9,,21,10,3,,15,,1,15,8,,5,1,12,5,,1,,1247753
+624,1947,Cuesta College,Communication,2.9,Matt Vasques,4.3,76,93%,1,5,,5,7,3,2,16,1,1,4,6,,1,7,8,3,,,3,185193
+625,1947,Cuesta College,English,2.9,Edward Conklin,4.5,75,82%,,2,,1,6,,4,14,,2,,4,,2,7,6,1,,,2,73345
+626,1947,Cuesta College,History,2.3,Lisa Defraga,4.3,75,82%,7,7,2,17,5,10,6,3,2,,13,2,1,2,,2,,,1,,647002
+627,1947,Cuesta College,English,2.6,Susan Marsala,4.2,72,100%,,1,,7,9,3,1,16,,,,3,,2,6,5,1,1,,,243399
+628,1948,Louisiana Culinary Institute,Culinary Arts,1.0,Ross Headlee,1.5,2,N/A,,,,,,,,,,,,,,,,,,,,,1308380
+629,1948,Louisiana Culinary Institute,Culinary Arts,4.0,Mike Dunn,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1308381
+630,1949,Cumberland County College,English,3.4,Kevin McGarvey,4.5,142,100%,4,8,,9,1,,3,15,,,4,15,1,,3,13,2,1,,1,246587
+631,1949,Cumberland County College,English,4.3,Michael Mills,3.1,65,17%,,,,2,3,,9,2,,,2,1,3,,3,1,6,2,,16,704254
+632,1949,Cumberland County College,English,4.2,John M Adair,3.5,61,N/A,,1,,1,3,,1,3,,,2,1,4,,1,1,1,,,8,199053
+633,1949,Cumberland County College,Biology,2.6,Carole Grusemeyer,3.8,61,79%,,3,,2,5,,5,5,2,,1,,6,1,2,1,10,,5,4,1052790
+634,1949,Cumberland County College,English,3.6,John Gibbs,4.5,60,N/A,,1,,3,1,,1,5,1,,2,3,,1,1,8,1,,,2,52247
+635,1949,Cumberland County College,Science,4.3,William Olivero,2.5,60,N/A,,,3,,,2,8,,,1,1,,3,,1,,3,,,11,123427
+636,1949,Cumberland County College,History,2.3,Richard Curcio,4.4,51,100%,1,5,,,4,1,1,5,2,,,,3,,1,6,,,,2,147228
+637,1949,Cumberland County College,Biology,3.4,Mark Randa,4.5,48,75%,,6,,2,3,1,,5,,,4,4,3,2,4,10,3,,2,5,1054664
+638,1949,Cumberland County College,Mathematics,3.8,Joe Dugan,3.1,48,33%,2,3,,,1,,1,2,,,,,1,4,,,4,,3,6,291254
+639,1949,Cumberland County College,Literature,4.1,Sharon Kewish,3.0,47,N/A,,,,1,,1,6,4,,,,,,1,,1,3,2,,1,313280
+640,1949,Cumberland County College,English,3.7,Mary Thorstensen,3.9,36,71%,1,1,,5,3,,2,13,,,,,1,1,2,7,4,3,,7,1184947
+641,1949,Cumberland County College,Graphic Arts,3.3,Ryan Hoxworth,4.5,36,100%,3,2,,11,7,3,2,23,1,,8,3,1,4,3,13,1,,,5,1840094
+642,1949,Cumberland County College,English,3.5,Cosmo Terrigno,4.6,34,N/A,,1,,4,5,1,1,10,,,3,,,,1,4,3,,,,732504
+643,1949,Cumberland County College,Mathematics,3.2,Mollie Steward,2.3,32,N/A,,,,,,,,,,,,,,,,,,,,,398755
+644,1949,Cumberland County College,Psychology,1.5,Jody Janetta,4.7,32,100%,1,2,,1,,,1,1,1,,4,2,,,6,1,4,,,,667468
+645,1949,Cumberland County College,English,2.5,Joshua Austin,4.8,32,N/A,1,2,,3,,,1,4,,,2,2,,1,,3,,,,,1040436
+646,1949,Cumberland County College,History,2.4,John Constantino,4.9,31,N/A,,1,,,,,,,,,,,,,1,1,,,,,250922
+647,1949,Cumberland County College,English,1.9,John Lore,4.5,30,N/A,2,2,,1,2,,,5,,,2,,,,1,5,,1,,,378765
+648,1949,Cumberland County College,Mathematics,2.1,Gabrielle Michaelis,4.7,28,N/A,,,,,,,,,,,,,,,,,,,,,250264
+649,1949,Cumberland County College,Psychology,2.7,Kate Mather,4.2,26,N/A,,,,,,,1,,,,,,,,1,,,,,2,401095

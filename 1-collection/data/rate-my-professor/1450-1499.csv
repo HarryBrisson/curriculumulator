@@ -1,0 +1,724 @@
+,campus_id,campus_name,dept,difficulty,name,quality,rating_count,retake,tag_accessibleoutsideclass,tag_amazinglectures,tag_bewareofpopquizzes,tag_caring,tag_cleargradingcriteria,tag_extracredit,tag_getreadytoread,tag_givesgoodfeedback,tag_gradedbyfewthings,tag_groupprojects,tag_hilarious,tag_inspirational,tag_lectureheavy,tag_lotsofhomework,tag_participationmatters,tag_respected,tag_skipclassyouwon'tpass,tag_somanypapers,tag_testheavy,tag_toughgrader,tid
+0,1450,Nova Scotia College of Art and Design,History,3.6,David Howard,3.5,30,N/A,,3,,1,,,,,1,,1,2,1,,,,2,,1,3,30468
+1,1450,Nova Scotia College of Art and Design,Fine Arts,4.2,Suzanne Funnell,3.0,19,N/A,,,,,,,,,,,1,,,,,,1,,,1,30464
+2,1450,Nova Scotia College of Art and Design,Fine Arts,2.7,Michael Fernandes,2.5,16,N/A,,,,1,,,,2,,,2,1,1,,2,1,1,,,,233860
+3,1450,Nova Scotia College of Art and Design,History,3.3,Mary MacLauchlan,3.4,15,N/A,,,,,,,,,,,,,,,,,,,,,30272
+4,1450,Nova Scotia College of Art and Design,History,3.2,Marylin McKay,2.5,15,N/A,,,,,,,5,1,3,,,,2,,,,1,,,3,64306
+5,1450,Nova Scotia College of Art and Design,Fine Arts,3.1,Tim Brennan,4.4,13,N/A,,,,,,,,1,,,1,,,,,1,,,,,30269
+6,1450,Nova Scotia College of Art and Design,Graphic Arts,3.6,May Chung,3.9,13,N/A,,,,,1,,,2,,,,,,1,,2,,,,,279563
+7,1450,Nova Scotia College of Art and Design,Fine Arts,3.1,Kathleen Tetlock,5.0,13,N/A,,,,,,,,,,,,,,,,,,,,,714952
+8,1450,Nova Scotia College of Art and Design,Communication,3.7,Hanno Ehses,2.8,10,N/A,1,,,,,,,1,,,,1,,,,2,,,,1,64303
+9,1450,Nova Scotia College of Art and Design,Art History,4.1,Janye Wark,3.6,9,N/A,,,,,,,,,,,,,,,,,,,,,437631
+10,1450,Nova Scotia College of Art and Design,Art History,4.1,Sarah Hollenberg,3.1,9,N/A,,2,,,,,2,,,1,,,,,,,3,1,,3,1006158
+11,1450,Nova Scotia College of Art and Design,Fine Arts,2.4,Bruce Barber,4.7,8,N/A,,1,,,,,,1,,,1,,,,,,,,,,75783
+12,1450,Nova Scotia College of Art and Design,Design,2.5,Gene Daniels,4.5,8,N/A,,,,,,,,,,,,,,,,,,,,,899260
+13,1450,Nova Scotia College of Art and Design,Fine Arts,1.8,Chris Woods,3.2,8,N/A,,,,2,,,,2,,,1,,,1,1,2,1,,,,969901
+14,1450,Nova Scotia College of Art and Design,Fine Arts,3.1,Neil Forrest,3.9,7,N/A,,,,,,,,,,,,,,,,,,,,,75830
+15,1450,Nova Scotia College of Art and Design,Fine Arts,3.4,Bryan Maycock,3.7,7,N/A,,,,,,,,,,,,,,,,,,,,,368214
+16,1450,Nova Scotia College of Art and Design,Design,4.7,Loreley Gaunt,1.2,6,N/A,,,,,,,,,,,,,,,,,,,,,836721
+17,1450,Nova Scotia College of Art and Design,Fine Arts,3.0,Dan O'Neill,4.7,6,N/A,,,,,,,,,,,,1,,,,,,,,,896937
+18,1450,Nova Scotia College of Art and Design,Fine Arts,3.3,Jeff Domm,4.9,6,N/A,,,,,,,,2,,,1,1,,,1,,,,,,948928
+19,1450,Nova Scotia College of Art and Design,Fine Arts,2.0,Bob Bean,4.2,5,N/A,,,,,,,,,,,,,,,,,,,,,30268
+20,1452,University of Ottawa,Psychology,2.2,Najwa Haddad,4.8,420,99%,13,120,,93,8,,27,13,4,,29,97,6,,6,64,46,,3,2,344784
+21,1452,University of Ottawa,Science,3.7,Jon Houseman,3.3,376,81%,,38,,1,10,1,44,4,2,,10,3,23,5,,12,38,3,3,111,39612
+22,1452,University of Ottawa,Chemistry,3.9,Rashmi Venkateswaran,2.8,354,50%,9,2,3,9,4,1,7,7,3,,1,,2,25,4,3,8,8,3,22,16829
+23,1452,University of Ottawa,Physics,3.3,Andrzej Czajkowski,3.5,346,58%,6,17,2,10,10,41,10,8,1,,54,3,8,46,5,20,39,,1,16,251170
+24,1452,University of Ottawa,Political Science,2.8,Ivaylo Grouev,3.3,284,48%,4,17,,9,14,1,37,12,8,,13,16,14,3,15,16,3,1,2,11,474134
+25,1452,University of Ottawa,Economics,2.9,David Gray,4.1,260,70%,6,22,,10,12,3,7,11,,,33,9,29,12,,32,19,4,7,36,15740
+26,1452,University of Ottawa,Mathematics,1.9,Termeh Kousha,4.8,255,100%,17,75,,49,37,1,,30,2,,47,12,6,2,3,59,52,,,2,1242249
+27,1452,University of Ottawa,Mathematics,2.0,Steve Desjardins,4.5,240,96%,6,32,1,13,15,1,1,14,1,,1,7,6,11,2,45,20,,,8,14890
+28,1452,University of Ottawa,Social Science,2.8,Sam Alvaro,3.4,237,59%,,22,,2,1,2,29,,2,,40,1,3,3,15,12,26,,1,7,12910
+29,1452,University of Ottawa,Science,2.5,William Ogilvie,4.5,228,85%,11,39,,10,17,1,4,6,2,,42,7,17,9,,60,66,1,8,10,39527
+30,1452,University of Ottawa,Women,2.1,Shelley Rabinovitch,3.8,225,70%,,25,,,4,,25,,11,,20,8,11,2,1,13,28,,1,3,15502
+31,1452,University of Ottawa,Biology,3.0,Francois Chapleau,4.6,204,95%,19,94,,27,20,2,5,18,6,,21,42,17,1,2,80,47,,10,26,1368307
+32,1452,University of Ottawa,Biology,4.4,Caroline Petit-Turcotte,2.0,200,10%,3,2,,5,4,1,82,10,2,,5,3,25,15,64,1,32,1,13,138,1791526
+33,1452,University of Ottawa,Philosophy,2.0,Mark Raymond Brown,3.8,190,95%,2,9,,5,16,,1,6,5,,3,2,2,,3,12,18,,2,3,243955
+34,1452,University of Ottawa,Accounting,1.6,Marc Tasse,4.5,188,92%,2,73,1,14,5,,1,3,2,,11,86,,,,75,1,,,,634109
+35,1452,University of Ottawa,Business,3.3,Matthew Archibald,3.9,173,78%,1,17,,6,4,,9,13,1,9,10,4,3,3,8,17,22,6,,35,465107
+36,1452,University of Ottawa,Communication,2.7,Michael Strangelove,2.8,172,71%,2,11,,8,6,,39,8,6,6,24,13,13,2,4,1,18,,1,17,15458
+37,1452,University of Ottawa,Science,3.0,Jackie Carnegie,4.0,170,72%,3,14,,7,21,,38,10,5,,1,1,27,2,2,28,18,,14,8,38263
+38,1452,University of Ottawa,Political Science,3.8,Mark Salter,3.3,168,N/A,,10,,1,2,,6,1,,1,3,2,,1,1,3,9,,,8,308209
+39,1452,University of Ottawa,Sociology,2.0,Stephan Larose,4.3,168,88%,4,44,,9,14,1,1,7,8,5,54,7,3,,3,30,42,,3,11,1061337
+40,1453,Ecole Polytechnique de Montreal,Mechanical Engineering,2.2,Andre Cincou,3.8,59,N/A,,,,,,,,,,,,,,,,,1,,,2,35757
+41,1453,Ecole Polytechnique de Montreal,Mathematics,2.6,Guy Jomphe,4.1,46,N/A,1,,,,,,2,1,,,,,,,,3,3,,1,1,32199
+42,1453,Ecole Polytechnique de Montreal,Mathematics,2.7,Richard Labib,4.8,39,N/A,,,,,,,,2,,,,3,,,1,1,4,,,,32956
+43,1453,Ecole Polytechnique de Montreal,Computer Engineering,3.1,Martine Bellaiche,3.0,38,N/A,,,1,,,,,,,,,,,1,,,1,,1,1,32113
+44,1453,Ecole Polytechnique de Montreal,Mathematics,4.1,Steven Dufour,2.2,36,N/A,,,,,,,1,,,,,,2,2,,,1,3,2,6,36064
+45,1453,Ecole Polytechnique de Montreal,Electrical Engineering,4.3,George-Emile April,2.0,33,N/A,,,,,,,,,,,,,,,,,,,,,14212
+46,1453,Ecole Polytechnique de Montreal,Mechanical Engineering,2.0,Christian Dupuis,4.8,25,N/A,,,,,,,,,,,,,,,,,,,,,66270
+47,1453,Ecole Polytechnique de Montreal,Computer Engineering,3.9,François-Raymond Boyer,2.2,25,40%,,,1,1,1,,1,,,,,1,1,1,1,,,,1,1,215467
+48,1453,Ecole Polytechnique de Montreal,Aerospace Studies,2.6,Abdelhak Oulmane,4.9,25,100%,9,6,,10,,,,6,,,6,6,,,,10,,,,,1718652
+49,1453,Ecole Polytechnique de Montreal,Mechanical Engineering,2.5,Sofiane Achiche,4.7,23,N/A,,,,,,,,,,,,,,,,,,,,,197100
+50,1453,Ecole Polytechnique de Montreal,Mechanical Engineering,2.8,Philippe Vidori,3.9,21,N/A,1,,1,,,,1,1,,1,2,,1,3,4,,,,,4,166708
+51,1453,Ecole Polytechnique de Montreal,Mathematics,1.6,Gerard Buzaglo,4.8,21,N/A,,,,2,,,,,,,,2,,,,2,,,,,555667
+52,1453,Ecole Polytechnique de Montreal,Electrical Engineering,3.3,Khaled Arfa,3.0,20,N/A,,,,1,1,,,,,,,1,,,,,1,,,1,512259
+53,1453,Ecole Polytechnique de Montreal,Electrical Engineering,2.8,Michel Lemire,4.3,19,N/A,1,,,,,,,,,,,,,,1,,1,,,,300257
+54,1453,Ecole Polytechnique de Montreal,Computer Engineering,1.7,Patrice Hernert,4.4,19,N/A,,,,,,,,,,,,,,,,,,,,,512314
+55,1453,Ecole Polytechnique de Montreal,Mathematics,2.3,Yassir Miladi,4.2,18,N/A,,,,,,,,,,,,,,,,,,,,,76662
+56,1453,Ecole Polytechnique de Montreal,Physics,3.1,Slobodan Babic,3.2,18,N/A,,,,,,,,,,,,,,,,,,,,,166681
+57,1453,Ecole Polytechnique de Montreal,Mathematics,2.7,Slim Belhaiza,3.6,18,N/A,,,,,,,,,,,,,,,,,,,,,253834
+58,1453,Ecole Polytechnique de Montreal,Mechanical Engineering,2.6,Luc Baron,2.5,18,N/A,,,,,,,,,,,,,,,,,1,,,1,321305
+59,1453,Ecole Polytechnique de Montreal,Chemical Engineering,3.8,Pierre Carreau,2.5,17,N/A,,,,,,,,,,,,,,,,,,,,,33007
+60,1454,University of Prince Edward Island,Psychology,2.6,Philip Smith,4.5,80,100%,4,5,,7,2,2,9,4,,,1,4,1,1,3,14,4,,1,1,127881
+61,1454,University of Prince Edward Island,Science,3.5,Larry Hale,3.2,68,53%,1,2,,,3,3,6,1,5,,1,,10,,,1,7,,1,9,85240
+62,1454,University of Prince Edward Island,English,3.3,Jane Magrath,4.0,57,N/A,,,,,,,,,,,,,,,,,,,,,86033
+63,1454,University of Prince Edward Island,History,2.8,Edward MacDonald,4.8,55,N/A,,,,,,,,,,,,,,,,,,,,,41354
+64,1454,University of Prince Edward Island,Theology,3.6,Joe Velaidum,4.0,52,86%,1,1,,,1,,4,,3,,,,,,1,1,,1,2,5,71642
+65,1454,University of Prince Edward Island,English,3.6,Anne Furlong,3.7,50,N/A,,1,,1,,,,,,1,2,,,1,1,,1,,,2,82918
+66,1454,University of Prince Edward Island,Biology,3.4,Jim Kemp,3.2,48,50%,,1,,3,,,,,1,,1,6,4,,2,2,5,,,2,277540
+67,1454,University of Prince Edward Island,Science,4.2,Barry Linkletter,3.3,44,N/A,,,,,,,,1,,,3,,,1,,1,,,,2,88642
+68,1454,University of Prince Edward Island,Science,4.8,Robert Hurta,2.4,43,N/A,,,,,,,2,1,,,,,1,,,1,5,,,6,87590
+69,1454,University of Prince Edward Island,English,2.5,Alan Harrington,4.0,42,63%,1,1,1,4,1,,,1,1,3,3,,,2,2,1,,1,2,1,86630
+70,1454,University of Prince Edward Island,Accounting,2.3,Mike Cassidy,4.7,42,100%,,8,,1,1,,,,,1,3,4,,1,,6,1,,,,94513
+71,1454,University of Prince Edward Island,Classics,3.8,David Buck,3.1,41,N/A,,,,,,,,,,,,,,,,,,,,,144588
+72,1454,University of Prince Edward Island,Business,3.7,Debbie Good,2.1,41,N/A,,,,,1,,1,,,,,,4,1,,,1,,2,4,377001
+73,1454,University of Prince Edward Island,Science,3.4,Kevin Teather,3.7,39,N/A,1,2,,,,,1,,3,,,,2,,,,2,,1,2,41684
+74,1454,University of Prince Edward Island,Mathematics,2.3,Justin Gulati,4.8,37,100%,,3,,,1,,,1,,,1,,,1,,3,2,,,,211593
+75,1454,University of Prince Edward Island,English,3.6,Julie Dennison,3.1,36,33%,1,,,,,,,3,,,,,,2,2,,5,1,,8,388043
+76,1454,University of Prince Edward Island,Anthropology,2.4,Jean Mitchell,4.3,35,83%,,1,,3,1,1,5,1,,,2,4,1,,2,1,,,,1,41350
+77,1454,University of Prince Edward Island,Economics,1.9,Wimal Rankaduwa,4.3,34,N/A,,,,2,,,,,,,,1,,,,2,,,,,88348
+78,1454,University of Prince Edward Island,Mathematics,2.8,Nasser Saad,3.7,33,100%,1,1,,2,2,,,1,,,2,1,,,,1,2,,,,84945
+79,1454,University of Prince Edward Island,English,3.2,Wendy Shilton,3.7,33,N/A,,,,3,1,,,5,,,,,,,,3,1,1,,1,167110
+80,1456,Universite du Quebec en Abitibi-Temiscamingue,Graphic Arts,2.7,David Paquin,2.9,7,N/A,,,,,,,,,,,,,,,,,,,,,235856
+81,1456,Universite du Quebec en Abitibi-Temiscamingue,Engineering,3.8,Erchiqui Fouad,2.4,4,N/A,,,,,,,,,,,,,,,,,,,,,948031
+82,1456,Universite du Quebec en Abitibi-Temiscamingue,Engineering,3.0,Tikou Belem,3.0,3,N/A,,,,,,,,,,,,,,,,,,,,,1174188
+83,1456,Universite du Quebec en Abitibi-Temiscamingue,Engineering,5.0,Francois Godard,1.0,3,N/A,,,,,,,,,,,,,,,,,,,,,1927777
+84,1457,Universite du Quebec a Chicoutimi,Literature,1.8,Mustapha Fahmi,4.7,19,N/A,,,,,,,,,,,,,,,,,,,,,31758
+85,1457,Universite du Quebec a Chicoutimi,Literature,2.7,Nicolas Xanthos,4.0,18,N/A,,,,,,,1,1,,,1,,,,,,,,,,340111
+86,1457,Universite du Quebec a Chicoutimi,Literature,1.7,Luc Vaillancourt,4.4,17,N/A,,,,,,,,,,,,,,,,,,,,,183707
+87,1457,Universite du Quebec a Chicoutimi,Languages,2.3,Robert Dôle,3.3,12,N/A,,1,,,,,,,,,,1,,,,1,,,,,31760
+88,1457,Universite du Quebec a Chicoutimi,Engineering,2.8,Mohand Ouhrouche,4.4,10,N/A,,1,,,,,,1,,,,,,,,1,,,,,221416
+89,1457,Universite du Quebec a Chicoutimi,Computer Science,3.4,Djamal Rebaine,1.4,10,N/A,,,,1,,,3,,,,,,3,,,,,,,,525501
+90,1457,Universite du Quebec a Chicoutimi,Geography,1.4,Fall Marie,4.8,10,N/A,,,,,,,,,,,,,,,,,,,,,1686913
+91,1457,Universite du Quebec a Chicoutimi,Management,3.0,Erick Chamberland,4.3,9,N/A,,,,,,,,1,,,,,,1,,1,,,,,343143
+92,1457,Universite du Quebec a Chicoutimi,Philosophy,3.4,Gilbert Larochelle,1.7,9,N/A,,,,,,,,,,,,,,,,,,1,,,512280
+93,1457,Universite du Quebec a Chicoutimi,Psychology,2.0,Claude-Michel Gagnon,5.0,9,N/A,,1,,,,,,2,,,3,4,,,,2,,,,,529291
+94,1457,Universite du Quebec a Chicoutimi,Languages,2.4,Bernadine McCreesh,3.8,8,N/A,,,,,,,,,,,,,1,,,,,,,1,31761
+95,1457,Universite du Quebec a Chicoutimi,Computer Science,2.1,Éric Dallaire,4.9,8,N/A,,1,,,,,,,,1,,1,,,,,,,,,550904
+96,1457,Universite du Quebec a Chicoutimi,Computer Science,2.6,Caroline Gagné,4.7,7,N/A,,,,2,,,,1,,1,,2,,,,,,,,,68236
+97,1457,Universite du Quebec a Chicoutimi,Business Administration,2.0,Robert Pépin,4.8,7,N/A,,1,,1,1,,,1,,,,2,,,,,1,1,,,605295
+98,1457,Universite du Quebec a Chicoutimi,Engineering,2.0,Rachid Beguenane,4.8,6,N/A,,,,,,,,,,,,,,,,,,,,,549488
+99,1457,Universite du Quebec a Chicoutimi,Marketing,2.7,Julien Bousquet,4.2,6,N/A,1,,,,,,,,,,,,1,,1,,,,,,563496
+100,1457,Universite du Quebec a Chicoutimi,History,3.7,Cylvie Claveau,4.2,6,N/A,,,1,,,,,,,,,1,,,,1,,,,,564146
+101,1457,Universite du Quebec a Chicoutimi,Computer Science,3.2,Abdenour Bouzouane,2.6,6,N/A,,,,,,,,,,1,1,1,1,1,,1,,,,,627256
+102,1457,Universite du Quebec a Chicoutimi,Law,2.4,Denis Bourque,2.9,5,N/A,,,,,,,,,,,,,,,,,,,,,777137
+103,1457,Universite du Quebec a Chicoutimi,Computer Science,2.5,Michel Martel,3.5,4,N/A,,,,,,,,,1,1,,,,,,,,1,,,767526
+104,1458,Ecole nationale d'administration publique,Management,2.8,Martin Goyette,4.7,6,N/A,,,,1,,,3,3,,,,2,,,2,2,,,,,1923944
+105,1458,Ecole nationale d'administration publique,Management,3.0,Claude-Michel Gagnon,4.8,4,N/A,,,,1,,,,1,,,,1,,,,,,,,,1367925
+106,1458,Ecole nationale d'administration publique,Management,2.7,Stéphane Paquin,4.8,3,N/A,,,,,,,,,,,,,,,,,,,,,560223
+107,1458,Ecole nationale d'administration publique,Management,2.0,Clement Menard,2.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1082759
+108,1458,Ecole nationale d'administration publique,Management,3.0,Daniel J. Carron,4.0,2,N/A,,,,,,,,,,,,1,,,1,,,,,,1923491
+109,1458,Ecole nationale d'administration publique,Management,3.5,Jacques M. Pelletier,2.5,2,N/A,,,,,,,,,,,,,,,,,,,,,1923974
+110,1458,Ecole nationale d'administration publique,Management,2.0,Daniel Lozeau,4.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1917375
+111,1458,Ecole nationale d'administration publique,Management,4.0,Jean-Serge Quesnel,1.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1923450
+112,1458,Ecole nationale d'administration publique,Management,2.0,Jacques Bourgault,4.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1923461
+113,1458,Ecole nationale d'administration publique,Management,2.0,Isabelle Bourgeois,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1923463
+114,1458,Ecole nationale d'administration publique,Management,4.0,Etienne Charbonneau,4.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1923468
+115,1458,Ecole nationale d'administration publique,Management,4.0,Michèle Charbonneau,3.0,1,N/A,,,,,,,,,,,,,1,,,,,,,1,1923471
+116,1458,Ecole nationale d'administration publique,Management,5.0,Tatiana Garakani,4.0,1,N/A,,,,,,,,,,1,,,,1,,,,,,1,1923940
+117,1458,Ecole nationale d'administration publique,Management,4.0,Bachir Mazouz,4.0,1,N/A,,,,,,,,,,1,1,,1,,,,,,,,1923965
+118,1458,Ecole nationale d'administration publique,Economics,1.0,Filip Palda,5.0,1,N/A,,1,,,,,,,,,,1,,,,1,,,,,1923972
+119,1458,Ecole nationale d'administration publique,Management,4.0,Jean-François Savard,2.0,1,N/A,,,,,,,1,,,,,,1,,,,,,1,,1923988
+120,1458,Ecole nationale d'administration publique,Management,3.0,Nassera Touati,5.0,1,N/A,1,,,,,,,1,,,,1,,,,,,,,,1923992
+121,1458,Ecole nationale d'administration publique,Management,3.0,Jean-Claude Villiard,5.0,1,N/A,1,,,1,,,,1,,,,,,,,,,,,,1923999
+122,1458,Ecole nationale d'administration publique,Anthropology,5.0,Édouardo Gonzàlez Castillo,2.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1987166
+123,1458,Ecole nationale d'administration publique,Social Science,4.0,Olivier Choinière,5.0,1,N/A,,,,,1,,,1,,1,,,,,,,,,,,1987267
+124,1459,Ecole de Technologie Superieure,Science,3.8,Adile Benmassaoud,2.5,75,78%,,,1,1,2,,,1,,,1,1,1,,,,4,1,,1,34812
+125,1459,Ecole de Technologie Superieure,Science,3.1,Pierre Baril,2.9,73,86%,2,3,,2,,,1,,,,11,4,1,1,1,6,2,,,1,58835
+126,1459,Ecole de Technologie Superieure,Mathematics,2.4,Richard Labonté,4.2,62,N/A,,,,,,,,,,,,,,,,,,,,,35326
+127,1459,Ecole de Technologie Superieure,Engineering,1.9,Alain Hénault,4.8,61,N/A,1,3,,1,,,,,,,2,,,,,1,2,,,,34908
+128,1459,Ecole de Technologie Superieure,Mathematics,1.8,Michel Beaudin,4.8,59,100%,2,3,,2,,,,5,,,3,4,,1,,6,1,,,1,34928
+129,1459,Ecole de Technologie Superieure,Engineering,3.6,Chakib Tadj,2.1,58,N/A,1,,,2,1,,,3,1,1,,,,,,,1,,,2,35029
+130,1459,Ecole de Technologie Superieure,Mathematics,3.4,Gerardo Da Ponte,2.5,57,N/A,,,,,,,,,,,,,,,,,,,,,35097
+131,1459,Ecole de Technologie Superieure,Economics,2.3,Katy Lagace,3.6,51,N/A,,,,,,,3,,,,,,1,,,,,3,1,,31183
+132,1459,Ecole de Technologie Superieure,Engineering,3.0,Fred Awad,2.8,44,N/A,1,,,,,,1,,1,,,,3,,1,,,,,1,21555
+133,1459,Ecole de Technologie Superieure,Physics,2.0,Cedric Alinot,4.7,44,N/A,1,,,2,1,,,,,,,,,,,2,,,,,189302
+134,1459,Ecole de Technologie Superieure,Science,3.6,Dominique Piotte,2.7,42,N/A,,,,1,,,1,,,,1,1,,2,3,1,2,1,,2,38698
+135,1459,Ecole de Technologie Superieure,Social Science,3.3,Danielle Leblanc,1.8,40,67%,2,,1,2,,,,1,,4,,,1,1,3,3,1,1,1,1,31188
+136,1459,Ecole de Technologie Superieure,Mathematics,2.9,Stephane Lafrance,3.3,40,N/A,1,,,,1,,,,,,1,,1,1,,,5,,1,4,442656
+137,1459,Ecole de Technologie Superieure,Mathematics,3.0,Sofiane Ayad,2.7,39,11%,,,,,,,,,,,,,2,2,2,1,4,,2,6,751502
+138,1459,Ecole de Technologie Superieure,Science,2.3,Michel Perrault,4.0,39,N/A,,,,2,,,,,,1,,1,,,,,,,,,34770
+139,1459,Ecole de Technologie Superieure,Mathematics,1.7,Luc Favreau,4.9,38,N/A,,,,,,,,,,,,,,,,,,,,,30914
+140,1459,Ecole de Technologie Superieure,Computer Science,4.0,Saïd Hilal,4.1,38,N/A,,,,,,,,,,,,,1,,,,,,1,1,37881
+141,1459,Ecole de Technologie Superieure,Engineering,2.7,Mustapha Rafaf,3.0,38,89%,,,1,3,1,,2,1,1,,1,,1,,1,1,2,,,,240036
+142,1459,Ecole de Technologie Superieure,Mathematics,2.3,Chantal Trottier,4.2,36,N/A,,,,1,,,,,,,,,,,,,,,,,34951
+143,1459,Ecole de Technologie Superieure,Software Engineering,4.9,Roberto Erick Lopez Herrejon,1.0,35,N/A,,,,,,,4,,,,,,5,12,,,,11,16,29,2410100
+144,1461,Institut National de la Recherche Scientifique,Biology,2.5,Claude Guertin,3.8,4,N/A,,,,,,,,,,,,,,,,,,,,,512085
+145,1462,Universite du Quebec a Montreal,Human Resources Management,1.8,Mohammed Farid Belkaloul,4.4,95,N/A,,,,,,,,,,,,,,,,,,,,,617890
+146,1462,Universite du Quebec a Montreal,Computer Science,2.3,Jacques Berger,4.6,83,71%,1,9,,11,6,,2,15,,4,14,14,,5,6,27,12,,,7,1368739
+147,1462,Universite du Quebec a Montreal,Computer Science,2.9,Ammar Hamad,1.6,80,27%,1,,,2,,2,,2,1,,1,2,,,2,,,,,,72608
+148,1462,Universite du Quebec a Montreal,Accounting,2.4,Serge Rioux,4.5,77,N/A,,1,1,,,,,3,,1,2,2,,,,1,1,,,1,482612
+149,1462,Universite du Quebec a Montreal,Computer Science,2.8,Abdellatif Obaid,3.2,73,61%,1,1,,5,2,,11,12,,1,,,3,14,8,2,,,,14,32037
+150,1462,Universite du Quebec a Montreal,Economics,3.7,Michel Devost,2.1,73,50%,1,,4,1,,,10,,,2,3,1,5,2,1,,3,,3,4,61708
+151,1462,Universite du Quebec a Montreal,Computer Science,3.9,Philippe Gabrini,2.5,68,N/A,,,,,,,,,,,,,,,,,,,,,33658
+152,1462,Universite du Quebec a Montreal,Human Resources Management,1.9,Maher Bouhadra,4.2,68,92%,2,3,,1,,,,6,,2,2,14,,,1,11,,,,,889167
+153,1462,Universite du Quebec a Montreal,Information Science,2.4,Jean Derome,4.2,68,100%,4,4,,18,12,1,2,9,,10,10,8,3,2,3,9,2,3,,1,968401
+154,1462,Universite du Quebec a Montreal,Finance,3.3,Nadher Essafi,3.3,64,79%,2,4,,2,1,1,,1,,5,,4,,2,1,5,8,,2,7,237986
+155,1462,Universite du Quebec a Montreal,Computer Science,1.9,Normand Séguin,4.6,61,N/A,,,,,,,,,,,,,,,,,,,,,30531
+156,1462,Universite du Quebec a Montreal,Computer Science,3.4,Ivan Constantineau,2.7,61,N/A,,,,,,,,1,,,,,,1,1,,1,,,3,30535
+157,1462,Universite du Quebec a Montreal,Computer Science,2.9,Bruno Malenfant,4.0,60,20%,,,,1,,1,2,2,,,1,1,1,3,,1,1,,1,2,74807
+158,1462,Universite du Quebec a Montreal,Accounting,2.9,Bruno Fournier,3.3,58,50%,,,,2,3,,5,1,,,,1,1,4,,1,5,,,8,788725
+159,1462,Universite du Quebec a Montreal,Economics,2.8,Simon Cadorette,3.6,56,58%,,2,,2,1,1,,,1,,10,4,,,1,4,7,,,8,483892
+160,1462,Universite du Quebec a Montreal,Accounting,2.9,Yoland Dumas,2.6,56,46%,1,1,,,1,,1,2,,,1,1,,,,4,1,,,1,910678
+161,1462,Universite du Quebec a Montreal,Accounting,4.0,Diane Henri,2.4,55,36%,,,2,,,,2,,,,,1,1,3,1,,2,,,9,52653
+162,1462,Universite du Quebec a Montreal,Business,2.0,Mohamed Dahous,4.0,54,100%,2,2,,9,1,,1,8,,1,1,15,1,1,,11,,1,,4,311362
+163,1462,Universite du Quebec a Montreal,Economics,2.0,Jean Soucy,4.2,53,N/A,,,,,,,,,,,,,,,,,,,,,70975
+164,1462,Universite du Quebec a Montreal,Management,2.5,Abdelhaq Sari,4.5,50,86%,5,1,1,,1,,3,9,,5,10,6,,3,6,18,3,,1,,1095425
+165,1463,Universite du Quebec a Rimouski,Computer Science,3.8,André Jacques,2.8,5,N/A,,,,,,,,,,,,,,,,,,,,,137783
+166,1463,Universite du Quebec a Rimouski,Engineering,1.5,Chan Wang Park,1.5,4,N/A,,,,,,,,,,,,,,,,,,,,,768776
+167,1463,Universite du Quebec a Rimouski,Computer Science,2.0,André Paradis,3.0,3,N/A,,,,,,,,,,,,,,,,,,,,,140266
+168,1463,Universite du Quebec a Rimouski,Engineering,2.5,Samir Hamdi,2.5,2,N/A,,,,,,,,,,,,,,,,,,,,,768769
+169,1463,Universite du Quebec a Rimouski,Biology,2.0,Pierre Blier,4.0,1,N/A,,,,,,,,,,,,1,,,1,,,,,1,577578
+170,1463,Universite du Quebec a Rimouski,Economics,5.0,Philip Merrigan,1.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1582377
+171,1463,Universite du Quebec a Rimouski,Economics,4.0,James Wilson,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1720990
+172,1463,Universite du Quebec a Rimouski,Accounting,5.0,Gaetan Dube,1.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1897156
+173,1464,Tele-universite,Mathematics,2.2,Sylvie Matte,4.3,6,N/A,,,,,,,,,,,,,,,,,,,,,41333
+174,1464,Tele-universite,Management,2.3,Abdeslem Boukhtouta,3.9,4,N/A,,,,1,,,,1,,,,,,,,,,,,,1300820
+175,1464,Tele-universite,Not Specified,2.7,Marc Calfat,2.8,3,N/A,,,,1,,,1,1,,,,,,,,,,,,,175597
+176,1464,Tele-universite,Science,2.7,Anick Mathieu,3.8,3,N/A,,,,,,,,,,,,,,,,,,,,,960674
+177,1464,Tele-universite,Psychology,2.5,Denis Roberge,4.3,2,N/A,,,,,,,,,,,,,,,,,,,,,646142
+178,1464,Tele-universite,English,1.5,Brigitte Chabot,4.8,2,N/A,,,,1,,,,1,,,,1,,,,,,,,,1627051
+179,1464,Tele-universite,Humanities,2.0,Khaled Abdelati,1.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1522077
+180,1464,Tele-universite,Philosophy,4.0,Jean Robillard,1.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1856962
+181,1465,Universite du Quebec a Trois-Rivieres,Languages,2.1,Maureen -C. Laperriere,4.9,22,N/A,,1,,,,,,,,,1,1,,,1,2,,,,,128845
+182,1465,Universite du Quebec a Trois-Rivieres,Languages,3.0,Ronald Sheen,4.5,21,N/A,,,,,,,,,,,,,,,,,,,,,115853
+183,1465,Universite du Quebec a Trois-Rivieres,Business,2.7,Jean-Claude Bernatchez,4.9,19,N/A,,,,1,,,,2,,,,3,,,2,3,1,,,,128663
+184,1465,Universite du Quebec a Trois-Rivieres,Education,3.6,Francois Fugère,2.2,16,N/A,,,,1,,,,,,,1,1,,,,,,,,,112946
+185,1465,Universite du Quebec a Trois-Rivieres,Business,3.7,Michel Arcand,4.7,15,N/A,1,1,,1,,,,,,,1,4,,,1,4,,,,,1450529
+186,1465,Universite du Quebec a Trois-Rivieres,Business,3.4,Sylvie Paquette,2.9,13,N/A,,,,,,,1,,,,,,1,,,,,,,4,134347
+187,1465,Universite du Quebec a Trois-Rivieres,Languages,4.2,Sonia El Euch,3.0,11,N/A,,,,,,,,,,1,,,,1,,,1,,,,272130
+188,1465,Universite du Quebec a Trois-Rivieres,Psychology,3.5,Emmanuel Habimana,2.5,11,N/A,,,,,,,,,,,1,1,,,,,,1,,,512218
+189,1465,Universite du Quebec a Trois-Rivieres,Computer Science,1.9,Amar Boucif Bensaber,3.9,10,N/A,,,,,,,,,,,,,,,,,,,,,34646
+190,1465,Universite du Quebec a Trois-Rivieres,Business,3.9,Bruno Fabi,3.0,10,N/A,,,,,,,,,,,,,,,,,1,,,,134324
+191,1465,Universite du Quebec a Trois-Rivieres,Communication,3.7,Stephane Perrault,3.5,10,N/A,,,,,,,,,,,,,,,,,,,,,218849
+192,1465,Universite du Quebec a Trois-Rivieres,Languages,3.7,Egan Valentine,2.3,9,N/A,1,,,,,,1,1,,1,,,,1,,1,,,,,129247
+193,1465,Universite du Quebec a Trois-Rivieres,English,3.1,Stella Jordan,3.3,8,N/A,,,,,1,,,1,,,,,,,,1,,,,,138506
+194,1465,Universite du Quebec a Trois-Rivieres,Mathematics,3.4,Alain Chalifour,2.7,8,N/A,,,,,,,,,,,,,,,,,,,,,249117
+195,1465,Universite du Quebec a Trois-Rivieres,Communication,3.9,Jason Luckerhoff,4.9,8,N/A,,,,,,,,,,,,,,,,,,,,,719365
+196,1465,Universite du Quebec a Trois-Rivieres,History,3.7,Thierry Nootens,3.5,8,N/A,1,,,,1,,1,1,,,,1,,1,,1,,1,,2,1533843
+197,1465,Universite du Quebec a Trois-Rivieres,History,3.0,Jean Roy,3.3,7,N/A,,,,,,,,,,,,,,,,,,,,,112453
+198,1465,Universite du Quebec a Trois-Rivieres,Education,2.7,Paul Gaudet,4.7,7,N/A,1,,,1,,,,,,1,,3,,,,3,,,,,140051
+199,1465,Universite du Quebec a Trois-Rivieres,Business,2.0,Tahar Mansour,2.5,7,N/A,,,,,,,,,,,,,,,,,,,,,512363
+200,1465,Universite du Quebec a Trois-Rivieres,Biology,2.2,Eric Asselin,3.9,6,N/A,,,,,,,,,,,,,,,,,,,,,351825
+201,1466,Queen's University at Kingston,Chemistry,2.3,Bill Newstead,5.0,393,100%,3,8,,6,,,,1,,,6,12,,,2,14,2,,,2,35851
+202,1466,Queen's University at Kingston,Mathematics,2.5,Alan Ableson,4.8,283,100%,5,21,,23,6,,,4,,,15,30,,4,3,33,,,,,124727
+203,1466,Queen's University at Kingston,Film,2.7,Philippe Gauthier,4.9,243,99%,35,110,2,105,30,5,11,38,12,8,159,68,12,,25,52,,,3,4,2301742
+204,1466,Queen's University at Kingston,Physics,3.6,Somi Narayanan,3.8,172,100%,3,1,,3,,,,3,,,4,,,,,1,,,,,15759
+205,1466,Queen's University at Kingston,Psychology,2.7,Dean A Tripp,4.3,137,50%,,3,,,1,,22,1,2,4,6,5,,2,,3,2,,1,9,166528
+206,1466,Queen's University at Kingston,Geological Engineering,2.3,John Hanes,4.7,132,60%,1,,,2,2,,2,,1,,1,1,3,,,1,1,,,,15764
+207,1466,Queen's University at Kingston,Mathematics,2.7,Leo B Jonker,4.9,120,N/A,,,,,,,,,,,,,,,,,,,,,15758
+208,1466,Queen's University at Kingston,History,3.1,Ariel Salzmann,2.3,115,40%,1,1,1,2,,,2,1,2,1,1,2,3,1,,,2,,,,253437
+209,1466,Queen's University at Kingston,Chemistry,3.5,Gregory Jerkiewicz,2.9,112,N/A,,,,,,,,,,,,,,,,,,,,,79413
+210,1466,Queen's University at Kingston,Business,3.0,John Pliniussen,4.3,109,100%,3,8,,2,1,,2,5,,3,5,11,,3,1,9,,,,4,48445
+211,1466,Queen's University at Kingston,Political Science,3.1,Kim Richard Nossal,3.9,104,88%,1,10,,2,2,,1,,2,,10,4,3,,1,10,1,,,1,64760
+212,1466,Queen's University at Kingston,Psychology,2.5,Hans Christian Dringenberg,4.7,102,N/A,,1,,,,,,,,,,,,,,1,,,,,27640
+213,1466,Queen's University at Kingston,Political Science,3.0,Jonathan W Rose,4.0,98,N/A,,3,,,1,,,,,,2,1,,,2,2,,,,,27437
+214,1466,Queen's University at Kingston,Mathematics,2.3,Charles Arthur Molson,4.7,96,93%,3,11,,13,1,,,3,2,,17,14,,1,,13,1,,2,,114730
+215,1466,Queen's University at Kingston,Economics,3.0,Ian James Cromb,3.8,94,50%,4,1,,2,1,,5,,1,1,1,,7,4,,2,1,,1,1,27807
+216,1466,Queen's University at Kingston,Chemistry,2.7,Michael J Mombourquette,3.3,92,71%,2,1,,5,,1,1,4,,,2,1,,,,1,,,,1,10115
+217,1466,Queen's University at Kingston,Computer Science,2.9,Brian E Butler,3.9,92,N/A,,,,,,,,,,,,,,,,,,,,,27570
+218,1466,Queen's University at Kingston,Chemistry,3.4,John Carran,3.8,84,100%,3,3,,5,2,,4,1,,,15,,,1,,12,12,,,3,1072423
+219,1466,Queen's University at Kingston,Mathematics,2.3,Peter D Taylor,4.8,83,N/A,,1,,5,,,,2,,1,2,2,1,2,,5,3,,,1,29875
+220,1466,Queen's University at Kingston,Psychology,3.2,Leandre R Fabrigar,3.7,82,N/A,,1,,1,1,,,1,1,,1,,,,1,1,,,,1,27828
+221,1468,University of Regina,Economics,3.1,Shaun Augustin,3.4,220,88%,,,,1,3,,3,1,1,,,,3,2,1,,2,,3,3,32640
+222,1468,University of Regina,Sociology,2.7,Lori Walker,3.8,195,65%,1,9,,4,,,6,3,3,,2,10,3,2,3,4,18,2,1,23,29484
+223,1468,University of Regina,Economics,3.7,Fazal Dar,2.5,180,N/A,,,,,,,1,,,,,,1,,1,,3,,,4,29552
+224,1468,University of Regina,Biology,2.7,Harold Weger,4.0,171,67%,2,1,,4,5,,4,2,6,,10,3,28,1,2,18,22,,6,11,19698
+225,1468,University of Regina,Psychology,2.4,Don Sharpe,4.3,158,77%,3,6,,4,1,,1,,2,,13,1,1,,1,3,12,,,4,19182
+226,1468,University of Regina,Sociology,2.8,John Conway,3.2,157,N/A,,,,,,,,,,,,,,,,,,,,,29385
+227,1468,University of Regina,Sociology,3.6,Robert Biezenski,3.4,154,58%,,5,,,3,,5,3,4,,,2,8,,1,1,20,2,,11,29359
+228,1468,University of Regina,Psychology,2.8,Nicholas Carleton,4.4,154,96%,,22,,1,5,,11,1,2,,31,4,5,,1,14,3,,3,8,592485
+229,1468,University of Regina,Psychology,2.5,Susan Weir,3.9,150,68%,5,22,,3,2,5,1,1,4,,28,2,6,,4,2,17,,3,9,510571
+230,1468,University of Regina,English,4.0,Sherry Klein,2.2,144,4%,,2,6,,4,,13,10,,,,,5,6,3,,16,11,1,44,30403
+231,1468,University of Regina,Biology,2.0,Laura Ambrose,4.7,142,97%,13,8,,21,16,4,1,18,,,6,4,1,1,3,11,,,,,30549
+232,1468,University of Regina,Mathematics,3.6,Glen Larson,2.0,135,N/A,,,,,,,,,,,,,,,,,,,,,25436
+233,1468,University of Regina,English,4.4,Cynthia MacKenzie,2.2,135,N/A,,,,,,,,,,,,,,,,1,,,,3,32859
+234,1468,University of Regina,Mathematics,2.7,Patrick Maidorn,4.5,132,94%,7,11,,7,6,,,6,,,2,4,,3,3,10,10,,2,2,29163
+235,1468,University of Regina,Business Administration,3.1,Romulus Cismaru,3.5,131,80%,2,,,1,7,,3,3,2,,1,,4,,,3,10,,4,9,356728
+236,1468,University of Regina,Psychology,2.6,Ian MacAusland-Berg,4.1,122,90%,2,8,,8,2,,3,1,3,,13,4,1,,,5,,,1,1,33100
+237,1468,University of Regina,Business Administration,2.4,Sandra Steen,3.9,118,75%,2,2,,6,3,,3,4,2,2,,,2,,1,4,,,,2,29581
+238,1468,University of Regina,Mathematics,4.0,Fernando Szechtman,2.0,117,39%,5,,,2,,1,2,3,,,,1,7,3,1,,6,,7,20,456359
+239,1468,University of Regina,History,2.7,George Hoffman,4.3,115,71%,3,6,,1,3,,7,9,1,,,1,8,2,4,3,14,,,9,29939
+240,1468,University of Regina,Psychology,2.4,Tom Phenix,4.2,114,84%,,7,,3,6,2,1,4,5,,7,4,9,,,6,6,,2,4,465037
+241,1469,Royal Military College of Canada,Political Science,2.6,Alan Whitehorn,3.9,13,N/A,1,,,,,,1,1,,,,,,,,,,,,,39301
+242,1469,Royal Military College of Canada,Business,3.0,Tom Deccechi,2.6,13,N/A,,,,,,,,,,,,,1,,,,,,,3,55536
+243,1469,Royal Military College of Canada,Engineering,3.5,Nicholas Vlachopoulos,5.0,12,N/A,,,,,,,,,,,,,,,,,,,,,816827
+244,1469,Royal Military College of Canada,English,3.6,Andy Belyea,4.7,11,N/A,,2,,,,,,1,,,1,1,,,2,2,,,,2,792453
+245,1469,Royal Military College of Canada,Engineering,2.7,Ron Weir,4.9,10,N/A,,,,,,,,,,,,,,,,,,,,,14663
+246,1469,Royal Military College of Canada,Mathematics,2.9,Lucien Haddad,4.5,10,N/A,,,,,,,,,,,,,,,,,,,,,45706
+247,1469,Royal Military College of Canada,Business,3.4,Maggie Shepherd,4.1,10,100%,2,1,,3,2,,1,1,,1,,1,,,1,5,1,,,2,312596
+248,1469,Royal Military College of Canada,Science,2.9,Dr. Jean-Marc Noel,3.9,9,N/A,,,,,,,,,,,,,,,,,,,,,61595
+249,1469,Royal Military College of Canada,Computer Science,2.6,Yawei Liang,3.5,8,N/A,,,,,,,,,,,,,,,,,,,,,30210
+250,1469,Royal Military College of Canada,English,3.3,Laura Robinson,3.3,8,N/A,,,,,,,,,,,,,,,,,,,,,58369
+251,1469,Royal Military College of Canada,Physics,3.1,Fernand Ledoyen,2.7,8,N/A,,,,,,,,,,,,,,,,,,,,,128216
+252,1469,Royal Military College of Canada,Engineering,4.3,Marc Arsenault,2.5,8,N/A,,,,,,,,,,,,,,,,,,,,,1560458
+253,1469,Royal Military College of Canada,Mathematics,2.9,Boon Ong,2.6,7,N/A,,,,,,,,,,,,,,,,,,,,,30206
+254,1469,Royal Military College of Canada,Mathematics,3.1,Gordon Simons,4.2,7,N/A,,,,,,,,,,,,,,,,,,,,,53950
+255,1469,Royal Military College of Canada,Engineering,2.4,D R Hamilton,4.0,7,N/A,,,,,,,,,,,,,,,,,,,,,226612
+256,1469,Royal Military College of Canada,Political Science,2.6,Abdul Ousman,2.5,7,N/A,,,,,,,1,1,,,,1,1,,,2,,,,,862074
+257,1469,Royal Military College of Canada,Engineering,4.2,I E Boros,2.5,6,N/A,,,,,,,,,,,,,,,,,,,,,226613
+258,1469,Royal Military College of Canada,Philosophy,1.7,Manon Turgeon,4.8,6,N/A,,,,,,,,,,,,,,,,,,,,,503506
+259,1469,Royal Military College of Canada,Political Science,3.5,Benjamin Zyla,2.4,6,N/A,,,,,,,,,,,,,,,,,,,,,592217
+260,1469,Royal Military College of Canada,Political Science,3.5,David Last,4.3,6,N/A,,,,,,,,,,,,,,,,,,,,,764648
+261,1470,Royal Roads University,Finance,3.0,Edward Goodfellow,3.9,31,N/A,,1,,,,,1,1,,1,,2,,1,,1,,,,,636559
+262,1470,Royal Roads University,Communication,3.4,David Black,4.8,22,N/A,,,,,,,1,1,,,,,,,,1,,,,,476766
+263,1470,Royal Roads University,Communication,3.9,Gilbert Wilkes,3.1,21,N/A,2,,,,1,,,1,,,1,,,,,,1,,,,710562
+264,1470,Royal Roads University,Business,2.9,Brent Mainprize,4.7,20,N/A,,1,,,,,,,,,1,,,,,1,,,,,13363
+265,1470,Royal Roads University,Business,3.0,Terry Power,3.9,18,N/A,,,,2,,,,,,,,2,,,,,,,,,13230
+266,1470,Royal Roads University,Business,2.8,Barbara Vanderlinden,4.5,15,N/A,,,,,,,,1,,1,,,,,1,,,,,,940933
+267,1470,Royal Roads University,Law,3.0,Mark Bridge,3.9,14,N/A,,,,,,,,,,,,,,,,,,,,,692047
+268,1470,Royal Roads University,Management,3.3,Shawn Bonnough,3.7,12,N/A,,,,,,,,,,,,,,,,,,,,,1006760
+269,1470,Royal Roads University,Criminal Justice,3.1,Robert Aucoin,3.5,11,N/A,1,,,2,,,2,1,,,1,1,1,,,,2,1,,5,1797067
+270,1470,Royal Roads University,Communication,3.5,Amy Zidulka,4.6,10,N/A,,,,,,,1,,,,,,,1,,,,,,1,31595
+271,1470,Royal Roads University,Communication,3.0,Tom Workman,3.4,8,N/A,,,,,,,1,2,1,1,1,,1,1,1,,,,,2,802510
+272,1470,Royal Roads University,Science,3.0,Steve Sakiyama,4.9,7,N/A,,1,,,,,,1,,,,,,,,1,,,,,518863
+273,1470,Royal Roads University,Communication,2.9,Phillip Vannini,3.5,7,N/A,,,,1,1,,,1,,,,,,,,,,,,,953179
+274,1470,Royal Roads University,Management,4.8,Stephen Long,2.5,6,N/A,,,,,,,,1,,,,,,,1,,,,,1,1607986
+275,1470,Royal Roads University,Accounting,3.2,Jo Axe,4.9,5,N/A,,,,,,,,,,,,,,,,,,,,,487853
+276,1470,Royal Roads University,Geology,3.4,Audrey Dallimore,2.6,5,N/A,,1,,,,,,,,,,1,,,,1,,,,,1307126
+277,1470,Royal Roads University,Science,4.6,Alison Moran,2.8,5,N/A,,,,1,,,2,2,,,,1,1,,,1,2,,,3,1949732
+278,1470,Royal Roads University,Communication,2.8,Priya Raghavan,3.3,5,N/A,,,,1,1,,1,2,,,,,2,,,1,,,,1,2022513
+279,1470,Royal Roads University,Humanities,2.3,Guy Nasmyth,4.9,4,N/A,,1,,1,,,,,,,,1,,,,,,,,,891566
+280,1470,Royal Roads University,Education,3.0,Richard Kool,3.0,4,N/A,,,,,,,,1,,,1,1,,,,,,,,,955832
+281,1471,Ryerson University,Electrical Engineering,2.2,Kaamran Raahemifar,4.9,745,100%,7,72,1,64,8,6,2,29,,3,12,73,1,11,19,75,27,2,,15,42913
+282,1471,Ryerson University,Economics,3.1,Eric Kam,4.6,636,98%,21,131,,44,5,2,1,8,10,1,98,41,45,1,,83,25,,2,35,27758
+283,1471,Ryerson University,Accounting,3.2,Else Grech,4.5,356,87%,15,37,23,46,19,,23,44,,,2,22,7,21,27,46,69,,2,31,660815
+284,1471,Ryerson University,Finance,3.2,Edward Blinder,2.8,293,23%,2,2,,2,2,,14,,3,1,16,1,9,2,1,6,5,,5,9,32795
+285,1471,Ryerson University,Statistics,2.6,Clare Chua,3.5,265,78%,2,13,,10,13,1,9,7,2,7,5,4,20,9,1,27,38,4,4,3,258168
+286,1471,Ryerson University,Finance,3.0,Scott Anderson,3.8,260,85%,7,5,,10,8,,10,3,3,2,15,2,15,4,,13,37,1,,4,26587
+287,1471,Ryerson University,Psychology,2.8,Oren A Amitay,4.5,252,86%,2,21,,9,2,,2,,2,,11,8,4,,2,5,24,,2,1,128194
+288,1471,Ryerson University,Accounting,1.2,Esther Deustch,1.3,245,N/A,,,,,,,,,,,,,,,,,,,,,10313
+289,1471,Ryerson University,Statistics,3.8,Darryl Smith,2.4,232,N/A,,,,,,,,,,,,,,,,,,,,,15241
+290,1471,Ryerson University,Interdisciplinary Studies,2.0,Pascal Murphy,4.9,226,98%,8,122,,68,10,,2,42,3,,35,128,2,,52,65,20,,,1,1393141
+291,1471,Ryerson University,Ethnic Studies,3.2,Terry Roswell,3.2,224,61%,,5,,4,1,2,5,6,,9,3,6,3,,21,7,19,2,,8,239813
+292,1471,Ryerson University,Accounting,3.4,George Gekas,2.8,223,14%,,,5,2,,1,13,4,1,,,4,4,3,2,2,4,1,6,25,25963
+293,1471,Ryerson University,Management,3.8,Michael Manjuris,2.8,223,50%,,6,,,7,,4,6,,15,,6,5,1,7,5,19,,1,22,24118
+294,1471,Ryerson University,History,3.6,Arne Kislenko,4.7,214,72%,,11,,3,,,5,4,,,1,7,5,1,3,7,10,,,14,33198
+295,1471,Ryerson University,Accounting,3.1,Donna Zathy,2.8,212,42%,1,2,3,4,5,,19,11,1,,,4,17,4,6,6,9,,5,11,434673
+296,1471,Ryerson University,Sociology,2.5,Kelly Train,4.2,204,97%,2,33,,4,24,1,5,20,3,,26,16,14,,17,13,49,,1,6,243727
+297,1471,Ryerson University,Information Technology,3.1,Raymond Moss,3.0,202,40%,1,3,,2,7,1,8,5,3,10,7,2,9,10,5,10,16,2,7,47,26097
+298,1471,Ryerson University,Business Management,2.7,Jason (Chin-Tiong) Chan,4.3,199,95%,3,35,,33,8,,2,7,,,55,20,6,24,5,34,46,3,2,11,1335126
+299,1471,Ryerson University,Accounting,3.8,Walter Krystia,2.7,198,N/A,,,,,,,,1,,,,,,,1,,1,,,,26565
+300,1471,Ryerson University,Mathematics,1.8,Majed Alqasas,5.0,197,100%,13,115,,71,9,4,1,41,,,43,73,2,1,7,105,14,,1,,1971515
+301,1472,Universite de Saint-Boniface,Sociology,2.5,Paul Brochu,4.2,16,80%,1,,,1,,,2,2,,,,1,1,,3,5,1,,,,1395994
+302,1472,Universite de Saint-Boniface,Languages,4.1,Emile Hacault,2.9,15,N/A,,,,,,,,,,,,,,,,,,,,,164502
+303,1472,Universite de Saint-Boniface,Mathematics,3.7,Rolland Gaudet,3.3,15,N/A,,,,,,,,,,,,,,,,,,,,,216242
+304,1472,Universite de Saint-Boniface,Languages,2.3,Sylvie Dilk,4.8,15,N/A,1,,,2,,,,2,,1,1,,,2,1,2,,1,,1,236260
+305,1472,Universite de Saint-Boniface,Psychology,3.5,Geneviève Roy-Wsiaki,4.1,14,100%,,2,1,4,3,,3,4,,,,4,,,5,6,2,,,2,2096452
+306,1472,Universite de Saint-Boniface,Science,4.2,Sylvie Rondeau,4.4,13,N/A,1,,1,,,,,1,,,,,,,,,2,,,3,216231
+307,1472,Universite de Saint-Boniface,Languages,2.4,Pothier Jade,2.5,10,N/A,,,,,,,,,,1,,,,,,1,2,,1,2,236263
+308,1472,Universite de Saint-Boniface,Mathematics,3.5,Nicolas Bouffard,3.5,10,80%,,4,,,,,1,2,,,1,1,1,3,,3,1,,1,1,1833170
+309,1472,Universite de Saint-Boniface,Psychology,3.0,Andre Samson,4.7,9,N/A,,,,,,,,,,,,,,,,,,,,,155686
+310,1472,Universite de Saint-Boniface,Science,4.5,Michael Dickman,4.1,8,N/A,,,1,,,,,,,,,,,,,,,,,1,87188
+311,1472,Universite de Saint-Boniface,English,2.4,Bryan Rivers,4.9,8,N/A,,,,,,,,,,,,,,,,,,,,,236261
+312,1472,Universite de Saint-Boniface,History,3.6,Patrick-Michel Noël,4.6,8,88%,2,,,1,,,1,5,,,1,,1,,1,2,2,,,4,2188802
+313,1472,Universite de Saint-Boniface,Anthropology,2.5,Denis Gagnon,2.5,8,N/A,,,,,1,,1,1,2,,,1,1,,1,,1,,,,695466
+314,1472,Universite de Saint-Boniface,Psychology,2.3,Annabel Levesque,5.0,7,N/A,,,,1,,,,1,,,1,2,,,,2,,,,1,1291011
+315,1472,Universite de Saint-Boniface,History,2.5,Michel Verrette,4.1,6,N/A,,,,,,,,1,,,,,,,1,1,,,,,352060
+316,1472,Universite de Saint-Boniface,Languages,3.0,Betina Sevi,5.0,6,100%,2,,,3,,,,3,,,3,1,,,5,1,,,,,2404301
+317,1472,Universite de Saint-Boniface,Science,2.2,Fernand Saurette,3.1,5,N/A,,,,,1,,,,,,,,,,,,,,,,87189
+318,1472,Universite de Saint-Boniface,Languages,1.6,John Bluethner,4.8,5,N/A,,,,,,,,,,,1,1,,,,1,,,,,236262
+319,1472,Universite de Saint-Boniface,Languages,4.0,Christian Violy,2.0,5,N/A,1,,1,1,2,,,1,,,,,,,1,,2,1,,2,2204374
+320,1472,Universite de Saint-Boniface,Political Science,3.5,Mamadou Ka,2.8,4,N/A,,,,,,,,,,,,1,,1,1,,,,,,351762
+321,1473,St. Francis Xavier University,Business,3.2,Neil Maltby,4.5,99,N/A,3,,,4,2,,,,,2,3,,,1,2,6,2,,,5,14712
+322,1473,St. Francis Xavier University,Political Science,4.0,Shiraz Dossa,3.0,92,N/A,,,,,,,1,,,,,,,,4,,3,,,3,25965
+323,1473,St. Francis Xavier University,Psychology,4.1,John McKenna,2.7,81,50%,,1,7,,1,,9,,1,,2,1,3,,1,,2,,,6,34863
+324,1473,St. Francis Xavier University,Psychology,3.2,Peter Henke,3.6,80,N/A,,,,,,,2,,,,,,2,,,,,,,2,9874
+325,1473,St. Francis Xavier University,Human Kinetics,2.9,Roy Rasmussen,3.6,77,100%,6,1,,7,3,1,,2,,,1,5,1,,,13,2,,,2,94229
+326,1473,St. Francis Xavier University,English,3.8,Earla Wilputte,3.3,73,13%,,,1,,,,6,,,,,,1,1,3,1,1,4,,7,16619
+327,1473,St. Francis Xavier University,Computer Science,3.2,Ping Wang,3.4,73,54%,2,,,1,,,,2,3,,8,,2,2,2,2,9,,2,2,30215
+328,1473,St. Francis Xavier University,Political Science,2.5,James Bickerton,3.9,70,50%,1,1,,,,,,1,3,,1,,2,,1,1,1,,,2,17494
+329,1473,St. Francis Xavier University,Sociology,3.4,Rod Bantjes,2.7,70,55%,,2,1,1,,,9,1,,,,,5,1,4,1,2,,,7,24698
+330,1473,St. Francis Xavier University,Chemistry,3.1,James Cormier,4.0,69,N/A,1,,1,,,1,,,,,2,,,1,,2,,,,2,30397
+331,1473,St. Francis Xavier University,History,3.5,Guy Lalande,3.3,67,80%,,,,2,,,1,1,,,,,4,1,,3,4,,,4,30220
+332,1473,St. Francis Xavier University,Psychology,2.8,Ted Wright,3.5,66,N/A,1,1,,,,,,1,1,1,2,,,,1,1,2,,,,14713
+333,1473,St. Francis Xavier University,Philosophy,2.9,Steve Baldner,4.8,65,N/A,,1,,1,,,2,1,,,3,,1,,,5,1,,,,26108
+334,1473,St. Francis Xavier University,Science,2.8,Tony Miller,3.3,64,N/A,,,,,,,,,,,,,,,,,,,,,30853
+335,1473,St. Francis Xavier University,History,2.7,Robert Zecker,3.5,64,67%,,1,,1,,,2,1,,,4,,4,,1,,2,,,2,77297
+336,1473,St. Francis Xavier University,Psychology,3.4,Tara Callaghan,2.7,62,63%,1,1,,1,1,1,2,1,1,,,,2,1,,1,,1,2,1,34868
+337,1473,St. Francis Xavier University,History,2.8,Pat Hogan,4.8,61,N/A,,,,,,,,,,,,,,,,,,,,,13706
+338,1473,St. Francis Xavier University,Social Science,3.2,David Lynes,3.0,61,50%,2,2,,1,,,1,2,1,1,,2,2,1,1,3,1,,,3,27032
+339,1473,St. Francis Xavier University,Political Science,3.4,Lars Hallstrom,3.2,60,N/A,,,,,,,,,,,,,,,,,,,,,19453
+340,1473,St. Francis Xavier University,Science,4.2,David Garbary,2.7,59,20%,,,,1,,,5,,,,,,1,,,,3,,,4,16620
+341,1475,Saint Mary's University,Business,4.2,Milica Saagh,1.9,212,19%,1,,3,1,1,,4,3,6,1,1,1,6,6,1,,20,,1,24,234035
+342,1475,Saint Mary's University,Psychology,2.0,David Bourgeois,4.5,141,95%,2,19,2,,4,5,1,2,1,,26,2,,,4,11,4,,,,526344
+343,1475,Saint Mary's University,Social Science,2.2,Gene Barrett,4.3,139,N/A,,,,,,,,1,,,,,,,1,1,,,,,34859
+344,1475,Saint Mary's University,Philosophy,3.1,Peter March,3.7,115,N/A,,,,,,,,,,,,,,,,,,,,,25406
+345,1475,Saint Mary's University,Business,3.7,Bill Fletcher,3.5,109,85%,1,1,4,,,,1,4,,,1,,8,3,2,6,15,,,4,34095
+346,1475,Saint Mary's University,Science,2.4,Douglas Pitcairn,4.2,108,81%,,17,,1,4,,1,1,6,,25,8,6,,,9,3,,4,5,320421
+347,1475,Saint Mary's University,Management,2.6,Muhong Wang,3.9,106,78%,4,2,,7,8,,,4,,,2,,3,2,1,1,15,,1,2,75021
+348,1475,Saint Mary's University,Computer Science,3.7,Paul Sherwood,2.8,106,56%,2,3,3,3,1,,,5,,,10,1,1,1,3,3,8,,1,5,478369
+349,1475,Saint Mary's University,Economics,2.9,Pyare Arya,2.8,100,46%,3,2,,4,5,,7,1,6,,13,1,15,,6,3,6,,,2,27513
+350,1475,Saint Mary's University,Management,2.4,Paul Dixon,4.7,100,100%,19,12,,28,6,,1,21,,,1,7,,2,1,24,6,,,,318412
+351,1475,Saint Mary's University,Psychology,2.6,Kimberly Robinson,2.3,97,17%,,1,1,10,,,23,3,7,,2,1,11,13,,,,,5,7,899526
+352,1475,Saint Mary's University,Engineering,3.5,Samuel Veres,4.7,94,100%,7,26,1,17,7,,1,34,,1,13,6,,5,6,55,24,,2,33,1991578
+353,1475,Saint Mary's University,Finance,2.7,Vinita Mishra,4.5,94,95%,8,4,1,16,7,1,1,5,,,,1,3,3,8,9,8,,1,1,478451
+354,1475,Saint Mary's University,Psychology,3.8,Faizal Junus,3.8,88,N/A,,,,,,,,,,,,,,,,,,,,,120867
+355,1475,Saint Mary's University,Philosophy,3.8,Robert Ansell,2.5,87,N/A,1,3,,2,,,3,4,,,1,2,1,,,,,,,1,81849
+356,1475,Saint Mary's University,Psychology,2.8,Greg Cole,3.3,86,N/A,,,,2,1,,,,,,,,,,,,,,,1,27791
+357,1475,Saint Mary's University,Psychology,3.3,Marcia Ozier,2.8,85,25%,1,2,,3,3,,16,1,2,,2,,6,2,1,,7,,9,12,252955
+358,1475,Saint Mary's University,Psychology,3.6,Veronica Stinson,3.4,83,70%,2,6,1,8,1,8,18,8,2,,,2,7,,4,5,10,1,5,13,89366
+359,1475,Saint Mary's University,Geography,3.9,Philip Giles,3.0,78,36%,3,,,,5,,,2,,,,1,2,2,1,3,3,1,5,11,76289
+360,1475,Saint Mary's University,Social Science,3.6,Audrey MacNevin,3.5,78,60%,1,2,,3,1,1,10,1,4,,2,4,,,,1,2,,5,10,94888
+361,1478,St. Thomas University,Psychology,3.6,Del Brodie,2.2,107,N/A,,,1,,,,3,,,,,,,2,1,,5,,,3,47052
+362,1478,St. Thomas University,Social Science,3.2,Dawne Clarke,4.2,98,50%,,1,1,1,1,,4,2,,,6,1,1,3,1,2,6,3,,7,29194
+363,1478,St. Thomas University,Criminal Justice,3.1,Karla O'Regan,4.2,93,100%,1,7,,1,2,,4,6,,1,10,4,,,7,2,4,,,9,247516
+364,1478,St. Thomas University,Psychology,2.4,Ian Fraser,4.7,81,100%,2,7,,2,3,2,1,,1,,3,4,2,,,8,6,,,,33683
+365,1478,St. Thomas University,Criminal Justice,2.9,Chris McCormick,3.5,79,50%,,,,1,,,2,2,1,1,1,1,3,,1,,4,,,7,39725
+366,1478,St. Thomas University,Psychology,3.0,Wendy Bourque,3.3,78,55%,1,,,1,,,4,1,6,6,1,,5,,2,,3,,1,6,50477
+367,1478,St. Thomas University,Anthropology,3.2,Moira McLaughlin,4.2,75,90%,2,5,,,3,,2,,,,1,,,2,2,2,10,,,5,10725
+368,1478,St. Thomas University,Theology,3.5,Alexandra Bain,3.0,75,N/A,,,,1,,,2,,,1,,,,,,,1,1,,2,39731
+369,1478,St. Thomas University,History,3.8,Rusty Bittermann,3.7,72,N/A,,2,3,1,,,,1,,,,1,1,,,,1,,,2,33604
+370,1478,St. Thomas University,English,2.8,David Ingham,3.9,69,N/A,,,,,,,,,,,,,,,,,,,,,40944
+371,1478,St. Thomas University,Criminal Justice,2.0,Stephen Pidwysocky,4.4,68,100%,,5,,11,4,,1,3,5,,9,2,1,,,8,1,2,,,109954
+372,1478,St. Thomas University,Political Science,3.3,Heather Lunergan,2.7,67,N/A,,,,,,,,,,,,,,,,,,,,,41918
+373,1478,St. Thomas University,Sociology,2.6,Adele Mueller,2.6,67,N/A,,,,,,,,,,,,,,,,,,,,,251082
+374,1478,St. Thomas University,Psychology,2.4,Carla Gunn,4.2,66,73%,1,1,,2,7,5,6,1,,,2,,1,8,4,2,2,,1,2,48529
+375,1478,St. Thomas University,History,3.6,Carey Watt,2.6,66,N/A,1,,,,,,1,2,,,,1,1,1,,,,1,,3,127783
+376,1478,St. Thomas University,History,3.7,Fikru Gebrekidan,2.5,66,N/A,2,1,,1,,,10,1,,4,,2,,,4,,1,5,,8,321285
+377,1478,St. Thomas University,Psychology,3.6,Nancy Higgins,3.2,65,13%,1,,1,,2,,10,2,6,,,1,7,1,1,2,3,,5,8,41924
+378,1478,St. Thomas University,Languages,2.3,Omar Basabe,4.3,65,100%,1,2,,2,,,,1,,,6,3,,,3,6,1,,,,42758
+379,1478,St. Thomas University,Criminal Justice,3.6,Susan Reid-Macnevin,3.0,64,100%,1,,,3,1,1,,,,1,,3,,,3,1,1,,,1,43174
+380,1478,St. Thomas University,Political Science,3.5,Thomas Bateman,3.9,63,N/A,,1,,,1,,2,1,,,1,,,,2,3,,,,,296218
+381,1479,St. Thomas More College,Religious Studies,2.7,Mary Anne Beavis,3.5,25,N/A,,,,,,,,,,,,,,,,,,,,1,42497
+382,1479,St. Thomas More College,English,4.0,Michael Cichon,3.7,21,60%,2,2,,,,,8,,,,1,,2,1,1,1,3,,,7,38906
+383,1479,St. Thomas More College,English,3.8,Dawn Friel-Hipperson,4.1,20,N/A,1,,,,,,,1,,,,,,,,,,,,1,26092
+384,1479,St. Thomas More College,Philosophy,4.0,Michael Poellet,3.3,13,N/A,,,,,,,,,,,,,1,,,,,1,,1,29290
+385,1479,St. Thomas More College,Social Science,2.5,Bryan Puk,4.7,12,N/A,,,,,,,,,,,,,,,,,,,,,35679
+386,1479,St. Thomas More College,Social Science,3.2,Phillip Lee,3.3,11,100%,2,,,2,1,,4,4,1,1,,,2,,2,1,,,,,43181
+387,1479,St. Thomas More College,English,2.6,Michelle Thurlow,3.5,10,N/A,1,1,,,,,1,1,1,,1,,3,,,,1,,,,48640
+388,1479,St. Thomas More College,English,4.0,Edna Froese,3.7,9,N/A,,,,,,,,,,,,,,,,,,,,,36541
+389,1479,St. Thomas More College,Economics,3.2,Shelley Coggins,3.4,6,N/A,,,,,,,,1,,,,,1,,,,1,,,,36674
+390,1479,St. Thomas More College,English,1.6,Eddy Heidt,4.2,5,N/A,,,,,,,,,,,,,,,,,,,,,43385
+391,1479,St. Thomas More College,Languages,4.0,Nelly Plantiveau,3.5,5,N/A,,,,,,,,,,,,,,,,,,,,,109155
+392,1479,St. Thomas More College,Psychology,3.0,Paulette Hunter,2.4,5,N/A,,,,,,2,2,,,,,,,,,,,,1,,1619994
+393,1479,St. Thomas More College,English,2.8,Darlene Kelly,4.8,5,N/A,,2,,,,,,3,,,,1,,,,1,1,,,1,1700155
+394,1479,St. Thomas More College,Philosophy,3.3,Michael Pomedli,3.3,4,N/A,,,,,,,,,,,,,,,,,,,,,57034
+395,1479,St. Thomas More College,History,3.3,Sharon Wright,4.8,3,N/A,1,1,,,,,,,,,,,,,,,1,,,,38053
+396,1479,St. Thomas More College,Political Science,4.3,David York,2.3,3,N/A,,,,,,,,,,,,,,,,,,,,,367604
+397,1479,St. Thomas More College,History,4.0,Alan Reese,4.3,3,N/A,,,,,,,,,,,,,,,,,,,,,392891
+398,1479,St. Thomas More College,Anthropology,1.3,Elaine Hulse,4.7,3,N/A,,,,,,,,,,,,,,,,,,,,,465817
+399,1479,St. Thomas More College,Economics,3.0,Saeed Moshiri,4.3,2,N/A,,,,,,,,,,,,,,,,,,,,,1294528
+400,1479,St. Thomas More College,English,2.0,Kevin Ziegler,5.0,2,N/A,,,,,,,,1,,,,,,,,,,,,,1888603
+401,1480,University of Saskatchewan,Social Science,1.7,Bryan Puk,4.2,218,58%,,6,,6,3,1,,1,4,,21,11,9,,9,8,4,,,4,29512
+402,1480,University of Saskatchewan,Economics,2.5,Harry Hillman Chartrand,2.8,173,63%,1,3,,2,18,,20,2,5,,9,1,11,1,,6,2,,14,4,68059
+403,1480,University of Saskatchewan,Psychology,2.8,Martin Rempel,3.4,169,50%,6,7,,2,10,13,44,4,12,1,20,1,12,,,4,2,2,7,17,265335
+404,1480,University of Saskatchewan,Nutrition,3.1,Melanie Rozwadowski,3.9,167,80%,5,23,1,4,8,3,31,4,2,,2,7,9,4,1,10,12,,6,18,1025036
+405,1480,University of Saskatchewan,Biochemistry,3.0,Scott Napper,4.8,160,98%,9,42,1,10,4,,1,8,9,,28,35,2,1,,35,3,,4,3,1086607
+406,1480,University of Saskatchewan,Psychology,2.9,Michael MacGregor,3.9,157,72%,1,8,,6,5,7,22,2,,2,3,1,3,14,3,11,2,1,9,15,146702
+407,1480,University of Saskatchewan,Social Science,3.3,Susan Robertson,2.3,153,31%,2,1,,7,2,,20,4,8,,1,,15,5,1,4,15,1,6,17,29522
+408,1480,University of Saskatchewan,Economics,2.7,Wendy Doell,3.0,143,61%,4,,,9,12,,19,6,1,,1,,20,4,1,3,4,,4,9,44487
+409,1480,University of Saskatchewan,Political Science,3.2,David York,3.9,130,82%,4,6,,9,3,,4,18,5,,7,5,3,1,8,11,20,,1,7,64784
+410,1480,University of Saskatchewan,Science,4.5,Susan Kaminskyj,1.6,129,N/A,,,,,,,2,,,,,,8,,,,,,,4,35837
+411,1480,University of Saskatchewan,Biology,3.3,Jorge Pedro Chedrese,2.3,127,44%,1,,,13,3,,27,3,1,,12,2,43,2,2,5,24,,2,15,1550159
+412,1480,University of Saskatchewan,Physics,2.4,Brian Zulkoskey,4.7,122,100%,3,6,,10,7,,2,4,,,,2,,8,3,20,2,,,2,36483
+413,1480,University of Saskatchewan,Mathematics & Statistics,3.3,Qingde Yang,2.6,122,68%,4,,,3,6,,1,2,5,,,1,7,7,1,2,8,,,4,230445
+414,1480,University of Saskatchewan,Political Science,2.3,Jason Zorbas,4.5,114,94%,3,14,,5,5,,4,4,3,,8,1,1,2,4,10,3,1,,1,340746
+415,1480,University of Saskatchewan,Sociology,2.9,Lisa Broda,3.8,110,64%,3,20,7,4,4,,17,2,16,2,,,4,,28,12,17,,10,5,750067
+416,1480,University of Saskatchewan,Biology,2.5,Ken Wilson,4.6,109,100%,3,20,,13,4,,3,10,,,23,5,7,,3,26,4,,1,3,365953
+417,1480,University of Saskatchewan,Chemistry,2.9,Pearson Ahiahonu,3.7,101,62%,3,13,6,5,1,1,7,10,,,3,8,10,12,2,5,14,,5,5,461661
+418,1480,University of Saskatchewan,Biology,2.8,Doug Smith,3.6,99,44%,2,,,1,6,,12,1,1,,4,,21,2,,3,21,,,1,38798
+419,1480,University of Saskatchewan,Kinesiology,2.7,Keith Russell,4.4,97,N/A,,2,,1,,,,1,,,4,1,,,,4,,,,,32714
+420,1480,University of Saskatchewan,English,2.9,Richard Harris,4.1,97,89%,1,5,3,,1,,12,5,,,9,5,,4,,7,6,2,1,2,35734
+421,1481,Universite de Sherbrooke,Business,2.3,Rock Berard,4.2,50,50%,1,,2,,,,,1,1,,2,4,,,1,2,,,,,29204
+422,1481,Universite de Sherbrooke,Mathematics,3.3,Abdelilah Hamdache,3.2,42,N/A,1,,,,,,,,,1,1,,,1,,1,1,,1,1,28103
+423,1481,Universite de Sherbrooke,Computer Science,2.2,Jean Goulet,4.7,37,N/A,,,,,,,,1,,,,,,,,1,,,,,28478
+424,1481,Universite de Sherbrooke,Marketing,3.4,Patrick Rainville,3.9,32,N/A,,,,,,,,3,,1,,3,,,,3,,,,,233889
+425,1481,Universite de Sherbrooke,Engineering,2.9,Jean-Marc Nkoghe,2.6,26,N/A,,,,,,,,,,,,,,,,,,,,,28064
+426,1481,Universite de Sherbrooke,Computer Science,3.6,Andre Mayers,1.9,26,N/A,,,,,,,,,,,,,1,,,,,,,,29392
+427,1481,Universite de Sherbrooke,Computer Science,3.8,Gérard Houdeville,2.9,25,N/A,,,,,,,,,,,,,,,,,,,,,69329
+428,1481,Universite de Sherbrooke,Engineering,3.8,Ruben Gonzalez-Rubio,1.8,24,N/A,,,,1,,,,1,1,,1,3,,2,1,,,,,1,28008
+429,1481,Universite de Sherbrooke,Computer Science,4.3,Martin Beaudry,1.9,23,N/A,,,1,,,,,,,,,,1,3,,,2,,,1,28431
+430,1481,Universite de Sherbrooke,Mathematics,2.7,Jean-Marc Belley,3.1,23,N/A,,1,,,,,,,,,1,2,,,1,,,,,,29193
+431,1481,Universite de Sherbrooke,Engineering,3.1,Daniel Dalle,3.4,22,N/A,,,,,,,,,,,,,,,,1,,,,,28006
+432,1481,Universite de Sherbrooke,Engineering,2.7,Jean Lapointe,3.0,22,N/A,,,,,,,,,,,,,,,,,,,,,28049
+433,1481,Universite de Sherbrooke,Computer Science,3.0,Mehdi Haitami,2.3,22,N/A,,,,,,,,,,,,,,,,,,,,,61473
+434,1481,Universite de Sherbrooke,Engineering,3.6,Martin Brouillette,3.8,22,N/A,,,,,,,,,,,,1,,2,,1,,,,,116022
+435,1481,Universite de Sherbrooke,Engineering,1.8,Roch Lefebvre,4.9,21,N/A,,1,,1,,,,1,,,2,3,,,,,,,,,28057
+436,1481,Universite de Sherbrooke,Business,4.3,Leo Marcotte,1.7,21,N/A,,,,,,,,,,,,,,,,,1,,,1,35414
+437,1481,Universite de Sherbrooke,Communication,3.2,Jean Forest,3.3,21,N/A,,,,,,,,,,,,,,,,,,,,,52416
+438,1481,Universite de Sherbrooke,Engineering,2.8,Serge Hamel,3.1,20,N/A,,,,,,,,,,,,,,,,,,,,,28080
+439,1481,Universite de Sherbrooke,Communication,3.3,Francois Yelle,4.5,20,N/A,,,,,,,,,,,,,,,,,,,,,28923
+440,1481,Universite de Sherbrooke,Engineering,3.2,Pierre Proulx,3.2,20,N/A,,,,,,,,,,,,,,,,,,,,,29853
+441,1482,Simon Fraser University,Economics,4.0,Douglas Allen,3.5,340,76%,,27,,1,2,,14,4,1,2,8,10,2,8,1,14,30,,3,32,202057
+442,1482,Simon Fraser University,Philosophy,3.6,Peter Horban,3.6,297,N/A,,,,,,1,,,,,1,,,,1,,,,,,14453
+443,1482,Simon Fraser University,Computer Science,4.0,Brad Bart,3.1,294,47%,4,13,,3,2,,4,4,1,,6,4,15,42,7,10,44,2,15,44,20266
+444,1482,Simon Fraser University,Psychology,3.2,Russell Day,3.5,288,44%,3,3,3,,12,1,60,3,1,,5,2,4,3,1,8,1,,21,31,11104
+445,1482,Simon Fraser University,Psychology,2.8,A. George Alder,3.7,274,82%,3,2,3,5,20,2,51,4,3,,22,2,7,9,2,14,2,1,7,14,37495
+446,1482,Simon Fraser University,Computer Science,3.1,Greg Baker,3.2,251,30%,2,1,,,1,,,3,,3,3,2,2,6,,3,1,,,8,31619
+447,1482,Simon Fraser University,Philosophy,3.8,Jill McIntosh,2.8,243,19%,,3,,,1,,11,1,2,,,1,4,6,15,2,25,2,4,39,20132
+448,1482,Simon Fraser University,Business Administration,3.5,Allan Matadeen,3.5,242,43%,2,3,,1,1,,,,1,,4,1,6,8,4,4,16,,5,5,58659
+449,1482,Simon Fraser University,Business Administration,3.0,Shafik Bhalloo,4.5,235,95%,13,75,,10,12,,2,19,3,1,26,27,2,,8,54,6,,2,3,583783
+450,1482,Simon Fraser University,Economics,2.9,David Cox,3.6,226,45%,2,1,,3,10,,26,2,6,,,,10,3,1,4,1,,5,7,21543
+451,1482,Simon Fraser University,Criminal Justice,2.1,Barry Cartwright,4.2,223,73%,5,7,,1,9,1,11,1,3,,29,,22,2,17,16,22,2,,15,435118
+452,1482,Simon Fraser University,Mathematics,3.6,Petra Menz,3.2,219,16%,1,1,,3,,,3,4,,5,3,1,8,17,5,1,22,,3,35,457608
+453,1482,Simon Fraser University,Computer Science,3.5,Steven Pearce,2.4,212,62%,2,5,,3,2,,10,1,2,1,21,4,2,,2,4,12,,,5,59794
+454,1482,Simon Fraser University,Business Administration,3.2,Anne MacDonald,4.3,205,53%,1,3,3,5,2,,9,5,1,4,,3,2,9,,8,1,,3,8,37863
+455,1482,Simon Fraser University,Health Science,3.3,Rochelle Tucker,3.0,203,81%,3,5,,11,5,,38,13,1,11,3,3,8,6,11,3,19,3,2,13,912283
+456,1482,Simon Fraser University,Communication,2.7,Gary McCarron,4.3,201,N/A,,10,,,,,12,3,,,8,4,5,1,1,6,1,3,,2,12027
+457,1482,Simon Fraser University,Geography,4.1,Ivor Winton,3.4,194,N/A,,3,,,,,1,1,,,,,,,,1,3,,,3,21561
+458,1482,Simon Fraser University,Languages,2.4,Yourie Pankratz,3.2,176,38%,2,2,,2,1,,3,3,3,,2,1,7,1,,1,2,1,3,1,12023
+459,1482,Simon Fraser University,Business Economics,3.1,M. Emrul Hasan,4.4,175,93%,14,34,8,20,19,5,12,26,5,1,36,27,3,6,18,42,40,1,4,8,1736805
+460,1482,Simon Fraser University,Mathematics,2.9,Veselin Jungic,4.3,175,96%,10,4,,18,1,,1,7,,,2,10,,5,5,12,1,,1,1,34486
+461,1484,University of Toronto - St. George Campus,Sociology,3.1,Robert Brym,3.4,262,N/A,,3,,,,1,4,,,,2,1,2,,,,1,,,3,10062
+462,1484,University of Toronto - St. George Campus,Chemistry,3.2,Scott Browning,4.1,250,53%,4,20,1,5,4,,,4,1,,12,12,,5,,9,17,,7,27,16835
+463,1484,University of Toronto - St. George Campus,Psychology,3.9,Martin Wall,3.7,208,N/A,,1,,,,,,1,,,,,,,,,,,,,11093
+464,1484,University of Toronto - St. George Campus,Psychology,3.1,Dan Dolderman,4.3,208,80%,,49,1,9,1,1,36,1,2,,29,39,6,1,,12,21,,,11,565657
+465,1484,University of Toronto - St. George Campus,Mathematics,3.3,Sean Uppal,3.9,187,53%,,4,,1,1,,3,3,1,,,2,4,1,,2,6,,1,15,10976
+466,1484,University of Toronto - St. George Campus,Biology,3.1,Spencer Barrett,3.6,186,67%,,14,,2,2,,6,,,,2,10,8,,2,7,10,1,5,2,10883
+467,1484,University of Toronto - St. George Campus,Anthropology,1.7,Marcel Danesi,4.0,178,70%,2,8,,6,1,1,3,4,3,,13,7,,,,4,,,1,2,17572
+468,1484,University of Toronto - St. George Campus,Chemistry,3.2,Andrew (Andy) Dicks,4.3,170,100%,1,19,,8,6,,1,6,,,15,8,,1,,16,5,,1,7,11271
+469,1484,University of Toronto - St. George Campus,Mathematics,2.7,Anthony Lam,4.6,163,92%,,10,,1,7,,,2,,,11,3,,2,,10,1,,2,5,17798
+470,1484,University of Toronto - St. George Campus,Psychology,3.4,Jordan Peterson,4.3,162,94%,5,43,,16,,1,25,10,,,10,70,2,2,2,65,4,,,6,32245
+471,1484,University of Toronto - St. George Campus,Economics,3.1,James Pesando,4.4,161,88%,1,15,,1,2,1,1,2,4,,3,9,,,1,18,9,,2,14,29948
+472,1484,University of Toronto - St. George Campus,Philosophy,3.6,John Vervaeke,3.5,155,71%,1,19,,5,,,3,4,1,,4,8,17,1,,10,24,3,1,4,15656
+473,1484,University of Toronto - St. George Campus,Philosophy,3.1,Mark Kingwell,3.4,152,63%,1,6,,,,,10,1,,,2,5,,,1,1,1,,,2,15608
+474,1484,University of Toronto - St. George Campus,Economics,2.9,Michael Hare,2.7,150,N/A,,,,,,,,,,,,,,,,,,,,,17366
+475,1484,University of Toronto - St. George Campus,History,2.9,Kenneth Bartlett,4.1,150,82%,1,13,,4,,,15,2,,,12,9,2,1,,7,2,2,,3,16751
+476,1484,University of Toronto - St. George Campus,English,2.8,Nick Mount,4.6,145,83%,,19,,4,,,11,7,,,3,18,1,,,16,,,,,43466
+477,1484,University of Toronto - St. George Campus,Economics,4.2,Robert Gazzale,3.5,144,77%,10,23,,7,2,,10,8,,,18,6,6,12,3,18,22,,12,49,1737717
+478,1484,University of Toronto - St. George Campus,Mathematics,4.6,Sarah Mayes-Tang,1.5,139,9%,3,2,2,8,,,16,6,10,6,4,5,7,44,18,2,19,6,46,89,2312138
+479,1484,University of Toronto - St. George Campus,Economics,3.1,Kieran Furlong,3.5,136,61%,,15,,5,6,2,13,2,2,,19,15,7,,8,14,17,,1,14,10080
+480,1484,University of Toronto - St. George Campus,Sociology,3.5,Lorne Tepperman,3.0,134,46%,,5,,1,7,,44,1,6,,9,7,16,3,3,5,22,,8,12,10818
+481,1485,Trent University,History,2.7,Kevin Siena,3.4,104,100%,1,6,,1,1,,1,4,,,5,2,,,1,4,1,,,3,31967
+482,1485,Trent University,English,3.4,Mac Fenwick,4.2,102,67%,,4,1,2,,,9,1,,1,6,2,3,4,4,1,,,,2,18515
+483,1485,Trent University,Psychology,2.6,James Parker,3.8,94,100%,,2,,2,3,,2,2,2,,,,2,,,1,2,,,1,20813
+484,1485,Trent University,History,3.6,David Sheinin,3.8,84,N/A,,1,,,1,,,1,,,,2,,,,2,,,,3,32460
+485,1485,Trent University,Economics,3.7,Mak Arvin,2.6,81,62%,1,,,,2,,2,1,,,,2,7,3,,3,10,,1,4,33043
+486,1485,Trent University,Political Science,2.7,Mark Neufeld,3.5,68,80%,,2,,1,,,2,,,,3,,,,2,1,1,,,,36032
+487,1485,Trent University,History,2.9,Fiona Harris Stoertz,2.8,63,N/A,1,1,,2,,,3,2,,,,,1,1,2,,,,,2,15372
+488,1485,Trent University,History,2.5,Carolyn Kay,4.2,60,N/A,,1,,2,,,1,3,,,3,1,,,1,3,,,,,35704
+489,1485,Trent University,English,3.1,Zailig Pollock,3.0,57,N/A,,,,,,,,,,,,,,1,,,,,,1,36537
+490,1485,Trent University,English,2.1,Stephen Brown,4.6,56,100%,2,4,,5,,,,5,,,12,9,,,3,12,,,,1,31213
+491,1485,Trent University,International Studies,3.9,Haroon Akram-Lodhi,3.8,54,65%,2,6,,1,,,11,3,,1,1,6,11,2,1,8,7,,,9,923604
+492,1485,Trent University,Psychology,2.8,Rory Coughlan,3.8,51,80%,,4,,1,,,2,,,,,1,3,,1,3,4,,,1,395157
+493,1485,Trent University,Computer Science,2.8,Stephen Regoczei,2.9,50,N/A,,1,,1,,,,,,,,1,,,1,,1,,,,34103
+494,1485,Trent University,Computer Science,2.1,Richard Hurley,5.0,50,100%,2,3,,4,4,,,5,,,1,1,1,,,6,1,,,,14564
+495,1485,Trent University,Computer Science,4.0,Brian Patrick,2.7,48,47%,1,2,,,2,,1,,,9,2,,4,2,,1,10,,2,11,23046
+496,1485,Trent University,Psychology,2.9,Brenda Smith-Chant,4.8,48,100%,3,3,,5,,,,2,,,5,1,,,1,3,1,,,1,279036
+497,1485,Trent University,Political Science,2.9,Elaine Stavro,3.0,47,30%,1,2,,1,,,6,2,1,,,,,,2,2,7,1,,5,32464
+498,1485,Trent University,Canadian Studies,2.7,Molly Blyth,2.3,46,N/A,,,,1,,,,1,,3,,,,,1,1,3,,,4,579335
+499,1485,Trent University,Social Science,2.1,Deborah Parnis,4.3,45,N/A,,,,,,,,,,,,,,,,,,,,,20884
+500,1485,Trent University,Chemistry,2.9,Andrew Vreugdenhil,4.1,45,100%,2,2,,,2,,,1,,,6,,1,,3,2,1,,,1,39876
+501,1487,Trinity Western University,English,3.3,Vic Cavalli,3.7,80,47%,3,3,,2,3,,6,9,,6,1,,2,10,,3,2,2,,6,27415
+502,1487,Trinity Western University,Political Science,2.7,Calvin Townsend,4.2,75,89%,1,8,,,,,2,1,,,6,5,2,2,,6,3,,,,34088
+503,1487,Trinity Western University,Business,2.4,Brent Groen,3.9,71,100%,,1,,6,1,,,2,1,,12,1,2,1,1,5,,,1,,28783
+504,1487,Trinity Western University,Philosophy,4.0,Grant Havers,3.4,69,50%,,1,,1,,2,11,1,,,1,2,3,,2,1,5,5,2,13,27659
+505,1487,Trinity Western University,History,4.0,Bruce Shelvey,3.5,59,N/A,,1,,,,,3,1,,2,,2,2,,,,1,1,,1,13323
+506,1487,Trinity Western University,Religious Studies,2.0,Dirk Buchner,4.2,59,63%,,1,,3,1,,1,3,3,,2,3,,,,2,1,,,,45690
+507,1487,Trinity Western University,Communication,2.8,Ned Vankevich,3.5,53,20%,,,,,,,,2,1,2,,1,2,1,2,1,,,,3,21333
+508,1487,Trinity Western University,Religious Studies,3.4,Craig Allert,4.3,52,100%,2,5,,,,,4,2,,,3,,3,1,,5,,2,,2,32580
+509,1487,Trinity Western University,English,3.6,Jennifer Doede,3.7,50,80%,1,2,1,3,2,1,6,7,,,4,2,,1,,1,2,1,,10,34082
+510,1487,Trinity Western University,Religious Studies,3.3,Kent Clarke,4.7,49,100%,1,6,,4,,,3,1,,,4,8,,,2,6,2,,,2,191568
+511,1487,Trinity Western University,English,3.5,Lydia Forssander-Song,3.1,44,17%,,1,,3,,,2,3,2,4,,,1,,4,1,,,,7,331992
+512,1487,Trinity Western University,Psychology,3.7,Chuck MacKnee,3.6,43,N/A,,,,,2,,,1,,,3,,,1,,1,2,,,2,162379
+513,1487,Trinity Western University,Philosophy,3.3,Bob Doede,3.6,41,N/A,,,2,,,3,3,2,,,,3,,,1,,1,,,1,27651
+514,1487,Trinity Western University,Religious Studies,2.6,Thomas Hatina,4.5,36,N/A,,3,,,1,,2,,,,2,1,1,,,2,,,1,,17888
+515,1487,Trinity Western University,English,3.0,David Anonby,3.4,36,58%,,,1,5,,,5,7,3,,,2,1,1,1,,4,1,1,3,69526
+516,1487,Trinity Western University,English,3.6,Monika Hilder,3.3,35,100%,2,,,4,,,1,2,,,,1,,,2,,,,,3,22109
+517,1487,Trinity Western University,Communication,2.4,Bill Strom,3.5,34,N/A,,,,1,,,,,2,,,1,,,,2,,,,,22110
+518,1487,Trinity Western University,Computer Science,3.9,Rick Sutcliffe,2.7,33,67%,3,,,2,1,2,2,,,,,,2,7,,,2,,,1,37352
+519,1487,Trinity Western University,Business,2.5,Amanda Flint,3.4,32,N/A,1,,,3,2,1,,2,,,,1,,,,1,,,,,34145
+520,1487,Trinity Western University,Biology,2.4,David Clements,3.6,32,29%,,,,1,,6,1,2,1,3,3,,5,,,,,,,4,34330
+521,1488,University of Victoria,Biology,3.9,David Creasey,2.9,510,80%,1,3,,11,6,,7,3,,,,3,6,,,1,13,,,5,17636
+522,1488,University of Victoria,Biology,2.9,Gregory Beaulieu,3.7,350,72%,10,15,,14,9,,25,6,9,,18,6,30,1,2,18,15,,7,11,22999
+523,1488,University of Victoria,Psychology,3.0,Martin Smith,3.6,324,30%,1,1,,5,2,20,53,1,2,,4,1,8,21,7,2,11,1,6,32,29810
+524,1488,University of Victoria,Psychology,3.0,Jody Bain,3.3,302,54%,2,7,,3,1,,2,4,,,3,9,9,15,4,5,27,14,,18,54721
+525,1488,University of Victoria,Psychology,3.7,Ronald Skelton,2.5,255,N/A,,,,,,,1,,,,1,,,,,,1,,1,2,40468
+526,1488,University of Victoria,Chemistry,3.2,Sandy Briggs,3.1,193,10%,1,1,2,9,5,,4,2,2,,4,1,11,3,,1,4,,1,5,17634
+527,1488,University of Victoria,Psychology,3.1,Laurain Mills,2.4,190,N/A,,,,,,,1,,3,,,,,,,,,,1,2,35747
+528,1488,University of Victoria,Biology,4.0,Thomas Reimchen,3.1,182,63%,1,7,,,,,4,1,1,,,12,11,,,4,36,,5,34,89618
+529,1488,University of Victoria,Sociology,3.5,Bruce Ravelli,4.4,176,90%,12,107,,7,23,,2,16,4,1,37,68,5,7,,49,4,3,3,80,1838378
+530,1488,University of Victoria,English,2.9,Andrew Murray,4.5,173,78%,5,13,1,8,5,,5,27,,,33,4,2,3,7,10,7,2,,14,42596
+531,1488,University of Victoria,History,3.4,Georgia Sitara,3.7,162,88%,10,16,,28,,,15,15,1,,6,32,2,1,5,9,,1,,2,89327
+532,1488,University of Victoria,Mathematics,3.8,Svetlana Oshkai,4.0,162,91%,1,17,1,17,3,,1,16,,,8,6,1,13,1,28,16,1,3,22,458299
+533,1488,University of Victoria,Computer Science,3.8,Mike Zastre,3.4,155,56%,3,3,,1,2,1,7,6,1,1,3,,6,21,,7,6,1,2,35,27464
+534,1488,University of Victoria,Psychology,3.1,Jim Gibson,2.9,155,48%,7,8,,10,6,17,19,8,3,,20,6,1,2,8,3,8,1,3,24,724428
+535,1488,University of Victoria,Economics,2.3,Betty Johnson,3.5,154,72%,3,2,3,11,8,1,1,9,2,,16,1,3,2,10,10,5,,,5,54719
+536,1488,University of Victoria,Economics,2.9,Emma Hutchinson,3.3,153,67%,6,18,1,11,8,,14,3,13,,28,6,4,1,9,15,10,,8,4,457731
+537,1488,University of Victoria,Geography,3.5,Philip Dearden,3.5,149,53%,,7,,,,,12,,,10,,7,4,1,2,4,14,,3,15,30727
+538,1488,University of Victoria,Mathematics,2.9,Jill Simmons,4.6,145,100%,6,15,,15,10,,,4,2,,,,2,11,,19,16,,,5,80870
+539,1488,University of Victoria,Political Science,3.4,Matt James,4.3,144,56%,3,14,,2,3,,8,1,1,,11,2,7,,,7,6,,1,13,89352
+540,1488,University of Victoria,Sociology,2.7,Noreen Begoray,2.5,141,N/A,,,,,,,,,,,,,,,,,1,,,,38043
+541,1489,Victoria University,Political Science,3.5,Matt James,4.0,2,N/A,,,,,,,,,,,,,,,,,,,,1,808192
+542,1489,Victoria University,Religion,2.5,Natalie Wigg-Stevenson,3.0,2,N/A,,,,,,,,1,,,,1,,,1,,,,,,1823664
+543,1490,University of Waterloo,Economics,3.0,Larry Smith,4.3,564,N/A,,1,1,,,1,,2,,1,5,3,2,1,1,1,1,2,,,9845
+544,1490,University of Waterloo,Physics,3.2,Firas Mansour,4.1,338,94%,2,16,,2,,,4,1,,1,22,3,1,3,2,11,6,,,4,21566
+545,1490,University of Waterloo,Psychology,2.7,Richard Ennis,4.5,317,100%,,7,,1,1,,4,,,,5,4,1,1,,3,1,,,2,15411
+546,1490,University of Waterloo,Engineering,2.8,Ehab El-Saadany,4.6,261,N/A,,15,2,5,5,2,,2,,,,4,,2,,20,6,,,4,10138
+547,1490,University of Waterloo,Chemistry,2.7,Carey Bissonnette,4.5,255,83%,2,1,,2,3,1,1,,,,3,3,3,3,4,6,,,1,3,10102
+548,1490,University of Waterloo,Economics,2.7,Eva Lau,2.4,254,N/A,,,,,,,,,,,,,,,,,,,,,10087
+549,1490,University of Waterloo,Accounting,3.0,Bob Sproule,2.5,233,N/A,,,1,,1,1,2,1,,4,1,,1,,5,,1,,,5,10483
+550,1490,University of Waterloo,Computer Science,2.8,Troy Vasiga,4.5,233,100%,,14,,2,1,,,3,,,9,4,,1,1,7,2,,,2,8944
+551,1490,University of Waterloo,Psychology,3.4,Chris Burris,4.0,222,83%,,8,,2,,,4,,,,4,6,1,,,3,12,,1,8,7556
+552,1490,University of Waterloo,Electrical Engineering,4.6,James A (Jim) Barby,1.7,210,27%,,1,1,,,,5,,,,,2,,4,,,6,,,10,9794
+553,1490,University of Waterloo,Chemistry,1.8,Richard Marta,4.8,205,65%,5,59,1,36,12,,1,12,1,,28,30,3,2,2,49,1,,2,1,1561192
+554,1490,University of Waterloo,Economics,2.3,Maryann Vaughan,3.6,201,81%,1,10,,10,3,,3,1,,,13,3,6,,1,9,3,,,4,10085
+555,1490,University of Waterloo,Mathematics,2.0,Ian Vanderburgh,4.8,192,N/A,,4,,4,,,,,1,,,1,1,,,2,,,,1,10242
+556,1490,University of Waterloo,Mathematics,3.1,Stephen New,4.7,177,100%,6,8,,3,2,1,,7,,,3,9,1,2,,12,4,1,,2,10101
+557,1490,University of Waterloo,Physics,3.3,Rohan Jayasundera,4.8,167,89%,3,5,,1,,,,1,1,,6,10,,,2,10,9,,,2,16557
+558,1490,University of Waterloo,Physics,4.0,Chris O'Donovan,2.3,163,13%,1,,,,1,2,3,,,,2,,,4,,,,,1,2,44377
+559,1490,University of Waterloo,Mathematics,2.8,Dan Wolczuk,4.8,163,94%,6,34,,11,1,,,8,1,,17,14,1,,,14,3,,,6,439053
+560,1490,University of Waterloo,Economics,2.2,Emanuel Carvalho,4.7,160,N/A,,8,,2,2,,,3,,,9,2,,,,6,7,,,1,10088
+561,1490,University of Waterloo,Biology,3.5,Christine Dupont,3.6,159,40%,1,3,,3,1,1,,2,,,1,,,2,1,1,,,1,7,283950
+562,1490,University of Waterloo,Mathematics,3.1,Conrad Hewitt,4.2,151,100%,2,13,,6,,,,5,,,5,5,,3,,7,3,2,,6,9998
+563,1491,Western University,Biology,3.7,Tom Haffie,3.5,406,70%,5,39,2,7,7,,28,19,,1,5,27,18,11,5,20,38,1,12,65,34763
+564,1491,Western University,Sociology,4.1,Kim Luton,3.1,265,46%,1,10,,4,,,8,,2,,2,3,2,1,10,5,20,,1,35,32560
+565,1491,Western University,Psychology,2.6,Michael Atkinson,4.5,264,89%,,39,,7,1,,32,1,1,,11,9,1,,1,22,11,,1,4,9814
+566,1491,Western University,Physics,2.7,Martin Zinke-Allmang,2.8,167,21%,2,,,5,3,,4,1,,,6,2,4,1,3,2,,,2,12,33792
+567,1491,Western University,Chemistry,2.9,Felix Lee,4.7,163,89%,4,41,1,16,6,,5,9,3,,27,19,1,,3,32,3,,3,6,469485
+568,1491,Western University,Media Studies,3.0,Tim Blackmore,3.9,128,N/A,1,2,,7,,,5,,,,3,5,,,,1,1,,,2,7923
+569,1491,Western University,Biology,3.8,Jennifer Waugh,2.9,122,26%,3,4,7,4,5,,30,8,1,,6,1,4,28,10,3,10,3,8,57,1224232
+570,1491,Western University,Economics,3.0,Michael Parkin,3.5,116,N/A,,,,,,,,,,,,,,,,,,,,,11975
+571,1491,Western University,Chemistry,2.9,Mark Workentin,4.5,115,96%,1,15,,5,1,1,,3,,,15,5,1,,3,10,10,,,1,31429
+572,1491,Western University,Biology,2.6,Denis Maxwell,4.2,112,77%,4,7,,,1,,4,4,,,16,4,1,1,1,5,3,,1,2,277636
+573,1491,Western University,Political Science,2.7,Nigmendra Narain,4.2,112,100%,12,6,,17,3,,3,5,,,12,7,5,,,15,2,,1,1,25852
+574,1491,Western University,Psychology,3.5,Doug Hazlewood,3.6,110,75%,1,4,,3,1,,14,3,,,3,1,2,1,1,3,11,,1,4,38017
+575,1491,Western University,Languages,2.6,David Lamari,4.0,110,75%,,9,,,2,,15,1,,,8,1,6,4,,2,18,,1,7,47481
+576,1491,Western University,Mathematics,2.6,Joseph Turnbull,5.0,110,100%,16,36,,57,6,3,,26,,,14,24,1,7,2,40,4,,,1,1762415
+577,1491,Western University,History,3.3,Craig Simpson,3.9,109,N/A,,1,,2,,,,,,,,2,,,1,1,,,,,30988
+578,1491,Western University,Psychology,3.4,Riley Hinson,3.1,107,35%,2,7,,2,2,1,9,1,2,1,7,4,9,3,1,2,13,,4,17,32422
+579,1491,Western University,Statistics,2.8,James Adcock,4.2,105,N/A,,,2,,,,1,,,,2,,1,1,,1,1,,1,2,26990
+580,1491,Western University,Economics,3.4,Irene Trela,2.7,102,41%,3,3,,,6,,5,1,4,,1,3,13,8,1,4,30,1,10,19,36883
+581,1491,Western University,Physics,3.4,Tamie Poepping,1.8,100,8%,5,,,10,3,,28,3,4,1,2,3,1,15,1,2,2,,9,11,873219
+582,1491,Western University,Biochemistry,2.6,Derek McLachlin,4.7,98,92%,3,25,,10,6,,1,1,,,35,19,,,,23,,1,,1,726588
+583,1492,Wilfrid Laurier University-Waterloo,Business,3.3,Laura Allan,3.4,265,38%,1,6,1,4,1,2,4,7,2,15,,4,6,2,4,4,19,1,1,16,9827
+584,1492,Wilfrid Laurier University-Waterloo,Psychology,2.4,Don Morgenson,4.7,195,N/A,,5,,7,2,,2,1,,,4,11,,,,13,1,,,,25739
+585,1492,Wilfrid Laurier University-Waterloo,Business,2.5,Jim McCutcheon,4.7,167,N/A,,,,,,,,,,,,,,,,,,,,,25731
+586,1492,Wilfrid Laurier University-Waterloo,Business,3.0,Sofy Carayannopoulos,4.3,141,78%,2,9,,15,6,2,3,6,,20,6,7,11,6,,20,22,,1,24,40212
+587,1492,Wilfrid Laurier University-Waterloo,Global Studies,3.2,Len Friesen,3.7,113,67%,,6,,,,,2,2,2,,7,3,1,,,6,2,,,5,38453
+588,1492,Wilfrid Laurier University-Waterloo,Social Science,3.0,Morgan Holmes,4.0,109,N/A,,,,1,,,2,,1,,1,,1,,,,2,,1,1,25733
+589,1492,Wilfrid Laurier University-Waterloo,Computer Science,2.2,Rick Henderson,3.6,103,25%,1,,,1,2,,,1,,,1,,,1,3,,1,,,2,64340
+590,1492,Wilfrid Laurier University-Waterloo,Geography,3.5,Michael Imort,2.8,102,87%,1,7,1,1,,3,10,1,,6,2,8,2,2,3,4,10,,1,4,15844
+591,1492,Wilfrid Laurier University-Waterloo,Psychology,2.7,Kathy Foxall,3.1,102,29%,1,,,5,4,1,18,,5,,1,2,4,1,,1,5,1,,2,11984
+592,1492,Wilfrid Laurier University-Waterloo,Social Science,3.6,Kimberly Ellis-Hale,3.3,101,17%,2,3,,3,,,13,3,1,1,2,,,,6,1,15,,10,7,36597
+593,1492,Wilfrid Laurier University-Waterloo,Business,3.5,William McNally,3.2,99,56%,,4,1,3,,,8,1,2,,7,1,1,3,3,1,1,1,1,8,21821
+594,1492,Wilfrid Laurier University-Waterloo,Economics,3.8,Jean Eid,2.5,94,25%,,,,,,,8,,1,,,,5,4,1,1,5,,8,15,904462
+595,1492,Wilfrid Laurier University-Waterloo,Anthropology,4.0,Jonathan Haxell,3.5,93,N/A,,,,,,,1,,,,1,,1,,,,2,,,1,17103
+596,1492,Wilfrid Laurier University-Waterloo,Women's Studies,3.1,Helen Ramirez,3.0,91,26%,3,1,1,6,,,2,2,10,2,2,4,15,,9,3,1,10,,25,155822
+597,1492,Wilfrid Laurier University-Waterloo,Economics,3.3,Steffen Ziss,3.2,90,33%,11,2,,4,1,,6,,9,,4,5,5,8,1,5,2,,6,5,41765
+598,1492,Wilfrid Laurier University-Waterloo,Mathematics,4.1,Francine Vinette,2.3,88,N/A,,2,,2,,,,,,,,,,,,2,,,,,89356
+599,1492,Wilfrid Laurier University-Waterloo,Political Science,3.1,Loren King,3.4,85,60%,1,1,,1,1,,4,3,,1,4,1,1,1,,,4,,,2,424597
+600,1492,Wilfrid Laurier University-Waterloo,Economics,3.7,Maria Gallego,2.2,81,N/A,1,1,,,1,,1,1,,,,,1,1,,,4,,,2,37017
+601,1492,Wilfrid Laurier University-Waterloo,Medieval Studies,3.7,Alicia McKenzie,3.9,79,77%,3,11,,13,1,3,15,15,,,11,3,3,2,8,8,26,,,11,1179755
+602,1492,Wilfrid Laurier University-Waterloo,Psychology,2.9,Bruce McKay,4.6,79,88%,2,24,,3,5,6,5,1,,,25,1,1,,1,18,2,,4,7,1414494
+603,1493,University of Windsor,Psychology,3.5,Ken Cramer,3.9,277,31%,1,11,,,3,,29,,,1,3,4,4,2,,4,10,,9,25,25328
+604,1493,University of Windsor,Computer Science,2.2,Kristina Verner,4.5,261,100%,4,,,4,7,,,6,,,,1,,3,,5,,3,1,,28492
+605,1493,University of Windsor,English,3.5,Mark Johnston,4.0,179,80%,4,13,2,1,3,,23,4,,10,8,6,6,,,2,29,,2,21,1064739
+606,1493,University of Windsor,Psychology,3.4,Scott Mattson,3.6,178,43%,5,9,,13,1,7,27,1,,,18,2,25,5,21,3,24,2,11,33,36172
+607,1493,University of Windsor,Computer Science,2.7,Doug Thistle,3.0,162,N/A,,,,3,1,,,4,,,,3,1,2,1,1,1,,,1,11865
+608,1493,University of Windsor,Sociology,2.6,Gerald Booth,4.0,118,N/A,,,,,,,,,,,,,,,,,,,,,28181
+609,1493,University of Windsor,Psychology,2.1,Daniel Beliciu,4.8,117,94%,10,41,,22,24,4,3,22,1,16,34,,4,,3,35,11,1,2,4,1791980
+610,1493,University of Windsor,Engineering,4.3,William Altenhof,3.2,114,38%,1,3,1,1,,1,1,4,,2,,2,,3,2,5,8,1,2,16,23228
+611,1493,University of Windsor,Accounting,3.0,Jim Stevens,3.9,113,N/A,1,,,3,1,,1,2,,1,1,,1,,,3,,,,1,28065
+612,1493,University of Windsor,Communication,3.2,James Winter,2.6,110,57%,,,,1,1,,1,,1,1,2,,,,1,,5,,,4,7703
+613,1493,University of Windsor,Sociology,3.3,Alan Phipps,2.3,107,53%,,,1,1,1,1,,,1,,3,,7,3,11,1,14,,,13,28221
+614,1493,University of Windsor,Political Science,2.5,Stephen Brooks,3.9,105,88%,1,12,,1,7,,5,2,4,,,2,4,,1,10,9,,2,1,32597
+615,1493,University of Windsor,Philosophy,3.6,Mark Letteri,2.6,104,17%,1,1,,2,1,,22,,3,,,,14,1,1,1,14,,4,14,30233
+616,1493,University of Windsor,Biology,3.3,Kirsten Poling,3.5,101,35%,1,2,,7,,,2,2,,,4,1,6,,4,1,8,,,13,152529
+617,1493,University of Windsor,Psychology,2.7,Jill Jackson,4.3,101,77%,2,15,,9,2,1,18,9,3,4,18,6,1,1,2,13,5,1,1,3,253608
+618,1493,University of Windsor,Computer Science,3.1,Pierre Boulos,4.0,100,N/A,,,,,,,,,,,,,,,,,,,,,27425
+619,1493,University of Windsor,Economics,3.8,Vladimir Bajic,2.5,98,N/A,1,,,,,,3,1,,,,,2,,,,1,,1,3,30021
+620,1493,University of Windsor,Business,2.9,Jang Singh,3.4,98,N/A,,,,,5,1,7,4,,3,1,,1,,9,1,5,,,4,31339
+621,1493,University of Windsor,Social Science,2.8,Renu Sharma-Persaud,4.4,97,91%,3,26,,7,6,,8,2,4,6,5,15,5,,6,19,5,3,1,7,1661367
+622,1493,University of Windsor,English,2.9,Lorenzo Buj,4.0,96,70%,1,6,,,3,,1,1,1,,,4,2,,2,4,2,,2,1,28893
+623,1494,University of Winnipeg,Philosophy,2.3,James Muir,3.9,122,N/A,,4,,,,,1,1,,,3,5,1,,,2,7,,,1,16759
+624,1494,University of Winnipeg,Physics,2.0,Vesna Milosevic-Zdjelar,4.2,121,88%,5,12,,27,8,2,2,5,1,,22,12,4,,,8,3,,2,1,119976
+625,1494,University of Winnipeg,Chemistry,3.2,Athar Ata,4.0,112,83%,7,5,,11,5,,5,10,,,,,5,5,2,16,7,,3,25,87850
+626,1494,University of Winnipeg,Mathematics,3.2,Bob Bector,3.9,108,70%,2,2,,1,1,,2,3,1,,6,,15,16,2,5,28,,3,6,29051
+627,1494,University of Winnipeg,Psychology,3.7,Evelyn Schaefer,2.2,98,N/A,,,,,,,,,,,,,1,,,,1,,1,1,27850
+628,1494,University of Winnipeg,Biology,2.8,Kent Simmons,4.2,86,64%,,5,,4,1,,6,3,,,3,4,8,,,2,4,,2,9,16754
+629,1494,University of Winnipeg,Criminal Justice,2.8,Jane Murray,4.5,78,100%,3,9,,1,1,,6,5,,,12,3,1,,2,8,4,,1,,26338
+630,1494,University of Winnipeg,Philosophy,3.8,Karim Dharamsi,4.0,77,N/A,,,,,,,,,,,,,,,,,,,,,36624
+631,1494,University of Winnipeg,Psychology,3.1,Mike Halldorson,3.8,74,60%,1,7,,6,4,1,6,3,,,3,3,,1,1,3,1,1,,1,27846
+632,1494,University of Winnipeg,Chemistry,2.6,Ken Friesen,4.1,73,100%,8,11,,15,6,,1,8,,,,4,1,11,1,21,21,,,4,31359
+633,1494,University of Winnipeg,Psychology,2.1,Ken Johns,3.8,69,N/A,,,,1,,,,,,,1,,,,1,,,,,,40010
+634,1494,University of Winnipeg,Biology,2.0,Scott Forbes,4.5,68,100%,1,9,,6,9,1,2,4,3,,15,4,3,,,9,,,,,26248
+635,1494,University of Winnipeg,English,2.4,Robert Byrnes,4.3,68,88%,,1,1,1,,,11,9,,,5,1,,,3,2,,1,,,44642
+636,1494,University of Winnipeg,Geography,3.2,Mark Krawetz,3.4,67,50%,2,3,,,2,,,,,,2,,3,,2,,8,,,7,16757
+637,1494,University of Winnipeg,Business,4.0,Rosalie Harms,2.8,67,80%,1,,,1,2,,4,1,,,,,1,1,,1,4,,1,3,481041
+638,1494,University of Winnipeg,Anthropology,2.9,George Fulford,3.0,66,N/A,3,1,,1,,,,2,,1,,,1,,2,,,,,1,16755
+639,1494,University of Winnipeg,History,1.7,Ross McCormack,3.2,65,71%,1,2,,1,2,,2,1,,,5,,2,,3,2,,,,1,31648
+640,1494,University of Winnipeg,Social Science,3.1,Colin Goff,3.3,65,67%,1,,1,1,,,5,1,2,,,,2,,,,3,,1,,43193
+641,1494,University of Winnipeg,Classics,3.0,Jane Cahill,3.6,65,N/A,,,,,,,,,,,,,,,,,,,,,65139
+642,1494,University of Winnipeg,Chemistry,2.6,Doug Goltz,4.2,62,N/A,1,3,,10,1,2,2,3,,,9,1,,,,1,1,,,3,30507
+643,1495,York University (all campuses),Psychology,2.6,Rebecca Jubis,4.3,466,71%,,46,2,7,22,9,53,7,1,,23,7,13,2,4,33,20,,21,12,11773
+644,1495,York University (all campuses),Business,2.8,Michael Rochon,4.7,306,100%,2,49,1,20,3,,6,13,,1,33,20,10,4,6,51,27,,,13,99172
+645,1495,York University (all campuses),Mathematics,4.0,Iouldouz Raguimov,1.9,284,28%,3,3,,8,2,,20,2,3,,8,5,11,23,2,7,11,,12,43,33804
+646,1495,York University (all campuses),Psychology,2.3,Myriam Mongrain,4.6,283,83%,1,37,,23,20,11,32,12,6,,24,18,6,1,8,24,4,,2,3,25954
+647,1495,York University (all campuses),Economics,2.8,John Paschakis,2.9,270,94%,4,6,,17,7,1,14,2,2,,19,4,8,,2,9,4,,,13,28452
+648,1495,York University (all campuses),Kinesiology,2.9,Merv Mosher,4.3,257,63%,6,32,,13,8,1,22,10,3,,21,15,4,1,1,25,3,,6,13,27839
+649,1495,York University (all campuses),Social Science,2.0,Walter Perchal,4.5,255,89%,,5,,6,1,,,,,1,1,10,,1,2,11,2,1,,,27734
+650,1495,York University (all campuses),Psychology,3.0,Krista A Phillips,3.4,248,50%,1,14,,6,5,2,26,6,6,,9,3,5,,1,2,21,1,9,20,34992
+651,1495,York University (all campuses),Communication Studies,2.6,Dalton Kehoe,4.2,241,67%,1,4,,,1,,3,1,,,2,2,,1,1,,2,1,2,7,29017
+652,1495,York University (all campuses),Psychology,3.8,Margarete Wolfram,1.9,226,N/A,,,,,3,,3,3,,1,1,2,6,3,2,,,,,5,11769
+653,1495,York University (all campuses),Philosophy,3.5,Julie Allen,3.8,225,48%,1,4,2,2,2,,16,5,,,3,3,7,7,10,3,15,6,,12,255807
+654,1495,York University (all campuses),Business,4.4,Diane Jurkowski,1.9,223,N/A,,,,,,,,,,,,1,1,,2,1,,,,3,9453
+655,1495,York University (all campuses),Chemistry,3.6,William Pietro,4.0,221,44%,,17,,1,1,,10,1,,,13,9,1,7,,5,14,,2,37,12434
+656,1495,York University (all campuses),Psychology,2.9,Agnieszka Kopinska,3.7,219,79%,5,27,3,9,9,10,20,5,2,,51,28,4,15,30,14,13,,3,6,536359
+657,1495,York University (all campuses),Economics,3.1,Ardeshir Noordeh,3.0,201,41%,1,3,1,3,4,,10,3,,,3,2,6,2,,5,3,,6,19,840947
+658,1495,York University (all campuses),Philosophy,2.6,Shyam Ranganathan,4.3,197,63%,2,3,,1,5,1,3,6,,,2,2,2,,4,3,3,,6,13,511410
+659,1495,York University (all campuses),Psychology,2.7,Alistair Mapp,4.5,195,96%,2,17,,2,7,,3,2,4,,29,5,1,4,1,12,7,,4,3,60766
+660,1495,York University (all campuses),Psychology,3.3,Heather Jenkin,3.3,193,29%,,5,5,3,7,1,10,2,,,4,,7,5,1,2,7,,5,14,32909
+661,1495,York University (all campuses),Psychology,2.9,Doug McCann,4.2,192,86%,3,15,,1,3,2,25,,,,7,7,7,2,3,6,7,,6,3,27919
+662,1495,York University (all campuses),Mathematics,3.2,Igor Poliakov,3.1,192,53%,3,7,3,14,11,4,23,6,3,,6,7,11,20,5,11,21,,10,27,35212
+663,1497,Seneca College of Applied Arts and Technology-ALL,English,2.3,Rose Caruso,4.8,259,98%,16,79,1,65,20,,4,95,,11,5,58,1,6,20,86,6,1,,1,758724
+664,1497,Seneca College of Applied Arts and Technology-ALL,Business,3.8,Hedy Chase-Rattner,2.6,207,54%,10,3,,11,14,1,,27,1,3,1,6,5,10,12,14,28,8,,42,497886
+665,1497,Seneca College of Applied Arts and Technology-ALL,Mathematics,1.3,Larry Daisley,4.8,172,90%,3,14,,8,4,3,,7,1,,3,6,2,1,4,17,11,,,2,97868
+666,1497,Seneca College of Applied Arts and Technology-ALL,Business,1.5,Mike Wade,4.9,170,100%,3,19,2,11,9,,1,8,,,11,9,,,,14,3,,,1,33395
+667,1497,Seneca College of Applied Arts and Technology-ALL,Accounting,4.3,Hyacinth Randall,2.2,163,11%,,,,,,,14,1,,2,2,,15,,6,2,15,,4,28,226681
+668,1497,Seneca College of Applied Arts and Technology-ALL,Accounting,3.2,Wayne Campbell,3.4,158,N/A,,,,,,,,,,,,,,,,,,,,,36135
+669,1497,Seneca College of Applied Arts and Technology-ALL,English,4.5,Peter Austin,2.0,156,N/A,,1,,2,1,,5,5,,,1,3,,,,,3,4,,21,32146
+670,1497,Seneca College of Applied Arts and Technology-ALL,Accounting,1.8,Frank Skill,4.3,145,90%,3,10,1,16,9,1,,26,,,2,13,2,6,10,21,5,,1,2,773426
+671,1497,Seneca College of Applied Arts and Technology-ALL,Computer Science,3.1,Fardad Soleimanloo,3.9,144,69%,3,8,,6,4,2,2,7,,,5,3,1,6,3,4,9,,1,4,13062
+672,1497,Seneca College of Applied Arts and Technology-ALL,Computer Science,2.9,Danny Abesdris,4.2,136,75%,,7,,2,2,5,1,4,,,1,3,,,5,9,2,,3,5,13921
+673,1497,Seneca College of Applied Arts and Technology-ALL,Marketing,2.8,Maurice Platero,4.5,134,100%,1,5,,1,,1,,3,,5,,4,,,5,3,1,,,,31358
+674,1497,Seneca College of Applied Arts and Technology-ALL,Accounting,2.5,Terry Pegler,2.5,129,N/A,,,,,,,,,,,,,1,,,,,1,,1,204174
+675,1497,Seneca College of Applied Arts and Technology-ALL,Computer Science,3.2,Anthony Austin,2.8,128,N/A,,,,,,,3,,,,2,,3,1,,,,,,1,14354
+676,1497,Seneca College of Applied Arts and Technology-ALL,Literature,2.3,Kevin Topalian,4.5,126,78%,2,16,1,9,2,,6,13,,,3,13,,12,7,10,6,5,1,6,49928
+677,1497,Seneca College of Applied Arts and Technology-ALL,Accounting,2.1,Floyd Sutherland,4.3,125,86%,,7,,12,3,,,8,,,4,3,2,6,4,5,13,,,2,56464
+678,1497,Seneca College of Applied Arts and Technology-ALL,Accounting,4.4,Cary Ng,1.9,119,22%,1,,,,2,1,6,3,1,,1,,2,1,,,3,1,3,16,307478
+679,1497,Seneca College of Applied Arts and Technology-ALL,Accounting,1.5,Keith Hebblewhite,4.5,119,81%,1,8,,4,1,3,2,5,1,4,4,3,,3,6,4,1,1,,2,603681
+680,1497,Seneca College of Applied Arts and Technology-ALL,Accounting,4.2,Anu Goel,2.7,117,68%,19,28,,8,6,,5,18,,1,4,12,3,3,5,10,6,1,4,19,967994
+681,1497,Seneca College of Applied Arts and Technology-ALL,Computer Science,2.4,Ron Tarr,4.0,116,64%,1,4,,4,2,2,4,1,3,1,13,2,1,2,,5,,,,3,12969
+682,1497,Seneca College of Applied Arts and Technology-ALL,Business,2.2,Fran Smyth,4.7,115,100%,1,15,,,6,,1,10,,,7,6,2,,1,7,4,,1,1,39815
+683,1498,Algoma University,Sociology,2.5,Deborah Woodman,3.6,35,80%,,1,,3,,,,3,,,3,2,,,2,5,,,,1,887865
+684,1498,Algoma University,Mathematics,3.6,Edna James,2.8,33,17%,,2,,3,,1,1,,,,,,2,5,1,,4,1,1,8,298695
+685,1498,Algoma University,Psychology,3.1,David Brodbeck,4.7,26,N/A,2,2,,,,,,1,1,,1,,,,,2,,,,,461899
+686,1498,Algoma University,Computer Science,2.9,Simon Xu,3.1,25,N/A,,,1,,,,2,,2,1,,,,,,,,,,,107396
+687,1498,Algoma University,Geography,2.4,William Osei,3.4,25,N/A,,1,,1,,,1,,,1,,1,2,,1,,,,,,305623
+688,1498,Algoma University,Accounting,4.0,David Galotta,3.9,21,N/A,,,,1,,,,3,,,,,1,3,1,,1,,,3,325745
+689,1498,Algoma University,History,1.9,Bill Newbigging,4.8,20,N/A,,,,,,,,,,,,,,,,,,,,,80697
+690,1498,Algoma University,Business,4.1,Pelham Matthews,3.5,18,N/A,,,,,,,1,1,,,,,1,,,2,,,,2,363234
+691,1498,Algoma University,Business,3.7,Richard Deklerk,5.0,17,100%,,11,,4,,,,2,,1,2,8,,,,9,,,,,1912393
+692,1498,Algoma University,Sociology,2.6,Michael Graydon,4.3,17,100%,2,3,,5,1,,,2,,,5,1,,,,5,,,,2,1664929
+693,1498,Algoma University,Mathematics,3.0,Mark Defazio,2.7,16,N/A,,1,,,,,,1,1,,2,,,1,,,,,,,386962
+694,1498,Algoma University,Philosophy,3.2,Anthony Fabiano,4.5,16,60%,,3,,,,1,,1,,,,3,,,,2,,,,1,902103
+695,1498,Algoma University,Psychology,3.7,Cheryl Reed Elder,2.5,16,N/A,,,,,,,,,,,1,,1,3,,,1,1,1,4,37065
+696,1498,Algoma University,Computer Science,3.0,George Townsend,4.6,15,N/A,,1,,,,,1,2,,,,,,,,2,,,,2,36017
+697,1498,Algoma University,Business,3.2,Cathy Denomme,3.0,15,N/A,,,,,,,,,,,,,,,,,,,,,745779
+698,1498,Algoma University,English,4.4,Margaret Wallace,3.4,14,N/A,,,,,,,,,,,,,,,,,,,,,598081
+699,1498,Algoma University,Law,3.5,Myles Frederick McLellan,4.6,14,N/A,,2,,,1,,,1,,1,,3,,,3,3,,,,,1838850
+700,1498,Algoma University,Computer Science,3.5,Klaus Peltsch,2.4,13,N/A,,,1,,,,,,,,,,1,,,,,,1,2,27665
+701,1498,Algoma University,Political Science,2.5,Don Jackson,4.0,13,N/A,,,,,,,1,1,,,,,,,,1,,,,,865554
+702,1498,Algoma University,Criminal Justice,2.2,James Greco,4.4,12,N/A,,,,,,,,,,,,,,,,,,,,,27655
+703,1499,George Brown College,Health Science,2.6,Bartek Roszak,4.9,513,100%,68,279,3,210,46,11,3,140,1,4,23,384,7,4,12,198,19,1,3,8,1909396
+704,1499,George Brown College,Nursing,2.8,Jeffrey Ian Ko,4.7,191,97%,6,45,,31,58,10,30,126,1,1,,50,2,20,83,55,2,,1,16,1981707
+705,1499,George Brown College,Business,2.6,Derek Vigar,4.8,159,98%,5,31,,19,9,,1,36,2,16,6,34,2,,18,25,6,2,2,7,132023
+706,1499,George Brown College,Business,1.7,Alar Petersoo,4.8,128,100%,1,28,,32,11,5,,21,1,3,17,12,1,1,10,37,18,,1,,501430
+707,1499,George Brown College,Information Technology,2.8,Danish Khan,4.5,109,96%,13,31,2,27,17,6,7,33,1,5,10,31,,4,10,59,1,,1,2,2074918
+708,1499,George Brown College,Business,3.4,Roger Cecchetto,4.7,107,97%,5,55,,40,4,,,29,2,5,20,62,2,2,18,38,1,,1,6,1527722
+709,1499,George Brown College,English,2.2,Sadia Kamran,4.9,97,99%,23,28,,11,42,3,,63,3,3,20,12,1,2,7,29,1,,,1,2305649
+710,1499,George Brown College,Management,3.2,James Voulakos,3.7,96,77%,,7,,3,1,2,1,14,,2,,7,,5,18,5,9,,,6,543060
+711,1499,George Brown College,Business,2.7,Parisa Aflatounian,4.0,90,94%,3,23,1,25,15,3,1,26,1,4,8,18,1,7,18,35,6,1,1,7,1602904
+712,1499,George Brown College,Business,3.0,Costin Laurentiu,4.7,90,92%,6,38,,24,5,1,,20,2,10,8,30,,,26,21,6,1,2,2,2130667
+713,1499,George Brown College,Accounting,3.5,Peter Alpaugh,4.5,76,91%,,10,3,2,5,1,1,6,,1,4,6,1,10,6,8,9,1,1,12,467786
+714,1499,George Brown College,Mathematics,2.0,Oleksandr Slavko,4.6,67,97%,4,12,2,13,7,,,21,1,,11,9,,1,4,13,6,,,,1373795
+715,1499,George Brown College,Business,1.8,Ludvik Jakopin,3.8,64,68%,,9,,11,4,9,3,3,,3,15,20,3,2,14,5,8,2,1,1,957216
+716,1499,George Brown College,Business,4.0,Angela Hould,2.6,62,19%,,1,,1,,,7,1,1,4,,,8,2,5,,11,,4,20,753938
+717,1499,George Brown College,Mechanical Engineering,2.4,Minu Jose,4.9,59,100%,15,26,2,15,3,2,,12,1,,3,7,6,5,4,6,6,1,5,1,1850521
+718,1499,George Brown College,Graphic Arts,3.2,Jerri Johnson,1.7,58,N/A,,,1,,2,,,3,1,,,,,,,1,,,,1,59221
+719,1499,George Brown College,Business,2.5,Sandeep Dheri,4.7,58,92%,,29,,11,7,2,3,29,1,9,1,10,,1,13,30,1,,1,4,2034211
+720,1499,George Brown College,Business,2.5,Adam Fox,4.8,58,100%,8,18,,18,13,,4,33,1,2,1,15,1,,24,15,4,,,,1925894
+721,1499,George Brown College,Architecture,2.4,Sara K. Nejad,4.5,56,89%,,9,,13,16,2,,24,1,,4,3,1,14,13,12,16,2,,2,2088813
+722,1499,George Brown College,Mathematics,3.5,Bruno Fullone,3.8,55,68%,1,,,5,3,,3,5,4,,,1,1,4,5,10,6,,2,15,422599

@@ -1,0 +1,671 @@
+,campus_id,campus_name,dept,difficulty,name,quality,rating_count,retake,tag_accessibleoutsideclass,tag_amazinglectures,tag_bewareofpopquizzes,tag_caring,tag_cleargradingcriteria,tag_extracredit,tag_getreadytoread,tag_givesgoodfeedback,tag_gradedbyfewthings,tag_groupprojects,tag_hilarious,tag_inspirational,tag_lectureheavy,tag_lotsofhomework,tag_participationmatters,tag_respected,tag_skipclassyouwon'tpass,tag_somanypapers,tag_testheavy,tag_toughgrader,tid
+0,1800,Career College of Northern Nevada,Computer Science,5.0,Richard Burr,1.0,2,N/A,,,,,,,,,,,,,,,,,,,,,290268
+1,1800,Career College of Northern Nevada,Mathematics,2.0,Davis Finely,4.5,1,N/A,,,,,,,,,,,1,,,1,,,,,,,1583189
+2,1800,Career College of Northern Nevada,Engineering,3.0,Michael Sanders,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1957239
+3,1800,Career College of Northern Nevada,Engineering,4.0,James Aldrich,3.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1957252
+4,1800,Career College of Northern Nevada,English,3.0,Tim Koepsell,1.0,1,N/A,,,,,,,,,,,,,,1,,,1,1,,,2404286
+5,1804,Carl Albert State College,History,3.0,Mike Riley,4.2,50,N/A,,2,,1,3,1,,,,,2,,,1,1,2,1,,,,735885
+6,1804,Carl Albert State College,Science,3.4,Danny Wann,3.1,32,N/A,,1,,,,,,,,,1,,1,,,,,,,,432475
+7,1804,Carl Albert State College,Philosophy,2.2,Nathan Billy,4.4,23,N/A,,,,1,1,,1,1,,,,,,,1,,,,,,432478
+8,1804,Carl Albert State College,Mathematics,3.9,Jerry Holton,3.2,20,N/A,,,,,,,,,,,,,,,,,,,,,439393
+9,1804,Carl Albert State College,English,2.9,Chuck Cole,4.7,20,100%,5,,1,7,,1,,4,,,2,,,1,1,5,,,,3,789656
+10,1804,Carl Albert State College,Social Science,2.6,Kristi McConnell,3.0,19,N/A,,1,,,,1,,1,,,,2,,2,,1,,,,,1652752
+11,1804,Carl Albert State College,English,2.7,Shirley Harrod,4.0,15,N/A,,,,,,,,,,,,,,,,,,,,,62810
+12,1804,Carl Albert State College,History,2.5,Ron Murphree,3.9,15,N/A,,1,,,,,,,,,,,,,,,,,,1,1242539
+13,1804,Carl Albert State College,English,2.3,Shirley Yandell,4.5,15,100%,,,,2,1,1,,2,,,2,3,,,,1,,,,,1440770
+14,1804,Carl Albert State College,Film,2.4,Marcus Blair,5.0,14,N/A,,,,,,,,2,,,,1,,,2,,,,,,1230586
+15,1804,Carl Albert State College,Fine Arts,3.6,Bobbette Guillory,2.0,13,N/A,,,,,,,1,,,,,,,,,,,,,1,601861
+16,1804,Carl Albert State College,Science,3.5,Steven Hughes,4.1,12,N/A,,,,,,,,,,,,,,2,,1,,,,2,439391
+17,1804,Carl Albert State College,English,3.3,Marc Willis,4.5,12,N/A,,,,,,,,,,,,,,,1,,,,,1,454530
+18,1804,Carl Albert State College,Political Science,2.0,Lisa Boswell,4.3,12,N/A,,1,,,,1,1,,,,1,,,1,,,1,,1,1,718613
+19,1804,Carl Albert State College,Science,2.6,Patrick Brown,3.9,12,100%,3,4,,,,,,,,,3,,1,,2,2,,,,,1707554
+20,1804,Carl Albert State College,Mathematics,3.0,Jamie Bonds,3.8,11,N/A,,,,,,,,,,,,,,,,,1,,,,230667
+21,1804,Carl Albert State College,Psychology,3.4,Max Rowley,3.3,11,N/A,,,,,,,,,,,,,,,,,,,,,552259
+22,1804,Carl Albert State College,English,3.0,Judy Stetson,4.8,11,N/A,,,,2,1,,,2,,,,2,,,1,,,,,,1881479
+23,1804,Carl Albert State College,English,3.2,Sarah Brown,4.0,11,57%,2,1,,,1,2,5,3,,,,,,2,,,1,2,,1,1975467
+24,1804,Carl Albert State College,Business,2.0,Belinda Westfall,4.4,8,N/A,,,,,1,,,1,,,,,,,,,,,,,631373
+25,1805,Carl Sandburg College,Political Science,3.6,James Graham,3.6,18,N/A,,,,,,,,,,,,,,,,,,,,,148093
+26,1805,Carl Sandburg College,Law,2.8,David Kellogg,4.3,16,N/A,,1,,1,,,,,,,1,,,,1,1,,,,,216042
+27,1805,Carl Sandburg College,English,2.9,Norm Burdick,4.5,15,N/A,,,,,,,,,,,,,,,,,,,,,273268
+28,1805,Carl Sandburg College,English,2.7,Eric Alai,3.6,15,N/A,,1,,,1,,2,1,,,1,1,,,3,,,,,,607901
+29,1805,Carl Sandburg College,Mathematics,3.8,Darrell Clevidence,3.2,14,N/A,,,,,,,,,,,,,,,,,,,,,185560
+30,1805,Carl Sandburg College,Biology,3.4,Steve McCoy,5.0,12,N/A,,1,,1,,,,1,,,4,,,,,2,,,,,1823824
+31,1805,Carl Sandburg College,Mathematics,3.5,Tony Paris,3.9,11,N/A,,,,,,1,,,,,1,,,1,,,1,,,2,273269
+32,1805,Carl Sandburg College,Biology,4.7,Carla Murray,2.1,11,N/A,,,,1,,,,,,,,,5,,,,4,1,3,9,966792
+33,1805,Carl Sandburg College,Biology,4.6,Marjorie Smolensky,3.0,9,N/A,,,,1,,,,,,,1,,,,,1,2,,,1,1545752
+34,1805,Carl Sandburg College,Psychology,2.8,Mr. Sanders,4.3,7,N/A,,,,,1,,,1,1,,,,1,,,1,,,1,,496928
+35,1805,Carl Sandburg College,English,2.7,Jeff Olson,2.9,7,N/A,,,,,,,,,,,,,,,,,,,,,597306
+36,1805,Carl Sandburg College,Criminal Justice,2.0,Gw (gary) Douglas,5.0,7,N/A,,,,,,,,1,,,,1,,,,1,,,,,808227
+37,1805,Carl Sandburg College,Philosophy,3.6,Jill Johnson,2.4,7,N/A,,,,,,,,,,1,,,,2,,,1,,,2,1621474
+38,1805,Carl Sandburg College,Biology,3.4,Michael Crandell,4.0,7,N/A,,,,3,1,,,1,,,1,,,1,2,2,1,,,1,1869686
+39,1805,Carl Sandburg College,Computer Science,2.5,Cynthia Johnson,3.2,6,N/A,,,,1,,,,1,,,,,,,,,,,,,335770
+40,1805,Carl Sandburg College,English,3.5,Jane Carman,5.0,6,N/A,1,,,,1,,1,4,,1,,,,,3,1,,,,,950852
+41,1805,Carl Sandburg College,Economics,3.8,Kelli Mayes-Denker,2.0,6,N/A,,,,,,,,,,,,,,,,,1,,,1,1442904
+42,1805,Carl Sandburg College,History,3.2,Lara Roemer,3.8,6,67%,,2,,,1,,2,2,,,1,,1,,2,1,1,1,,1,2124234
+43,1805,Carl Sandburg College,Business,3.4,Keith Williams,3.8,5,N/A,,,,,,,1,,,,,,1,,,,1,,,,728993
+44,1805,Carl Sandburg College,History,4.0,Fred Visel,3.5,5,N/A,,,,,,,,,,,,,,1,,,,1,,1,1060508
+45,1806,Carolinas College of Health Sciences,Health Science,3.9,Sherry Marlow,2.6,11,N/A,,,,,,,,,,,,,,,,,,,,,57782
+46,1806,Carolinas College of Health Sciences,Health Science,4.3,Sue Thorton,3.9,11,N/A,,,,,,,,,,,,,,,,,,,,,411382
+47,1806,Carolinas College of Health Sciences,Nursing,3.7,Susan Patterson,4.4,10,N/A,,,,1,,,,1,,,,,,,,1,,,,,461591
+48,1806,Carolinas College of Health Sciences,Health Science,2.7,Debbie Woodard,2.6,9,N/A,,,,,,,,,,,,,,,,,,,,,57781
+49,1806,Carolinas College of Health Sciences,Health Science,4.4,Brenda Vasquez,3.4,7,N/A,,,,,,,,,,,,,,,,,,,,,57779
+50,1806,Carolinas College of Health Sciences,Nursing,4.1,Trish Cambell,2.9,7,N/A,,,,,,,,,,,,,,,,,,,,,579766
+51,1806,Carolinas College of Health Sciences,Health Science,2.3,Cathy Borswzick,4.7,6,N/A,,,,,,,,,,,,,,,,,,,,,57786
+52,1806,Carolinas College of Health Sciences,Nursing,3.8,Dana Mangum,4.9,6,N/A,,,,,,,,,,,,,,,,,,,,,738301
+53,1806,Carolinas College of Health Sciences,Nursing,4.6,Janie McCloskey,4.0,5,N/A,,,,,,,,,,,,,,,,,,,,,604569
+54,1806,Carolinas College of Health Sciences,Nursing,2.4,Lois Cook,3.9,5,N/A,,,,,,,,,,,,,,,,,,,,,604573
+55,1806,Carolinas College of Health Sciences,Health Science,3.2,Karen Miller,2.7,5,N/A,,,,,,,,,,,,,,,,,,,,,821306
+56,1806,Carolinas College of Health Sciences,Health Science,1.3,Shirlene Robinson,3.6,4,N/A,,,,2,,,,1,,,1,,,,,2,,,,,57778
+57,1806,Carolinas College of Health Sciences,Psychology,2.8,Lori Lieving,3.4,4,N/A,,,,,,,,,,,,,,,,,,,,,1252753
+58,1806,Carolinas College of Health Sciences,Biology,3.0,Carla Cozzen,5.0,4,N/A,,,,,1,2,,1,,,,,,,,1,,,,,1536236
+59,1806,Carolinas College of Health Sciences,Biology,3.5,Tracy James,3.7,4,N/A,2,1,,,2,1,,,,,,,2,,,,2,,,2,2177589
+60,1806,Carolinas College of Health Sciences,Nursing,1.0,Mildred Alexander,4.0,3,N/A,,,,,,,,,,,,,,,,,,,,,704835
+61,1806,Carolinas College of Health Sciences,Nursing,4.0,Michele Pfaff,3.2,3,N/A,,,,,,,1,1,,,,,,,,,,,,1,879506
+62,1806,Carolinas College of Health Sciences,Nursing,4.7,Charlie (charlene) Plyler,2.3,3,N/A,,,,,,,,,,,,,,,,,,,,,1252759
+63,1806,Carolinas College of Health Sciences,Nursing,4.7,Jane Binetti,4.0,3,N/A,,1,,,,,,,,,,,,,,1,,,,,1433583
+64,1806,Carolinas College of Health Sciences,Health Science,5.0,Roy Smither,4.8,2,N/A,,,,,,,,,,,,,,,,,,,,,1252755
+65,1807,Carroll Community College,History,3.5,Neil Dhingra,3.8,61,N/A,,,,1,,,,1,,,1,,,,,,,,,,648998
+66,1807,Carroll Community College,Philosophy,2.4,Donald Hoepfer,4.7,54,100%,,6,,8,1,,3,6,1,,7,3,1,1,6,4,,,,2,253493
+67,1807,Carroll Community College,History,1.8,Robert Young,4.9,54,100%,,11,,1,2,,,7,2,,10,3,1,,1,4,,,,,168385
+68,1807,Carroll Community College,Psychology,1.7,Colleen Spoonire Kline,4.8,48,100%,,8,,4,1,3,2,5,,,3,2,,1,1,2,,1,,,1108060
+69,1807,Carroll Community College,Economics,2.3,Dr. Dougherty,3.5,46,N/A,,,,,,,,,,,,,,,,,,,,,141721
+70,1807,Carroll Community College,Psychology,3.1,Laura Bittner,3.3,46,63%,,,1,,3,1,6,4,1,,,,,2,2,1,1,,1,11,291791
+71,1807,Carroll Community College,English,4.0,Mira Foote,3.3,46,80%,5,1,,7,3,3,5,11,,,1,1,6,5,5,2,5,8,,14,1774316
+72,1807,Carroll Community College,Education,1.5,Lara Hartman,3.9,45,77%,,4,,10,2,,,4,,1,12,15,,,3,5,,,,1,547276
+73,1807,Carroll Community College,Chemistry,4.4,Francois Derasse,3.3,44,N/A,,,1,,1,,1,,,,1,,3,,,1,6,,,9,350681
+74,1807,Carroll Community College,English,4.1,Michelle Parke,3.0,42,32%,1,2,3,,1,,10,6,1,1,2,,2,3,3,2,4,6,1,24,1322808
+75,1807,Carroll Community College,English,2.9,Jody Nusholtz,4.3,40,N/A,,1,,,1,,,1,,,,1,,,2,3,,,,2,309314
+76,1807,Carroll Community College,Mathematics,3.0,Jen Greenwood,4.0,40,78%,1,2,1,4,1,3,1,2,,,1,4,1,6,2,7,3,,,6,1063315
+77,1807,Carroll Community College,English,3.3,Siobhan Wright,3.7,37,100%,1,,,5,4,2,2,9,,,,,,,2,2,,1,,4,114617
+78,1807,Carroll Community College,Physical Ed,2.7,Sharon Brunner,4.5,37,N/A,1,,,,2,1,1,3,,,,3,,,4,6,1,,,2,350682
+79,1807,Carroll Community College,English,4.1,Nance Keyes,3.2,36,44%,4,,1,5,,,4,6,,,1,,,1,,3,9,6,,16,556692
+80,1807,Carroll Community College,Health Science,2.5,Mary Kemp,3.3,35,N/A,1,,,1,,1,,1,,,1,,,1,1,,,,,3,168826
+81,1807,Carroll Community College,Sociology,2.3,Gail Spessert,3.3,35,67%,,,,2,1,2,1,4,,,,1,1,1,2,2,,1,,1,1100543
+82,1807,Carroll Community College,Psychology,1.5,Richard Hann,4.8,34,N/A,,,,,,,1,,,,1,,,,1,,,,,,309328
+83,1807,Carroll Community College,English,4.1,Joanne Pilachowski,1.9,34,N/A,1,,,,,,,,,,,,,,,,1,,,1,671481
+84,1807,Carroll Community College,Chemistry,4.0,Raza Khan,3.3,33,40%,,3,,,,4,,,,1,1,3,1,6,,,3,,2,3,996964
+85,1808,Carteret Community College,Biology,2.6,Meg Rawls,4.5,13,N/A,,,2,1,,,,1,,,,2,,,,,,,,,566284
+86,1808,Carteret Community College,Biology,3.7,Phillip Morris,4.0,12,67%,,,,2,1,1,1,2,1,,,,1,3,2,2,2,,1,2,1502556
+87,1808,Carteret Community College,Chemistry,3.6,Kelly Gordon,4.0,10,N/A,,1,,1,2,,1,2,,,,,,2,2,,3,,,,1658080
+88,1808,Carteret Community College,Humanities,3.2,Ronald Montaperto,3.5,10,N/A,,2,,,1,,2,1,2,,,,1,,2,1,,1,,1,1762476
+89,1808,Carteret Community College,Mathematics,3.3,Jennifer Eyl,4.2,9,N/A,,,,,,,,,,,,,,,,,,,,,989118
+90,1808,Carteret Community College,Graphic Arts,3.0,Patrick Keough,5.0,8,N/A,,,,,,,,,,,,,,,,,,,,,572075
+91,1808,Carteret Community College,History,3.3,David Quinn,3.5,7,N/A,,2,,1,,,,2,,,,,1,,1,2,,1,,,1742670
+92,1808,Carteret Community College,Latin,2.0,Antonio Diaz,4.8,6,N/A,,,,,,,,,,,,,,,,,,,,,795743
+93,1808,Carteret Community College,English,1.7,Micheal Bowen,4.1,6,N/A,,,,,,,1,,,,,,,,,,,,,1,1705883
+94,1808,Carteret Community College,English,4.2,Ben Mize,3.1,5,N/A,,,,2,2,,,1,,,,,,,,,,,,3,1774153
+95,1808,Carteret Community College,Sociology,3.6,Johnny Underwood,3.3,5,N/A,,1,,,,,1,1,,,,,,2,,,,,,1,2023878
+96,1808,Carteret Community College,Mathematics,4.0,Verna Caz Chambers,4.2,4,N/A,,,,,,,,1,,,,,,4,3,,2,,,2,1954751
+97,1808,Carteret Community College,English,3.0,Fran Gibbs,2.2,3,N/A,,,,,,,,,,,,,,,,,,,,,1633446
+98,1808,Carteret Community College,Art History,1.7,Josephine Butler,2.8,3,N/A,,,,1,,,,,,,1,,,,,,,,,,1760519
+99,1808,Carteret Community College,Languages,4.0,Ashley-Sharon Bizzell,1.0,3,N/A,,,,,,,1,,,,,,1,3,,,1,,,2,2379658
+100,1808,Carteret Community College,Mathematics,3.0,David Ross,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,724765
+101,1808,Carteret Community College,Business,4.0,Buddy Miller,4.0,2,N/A,,,,,,,,,,,,,,,,,,,,,742195
+102,1808,Carteret Community College,Psychology,3.5,Donna Galley,5.0,2,N/A,,1,,1,,,,,,,,,,,,1,,,,,1125731
+103,1808,Carteret Community College,Design,4.0,Charles Jason Smith,3.5,2,N/A,,,,,,,,,,,,,,,1,,1,,,1,1439044
+104,1808,Carteret Community College,Education,2.5,Thom O'Mara,4.8,2,N/A,,,,1,,,,1,,,,,,,,,,,,,1789807
+105,1809,Casper College,Mathematics,3.7,Scott Woods,4.3,45,93%,13,11,,3,13,4,,24,1,2,7,4,5,9,7,14,6,,8,4,2404390
+106,1809,Casper College,Biology,2.0,Tom Clifford,4.0,19,N/A,,3,,,2,,,1,,,3,,,,,,,,,,592692
+107,1809,Casper College,Nursing,4.0,Nubia Urquijo-Arana,2.3,19,N/A,,,,1,,,1,1,,,,,1,,1,,3,,,1,1845155
+108,1809,Casper College,Sociology,2.2,Chad Hanson,4.8,19,100%,,8,,,,2,,3,,,5,,2,,2,6,,,,1,606138
+109,1809,Casper College,English,2.6,Patrick Amelotte,3.5,18,N/A,,,,3,,,3,1,,,,,,,,,,1,,,606131
+110,1809,Casper College,Biology,3.1,Brandi Atnip,4.2,17,N/A,1,2,,2,1,,,4,,,,1,,,,5,,,,,592693
+111,1809,Casper College,Mathematics,3.8,Tracy Hollister,3.2,15,33%,,,1,,,,,1,,,,,,5,,1,,1,1,5,602485
+112,1809,Casper College,English,3.4,Melanie Young,3.2,14,N/A,,,,,,,,,,,,1,,,1,,1,,,1,967481
+113,1809,Casper College,Science,3.2,Will Robinson,4.2,13,N/A,,1,,,,,2,2,,,,,2,,,2,4,,,2,592716
+114,1809,Casper College,Chemistry,2.5,John Chase,4.5,12,N/A,1,3,,,,1,,,,,3,,,1,,1,1,,1,,591643
+115,1809,Casper College,Psychology,3.0,Garth Shanklin,3.9,12,N/A,,,,,,,,1,,,,,,,1,1,,,,,592717
+116,1809,Casper College,Dance,2.8,Jodi Youmans-Jones,4.3,11,N/A,,,,1,,,,,,,,1,,,,1,1,1,,,149827
+117,1809,Casper College,Biology,3.2,Scott Johnson,4.5,11,N/A,1,,,,1,,1,,,,2,1,,,2,3,3,,,1,1123819
+118,1809,Casper College,Philosophy,4.1,Robert Carlson,2.4,10,N/A,,,,,,,,,,,,,,,,,,,,,256232
+119,1809,Casper College,Mathematics,2.5,Pete Wildman,4.4,8,N/A,,,,,,,,,,,,,,,,,,,,,592715
+120,1809,Casper College,Political Science,3.3,Erich Frankland,4.4,7,N/A,1,2,,,1,1,1,3,,,,1,,,,3,2,,,1,1979793
+121,1809,Casper College,Chemistry,4.7,Mark Mehn,2.0,7,29%,2,1,2,1,,,,1,,,,,1,4,,,2,,3,2,2236899
+122,1809,Casper College,History,2.3,Don Robinson,4.6,6,N/A,,1,,1,,,,1,,,,,,,,,,,,,606135
+123,1809,Casper College,Physics,3.7,Jared Bowden,4.0,6,N/A,2,,,2,,,,,,1,,1,,,,,,,,,685676
+124,1809,Casper College,Mathematics,3.3,Susan Nelson,2.3,6,N/A,,,,,,,,,,,,,,,,,,,,,769412
+125,1810,Catawba Valley Community College,Biology,3.9,William Davis,4.7,48,100%,,6,,4,7,3,2,4,,,15,2,,2,10,11,16,,1,7,1524551
+126,1810,Catawba Valley Community College,Mathematics,4.3,Collette Touchette,2.3,45,14%,,,,,2,,2,,,,,,4,4,3,,5,1,1,7,769611
+127,1810,Catawba Valley Community College,English,1.4,Jimmy Rumple,4.3,44,N/A,,,,2,,,,,1,,2,,,,,2,,,,,358328
+128,1810,Catawba Valley Community College,Biology,4.3,Emily Whiteley,4.3,44,N/A,1,1,,1,,,1,1,,,,,,,,2,2,,1,4,429415
+129,1810,Catawba Valley Community College,Biology,4.1,Susan Kale,3.2,36,60%,1,,,,1,1,6,1,,,,,12,2,1,,7,,5,10,518077
+130,1810,Catawba Valley Community College,Science,4.1,Joe Heafner,2.9,36,N/A,,,,,1,,,,1,,1,,,,2,,3,,,1,429436
+131,1810,Catawba Valley Community College,Biology,4.0,Betty Petersen,3.0,34,50%,2,1,1,,1,,4,1,,,1,,4,2,1,,3,,5,4,480804
+132,1810,Catawba Valley Community College,Mathematics,2.6,Kenneth Mann,4.3,33,N/A,,,,1,,,,,,,1,,,,1,,,,,,197557
+133,1810,Catawba Valley Community College,Sociology,3.1,Bobbie Brannon,3.1,33,N/A,,,,,,,2,,,,,,,,,,,,,1,673666
+134,1810,Catawba Valley Community College,Mathematics,4.0,Vasilica Marhao,2.2,30,N/A,,,,,,,,,,,,,2,1,,,1,,1,3,429431
+135,1810,Catawba Valley Community College,History,3.3,Richard Eller,4.0,29,N/A,,,,,,,1,,,,,,,,1,,,,,,358333
+136,1810,Catawba Valley Community College,Humanities,2.6,Robert Canipe,4.7,29,N/A,,1,,1,1,,,5,,,3,2,,2,,3,1,,,1,1176242
+137,1810,Catawba Valley Community College,English,3.9,Kevin Rouse,4.2,27,N/A,,,,,,,,,,,,,,,,,,,,,162700
+138,1810,Catawba Valley Community College,Music,4.0,Amalie Hinson,2.3,23,N/A,,,,,1,,,,,,,,,,,,2,,,1,985388
+139,1810,Catawba Valley Community College,Humanities,2.1,Tim Lee,4.8,22,N/A,,1,,3,,2,,1,,,6,1,,,1,1,1,,,,476191
+140,1810,Catawba Valley Community College,English,2.6,Scott Owens,5.0,22,N/A,,1,,,,,,1,,,,2,,,,2,,,,,1608944
+141,1810,Catawba Valley Community College,English,2.6,Polly Watson,4.3,21,N/A,1,,,1,1,,,2,,,1,,,,,,,,,,197521
+142,1810,Catawba Valley Community College,History,2.9,Dennis Benfield,1.3,21,N/A,,,,,,,,,,,,,,,,,,,,,520215
+143,1810,Catawba Valley Community College,Science,2.9,Tracie Jeffries,4.8,21,100%,1,2,,3,1,,1,2,,,2,,,,1,,3,,,1,1377110
+144,1810,Catawba Valley Community College,Psychology,2.6,Brian Bergman,3.2,21,50%,1,1,,,2,4,3,,2,1,1,1,9,,3,1,1,,1,2,1436261
+145,1811,School of Nursing of Saint Vincent Catholic Med.,Nursing,3.8,Debra Weil,3.0,5,N/A,,,,,,,,,,,,,,,,,,,,,1184336
+146,1811,School of Nursing of Saint Vincent Catholic Med.,Health Science,1.0,Vilma Greene,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1559888
+147,1811,School of Nursing of Saint Vincent Catholic Med.,Nursing,5.0,Donna Darcy,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1791886
+148,1812,Cayuga Community College,Computer Science,2.3,Liz McCormick,4.7,39,80%,,,,1,5,,1,7,,,,1,,1,3,2,,,,,126713
+149,1812,Cayuga Community College,Criminal Justice,2.0,John Lamphere,4.6,37,100%,1,1,,,,,,1,1,,2,2,,,4,3,,,,,610402
+150,1812,Cayuga Community College,English,2.8,Richard Bower,3.6,36,N/A,,2,,1,,,,2,,,1,,1,1,,,,2,,1,68254
+151,1812,Cayuga Community College,English,3.7,Maryanne Felter,4.3,35,N/A,1,1,,1,,,1,1,,,,,,1,1,1,,,,3,256382
+152,1812,Cayuga Community College,Psychology,3.0,Nathaniel Thomas,4.3,33,80%,3,7,,2,4,1,6,3,,,7,2,1,5,4,8,2,2,1,1,1548862
+153,1812,Cayuga Community College,Business,2.3,Amy Valente,4.1,32,43%,1,1,,,,1,,2,,,,2,,,,2,,,,,1607714
+154,1812,Cayuga Community College,Computer Science,3.4,Dia Carabajal,2.0,31,40%,1,,,1,,1,,,,,2,,2,1,,,2,,,1,138410
+155,1812,Cayuga Community College,Psychology,2.5,Michael Zich,4.2,31,56%,1,1,,,3,,7,3,,,1,1,1,4,7,2,,2,,1,471699
+156,1812,Cayuga Community College,English,2.8,Kelley Rowley,2.8,30,20%,,,,1,1,,2,1,1,1,,,,4,,,,1,,2,68430
+157,1812,Cayuga Community College,English,3.4,Diana Valdina,4.3,28,N/A,,1,,1,1,,2,2,,,1,4,,,,,4,1,,1,421194
+158,1812,Cayuga Community College,Computer Science,3.5,Loraine Miller,2.1,27,N/A,1,,,1,,,,1,,,,,,,2,,,,,2,138418
+159,1812,Cayuga Community College,English,2.2,Mark Montgomery,4.3,27,100%,1,1,,6,,,,4,,1,1,,,,1,,,,,,153814
+160,1812,Cayuga Community College,Sociology,3.6,Daniel Schultz,3.2,27,N/A,,,,,,,,,,,,,,,,,,,,,154897
+161,1812,Cayuga Community College,Communication,1.8,Steve Keeler,4.6,26,N/A,1,,,1,,,,,,,,2,,,,2,,,,,153800
+162,1812,Cayuga Community College,Mathematics,3.3,Paul Richardson,4.2,26,80%,,,,1,1,,,3,,,1,,,4,1,,2,,2,,462210
+163,1812,Cayuga Community College,Biology,3.8,Joel Humphrey,3.8,26,50%,1,2,,2,1,,3,2,,,,,,1,2,,,,1,2,763626
+164,1812,Cayuga Community College,Mathematics,2.8,Shannon Reohr,3.8,25,N/A,1,,,,1,,,1,,,,,,1,,,1,,,1,139173
+165,1812,Cayuga Community College,Mathematics,3.4,Kathy Gross,3.3,24,N/A,,,,,,,,1,,,,,,2,,1,,,1,1,138429
+166,1812,Cayuga Community College,Psychology,2.6,Don Sanzotta,4.6,21,N/A,,1,,,,,,,,,,,,,1,,,,,,422190
+167,1812,Cayuga Community College,Business,3.5,Christopher Fama,5.0,21,N/A,,,,,,,,,,,,,,,,,,,,,1487719
+168,1813,Cecil College,Social Science,3.1,Paul Bauer,4.7,221,N/A,,,,,,,,,,,,,,,,,,,,,27004
+169,1813,Cecil College,Mathematics,3.8,Kristy Erickson,3.9,44,100%,1,,,6,1,,,1,,,,5,,2,,2,,,,2,793058
+170,1813,Cecil College,History,3.2,Fred McDonald,4.3,42,N/A,,2,,2,,,1,,,,,,,,2,1,,,,,55884
+171,1813,Cecil College,English,4.0,Dennis Fabella,2.8,38,N/A,,,,,,,,,,,,,,,,,,,,,56213
+172,1813,Cecil College,Mathematics,4.3,John Climent,2.6,34,N/A,,,1,,,2,,,,,,,1,5,,,,2,1,3,55845
+173,1813,Cecil College,Science,3.7,Beth Olsen,2.8,34,N/A,,,,,,1,4,1,,1,,,1,1,2,,,,1,5,68935
+174,1813,Cecil College,English,3.1,Jennifer Levi,4.4,32,67%,1,,,,1,,2,4,,,,,,2,4,2,1,1,,6,290070
+175,1813,Cecil College,Biology,4.2,Nancy Vinton,3.1,31,88%,4,,1,2,2,1,1,,1,,,1,6,,,,6,,1,14,188518
+176,1813,Cecil College,Psychology,3.0,Carol Mitchell,3.6,30,N/A,,,,,,,,,,,,,,,,,,,,,55787
+177,1813,Cecil College,Criminal Justice,2.4,Patrick Beatty,5.0,30,N/A,,,,,,,,,,,,,,,,,,,,,1578634
+178,1813,Cecil College,Biology,3.3,Karen Wiener,2.7,30,N/A,,8,,2,5,1,1,3,,,4,,,,,,2,,,1,1866195
+179,1813,Cecil College,Science,3.2,Gail Wyant,4.0,29,N/A,,,,2,,1,1,3,,,,,,3,1,2,1,,,,55842
+180,1813,Cecil College,Science,3.3,Veronica Dougherty,4.7,28,N/A,,2,,,1,,1,3,,,1,,,,,2,2,,,1,68890
+181,1813,Cecil College,English,3.3,Kevin Wisniewski,4.9,26,N/A,,,,,,,,,,,,,,,,,,,,,749401
+182,1813,Cecil College,Mathematics,2.5,Kim Sheppard,4.8,21,100%,,1,,2,4,1,2,5,,,,,,5,2,2,1,,,,55786
+183,1813,Cecil College,English,3.2,Susan Bernadzikowski,4.2,21,N/A,1,,,1,,,,2,,,,,,,,,,,,2,81345
+184,1813,Cecil College,Mathematics,2.7,Ron Knorr,4.6,20,N/A,,,,,,,,,,,,,,,,,,,,,124539
+185,1813,Cecil College,Biology,2.9,Prameela Kuraguntla,2.6,18,11%,1,,3,1,,,,1,3,3,,1,4,1,1,1,1,,3,2,1400471
+186,1813,Cecil College,Sociology,1.9,Ronald Thomson,4.6,14,N/A,,,,,1,,,,,,,,,,,,1,,,1,191905
+187,1813,Cecil College,Education,3.1,David Rudolph,3.8,14,N/A,,,,1,,,,1,,,,,,,,,,,,1,195500
+188,1815,Cedar Valley College,Mathematics,1.8,Tommy Thompson,4.3,188,76%,1,,,9,17,5,3,5,2,,3,,2,19,5,1,1,1,1,6,451415
+189,1815,Cedar Valley College,Biology,4.0,Jennifer Siemantel,3.0,105,52%,,1,1,1,7,15,20,1,,,1,1,1,12,4,,4,,10,22,462133
+190,1815,Cedar Valley College,Mathematics,3.1,Mikal McDowell,3.8,91,91%,4,,1,15,19,,,12,1,,,2,1,13,10,5,,,1,4,764107
+191,1815,Cedar Valley College,English,2.5,Michael Opolicky,4.2,69,74%,1,2,1,4,8,1,5,17,3,,7,3,1,3,4,7,11,3,,12,557093
+192,1815,Cedar Valley College,Communication,1.5,Dan Rogers,4.8,55,93%,,9,3,5,2,1,1,12,,1,10,2,1,,5,9,1,,,,629341
+193,1815,Cedar Valley College,Mathematics,1.8,Mohamed Aziz,4.6,54,100%,3,1,,6,2,,,6,,,,1,,,8,3,5,,,,320992
+194,1815,Cedar Valley College,Economics,2.5,Mathewos Kassa,4.3,50,91%,4,11,1,8,23,13,7,3,1,,,,3,2,5,6,1,,1,3,1831685
+195,1815,Cedar Valley College,Biology,3.2,Jane Slone,3.1,49,14%,,,,,,,1,,,,,,1,,,,,1,,9,628456
+196,1815,Cedar Valley College,Mathematics,2.7,Shannon Kratzmeyer,4.4,44,78%,3,1,,7,18,1,2,13,,,,2,1,22,2,3,2,,,1,1469199
+197,1815,Cedar Valley College,Political Science,3.9,Shaun Gilligan,3.3,43,32%,1,1,1,1,3,1,6,7,,,6,,5,5,4,1,9,1,3,22,1659850
+198,1815,Cedar Valley College,Political Science,3.7,David McCoy,2.9,42,83%,,2,3,1,1,1,5,1,,,,,1,,,2,3,1,1,4,629344
+199,1815,Cedar Valley College,English,2.5,John Rose,4.8,41,100%,6,6,,12,13,5,5,24,1,,11,7,,1,6,11,4,2,,3,1977628
+200,1815,Cedar Valley College,Mathematics,2.8,Mary Merchant,4.0,40,77%,,,1,6,10,2,1,6,1,,1,,,13,2,1,,,,6,1511420
+201,1815,Cedar Valley College,Biology,3.6,Sheryl Lumbley,3.4,40,40%,,2,1,2,2,3,9,2,,,,1,6,2,3,,7,1,4,13,396187
+202,1815,Cedar Valley College,English,3.8,Janet Brotherton,3.2,34,40%,4,1,2,8,2,3,11,4,,,3,1,3,1,11,2,6,,,12,999067
+203,1815,Cedar Valley College,English,2.8,R Rios-Harris,4.4,33,N/A,2,,,1,2,,2,4,,4,,,,,3,1,3,,,2,617892
+204,1815,Cedar Valley College,English,3.9,Suzanne Disheroon,2.0,31,27%,,,,1,1,,2,4,1,1,,,,5,4,,4,6,,10,1085579
+205,1815,Cedar Valley College,Biology,3.8,Brian Earle,2.4,30,50%,,1,,,4,1,6,,,,,,,2,2,1,1,,3,2,629342
+206,1815,Cedar Valley College,Computer Science,2.4,Ginnette Serrano-Correa,4.5,28,100%,2,2,,3,8,4,6,8,,,,,,7,1,3,,,,,1014781
+207,1815,Cedar Valley College,Psychology,2.4,Bettie Meachum,4.3,27,N/A,,1,,,3,,4,,,,1,,2,,1,1,,,,1,628128
+208,1816,Central Alabama Community College,Biology,2.9,Ron Van Houten,4.8,26,83%,1,2,2,4,1,3,,2,,,,2,2,,1,3,4,,1,2,503361
+209,1816,Central Alabama Community College,Chemistry,4.2,Joe Branch,2.0,21,N/A,,,,,,,,,,,,,,,,,,,,,503375
+210,1816,Central Alabama Community College,Mathematics,1.9,PT Kornman,4.8,14,100%,,,,3,2,2,,2,,,3,1,,1,,1,,,,,616046
+211,1816,Central Alabama Community College,Mathematics,1.9,James Blair,5.0,13,N/A,,,,,,,,,,,,,,,,,,,,,503367
+212,1816,Central Alabama Community College,Philosophy,3.3,Ray Pullium,3.1,13,N/A,,,,,,,,,,,,,,,,,,,,,503388
+213,1816,Central Alabama Community College,Mathematics,3.1,John D Stark,4.5,12,83%,1,,,1,1,3,,2,,,3,,,2,,2,2,,,,1783226
+214,1816,Central Alabama Community College,English,2.5,Laura Brown,4.7,11,N/A,,,,,,,,,,,,,,,,,,,,,273028
+215,1816,Central Alabama Community College,Biology,2.8,Shelly Woods,4.9,9,N/A,,,,,,,,,,,,,,,,,,,,,503370
+216,1816,Central Alabama Community College,History,2.3,Karen Huffman,3.8,9,N/A,,,,,,,,,,,,,,,,,,,,,503389
+217,1816,Central Alabama Community College,English,3.9,Brandy Mitchell,3.0,9,N/A,,,,1,1,1,1,1,1,1,,,,1,1,1,,1,,1,1278064
+218,1816,Central Alabama Community College,Chemistry,3.6,Jeremy Carr,4.8,9,100%,1,2,1,3,1,1,,3,,,3,,1,,,7,3,,,1,2032262
+219,1816,Central Alabama Community College,Economics,1.5,Jimmy Nix,4.9,8,N/A,,,,1,1,,,,,,,,,,,1,,,,,281408
+220,1816,Central Alabama Community College,History,2.7,Ricky Causey,4.7,8,N/A,,,,,,,1,2,,,,,,,2,,,,,,649429
+221,1816,Central Alabama Community College,History,1.9,James Hurst,4.7,8,N/A,1,1,,2,,2,,1,,,,1,1,,1,4,,,,,1836928
+222,1816,Central Alabama Community College,English,3.1,Robert D. Vickery II,4.5,8,80%,1,2,,1,,,,4,,,3,2,,,1,2,,,,2,1968409
+223,1816,Central Alabama Community College,English,4.6,Janie Hornsby,2.4,7,N/A,,,,,,,,,,,,,,,,,,,,,112112
+224,1816,Central Alabama Community College,Speech,3.0,Ray Prochaska,3.1,6,N/A,,,,,,,,,,,,,,,,,,,,,1304788
+225,1816,Central Alabama Community College,History,1.5,Justin Williams,4.9,6,N/A,,2,,5,,,,,,,2,3,,,1,2,,,,,1985933
+226,1816,Central Alabama Community College,English,2.7,Maribeth Farr,4.9,6,N/A,,,3,3,4,,1,4,,,,,,,,,,,,,2033521
+227,1816,Central Alabama Community College,English,4.0,Pam Sherrer,4.4,5,N/A,,,,,,,,,,,,,,,,,,,,,366681
+228,1817,Central Arizona College,History,4.0,Vanae Carson,1.9,37,N/A,,,,,,,1,,,1,,1,,,1,1,,1,,,364924
+229,1817,Central Arizona College,English,3.1,Heather Moulton,4.2,29,N/A,,1,,4,3,2,2,4,,1,1,3,,2,1,1,,1,,5,689209
+230,1817,Central Arizona College,Computer Science,2.5,William Aramoni,4.5,29,N/A,,,,,,,,,,,,,,,,,,,,,1815470
+231,1817,Central Arizona College,English,3.8,Keith Eubanks,4.4,27,N/A,,,,1,,,,5,,,2,1,,,,2,5,,,5,854785
+232,1817,Central Arizona College,Chemistry,3.0,Diane Beecroft,4.9,25,N/A,,2,,4,,,,4,,,5,4,,,4,8,2,,,1,665054
+233,1817,Central Arizona College,Mathematics,2.6,Kai Chuang,4.5,23,N/A,,1,,1,1,1,,1,,,2,1,1,4,3,1,4,,,2,778848
+234,1817,Central Arizona College,Biology,3.4,Jeff Bunkelmann,4.5,22,N/A,,,,1,,,,,,,,,,,,1,,,,,641034
+235,1817,Central Arizona College,Chemistry,3.8,Bruce Martin,2.8,22,80%,,,1,2,,3,,,,,,,3,1,1,,2,,,1,806936
+236,1817,Central Arizona College,Literature,2.5,Skyla Teel,4.5,20,92%,2,1,1,7,3,,4,7,,2,1,3,,1,4,8,,,1,2,1837838
+237,1817,Central Arizona College,Social Science,1.9,Sue Warner,4.1,19,N/A,,1,,,,1,,,,,1,1,1,,1,,,,,,636896
+238,1817,Central Arizona College,Biology,4.5,Dixie Kullman,3.7,19,60%,1,,1,,,,6,1,,,,1,1,3,1,,6,,,9,1291956
+239,1817,Central Arizona College,English,3.6,Brooke Eubanks,4.1,18,N/A,,,,1,,,,2,,,,,,,,,,,,1,854784
+240,1817,Central Arizona College,Mathematics,3.6,Alejandrina Garza,1.9,18,N/A,,,,,1,,1,1,,,,,2,3,3,,2,1,,8,1774295
+241,1817,Central Arizona College,Biology,3.0,Marilyn Edelman,4.5,17,N/A,,1,,,2,1,,1,,,3,,1,1,3,2,3,,,1,777887
+242,1817,Central Arizona College,Mathematics,3.3,Tony Dougherty,2.0,15,N/A,,,,,,,1,,,,,1,,3,1,,1,,1,2,805146
+243,1817,Central Arizona College,Political Science,2.8,Leo Valverde,4.7,15,N/A,,,,,,,,,,,,,,,,,,,,,1727510
+244,1817,Central Arizona College,Psychology,2.4,Liz Baroi,4.7,15,100%,1,5,,2,3,1,1,9,,,2,7,,,3,5,,1,,1,1973427
+245,1817,Central Arizona College,Communication,2.9,Jorita Defrancesco,4.3,15,N/A,,1,,1,2,2,4,4,,,,,,,1,,,,,,1442459
+246,1817,Central Arizona College,Mathematics,4.4,S Takas,3.5,14,N/A,,,,,,1,,,,,,,,2,,,1,,1,1,844878
+247,1817,Central Arizona College,Mathematics,3.0,Thomas Gamble,3.2,14,N/A,2,,,2,1,2,,1,,,,,,3,,2,,,,3,1492096
+248,1818,Central Carolina Community College,History,3.3,Robert Barnes,4.8,45,94%,,10,,2,2,,2,2,1,,4,3,2,1,9,5,8,4,,6,1113875
+249,1818,Central Carolina Community College,English,3.4,Kim Overcash,2.7,37,19%,1,,1,1,7,,11,3,,,1,,5,10,3,,3,6,1,11,847252
+250,1818,Central Carolina Community College,Biology,4.4,DR. Miller,2.1,25,18%,1,,3,1,1,,3,1,1,,1,,4,,,1,7,,,13,825051
+251,1818,Central Carolina Community College,Mathematics,3.5,Kaan Ozmeral,4.8,19,100%,2,4,,5,2,4,,9,,2,1,,,,,2,,,5,2,1732820
+252,1818,Central Carolina Community College,History,1.6,Anthony Harrington,4.6,18,N/A,,,,,,,,,,,,,,,,,,,,,377160
+253,1818,Central Carolina Community College,Mathematics,2.6,Fred Fritz,5.0,16,100%,2,2,,1,1,,,3,,,,,,,,2,1,,,,296612
+254,1818,Central Carolina Community College,English,2.7,Ty Stumpf,4.6,16,N/A,,2,,,1,,2,2,,,3,,1,,,1,,1,,2,496164
+255,1818,Central Carolina Community College,Mathematics,4.5,Charity Turner,2.1,15,14%,1,,,,1,2,,,2,,,,1,4,1,1,,,5,9,1935372
+256,1818,Central Carolina Community College,Education,2.3,Sue Boyd,3.8,13,N/A,,,,4,1,,2,2,,2,1,2,,,6,,,1,,,825117
+257,1818,Central Carolina Community College,English,4.7,Anjanette W Porter,1.4,13,N/A,,,,,,,5,,,1,,,,3,1,,2,2,1,11,2082548
+258,1818,Central Carolina Community College,Psychology,1.6,David Malenick,5.0,13,100%,,2,,4,1,3,,3,,,2,1,,,1,4,,,,,1499024
+259,1818,Central Carolina Community College,English,3.8,Catherine Entrocaso,3.1,13,62%,1,1,,,,,7,4,,1,4,,,7,4,2,1,2,,2,2354897
+260,1818,Central Carolina Community College,Biology,3.6,Jessica Brown,3.8,12,N/A,,,,,,,1,,,,,,,3,1,,,1,2,1,737340
+261,1818,Central Carolina Community College,Chemistry,3.9,Pheobe Shih,2.9,12,29%,1,,,4,2,1,,2,,,,,3,2,1,,1,,6,,1357835
+262,1818,Central Carolina Community College,English,3.8,Becky Finken,2.1,12,40%,1,,,1,,,4,1,,,,,,3,,,7,5,,6,2003454
+263,1818,Central Carolina Community College,Sociology,1.2,Jay Norris,4.8,11,N/A,,2,,1,,1,,,,,,,,,1,2,,,,,496557
+264,1818,Central Carolina Community College,Biology,3.5,Dr Amy Kennedy,3.5,11,N/A,,,,1,,1,2,,,,,,1,3,,,1,,1,1,988560
+265,1818,Central Carolina Community College,Languages,2.3,Begoña Buxens,3.1,10,N/A,,,,1,,,,,,,1,,,1,2,,4,,,1,1783302
+266,1818,Central Carolina Community College,Mathematics,2.7,Ben Falero,3.4,10,100%,2,1,,2,1,1,,1,,,4,,,1,,1,,,,,1828384
+267,1818,Central Carolina Community College,English,2.0,Joy Hewitt,1.7,9,N/A,,,,,,,,,,,,,,,,,,,,,549443
+268,1819,Central Community College,English,2.8,Jim Kosmicki,4.4,9,N/A,,,,,1,,,1,,,,,,,,,,,,1,166274
+269,1819,Central Community College,English,3.4,Summer Dickinson,4.7,9,100%,,1,,1,3,,2,7,,,,2,,,2,5,2,,,,2231839
+270,1819,Central Community College,English,1.7,Brent Adrian,4.3,6,N/A,,,,,,,,,,,,,,,,,,,,,1311948
+271,1819,Central Community College,English,3.4,Terry Schifferns,2.7,5,N/A,,1,,,,,1,,,,1,,,3,1,1,,,1,4,2042962
+272,1819,Central Community College,History,4.0,Linda Wilke Heil,3.1,3,N/A,,,,,,,3,,,,,,,2,1,,,,,3,1709238
+273,1819,Central Community College,Biology,5.0,Sarah Grandon,2.0,2,N/A,,,,,,,,,,,,,1,,,,1,,2,,2341861
+274,1819,Central Community College,Accounting,2.0,Kim Hurt,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1693188
+275,1819,Central Community College,Health Science,4.0,Susan Oliver,4.0,1,N/A,,,,1,,,,,,,1,,,,1,,,,,,2140457
+276,1819,Central Community College,English,2.0,Ashley Scheil,5.0,1,N/A,,,,,1,,,1,,,,,,,,1,,,,,2217643
+277,1819,Central Community College,Mathematics,3.0,Melissa Kosch,4.0,1,N/A,,,,,1,,,1,,,,,,1,,,,,,,2371062
+278,1819,Central Community College,Business,2.0,Venus King,5.0,1,N/A,,,,1,,,,1,,,,,,1,,,,,,,2443737
+279,1819,Central Community College,Mathematics,3.0,Rachel Brown,5.0,1,N/A,,,,1,,,,1,,,,,,1,,,,,,,2489281
+280,1821,Central Lakes College,Sociology,2.5,Gary Payne,4.2,35,N/A,,4,,1,1,1,1,2,,,,3,2,,1,,3,,,,355881
+281,1821,Central Lakes College,Philosophy,3.0,Herb Ollila,4.1,25,N/A,,,,,,,1,,1,,,1,1,,2,,,,,4,355877
+282,1821,Central Lakes College,Mathematics,2.5,Dan Bjerga,4.8,24,N/A,,1,,2,1,2,,1,,,1,1,,1,2,5,2,,,,340305
+283,1821,Central Lakes College,Communication,2.9,Thurman Knight,3.7,23,N/A,,1,,2,1,,2,1,,,2,4,,1,3,2,2,,,,956751
+284,1821,Central Lakes College,English,3.9,Matthew Fort,4.5,22,100%,1,1,,4,1,,,6,,,,2,,,2,2,1,,,1,167229
+285,1821,Central Lakes College,Mathematics,4.3,Roger Pickering,2.1,21,43%,,,,,1,2,1,,,,,,3,8,1,,1,,,9,957065
+286,1821,Central Lakes College,Biology,3.4,Mark Platta,3.2,19,N/A,,,,,,,,,,,,,,1,,,,,,,573864
+287,1821,Central Lakes College,Sociology,2.5,Scott Foster,4.3,19,N/A,,1,,2,3,,2,4,,,,2,,2,1,,,,,1,355886
+288,1821,Central Lakes College,Biology,3.8,Sandra Kaplan,3.5,18,N/A,,,,,,,3,1,,,,,,5,,,1,,,6,145123
+289,1821,Central Lakes College,Biology,3.8,Paul Mickelson,3.0,18,N/A,,1,2,,1,,3,,1,,1,,,3,,,2,,1,6,573865
+290,1821,Central Lakes College,Geography,2.3,Michael Hopps,4.1,16,N/A,1,,,3,1,,,1,,,3,,2,,1,1,2,1,,,956744
+291,1821,Central Lakes College,English,2.5,Jeff Johnson,4.6,16,N/A,1,2,,2,,,1,4,1,,1,2,,,1,4,,1,,,1573904
+292,1821,Central Lakes College,Philosophy,3.4,Sarah Kath,3.5,15,67%,2,2,,,1,,4,2,,1,,,1,2,2,1,3,1,,2,1618258
+293,1821,Central Lakes College,Computer Science,2.2,Dar Houle,2.3,15,N/A,,,1,,,,1,,,,,1,,3,1,1,1,,,,949232
+294,1821,Central Lakes College,Science,3.2,David Kobilka,3.9,14,78%,2,1,,4,2,,1,3,,,2,2,,2,,2,,2,,4,1738501
+295,1821,Central Lakes College,Communication,2.2,Kari Frisch,4.6,14,N/A,1,,,,3,1,,3,,,,,,,,1,,,,,507579
+296,1821,Central Lakes College,Health Science,1.2,Nancy Smith,3.6,12,N/A,,,,,,,,,,,,1,,,1,1,,,,,167228
+297,1821,Central Lakes College,Political Science,2.5,Steve Wenzel,3.8,12,N/A,,1,,,,1,,3,2,,,,2,,,2,,1,,,1618260
+298,1821,Central Lakes College,Anthropology,2.6,Sharon Fodness,4.5,11,N/A,,,,,,,,,,,,,,,,,,,,,171821
+299,1821,Central Lakes College,English,4.1,Bruce Eastman,3.7,11,N/A,,,,,,,,,,,,,,,,,,,,,507582
+300,1822,Central Maine Medical Center School of Nursing,Science,2.8,Kim Emery,4.1,5,N/A,,,,,1,,,,,,,,,,1,,,,,1,1059046
+301,1822,Central Maine Medical Center School of Nursing,Nursing,4.5,Nancy Jo Ross,3.4,4,N/A,,,1,1,,,1,,,,,,,,,,,,1,2,1553945
+302,1822,Central Maine Medical Center School of Nursing,Nursing,2.5,Nancy Sorman,3.3,2,N/A,,,,,,,,,,,,,,,,,,,,,1555590
+303,1823,Central Maine Community College,Humanities,2.2,Nancy Henry,4.9,21,N/A,,,,,,,,,,,,,,,,,,,,,1116832
+304,1823,Central Maine Community College,Mathematics,4.4,Doug Carbone,2.5,19,N/A,,,,,,1,,1,1,,,,1,,,,2,,,6,640529
+305,1823,Central Maine Community College,Humanities,2.8,John Blois,4.5,19,83%,,,,2,2,,,4,,,,2,,1,2,2,,,,,666749
+306,1823,Central Maine Community College,Psychology,2.5,Frankie Holt,3.9,19,67%,,1,,1,2,3,1,4,,,1,1,,2,3,1,,3,,4,621614
+307,1823,Central Maine Community College,Architecture,3.7,Dan Moreno,2.2,17,N/A,,,,,,,,1,,,1,,,,2,,1,,,1,375787
+308,1823,Central Maine Community College,Biology,3.0,Maria Hays,4.7,15,N/A,,,,,,,,1,,,,1,,,,1,,,,,755772
+309,1823,Central Maine Community College,Business,1.6,Steven Doak,4.5,12,N/A,,1,,1,,,,1,1,,1,1,,,1,1,,,,,1565686
+310,1823,Central Maine Community College,Business,4.0,Michael Henry,3.0,9,N/A,,1,,,1,,,2,,,1,,,1,,,,,,1,871541
+311,1823,Central Maine Community College,Computer Science,2.4,Kevin Cook,4.9,8,N/A,,,,,,,1,,,,,,,1,,1,,,,,136829
+312,1823,Central Maine Community College,Humanities,2.3,Denis Bouttenot,4.1,8,N/A,,,,,,,,1,,,1,,,,,,,,,1,666599
+313,1823,Central Maine Community College,Biology,3.5,Susan Carbone,3.4,8,N/A,,,,,,,,,1,,,,,,,,,,,1,1150257
+314,1823,Central Maine Community College,Mathematics,1.6,Ralph Plourde,4.6,8,N/A,,,,2,1,,,2,,,1,,,,,1,,,,,1281586
+315,1823,Central Maine Community College,Psychology,3.4,Mary-Terese Duffy,3.5,8,N/A,1,,,1,,,,,,,,,,1,2,,2,,,2,1350653
+316,1823,Central Maine Community College,Business,1.5,Laurie Lopez,3.5,8,N/A,,,,,,,1,,,,,,,,,,,,,,965193
+317,1823,Central Maine Community College,Writing,3.6,Kate Dionne,4.3,7,N/A,,,,,,,,,,,,,,,,,,,,,1033755
+318,1823,Central Maine Community College,Mathematics,1.7,John Wallace,4.6,7,N/A,,,,,,,,1,,,1,,,,,,,,,,1337159
+319,1823,Central Maine Community College,Computer Science,1.7,Phil Fleury,3.8,6,N/A,,,,,,,,,,,,,,,,,,,,,136857
+320,1823,Central Maine Community College,Philosophy,3.8,Noel Plourde,3.0,6,N/A,,,,,,,1,,,,,,,1,,,2,1,,3,1281590
+321,1823,Central Maine Community College,Mathematics,3.4,Gary Rattary,4.0,5,N/A,,,,1,,,,,1,,,,,,,1,,,,,640311
+322,1823,Central Maine Community College,Communication,3.6,Tom Ryan,4.3,5,N/A,,,,,,,,1,,,,,,,1,,,,,1,1125400
+323,1824,Central Ohio Technical College,Philosophy,3.7,Steven Huizenga,3.2,28,50%,,4,,3,2,,6,3,,,2,2,7,,2,3,3,,3,8,1470035
+324,1824,Central Ohio Technical College,Biology,4.3,Maey Gharbiah,2.5,25,42%,2,1,3,3,4,,4,5,1,,,,2,10,3,1,7,1,8,15,1933450
+325,1824,Central Ohio Technical College,Communication,2.7,Scott Wilson,4.7,24,100%,2,2,,1,1,1,,3,2,4,4,2,,,6,2,,,,,592447
+326,1824,Central Ohio Technical College,Biology,4.3,Martin Schmerr,3.0,24,46%,,,,1,1,,10,2,1,2,,,3,4,3,1,9,1,,17,1652699
+327,1824,Central Ohio Technical College,Psychology,3.4,Jackie Sample,3.0,23,50%,,,,1,1,,6,,,,,,2,4,6,,5,,1,10,1562205
+328,1824,Central Ohio Technical College,Communication,4.1,Theresa Nutter,2.3,20,33%,,,,,,1,,,1,7,,,,,5,,2,,2,8,1828721
+329,1824,Central Ohio Technical College,Sociology,1.9,Patrick Courtney,4.8,19,100%,1,2,,7,3,,1,1,,1,4,1,1,,2,5,,,,,748595
+330,1824,Central Ohio Technical College,Criminal Justice,3.1,Richard Vade Bon Coeur,4.9,18,N/A,,1,,,1,,,,,,,,,,1,2,,,,,272655
+331,1824,Central Ohio Technical College,Science,2.5,Amiee Wagner,4.8,17,N/A,1,2,,3,3,,,,,,,1,,,,,1,,,,687816
+332,1824,Central Ohio Technical College,Nursing,3.7,Martha Morland,3.5,16,60%,3,1,,7,3,,,4,2,,,1,2,,1,2,3,1,1,3,1923866
+333,1824,Central Ohio Technical College,Mathematics,3.2,Nicholas Shay,4.6,14,N/A,1,3,,3,,,,3,,1,,2,,,4,3,2,,,1,1682570
+334,1824,Central Ohio Technical College,Chemistry,3.8,Bonnie Lamvermeyer,3.4,14,56%,3,3,,5,1,,1,,,,,1,4,5,,2,2,,4,,1837498
+335,1824,Central Ohio Technical College,Writing,3.4,Carol Copenhefer,3.8,13,N/A,,,,3,,,,3,,,,,,,1,,,,,,748594
+336,1824,Central Ohio Technical College,Business,3.5,Murray Brunton,2.4,12,N/A,,,,,,,,,,,,,,,,,,,,,826111
+337,1824,Central Ohio Technical College,English,3.5,Erin McGuire,4.5,12,N/A,,,,5,4,,,9,,,,,,,1,1,2,,,1,1496900
+338,1824,Central Ohio Technical College,Mathematics,3.8,Sandy Siegrist,3.5,12,67%,1,1,,,2,2,,,1,,2,,1,3,,1,4,,1,3,1263397
+339,1824,Central Ohio Technical College,Mathematics,3.2,Emily Dennett,3.7,11,60%,4,,,4,1,2,,1,,,,,,4,,2,1,,1,1,1696158
+340,1824,Central Ohio Technical College,Computer Science,2.1,Connie Philips,5.0,9,N/A,,,,1,,,,1,,,,,,,,,,,,1,328968
+341,1824,Central Ohio Technical College,Mathematics,1.9,Steve Crotzer,5.0,9,N/A,1,1,,2,1,,,1,,,,,,,,,,,,,886122
+342,1825,Central Oregon Community College,Economics,2.3,Jon Wolf,4.7,93,100%,2,47,,13,8,,4,18,1,,33,29,3,,29,39,9,,,,1920942
+343,1825,Central Oregon Community College,Mathematics,2.3,Sean Rule,4.9,77,100%,6,12,1,13,3,1,,15,,1,27,14,,1,,19,2,,,,622620
+344,1825,Central Oregon Community College,Psychology,4.3,Matthew Novak,3.1,48,64%,4,5,1,,,1,10,6,,,1,1,1,11,6,1,4,,,10,1622902
+345,1825,Central Oregon Community College,Psychology,3.0,Andria Woodell,4.0,48,56%,,5,,1,,5,4,4,1,,6,2,1,2,3,,7,,,1,610713
+346,1825,Central Oregon Community College,Computer Science,3.3,Eric Magidson,4.1,44,69%,,1,1,,3,4,1,8,,,5,,1,5,3,2,,,,2,1115433
+347,1825,Central Oregon Community College,Psychology,3.1,Rebecca Walker-Sands,4.5,42,100%,,3,,,,4,1,3,,,2,1,3,,4,3,5,,1,1,505680
+348,1825,Central Oregon Community College,English,2.7,Terry Krueger,4.6,37,N/A,,6,,,,,1,1,,,,5,,,,6,,1,,,145030
+349,1825,Central Oregon Community College,Mathematics,3.3,Rebecca Plassmann,3.8,37,58%,3,2,,6,2,1,,6,,5,,1,2,5,3,1,7,,,9,834134
+350,1825,Central Oregon Community College,Biology,3.1,Eddie Johnson,4.6,36,93%,,7,,3,5,9,,2,,,8,1,4,,2,2,1,,1,,1146458
+351,1825,Central Oregon Community College,Mathematics,3.3,David Liu,3.0,32,60%,,1,,1,1,1,1,,,,,1,3,3,1,1,6,1,1,4,947129
+352,1825,Central Oregon Community College,Writing,3.3,Steve Bidlake,2.5,31,N/A,,,1,,,,,,,,1,,2,,3,,2,1,,2,675047
+353,1825,Central Oregon Community College,Writing,2.2,Jacob Agatucci,4.7,31,88%,1,1,,3,7,1,1,6,,1,3,,1,2,2,2,,1,,1,834131
+354,1825,Central Oregon Community College,Writing,3.4,Chris Rubio,3.3,30,44%,4,,,2,1,2,6,5,,1,,1,,12,6,,3,2,,11,1572076
+355,1825,Central Oregon Community College,Social Science,3.1,Riki K Dela Cruz,4.9,29,97%,7,5,,7,6,7,2,20,1,3,13,2,2,,3,3,,,,,2314127
+356,1825,Central Oregon Community College,Health Science,2.3,Ricky Virk,4.9,27,100%,,5,,5,4,1,,4,,2,1,4,1,,3,6,2,,,,803735
+357,1825,Central Oregon Community College,Communication,3.7,Justin Borowsky,3.1,26,50%,,3,,2,,,5,3,,1,,,1,8,7,,5,,,8,1682759
+358,1825,Central Oregon Community College,English,3.6,Stacey Donohue,3.9,26,71%,2,,,3,1,,1,6,,1,1,,,3,2,1,,,,1,91798
+359,1825,Central Oregon Community College,Mathematics,3.3,Doug Nelson,3.8,26,77%,4,1,,6,1,,,5,,6,5,,3,3,1,5,5,,1,1,972371
+360,1825,Central Oregon Community College,Physics,3.1,Bruce Emerson,4.8,24,N/A,,,,1,,,,,,,,1,,,,1,,,,,221060
+361,1825,Central Oregon Community College,Writing,2.9,Cheri Kropp,4.2,24,100%,2,,,7,2,,3,15,,,1,2,,1,4,3,1,,,3,1641049
+362,1826,Central Penn College,English,3.5,Karen Woodring,2.7,18,N/A,,,,,,1,,1,,,,,,1,,,,,,,365218
+363,1826,Central Penn College,Computer Science,3.2,Erin Sparler,3.2,17,N/A,,,,,1,1,,,,,,,,,1,,,,,,100389
+364,1826,Central Penn College,Humanities,3.8,Craig Munns,3.4,16,N/A,,1,,,1,,,,,,1,,,,,,,,,,91061
+365,1826,Central Penn College,Computer Science,2.9,Harve Tannenbaum,3.9,14,N/A,,,,,,,,2,,,2,1,,,,1,,,,,126910
+366,1826,Central Penn College,Criminal Justice,2.3,Thomas Hughes,4.9,14,N/A,,,,,,,,,,,,,,,,,,,,,534659
+367,1826,Central Penn College,Business,1.8,Diane Pickle,4.6,11,N/A,,,,,,,,1,,,,,,,,1,,,,,100390
+368,1826,Central Penn College,Business,1.9,Mike Divecchio,4.2,11,N/A,,,,,1,,,1,,,,,,,,,,,,,141053
+369,1826,Central Penn College,Law,2.3,Robert Donley,2.7,11,N/A,,,,,,,,,,,,,,,,,,,,,361474
+370,1826,Central Penn College,English,2.7,Catherine Cormany,4.4,10,N/A,,1,,,,,,,,,1,,,,,,,1,,,91059
+371,1826,Central Penn College,Law,3.9,John Deleo,3.9,9,N/A,,,,,,,,1,,,,,,,,1,,,,,361466
+372,1826,Central Penn College,Business,3.8,Micaiah Smith-Morris,4.6,9,88%,3,2,,2,1,,1,3,,1,,,,,2,5,,1,,1,1842853
+373,1826,Central Penn College,Criminal Justice,3.9,Samuel Morgan,4.9,8,N/A,,,,,,,,,,,,,,,,,,,,,1381224
+374,1826,Central Penn College,Humanities,3.3,Chris Johnson,3.8,7,N/A,,,,,,,,,,,,,,,,,1,,,1,429313
+375,1826,Central Penn College,Not Specified,3.7,Jeannie Bower,4.5,7,N/A,1,,,,,,,,,,,,,,,,,,1,1,726514
+376,1826,Central Penn College,English,2.7,Thomas Davis,3.8,7,N/A,,,,3,1,,1,1,,,2,,,1,1,1,1,,,,1961900
+377,1826,Central Penn College,Criminal Justice,2.8,Adam Goldfeder,4.8,6,N/A,,,,,,,,,,,,,,,,,,,,,575603
+378,1826,Central Penn College,Humanities,4.2,Christine O'Leary Rockey,3.5,6,N/A,,,,,,,,,,,,,,,,,,,,,952289
+379,1826,Central Penn College,English,3.5,Jennifer Duff,4.7,6,N/A,,,,,,,,1,,,,,,,,2,1,,,1,1062028
+380,1826,Central Penn College,Mathematics,1.6,Robert Bakibinga,2.1,5,N/A,,,,,1,,,,,,,1,,,1,,,,,,776532
+381,1826,Central Penn College,Business,3.0,Daniella Feenstra,2.6,5,N/A,,,,,,,,,,,,,,,,,,,,,957140
+382,1827,Central Piedmont Community College,Computer Science,2.8,D.I. Von Briesen,4.3,588,97%,51,10,1,96,103,224,26,220,2,1,19,35,,91,128,86,15,1,,16,203308
+383,1827,Central Piedmont Community College,Mathematics,2.2,Morteza Barshooi,4.8,340,97%,38,28,1,93,27,12,2,56,1,2,61,50,5,9,43,101,16,,2,16,238112
+384,1827,Central Piedmont Community College,Engineering,3.9,Jacob Garbini,3.6,154,75%,8,8,1,2,16,,3,36,5,56,28,15,15,48,43,29,67,12,13,17,2258451
+385,1827,Central Piedmont Community College,Mathematics,3.7,Mike Albanese,3.3,121,44%,,2,,3,,,2,2,4,1,14,1,5,4,4,4,13,,9,16,104307
+386,1827,Central Piedmont Community College,Science,4.7,Lisa Spring,2.2,104,18%,1,2,,2,,1,5,4,,1,,1,3,6,2,,8,,7,23,160978
+387,1827,Central Piedmont Community College,English,3.9,Brian Anderson,2.5,92,40%,2,,3,5,3,,3,9,3,,3,1,6,2,1,1,8,2,2,20,59842
+388,1827,Central Piedmont Community College,Sociology,1.9,Mary Daly,4.5,90,91%,4,10,,13,10,,1,5,2,,28,17,,,4,18,3,,,2,700699
+389,1827,Central Piedmont Community College,Biology,3.5,Karlene Hare,4.8,89,97%,3,1,1,15,2,1,,8,,,31,32,,1,2,53,10,,,30,1975423
+390,1827,Central Piedmont Community College,Biology,2.6,Fred Tone,4.3,85,63%,2,4,,,12,1,5,4,3,,1,1,3,2,1,4,6,1,2,8,1438186
+391,1827,Central Piedmont Community College,Biology,2.7,Scott Diegmann,4.5,81,100%,2,19,,2,4,1,1,2,2,,9,2,3,,,10,8,,2,3,397857
+392,1827,Central Piedmont Community College,Mathematics,3.9,Larry Tramer,3.2,67,N/A,,,,,,1,1,,,,,,,1,,1,4,,,6,639114
+393,1827,Central Piedmont Community College,History,1.6,Hugh Dussek,4.9,63,100%,3,4,,5,13,10,1,12,1,,1,1,,1,7,7,,,,1,757097
+394,1827,Central Piedmont Community College,Chemistry,3.8,Sofiya Ivanova,3.3,60,57%,1,2,,3,,1,2,,,,,,2,4,1,2,2,1,3,5,189225
+395,1827,Central Piedmont Community College,English,1.9,Chris Brawley,4.8,59,100%,1,9,,6,6,,1,1,1,,5,8,1,,3,5,1,,,,40712
+396,1827,Central Piedmont Community College,Sociology,2.2,Terina Lathe,4.8,57,90%,,1,,7,8,,3,7,1,,,3,,,5,4,1,,,2,202847
+397,1827,Central Piedmont Community College,Mathematics,3.1,Cao Nguyen,3.6,57,52%,7,3,,3,4,1,,7,3,,1,2,2,13,1,8,5,,7,4,1098559
+398,1827,Central Piedmont Community College,Biology,4.2,Jocelyn Cash,1.9,56,13%,1,,1,1,,,9,,,,,,8,3,,,2,1,8,8,335846
+399,1827,Central Piedmont Community College,Chemistry,1.6,Mike Webb,4.8,55,N/A,,5,,9,1,4,,1,,,4,3,,1,,9,1,,,,1030766
+400,1827,Central Piedmont Community College,History,2.3,Susan Autry,4.0,54,91%,1,6,,3,5,3,2,7,2,,3,1,2,2,5,2,1,,1,6,474279
+401,1827,Central Piedmont Community College,Biology,3.8,Elizabeth Mitchell,3.2,54,73%,2,4,,4,3,,3,5,,,2,1,,1,,1,7,,2,8,979213
+402,1828,Central Texas College,History,1.8,Daniel Karppi,4.3,131,79%,1,4,,3,15,7,18,2,5,,,3,20,2,,2,2,,3,1,411527
+403,1828,Central Texas College,Government,2.4,Dovie Dawson,4.5,114,98%,8,15,,17,10,35,5,27,5,49,14,15,2,,42,42,9,,1,1,2070892
+404,1828,Central Texas College,History,2.1,Stan Dyer,4.5,109,N/A,,2,,1,1,,,1,,,1,,,,,,3,,,1,360565
+405,1828,Central Texas College,English,3.5,Joshua Everett,3.9,101,72%,,8,8,4,11,5,21,26,,1,2,3,5,4,3,3,7,4,1,20,263649
+406,1828,Central Texas College,English,1.4,Brenda Cornell,4.1,98,100%,1,,,6,8,20,6,19,,2,2,1,,1,10,7,1,1,,,720214
+407,1828,Central Texas College,Mathematics,2.3,Steven Burrow,4.7,88,97%,12,17,,19,4,9,,17,,,23,7,1,12,5,12,11,,,,1227477
+408,1828,Central Texas College,Economics,2.9,Mourad Sebti,3.0,85,53%,,2,,2,4,14,14,2,,,1,1,4,8,1,2,4,,,4,360563
+409,1828,Central Texas College,Criminal Justice,2.9,Joe Hogan,4.7,82,100%,,,,4,14,15,3,23,,,,4,,5,7,8,,,,2,615938
+410,1828,Central Texas College,Biology,2.9,Marvin Price,4.7,72,100%,3,11,,19,,1,2,4,,,2,8,1,1,,15,9,,1,1,360552
+411,1828,Central Texas College,Communications,3.4,Orville Villanueva,3.6,69,N/A,,2,,,2,1,,6,,,3,2,1,2,4,2,1,,,5,1603652
+412,1828,Central Texas College,Accounting,3.7,Cynthia White,3.8,69,39%,,,,2,7,1,9,3,2,,,2,,15,11,,4,,1,8,989300
+413,1828,Central Texas College,English,4.8,Martha Davidson,1.4,68,N/A,,,,,,2,3,,,,,,5,3,,,6,1,,12,1132821
+414,1828,Central Texas College,Science,4.3,Peggie Williamson,4.2,67,N/A,1,5,,3,2,2,5,1,,,1,1,,1,,1,5,,,2,787504
+415,1828,Central Texas College,English,3.7,Mike Matthews,3.2,64,27%,1,1,,1,2,,2,7,1,,1,,7,1,6,1,6,4,,15,625751
+416,1828,Central Texas College,History,3.9,Robert Williams,2.4,62,N/A,,,,,,,,,1,,,,1,,,,,,1,,304391
+417,1828,Central Texas College,Communications,2.4,Bethany Winkler,4.5,59,100%,,5,,,3,6,1,8,,1,,1,,,3,1,2,,,3,992270
+418,1828,Central Texas College,Biology,4.1,Sandra Whisler,3.7,58,55%,1,2,5,4,1,3,9,7,,1,1,,2,4,3,,9,,,6,655077
+419,1828,Central Texas College,History,2.2,M Womack,3.9,55,N/A,,1,1,1,,,2,1,,1,1,,,,1,,,,,,1100397
+420,1829,Central Virginia Community College,English,2.9,Charles Poff,4.7,153,100%,7,8,,5,2,2,8,24,1,1,17,11,,1,5,13,3,1,,1,207511
+421,1829,Central Virginia Community College,Biology,3.2,Tim Rhoads,4.7,86,100%,4,18,,8,4,,,4,,1,11,5,3,,2,15,16,,2,5,793296
+422,1829,Central Virginia Community College,Sociology,2.5,Tom Sparhawk,4.3,57,N/A,,4,,,1,,2,,,,2,2,,,2,1,,1,,,267307
+423,1829,Central Virginia Community College,History,3.6,David McGee,3.5,54,N/A,,3,,,1,,2,,,,2,,2,1,2,,3,,,4,232961
+424,1829,Central Virginia Community College,Biology,4.6,Juville Dario-Becker,1.7,45,43%,1,,,,2,,2,1,,1,,,1,4,1,1,1,2,1,5,701612
+425,1829,Central Virginia Community College,English,2.9,Lana Velez,4.3,44,N/A,,1,,,2,,,3,,,,,,1,,2,1,,,2,878192
+426,1829,Central Virginia Community College,Psychology,3.0,Julie Piercy,3.3,38,N/A,,,,,1,,,1,,,1,1,,,1,1,1,,,,228127
+427,1829,Central Virginia Community College,Computer Science,3.6,Corrine Hoisington,2.1,36,N/A,,1,,,,,,,,,,1,,3,,,,,,4,284971
+428,1829,Central Virginia Community College,Biology,4.1,Jessica Hogan,3.4,35,N/A,2,1,,,,1,2,2,,,,1,1,1,2,,5,,,1,1086698
+429,1829,Central Virginia Community College,Science,3.4,Donald Bowman,4.7,34,N/A,,,,1,2,,,1,,,,,1,,,5,1,,,1,103989
+430,1829,Central Virginia Community College,History,3.1,R. Matthew Poteat,4.3,34,N/A,,4,,2,1,,2,1,,,1,,,1,2,2,,1,,1,821426
+431,1829,Central Virginia Community College,Mathematics,3.3,Jim Atkinson,3.3,33,N/A,2,,3,1,2,1,,1,,,,,,,,,4,,,9,279512
+432,1829,Central Virginia Community College,Biology,3.8,David Wiseman,4.5,30,N/A,,,,,,,,,,,,,,,,,,,,,412689
+433,1829,Central Virginia Community College,English,2.6,Peter Dorman,4.1,30,N/A,,3,1,,1,,2,1,,,2,,,,1,2,,,,3,558173
+434,1829,Central Virginia Community College,Mathematics,3.6,Rebecca Honeycutt,3.8,29,N/A,1,,,,,1,,2,,,,2,,1,1,1,1,,1,2,1132758
+435,1829,Central Virginia Community College,Psychology,3.4,Cynthia Lofaso,3.4,27,N/A,,,,,,,2,,,,1,,,1,1,1,,,,,412696
+436,1829,Central Virginia Community College,Mathematics,4.2,Michelle Penner,2.2,26,22%,1,,,2,,2,,1,,,1,,1,7,,1,4,,,8,1239381
+437,1829,Central Virginia Community College,Mathematics,2.8,Joseph Csaky,4.2,25,N/A,,,,,,,,,,,,,,,,,,,,,382579
+438,1829,Central Virginia Community College,English,2.1,Matthew Latimer,4.6,24,N/A,2,1,,,2,,,4,,,1,,,,2,2,,,,,1052788
+439,1829,Central Virginia Community College,Computer Science,3.2,Jim Bell,2.7,21,N/A,,,,,,,,,,,,,,1,1,,1,,,2,424645
+440,1830,Central Wyoming College,English,3.8,Wesley Connally,3.7,8,N/A,,,1,1,1,,,1,1,,,,,,,2,1,,,1,467533
+441,1830,Central Wyoming College,Science,2.8,Darran Wells,5.0,5,N/A,,,,,,,,,,,,,,,,,,,,,1518679
+442,1830,Central Wyoming College,Communication,2.5,Jane Warren,4.8,4,N/A,,,,,,,,,,,,,,,,,,,,,467530
+443,1830,Central Wyoming College,Mathematics,3.0,Valerie Harris,3.6,4,N/A,,,,,,,,,,,,,,,,,,,,,1020783
+444,1830,Central Wyoming College,Psychology,3.8,Joseph Fountain,5.0,4,N/A,,3,,1,,,,,,,4,4,,,,,,,,,2401578
+445,1830,Central Wyoming College,Anthropology,3.7,Todd Guenther,4.7,3,N/A,,,,,,,,,,,,,,,,,,,,,1518095
+446,1830,Central Wyoming College,English,1.7,Ben Evans,4.7,3,N/A,,,,1,,,,,,,,1,,,1,,,,,,1652717
+447,1830,Central Wyoming College,English,2.0,Buck Tilton,4.8,3,N/A,,,,,,,,,,,,1,,,1,,,,,,1719712
+448,1830,Central Wyoming College,Mathematics,2.7,Michael Bostick,3.5,3,N/A,,,,1,,,,,,,,,,1,,,,,,,1821797
+449,1830,Central Wyoming College,Philosophy,3.0,David Gray,5.0,3,N/A,,1,,,,,1,2,,,1,2,,,,1,,,,,2028102
+450,1830,Central Wyoming College,Science,3.5,Kirsten Kapp,4.5,2,N/A,,,,,,1,,1,,,,,,,1,,,,,,1763902
+451,1830,Central Wyoming College,Science,3.0,Carol Cooper,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,688954
+452,1830,Central Wyoming College,History,4.0,Jim Thurman,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1652714
+453,1830,Central Wyoming College,Fine Arts,2.0,Lonnie Slack,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1768554
+454,1830,Central Wyoming College,Chemistry,5.0,Bill Finney,2.0,1,N/A,,,,,,1,,,,,,,1,,,,,,1,,2235545
+455,1830,Central Wyoming College,Nursing,4.0,Amy Hernandez,2.0,1,N/A,,,,,,,,,,,,,,,,,1,,,1,2490365
+456,1830,Central Wyoming College,Science,4.0,Tara Womack-Schultz,5.0,1,N/A,,1,,,,,,,,,,1,,,,1,,,,,2490368
+457,1831,Centralia College,History,3.4,Jody Peterson,4.5,50,92%,,6,,,,,1,2,2,,9,1,5,,,2,8,,2,8,292753
+458,1831,Centralia College,Anthropology,2.8,Greg Van Alstyne,4.4,46,100%,,4,,2,1,,4,1,3,,2,2,5,,4,4,7,,1,1,474564
+459,1831,Centralia College,English,3.6,Susanne Weil,4.0,36,69%,1,1,,1,2,5,1,12,,,1,,1,,3,4,3,1,,8,827054
+460,1831,Centralia College,Health Science,3.9,Julie Priday,2.5,33,N/A,,,,,,,,,,,1,,,1,,,2,,,3,364962
+461,1831,Centralia College,English,3.3,Linda Foss,3.3,30,75%,4,,,,2,,2,5,,,,,,4,1,1,,1,,3,274550
+462,1831,Centralia College,Mathematics,2.5,Roberta Abarca,3.8,28,N/A,,,,1,,,,,,,,,,2,,,,,,,364965
+463,1831,Centralia College,English,2.5,Sharon Mitchler,5.0,27,100%,1,3,,3,,,2,,,,1,2,,1,2,1,2,,1,,92716
+464,1831,Centralia College,Chemistry,3.7,Ruby Nagelkerke,3.5,24,40%,,,,,1,,,,,,2,,2,4,1,1,1,,,3,663449
+465,1831,Centralia College,Mathematics,3.3,Mark Brosz,3.5,23,40%,,,2,2,,,,1,1,,3,1,1,1,4,,3,,,3,364968
+466,1831,Centralia College,Mathematics,2.4,Randy Kostic,4.4,22,N/A,,1,,,3,,,,,,1,,,1,1,,,,,1,474563
+467,1831,Centralia College,Biology,2.7,Lisa Carlson,2.7,20,67%,,,,1,2,1,1,2,,1,,,3,1,,1,,,,1,474565
+468,1831,Centralia College,Physics,4.3,Michael Threapleton,2.8,20,N/A,,1,,,,,,,,,,1,1,1,,1,1,,,4,808567
+469,1831,Centralia College,Communication,1.5,Wade Fisher,4.4,18,N/A,,,,,1,,,1,,1,,,,,,,,,,,271838
+470,1831,Centralia College,Anthropology,3.4,Mary Medlin,3.5,17,38%,,,,1,1,,10,7,,,,1,,5,,1,,,1,6,1606390
+471,1831,Centralia College,Physical Ed,1.9,Annie Oien,4.8,17,100%,,,,7,,1,,2,,,4,6,,,,1,,,,,274560
+472,1831,Centralia College,Art History,2.6,Liz Frey,3.0,16,N/A,,,,1,1,,1,1,,,,,1,1,1,,,,,,747059
+473,1831,Centralia College,Psychology,2.1,A MacNamara,4.6,16,89%,,1,,2,3,6,1,2,2,,,,3,,2,2,1,,2,1,1538381
+474,1831,Centralia College,Mathematics,2.6,Preston Kiekel,4.2,16,79%,2,,,4,5,,,7,,5,5,2,1,4,2,7,1,1,,,1930295
+475,1831,Centralia College,Mathematics,3.8,Chris Carlson,3.4,16,86%,3,1,3,,1,,1,1,,,3,2,1,3,,5,3,,,1,1847570
+476,1831,Centralia College,Science,2.3,Pat Pringle,4.4,15,N/A,,1,,1,,,,1,,,1,,1,,1,2,2,,1,,894531
+477,1832,Century College,Philosophy,4.0,Ida Baltikauskas,2.3,165,36%,1,1,,5,6,9,20,10,1,,,,9,7,3,6,13,,3,9,306387
+478,1832,Century College,Biology,3.9,Pam Thinesen,3.2,164,33%,1,,,1,5,11,16,10,2,2,,2,32,32,2,2,8,,,40,656296
+479,1832,Century College,Psychology,2.4,Bruce Hinrichs,4.5,155,91%,,16,,9,6,,14,2,5,,21,7,5,,7,19,6,,4,3,426011
+480,1832,Century College,Political Science,3.9,Donald Epps,3.1,149,N/A,1,,,,,,12,1,,,1,1,3,,,1,4,,,12,110015
+481,1832,Century College,Anthropology,3.9,Paul Roach,4.0,128,56%,1,7,2,,4,,19,7,2,,1,1,7,7,,5,6,5,8,5,284810
+482,1832,Century College,Philosophy,2.3,Carl Chung,4.8,127,100%,4,10,,20,6,8,1,22,2,1,4,10,2,3,8,24,4,,1,1,690943
+483,1832,Century College,Sociology,2.7,Janice Milner,2.8,103,40%,,2,3,3,4,4,16,,1,,1,,19,,5,3,11,1,3,6,284812
+484,1832,Century College,Philosophy,3.1,Steve Odmark,4.3,102,95%,2,6,1,8,5,1,8,9,,,4,1,4,2,3,7,5,,1,3,755201
+485,1832,Century College,Biology,3.7,Erin Carter,3.6,96,72%,3,2,,2,3,2,11,9,,2,4,,4,8,,6,6,,,14,714503
+486,1832,Century College,Biology,3.5,Joy Cedarleaf,3.0,90,35%,4,1,,5,6,,5,,4,,1,1,13,,3,5,19,,3,22,284825
+487,1832,Century College,Mathematics,2.1,Peter Gits,4.7,86,100%,1,6,,4,10,,,5,1,,10,2,2,1,,7,1,,1,2,715772
+488,1832,Century College,Mathematics,3.1,Gerry Naughton,3.4,85,89%,7,11,,8,11,4,,24,2,4,,,,2,4,11,,,,3,449974
+489,1832,Century College,English,3.8,Kelly Donahue,2.9,84,38%,,,,3,3,2,4,5,1,,,,,7,1,,1,4,,8,259149
+490,1832,Century College,Mathematics,4.0,William Young,2.4,84,40%,4,,2,3,2,,1,2,10,,,,4,1,1,2,9,,4,10,649105
+491,1832,Century College,Mathematics,4.1,Angela Simons,2.7,84,47%,,,4,2,7,2,1,6,1,,1,,1,11,1,1,3,,5,12,734963
+492,1832,Century College,Communication,2.9,Mark Smeltzer,3.5,82,90%,,5,,1,15,2,8,7,,5,4,,1,2,19,5,11,,,8,835021
+493,1832,Century College,English,4.1,Peter Saiz,3.1,81,57%,,2,,1,1,,11,11,,1,1,4,1,3,6,4,16,6,,28,1103115
+494,1832,Century College,Chemistry,3.1,Kimball Loomis,4.3,77,80%,3,3,,8,4,2,,8,,,2,1,2,7,2,6,7,,2,8,713432
+495,1832,Century College,History,1.4,Craig Moran,4.7,76,91%,1,2,,2,13,1,4,8,3,,,3,3,2,3,4,,,,,670425
+496,1832,Century College,Music,1.6,Eric Graham,4.5,76,95%,2,11,,1,8,1,2,2,4,,13,3,5,1,8,6,1,,,1,355419
+497,1833,Cerritos College,Film,2.8,Steven Hirohama,4.7,275,98%,8,8,,8,8,6,8,47,1,7,22,33,1,5,29,27,16,,1,5,616509
+498,1833,Cerritos College,Psychology,2.8,Mark Duva,4.2,243,N/A,,,,,,1,1,1,,,1,,1,,1,1,,,,1,454837
+499,1833,Cerritos College,Anthropology,2.0,Jeffrey Rigby,4.5,242,94%,4,25,,4,32,47,21,11,13,,4,19,18,1,,21,12,1,10,4,191620
+500,1833,Cerritos College,Political Science,2.5,Dennis Falcon,3.4,216,85%,7,15,2,2,14,23,7,14,1,,29,14,1,2,14,22,6,,2,2,326091
+501,1833,Cerritos College,Business,2.1,Rhian Donadelle,4.3,205,N/A,,5,17,11,17,2,7,19,,3,9,,,7,21,5,4,,,1,1735196
+502,1833,Cerritos College,Sociology,3.3,Jacquelyn Troup,2.8,170,24%,1,2,,2,1,2,22,3,5,,9,3,4,1,5,,6,1,7,19,1221819
+503,1833,Cerritos College,History,2.7,John Haas,4.3,166,68%,3,4,1,17,5,7,14,3,3,,7,5,7,,3,8,9,,1,1,63471
+504,1833,Cerritos College,Political Science,2.2,Victor Obasohan,4.2,162,96%,2,7,1,,6,2,6,2,,,19,3,3,6,19,10,3,,1,1,211033
+505,1833,Cerritos College,Political Science,1.8,Terrance Mullins,4.8,161,95%,1,55,,2,17,3,4,1,4,,36,13,9,1,1,24,13,,2,2,931454
+506,1833,Cerritos College,Business Administration,2.7,Scott Brown,4.5,159,92%,3,8,,8,44,19,22,61,,24,1,8,,7,39,15,11,,2,10,1586794
+507,1833,Cerritos College,Sociology,1.5,Amy Holzgang,4.9,140,100%,2,12,1,4,4,3,2,5,,5,5,8,1,,1,11,,,,,191628
+508,1833,Cerritos College,Anthropology,3.3,Mark Abbruzzese,3.1,140,39%,1,4,,3,4,9,6,4,6,1,5,2,13,,1,4,8,,4,18,805068
+509,1833,Cerritos College,English,3.0,John Hsiao,4.8,131,N/A,,1,,1,,,,1,,1,,,1,,2,,3,1,,1,854514
+510,1833,Cerritos College,Sociology,1.5,Dianne Pirtle,4.9,130,N/A,,7,,3,3,,6,1,,1,10,3,,,1,6,1,,,,105226
+511,1833,Cerritos College,Mathematics,2.8,Kamal Demian,4.7,130,75%,2,7,,6,5,4,,3,,,7,6,3,6,3,6,13,,3,3,286137
+512,1833,Cerritos College,Psychology,2.7,Michelle Lewellen,4.5,125,50%,1,3,,2,4,10,2,4,,1,7,1,7,12,6,2,1,5,1,13,577959
+513,1833,Cerritos College,Art History,3.9,Julie Trager,3.4,124,53%,1,6,,1,1,,23,6,,12,,6,8,1,15,1,4,4,,13,481236
+514,1833,Cerritos College,English,1.6,Lynn Cavallaro,4.9,121,100%,,9,,27,6,13,1,15,,,11,19,1,,1,15,,,,,63469
+515,1833,Cerritos College,Mathematics,4.0,James Byun,2.3,119,21%,2,,,2,,,,,,,4,,3,20,,1,13,2,2,24,525323
+516,1833,Cerritos College,Geography,2.5,Crystal Lo Vetere,4.2,116,64%,1,4,1,2,4,1,,2,1,,5,1,2,,3,,7,,2,2,1305726
+517,1836,Chaffey College (all campuses),Political Science,4.1,Monica Carter,3.0,291,43%,,13,1,3,6,5,53,5,4,1,2,7,3,7,58,5,32,,20,59,112147
+518,1836,Chaffey College (all campuses),Theater,2.6,Erik Jacobson,3.3,241,70%,2,2,3,8,6,4,5,3,,31,23,15,2,16,26,4,40,2,7,14,254198
+519,1836,Chaffey College (all campuses),Anthropology,1.7,Marc Meyer,4.8,221,98%,2,32,,5,15,1,5,9,1,,43,14,3,2,13,16,28,,3,2,960498
+520,1836,Chaffey College (all campuses),English,2.7,Julie LaMay,4.2,182,80%,1,1,,4,1,,2,5,,1,1,3,,2,3,1,5,2,,,232273
+521,1836,Chaffey College (all campuses),History,3.5,Robert Carlton,3.1,177,N/A,,,,,,,1,,,,1,,2,,,,1,,,4,123027
+522,1836,Chaffey College (all campuses),History,3.8,Dan Loomis,3.5,172,49%,,7,2,3,2,,30,3,2,,7,1,14,,,7,21,2,12,44,231398
+523,1836,Chaffey College (all campuses),Anthropology,3.2,Michael Fong,4.5,165,93%,,18,4,2,5,4,13,1,4,,27,3,4,3,2,12,18,,2,5,106741
+524,1836,Chaffey College (all campuses),Mathematics,2.8,Mohammad Wardak,3.5,152,73%,2,4,1,4,16,10,,4,6,,,,4,11,6,6,18,1,4,8,409984
+525,1836,Chaffey College (all campuses),History,4.0,Vince Nobile,2.3,151,36%,1,4,,,,,26,3,4,,,4,18,2,,1,10,,1,20,229018
+526,1836,Chaffey College (all campuses),Psychology,2.0,Maria Fitzpatrick,4.4,146,66%,2,3,,4,9,16,10,5,4,3,2,4,1,,13,8,2,6,,1,251713
+527,1836,Chaffey College (all campuses),History,3.4,Tim Greene,2.8,139,81%,1,,,,15,,12,4,4,,,1,8,3,4,3,2,7,1,9,231395
+528,1836,Chaffey College (all campuses),History,2.0,Asiris Cruz,3.8,135,85%,1,14,1,1,3,11,1,3,2,,27,5,11,,1,3,10,,,1,231397
+529,1836,Chaffey College (all campuses),English,2.5,Deckard Hodge,4.8,133,96%,7,2,1,15,1,3,2,23,,,17,11,,1,12,10,1,,,1,241147
+530,1836,Chaffey College (all campuses),Sociology,2.5,Sergio Gomez,4.2,131,83%,6,8,,8,12,13,3,17,,,16,7,3,5,4,12,22,,3,3,241199
+531,1836,Chaffey College (all campuses),Philosophy,2.4,Ryan Falcioni,4.5,130,88%,1,11,,6,3,3,5,16,,,9,11,3,,3,14,3,1,,4,202313
+532,1836,Chaffey College (all campuses),Mathematics,2.5,Jeff Brouwer,4.5,130,70%,2,9,,1,8,6,,4,1,,18,1,2,10,,9,8,,1,4,234781
+533,1836,Chaffey College (all campuses),Film,1.4,Daniel Jacobo,3.9,129,38%,1,2,,2,2,3,,2,1,1,4,3,8,,4,1,10,3,,,259701
+534,1836,Chaffey College (all campuses),Management,1.2,Jeanette Darby,5.0,129,100%,3,11,1,27,21,52,5,32,1,4,7,32,,1,26,30,1,,,,947209
+535,1836,Chaffey College (all campuses),Geography,3.6,Peter Konovnitzine,3.9,128,44%,,9,2,2,3,,2,3,1,,4,1,3,,,2,19,,3,20,232267
+536,1836,Chaffey College (all campuses),Psychology,2.6,Vera Dunwoody,4.8,125,N/A,,2,,7,1,5,,6,,,8,4,1,2,,3,5,,,1,202326
+537,1837,Charter College,Business,2.5,Gurkan Dinc,4.8,16,100%,3,5,,8,2,,,12,,,6,4,,,1,2,1,,,,2072242
+538,1837,Charter College,Computer Science,2.4,Milton Kabia,4.2,7,N/A,,,,,,,,,,,,,,,,,,,,,668880
+539,1837,Charter College,Engineering,2.8,Mark Blair,4.8,6,N/A,,,,,,,,,,,,,,,,,,,,,137942
+540,1837,Charter College,Computer Science,2.3,Tom Brooks,5.0,3,N/A,,1,,,,,,1,1,,,,,,,,,,,,722576
+541,1837,Charter College,Accounting,3.0,Katie Blank,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,722570
+542,1837,Charter College,English,1.0,William Jamison,4.5,2,N/A,,,,,,,,,,,,,,,,,,,,,817205
+543,1837,Charter College,Management,3.0,Paul Bauer,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,722574
+544,1837,Charter College,Nursing,1.0,Michelle Mabe,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1387284
+545,1837,Charter College,Computer Science,1.0,Alicia Pearlman,5.0,1,N/A,1,,,,,,,1,,,,,,,,1,,,,,1434791
+546,1837,Charter College,Nursing,4.0,Zebulon Holsopple,5.0,1,N/A,1,,,1,,,,,,,,,,,,1,,,,,2462783
+547,1838,Chattahoochee Technical College,English,3.7,Greg Garner,3.5,127,68%,12,2,7,6,38,2,11,38,4,2,,4,2,9,6,17,11,18,3,47,1539689
+548,1838,Chattahoochee Technical College,English,2.4,Jennifer Staton,4.7,103,97%,13,6,,34,11,21,10,46,1,1,24,16,,1,10,25,3,3,,4,1698166
+549,1838,Chattahoochee Technical College,English,1.4,Tonia Pahari,4.8,103,98%,11,6,,34,22,1,6,23,1,8,,14,,,8,17,,,,,1318722
+550,1838,Chattahoochee Technical College,Languages,2.2,Celnisha Dangerfield,4.2,98,70%,3,6,,8,4,,2,11,2,4,6,8,2,1,13,8,4,,,7,1599396
+551,1838,Chattahoochee Technical College,English,1.8,Frank Inscoe,4.9,96,92%,10,8,,15,17,10,1,11,2,,10,4,,17,1,12,5,,1,1,1480130
+552,1838,Chattahoochee Technical College,Biology,4.2,Juanita Forrester,4.3,91,97%,7,12,1,11,1,4,1,16,1,,10,17,3,1,4,20,14,,2,6,1592249
+553,1838,Chattahoochee Technical College,Economics,3.0,Michael Yeboah,3.5,85,63%,5,5,,7,5,15,19,16,5,,8,3,7,9,2,13,16,,3,11,1104785
+554,1838,Chattahoochee Technical College,Biology,3.6,Stephanie Skipper,3.9,84,75%,,6,,4,4,4,9,6,1,,7,4,3,2,1,3,18,,6,15,1472371
+555,1838,Chattahoochee Technical College,History,4.0,Antar Fields,1.9,82,29%,,1,1,1,1,,8,,4,,,1,7,8,9,2,18,1,3,32,1266195
+556,1838,Chattahoochee Technical College,Psychology,1.7,Jodii Gorski,4.8,79,95%,2,4,,14,7,3,4,9,,,4,6,1,2,2,11,2,1,1,,1419045
+557,1838,Chattahoochee Technical College,Sociology,3.3,Cynthia Holly,3.7,75,49%,8,8,1,9,4,7,5,8,,1,2,8,9,4,9,8,10,3,9,23,1457153
+558,1838,Chattahoochee Technical College,Sociology,2.2,Leigh Keever,4.4,73,91%,3,7,,1,16,11,1,10,3,5,10,5,1,2,10,6,9,,,2,1407522
+559,1838,Chattahoochee Technical College,English,3.1,Janet Myszkowski,4.2,72,91%,9,3,3,14,12,,9,14,,,7,3,1,17,2,10,19,2,,8,489138
+560,1838,Chattahoochee Technical College,History,2.2,Amy Ward,4.4,69,85%,5,22,7,7,5,,8,5,8,2,7,2,1,3,1,8,7,,1,3,1425230
+561,1838,Chattahoochee Technical College,Political Science,4.1,Gretchen Lockett,2.3,68,65%,,,,2,,2,5,3,,,4,1,2,6,13,1,9,6,1,8,1142349
+562,1838,Chattahoochee Technical College,Biology,2.9,Victor Greco,4.7,68,93%,4,17,,23,17,,5,13,,,3,5,1,4,1,21,5,,,,1372467
+563,1838,Chattahoochee Technical College,Humanities,3.6,Ashley Strong-Green,3.3,68,88%,1,1,,1,1,1,1,3,,,3,1,1,3,5,2,3,3,,7,1398223
+564,1838,Chattahoochee Technical College,Mathematics,3.1,Scott Allen,4.1,66,55%,2,2,,3,6,,2,3,,,2,1,,11,4,2,4,,4,2,1510608
+565,1838,Chattahoochee Technical College,English,3.9,Scott Keeton,2.8,65,22%,1,,3,,5,,14,5,2,,2,,,4,1,,1,1,1,10,1103693
+566,1838,Chattahoochee Technical College,Mathematics,2.1,James Rutherfoord,4.8,63,N/A,,,,1,3,,,2,,,,1,1,,,1,,,,,645774
+567,1839,Chattahoochee Valley Community College,Biology,2.8,Salman Elawad,4.4,473,N/A,,1,,,,,,,,,1,1,,,1,,1,,,1,580764
+568,1839,Chattahoochee Valley Community College,History,3.6,Brion McClanahan,4.3,54,N/A,,,1,,,,2,,1,,,,3,,1,,1,,2,3,849417
+569,1839,Chattahoochee Valley Community College,English,3.4,Greg Spence,4.3,53,N/A,,3,,1,1,1,2,10,,1,,2,2,4,5,1,,,,10,205733
+570,1839,Chattahoochee Valley Community College,Biology,2.8,Susan McCollum,4.4,38,N/A,,,,,,,,,,,,,,,,,,,,,1045190
+571,1839,Chattahoochee Valley Community College,Music,2.4,Tom Daniel,4.3,28,N/A,,3,,,,,,1,,,4,1,,,1,1,1,,,,498055
+572,1839,Chattahoochee Valley Community College,History,4.2,Ellen Gunter,2.6,27,N/A,,,,,,,,,,,,,,,,,,,,,169882
+573,1839,Chattahoochee Valley Community College,English,3.4,Amy Porche,2.2,22,N/A,,,,,,,,,,,,,,,,,,,,,434992
+574,1839,Chattahoochee Valley Community College,Psychology,2.0,Beverly Morris,4.0,21,N/A,,,,,,2,,,,,,,2,1,,,1,,,,796871
+575,1839,Chattahoochee Valley Community College,English,2.2,Michelle Lewis,4.3,19,N/A,,1,,1,,,,1,,,1,,,1,1,,,,,,580763
+576,1839,Chattahoochee Valley Community College,Mathematics,2.8,Shawn Junghans,4.2,19,N/A,,1,,3,,,,,,,,1,,5,,1,3,,,1,1037617
+577,1839,Chattahoochee Valley Community College,Mathematics,2.1,Earl Cook,4.7,17,N/A,,,,,,,,,,,,,,,,,,,,,580760
+578,1839,Chattahoochee Valley Community College,Biology,2.6,Ejinkonye Anekwe,3.9,15,N/A,,,,,,2,,1,,,,,1,1,,,,,,1,1182903
+579,1839,Chattahoochee Valley Community College,Psychology,2.4,Ralph Huling,4.3,14,N/A,,1,,2,,1,,,,,,3,,,3,2,1,,1,1,652495
+580,1839,Chattahoochee Valley Community College,Literature,2.8,Andy Scales,4.6,14,N/A,,,,,1,,,,,,,,,,,,,,,,956562
+581,1839,Chattahoochee Valley Community College,Science,3.9,Bianke Wagnon,3.0,13,N/A,,,,,,,,,,,,,2,1,,1,2,,,2,822761
+582,1839,Chattahoochee Valley Community College,English,3.4,Katherine Henderson,3.7,13,56%,2,,,,2,,2,6,,,,,,1,4,2,3,2,,4,1913376
+583,1839,Chattahoochee Valley Community College,English,3.5,Susan Lockwood,3.5,12,N/A,,,,,,,,,,,,,,,,,,,,,569987
+584,1839,Chattahoochee Valley Community College,Mathematics,3.6,Evelyn Harris,3.2,11,N/A,,,,,,,,,,,,,,,,,,,,,596279
+585,1839,Chattahoochee Valley Community College,Biology,3.7,Jane Walden,3.8,11,N/A,,,,,,,,,,,,,,,,,,,,,796526
+586,1839,Chattahoochee Valley Community College,Biology,2.8,Amanda Huffstutler,3.6,11,60%,,,,,,3,,,,1,1,,,2,1,1,2,,1,2,1597972
+587,1840,Chattanooga State Community College,Biology,2.2,Jane Yantis,5.0,87,100%,1,16,,14,8,3,,6,,,4,6,1,,,12,5,,,,1354377
+588,1840,Chattanooga State Community College,Economics,3.5,Cinda Adams,1.7,86,21%,,,,2,2,3,6,1,2,,1,,14,2,1,1,5,1,1,13,387986
+589,1840,Chattanooga State Community College,History,1.7,Jeff McEwen,4.8,79,100%,,15,,,7,,1,3,4,,17,3,2,,1,9,6,,2,,341293
+590,1840,Chattanooga State Community College,Biology,4.3,Terri Marcus,1.9,79,19%,1,1,3,1,4,,8,1,1,,1,1,4,6,2,,12,,8,19,513588
+591,1840,Chattanooga State Community College,Psychology,1.9,Emily Dunlap,4.9,67,100%,7,16,,18,9,11,,8,1,2,12,18,,,1,7,,,,,1593209
+592,1840,Chattanooga State Community College,Philosophy,2.9,Michael Krogman,4.0,64,36%,1,5,,,1,1,8,,4,,5,3,4,1,1,3,1,,1,4,341319
+593,1840,Chattanooga State Community College,Biology,3.9,Evelyn Mobley,3.5,64,80%,4,7,1,3,2,,4,3,1,,1,,7,,2,5,16,,5,10,1070808
+594,1840,Chattanooga State Community College,Biology,2.9,Karen Payne Eastman,4.7,63,N/A,1,9,,2,1,,1,2,,,2,1,,,,2,3,,,1,613479
+595,1840,Chattanooga State Community College,English,3.9,Bill Stifler,3.2,57,38%,,,,,2,1,17,6,,,2,,1,4,4,,6,2,,15,1045975
+596,1840,Chattanooga State Community College,English,4.0,Debbie Rudd,2.3,56,20%,,1,,5,,1,8,3,,1,1,2,1,1,3,1,1,2,,12,341328
+597,1840,Chattanooga State Community College,Mathematics,2.2,Margaret Ramsey,4.8,56,100%,3,3,,5,,,,5,,,4,2,1,,1,2,1,,,,341381
+598,1840,Chattanooga State Community College,Chemistry,3.5,Shay Bean,3.9,56,88%,2,1,,4,4,3,1,3,,,,1,,6,3,6,3,,,4,970568
+599,1840,Chattanooga State Community College,English,3.2,Erica Lux,3.7,56,100%,3,1,,7,2,,8,19,1,2,11,1,,2,4,3,1,1,,9,999674
+600,1840,Chattanooga State Community College,History,3.1,Kathy Long,4.2,55,N/A,,1,,3,2,6,1,4,,,,,1,,1,1,1,1,,7,117581
+601,1840,Chattanooga State Community College,Science,3.3,Richard Clements,3.3,54,87%,,5,,1,4,13,,2,,,6,1,2,4,3,3,7,,,9,527750
+602,1840,Chattanooga State Community College,Biology,4.1,Gabriele Meyer,3.9,53,90%,1,6,,3,2,,1,1,,,,,2,2,2,6,14,,3,8,778010
+603,1840,Chattanooga State Community College,Biology,2.7,Michael Sliman,4.7,52,N/A,,3,,1,2,,1,,,,6,,1,1,1,2,6,,,3,1420398
+604,1840,Chattanooga State Community College,English,4.2,Brian Hale,2.5,51,18%,,2,,1,,,7,1,1,2,,,2,2,2,,3,2,,11,280169
+605,1840,Chattanooga State Community College,English,3.9,William Teem,2.5,48,N/A,,,,,,,,,,,,,,,,,,,,,772575
+606,1840,Chattanooga State Community College,Mathematics,3.5,Anita Polk-Conley,2.9,46,33%,1,,,1,2,,,3,,1,,,1,3,3,1,3,,,,272626
+607,1841,Chemeketa Community College,Psychology,1.6,Aileen Collins,4.5,192,92%,3,15,,19,7,18,6,12,5,1,41,14,1,,15,14,1,1,2,1,216245
+608,1841,Chemeketa Community College,Mathematics,2.7,Javad Farjami,3.7,129,88%,,4,,5,8,,,7,6,,17,2,6,2,4,1,19,,3,3,202963
+609,1841,Chemeketa Community College,Health & Physical Education,1.7,Eric Colon-Cortes,4.7,122,80%,15,12,1,27,13,,3,15,1,1,36,15,1,3,43,10,8,1,,2,1411065
+610,1841,Chemeketa Community College,Psychology,2.3,Gordon Fultz,4.8,114,100%,,14,,6,3,9,3,5,,2,3,9,,,9,5,1,3,,,510472
+611,1841,Chemeketa Community College,History,2.1,Mike Balyo,3.9,111,76%,,4,,1,8,12,17,5,2,1,4,1,8,2,5,3,1,2,1,,143649
+612,1841,Chemeketa Community College,Psychology,2.7,Adam Privitera,4.5,109,N/A,,7,,2,2,,12,11,,2,15,3,6,4,8,4,8,,,7,1767317
+613,1841,Chemeketa Community College,Psychology,2.5,Samuel Pierce,3.2,108,11%,1,1,3,2,,,6,,7,5,,,8,,7,1,4,5,,6,572923
+614,1841,Chemeketa Community College,Biology,4.4,Cynthia Prentice,3.1,107,64%,1,1,,4,3,5,7,3,,,1,3,2,18,5,3,6,,3,13,205914
+615,1841,Chemeketa Community College,Computer Science,3.1,Darrel Karbginsky,4.0,105,55%,1,3,,1,6,7,9,7,,4,4,3,1,8,5,5,6,,3,12,166403
+616,1841,Chemeketa Community College,Mathematics,2.3,Lisa Healey,4.9,102,100%,7,14,,21,10,5,,14,2,3,2,8,,2,3,20,6,,1,1,758893
+617,1841,Chemeketa Community College,Chemistry,3.9,Chris Nelson,3.8,102,63%,5,3,5,2,1,,2,4,,,,1,2,11,4,2,11,,4,21,259324
+618,1841,Chemeketa Community College,Sociology,2.9,Carlos Lopez,4.0,100,81%,4,5,1,4,11,1,26,14,5,,5,,4,9,13,6,4,3,1,4,515763
+619,1841,Chemeketa Community College,Mathematics,4.2,Wayne Barber,2.4,99,33%,3,,,3,2,1,2,2,,1,,1,3,25,4,2,2,1,10,21,213597
+620,1841,Chemeketa Community College,Mathematics,2.7,Ken Anderson,4.5,97,85%,1,11,,13,16,,,10,,,1,3,1,14,4,8,,1,2,4,166406
+621,1841,Chemeketa Community College,Sociology,3.6,Patricia Antoine,3.3,93,33%,1,1,,2,4,1,14,2,,,,2,6,5,10,,4,3,3,17,167630
+622,1841,Chemeketa Community College,Mathematics,3.0,Bryan Tardiff,4.3,92,78%,3,8,7,4,7,,,12,3,1,2,2,2,19,3,4,14,,2,6,1034610
+623,1841,Chemeketa Community College,Mathematics,3.5,Sheeny Behmard,2.6,88,40%,4,,2,4,8,,3,5,,,2,,1,10,1,1,5,,1,11,258510
+624,1841,Chemeketa Community College,Psychology,2.4,Christopher MacLean,4.8,87,89%,,13,1,6,5,6,15,4,,1,13,6,,4,8,5,2,1,1,2,1183131
+625,1841,Chemeketa Community College,History,2.7,Taylor Marrow,3.9,86,50%,,10,1,1,4,1,17,4,1,,7,3,2,4,12,2,,2,2,12,628395
+626,1841,Chemeketa Community College,Mathematics,2.6,Nuri Alfaqeeh,4.5,84,N/A,,,,,2,,,4,,,,2,,3,1,1,,,,2,238588
+627,1843,CHI Institute,Computer Science,2.8,Norman Summers,3.8,6,N/A,,,,,,,,,,,,,,,,,,,,,724819
+628,1843,CHI Institute,Medicine,4.3,Susan Degirolamo,5.0,4,N/A,,,,,,,,,,,,,,,,,,,,,724796
+629,1843,CHI Institute,Medicine,3.5,Mary Schmidt,4.8,2,N/A,,,,,,,,,,,,,,,,,,,,,724806
+630,1843,CHI Institute,Computer Science,1.0,Tim Walcott,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,686371
+631,1845,Chippewa Valley Technical College,Mathematics,2.7,Jim Bockenfeld,4.7,48,100%,1,6,,13,7,2,,23,,,11,8,,2,15,13,11,,,,1638890
+632,1845,Chippewa Valley Technical College,Social Science,3.0,Kristi Hagen,4.8,47,100%,,4,,7,2,3,3,17,,,,15,,3,7,4,1,,,,1626122
+633,1845,Chippewa Valley Technical College,Psychology,2.7,Lance Basting,4.2,34,N/A,,,,1,2,,5,3,1,,1,,2,3,1,1,3,1,,4,515323
+634,1845,Chippewa Valley Technical College,Computer Science,2.6,Timothy Fawcett,4.7,32,N/A,,,1,,2,,1,5,,,3,1,,,,5,,,,,812223
+635,1845,Chippewa Valley Technical College,Social Science,2.5,Carmen Iannarelli,4.2,26,N/A,1,3,,,3,,1,1,,,,,1,,,,2,,,,742521
+636,1845,Chippewa Valley Technical College,Health Science,3.0,Mary Bauer,4.6,25,82%,2,2,,5,3,,,3,1,,1,1,3,,1,5,4,,3,,721516
+637,1845,Chippewa Valley Technical College,English,3.2,Paul Reid,2.2,23,17%,,,,,1,,,1,1,,,,,,2,,1,1,,5,188981
+638,1845,Chippewa Valley Technical College,Psychology,1.7,Paul Billmeyer,5.0,22,100%,1,4,,2,1,1,,1,,,5,5,,,1,5,2,,,,1378812
+639,1845,Chippewa Valley Technical College,Communication,2.1,Tammy Stone,3.1,22,N/A,,1,,1,,,3,,,,,,,1,,,,,,,463728
+640,1845,Chippewa Valley Technical College,Mathematics,1.6,Michael Davis,4.8,21,N/A,,,,2,,,,2,,,2,1,,1,,1,,,,,508431
+641,1845,Chippewa Valley Technical College,Chemistry,3.5,Ron Keys,4.0,20,N/A,1,1,,2,,1,,,,,2,,,3,2,1,2,,,4,864281
+642,1845,Chippewa Valley Technical College,Nursing,4.0,Julie Conner,2.5,20,N/A,,,,,,,,1,,1,,,,,2,,2,,,,1128697
+643,1845,Chippewa Valley Technical College,Psychology,2.8,Joseph Sonsalla,3.7,20,71%,,1,,2,3,1,2,3,1,,2,,1,,5,3,4,,,1,1478991
+644,1845,Chippewa Valley Technical College,Psychology,2.3,Crystal Huang,3.5,19,N/A,,,1,,,2,1,1,,,,,2,1,2,1,2,1,,,787525
+645,1845,Chippewa Valley Technical College,Nursing,3.2,Karla Svedarsky,4.6,19,N/A,,1,,2,1,,,3,,,1,2,1,,,1,1,,1,2,955916
+646,1845,Chippewa Valley Technical College,Nursing,2.5,Kim Ernstmeyer,4.9,19,N/A,,2,,2,,,,2,,,,1,,,,2,,,,,1039092
+647,1845,Chippewa Valley Technical College,Communication,4.2,Michelle O'Connell,4.2,19,N/A,,,,,1,,1,2,,,,,1,1,2,1,,,,,1089988
+648,1845,Chippewa Valley Technical College,Nursing,3.1,Peggy Kincaid,4.6,18,N/A,2,3,,4,2,,,4,,,,,,1,,4,1,,,1,1278209
+649,1845,Chippewa Valley Technical College,Physics,2.7,Mary Purvis,5.0,18,100%,3,4,,7,,,,4,,,5,1,,2,2,,2,,,,781376
+650,1845,Chippewa Valley Technical College,Nursing,3.1,Ann Gerrits,4.9,17,N/A,,,,1,,,,1,,,,,,,2,,,,,1,860034
+651,1849,Citrus College,English,3.0,Mick (Keith) Curran,4.7,286,94%,11,23,,30,5,,9,58,2,,8,27,,,3,39,,1,,15,569378
+652,1849,Citrus College,English,3.3,Dale Salwak,4.8,243,97%,3,43,,13,8,1,45,46,2,,1,28,,1,5,33,1,2,,2,348257
+653,1849,Citrus College,Mathematics,2.3,Alfie Swan,4.6,209,92%,3,5,,8,12,1,,11,,3,23,2,7,24,,18,17,,2,,403259
+654,1849,Citrus College,Mathematics,2.3,Rick Nguyenhuu,4.3,196,96%,1,7,1,12,5,,,9,,,6,4,3,14,4,6,25,,2,8,234236
+655,1849,Citrus College,Mathematics,4.1,Robert Everest,2.7,178,39%,3,2,1,2,4,8,1,3,,,3,2,8,10,1,3,18,,4,32,306905
+656,1849,Citrus College,Biology,4.0,Arnold Kondo,4.3,177,90%,10,9,1,12,7,9,5,12,2,,5,7,6,,1,25,12,,1,16,197484
+657,1849,Citrus College,History,1.4,Bruce O. Solheim,4.5,176,97%,5,15,,7,14,11,10,3,1,2,,18,1,2,6,19,2,,2,,224697
+658,1849,Citrus College,Mathematics,4.5,Sheila White,2.3,175,13%,1,,12,,2,,3,2,,,,,,22,3,,13,4,6,26,1161911
+659,1849,Citrus College,Psychology,1.9,Ken Guttman,4.7,174,100%,2,12,1,8,11,7,1,11,,,3,10,1,1,5,20,4,,1,,1542419
+660,1849,Citrus College,Music,1.9,Gunnar G. Eisel,3.7,167,75%,,9,1,,9,9,2,3,8,,4,2,24,,2,10,13,,8,4,75535
+661,1849,Citrus College,English,4.1,Lisa Telesca,2.5,167,20%,1,,,2,2,2,19,11,,,1,,2,46,1,1,16,17,,43,501553
+662,1849,Citrus College,Mathematics,2.9,Christopher Scott,4.2,165,89%,1,7,1,6,11,18,,5,,,6,1,10,22,2,6,5,,,6,284041
+663,1849,Citrus College,Social Science,2.3,Gailynn White,3.0,150,50%,1,2,,6,9,1,10,3,2,3,3,3,1,5,9,2,1,,4,6,75537
+664,1849,Citrus College,Journalism,2.3,Theresa Villeneuve,4.5,148,83%,2,5,,2,6,6,3,4,4,,13,1,1,,9,6,7,,,4,292568
+665,1849,Citrus College,Mathematics,2.5,Mohamad Trad,4.5,145,93%,3,5,,4,7,1,1,3,,,1,1,,15,2,6,11,,3,4,252830
+666,1849,Citrus College,Biology,3.1,Robert Goodman,4.5,138,94%,1,13,2,6,7,3,9,5,1,,20,9,5,4,3,12,7,,8,6,240718
+667,1849,Citrus College,History,3.3,Senya Lubisich,4.0,135,42%,,2,,2,4,1,16,12,2,,1,1,6,16,6,2,3,3,,7,540364
+668,1849,Citrus College,History,2.3,Brian D. Waddington,4.8,132,93%,6,9,,8,8,,14,20,,,,9,,1,6,14,,3,,3,240734
+669,1849,Citrus College,Mathematics,2.9,Lucia Riderer,4.2,129,64%,,3,3,2,4,2,,1,,7,,4,1,5,,1,8,,2,17,675554
