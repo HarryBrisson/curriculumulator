@@ -3,4 +3,5 @@
 *.pyc
 1-collection/data/rate-my-professor/*.json
 */authorizations/*.json
+*/authorizations/*-api-key.txt
 3-presentation/.env/*
