@@ -14,7 +14,7 @@
         "project_name": "curriculumulator-prod",
         "runtime": "python3.6",
         "s3_bucket": "zappa-curriculumulator-prod",
-        "certificate_arn": "insert arn here",
+        "certificate_arn": "arn:aws:acm:us-east-1:190217484878:certificate/39cbd30d-42ad-47fe-a6d7-5a8b125ef8c8",
         "domain": "www.curriculumulator.com",
         "route53_enabled": false
     }
