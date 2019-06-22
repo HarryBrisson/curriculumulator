@@ -36,6 +36,14 @@ def explorer():
          )
 
 
+@app.route('/scorecard')
+def scorecard():
+    
+    subject = request.args.get('subject')
+
+    return f'coming soon: {subject} scorecard'
+
+
 if __name__ == '__main__':
     app.run(debug=True)
 
