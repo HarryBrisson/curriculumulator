@@ -10,25 +10,27 @@
 			<h1>Curriculumulator: {{subject}}</h1>
 		</div>
 
-		<table class="blueTable">
-			<thead>
-				<tr>
-					<th>Metric</th>
-					<th>Score</th>
-					<th>Percentile</th>
-					<th>Index</th>
-				</tr>
-			</thead>
-			<tbody>
-			{% for x in data %}
-				<tr>
-					<td>{{ x['metric'] }}</td>
-					<td>{{ x['score'] }}</td>
-					<td>{{ "{:.1%}".format(x['percentile']) }}</td>
-					<td>{{ "{:.0f}".format(x['index']) }}</td>
-				</tr>
-			{% endfor %}
-			</tbody>
-		</table>
+		<div id='tableContainer'>
+			<table class="blueTable">
+				<thead>
+					<tr>
+						<th>Metric</th>
+						<th>Score</th>
+						<th>Percentile</th>
+						<th>Index</th>
+					</tr>
+				</thead>
+				<tbody>
+				{% for x in data %}
+					<tr>
+						<td>{{ x['metric'] }}</td>
+						<td>{{ x['score'] }}</td>
+						<td>{{ "{:.1%}".format(x['percentile']) }}</td>
+						<td>{{ "{:.0f}".format(x['index']) }}</td>
+					</tr>
+				{% endfor %}
+				</tbody>
+			</table>
+		</div>
 	</body>
 </html>
