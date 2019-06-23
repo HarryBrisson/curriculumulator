@@ -24,8 +24,8 @@
 				<tr>
 					<td>{{ x['metric'] }}</td>
 					<td>{{ x['score'] }}</td>
-					<td>{{ x['percentile'] }}</td>
-					<td>{{ x['index'] }}</td>
+					<td>{{ "{:.1%}".format(x['percentile']) }}</td>
+					<td>{{ "{:.0f}".format(x['index']) }}</td>
 				</tr>
 			{% endfor %}
 			</tbody>
