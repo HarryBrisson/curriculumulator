@@ -44,3 +44,12 @@ def get_scorecard_data(subject):
 
     return df
 
+
+
+def prep_scorecard_df_as_dict(df):
+    data = df.reset_index()\
+        .rename(columns={'level_0':'metric'})\
+        .to_dict(orient='records')[1:]
+    return data
+
+
