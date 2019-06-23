@@ -123,7 +123,10 @@ div.tooltip {
 	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
 }
 
-
+#tableContainer {
+  position:absolute;
+  top:100px;
+}
 
 table.blueTable {
   border: 1px solid #1C6EA4;
@@ -131,6 +134,7 @@ table.blueTable {
   width: 100%;
   text-align: left;
   border-collapse: collapse;
+  overflow:scroll;
 }
 table.blueTable td, table.blueTable th {
   border: 1px solid #AAAAAA;
