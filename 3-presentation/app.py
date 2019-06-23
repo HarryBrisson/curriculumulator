@@ -46,7 +46,7 @@ def scorecard():
 
     return render_template('scorecard.html',
              data = data,
-             dept = df.loc['dept','score'],
+             subject = subject,
          )
 
 
