@@ -1,0 +1,622 @@
+,campus_id,campus_name,dept,difficulty,name,quality,rating_count,retake,tag_accessibleoutsideclass,tag_amazinglectures,tag_bewareofpopquizzes,tag_caring,tag_cleargradingcriteria,tag_extracredit,tag_getreadytoread,tag_givesgoodfeedback,tag_gradedbyfewthings,tag_groupprojects,tag_hilarious,tag_inspirational,tag_lectureheavy,tag_lotsofhomework,tag_participationmatters,tag_respected,tag_skipclassyouwon'tpass,tag_somanypapers,tag_testheavy,tag_toughgrader,tid
+0,2051,ETI Technical College of Niles,Law,3.3,Diane Hetson,4.2,3,N/A,,,,,,,,,,,,,,,,,,,,,1098564
+1,2051,ETI Technical College of Niles,Nursing,1.5,Rebecca Powell,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1629356
+2,2051,ETI Technical College of Niles,Criminal Justice,4.0,Deanna Butler,3.0,2,N/A,,,,,,,,1,,,,,,,,1,,,,1,1771952
+3,2052,Everett Community College,Anthropology,3.7,Cynthia Clarke,3.6,146,61%,13,6,,3,11,9,15,15,1,1,3,4,6,19,7,7,14,20,1,29,135551
+4,2052,Everett Community College,English,3.6,Diane Ripper,4.1,132,83%,3,3,,15,34,27,20,73,1,,,11,2,19,51,7,1,20,1,51,1446595
+5,2052,Everett Community College,Fine Arts,3.2,Thom Lee,4.6,113,91%,1,24,1,7,13,,,18,1,,35,14,2,4,11,5,26,,,12,133028
+6,2052,Everett Community College,Chemistry,4.1,Anne Brackett,3.2,113,88%,4,5,1,5,2,1,5,5,,1,,1,2,20,11,1,6,,3,11,569294
+7,2052,Everett Community College,Mathematics,3.1,Kevin Bolan,3.8,111,75%,5,5,,4,5,23,1,13,,1,1,2,,18,2,5,6,,3,18,135781
+8,2052,Everett Community College,History,2.8,Jason Ripper,3.9,103,73%,2,12,2,4,7,1,34,10,3,,21,3,8,6,4,6,3,4,2,9,531903
+9,2052,Everett Community College,Mathematics,3.8,Lobna Mazzawi,3.1,93,57%,6,,2,9,,2,4,6,,,,2,4,22,12,2,25,,10,31,1477591
+10,2052,Everett Community College,Mathematics,2.8,Chuck Jones,4.2,92,94%,2,6,1,15,16,3,1,15,2,,19,3,2,6,2,10,11,,3,6,377313
+11,2052,Everett Community College,Mathematics,2.0,Gloria McPherson,4.5,89,95%,5,5,,11,7,13,,11,7,,1,4,,2,2,3,7,,2,4,327370
+12,2052,Everett Community College,Speech,1.9,Mary Dellasega,4.3,85,86%,,5,,3,6,,3,13,1,2,4,4,1,2,7,4,4,1,,,524983
+13,2052,Everett Community College,Chemistry,4.0,Mark Kontulis,3.5,82,74%,3,8,,6,1,10,1,5,1,,12,3,10,1,2,3,17,,7,11,644846
+14,2052,Everett Community College,Political Science,3.5,Steven Horn,3.8,82,79%,3,4,,1,8,1,25,12,3,,,5,18,9,5,8,2,3,2,12,631016
+15,2052,Everett Community College,Mathematics,2.9,Michael Nevins,4.5,81,90%,5,2,,14,12,,1,19,,,13,19,,10,4,13,2,1,1,2,1211123
+16,2052,Everett Community College,Health Science,3.1,Karen Gabrielsen,3.9,80,39%,,4,,2,4,7,5,9,,,4,,,14,3,2,1,,14,20,424754
+17,2052,Everett Community College,Mathematics,2.3,Heidi Weiss-Green,4.8,77,96%,3,2,,16,6,7,,16,2,,1,2,,10,1,6,2,,2,,383468
+18,2052,Everett Community College,Science,3.4,Steve Grupp,2.7,77,11%,,,,2,1,,24,1,7,21,1,1,9,4,17,1,5,,1,15,135773
+19,2052,Everett Community College,Biology,4.0,Rene Kratz,3.2,73,29%,,1,,3,1,1,11,2,,,,1,8,13,4,,6,5,1,10,361133
+20,2052,Everett Community College,Humanities,2.8,Mark Murphy,3.5,73,62%,1,3,1,2,2,,1,8,1,,6,3,1,,6,2,4,1,1,5,152222
+21,2052,Everett Community College,Geography,2.9,Kerry Lyste,2.8,69,39%,,1,,2,1,8,1,3,,11,,1,4,6,5,1,,,,,135383
+22,2052,Everett Community College,Psychology,3.5,Diane Brown,3.3,68,74%,,3,,1,2,,12,3,,,3,1,1,9,9,7,9,3,4,15,1232985
+23,2053,Evergreen Valley College,Physical Education,1.6,Norman Pratt,4.9,449,99%,9,37,,149,14,31,1,109,4,11,28,140,,,104,180,26,,,4,871894
+24,2053,Evergreen Valley College,Mathematics,1.5,Manjit Kang,4.8,445,97%,7,46,23,129,51,51,7,148,6,,129,82,,25,36,142,16,,1,1,1900695
+25,2053,Evergreen Valley College,Psychology,2.4,Brad Carothers,4.5,221,69%,1,13,,,6,21,8,13,1,7,1,5,3,7,6,7,1,9,2,12,105539
+26,2053,Evergreen Valley College,Communication,2.7,John Carrion,4.0,166,79%,2,7,1,4,15,,,18,,,23,4,2,1,4,4,9,,,15,257453
+27,2053,Evergreen Valley College,Mathematics,2.2,Teck Ky,4.3,162,84%,4,4,3,10,7,1,1,7,5,,12,1,2,20,3,14,11,1,4,4,199435
+28,2053,Evergreen Valley College,History,1.6,Eric Narveson,4.9,162,100%,,40,1,4,18,1,,5,3,,49,5,2,,4,10,6,,1,,272065
+29,2053,Evergreen Valley College,Communication,4.1,Karen Rowe-Tinsley,2.0,131,36%,1,,,2,2,,5,2,2,,1,1,9,4,17,,20,3,1,19,74905
+30,2053,Evergreen Valley College,Ethnic Studies,2.0,Arturo Villarreal,4.6,122,88%,,14,,5,7,6,2,3,3,,11,8,2,,1,15,6,,4,3,1026122
+31,2053,Evergreen Valley College,Physics,2.4,Celso Batalha,4.2,122,78%,2,4,,5,6,8,5,4,1,2,10,2,5,6,1,6,,1,7,3,248867
+32,2053,Evergreen Valley College,Economics,2.1,Michael Risso,3.1,121,46%,2,1,,,,5,,4,4,,4,1,17,,2,,22,,3,1,227003
+33,2053,Evergreen Valley College,Mathematics,1.9,Robert Knight,4.5,120,87%,1,1,,10,15,2,1,5,1,,,4,,10,6,11,1,1,3,,591678
+34,2053,Evergreen Valley College,Business,2.3,Philip Tran,4.9,117,100%,19,53,1,22,11,18,,39,4,13,21,46,4,2,13,38,12,,,,2402666
+35,2053,Evergreen Valley College,Biology,3.2,Gene Dorsa,4.8,114,95%,4,7,,14,2,3,1,4,,,6,10,3,2,1,12,9,,1,3,291696
+36,2053,Evergreen Valley College,Mathematics,3.2,Kevin McCandless,3.4,106,56%,2,1,,2,5,,1,3,,,,,1,5,,1,3,,2,5,880445
+37,2053,Evergreen Valley College,History,2.8,Elizabeth Nava,4.0,106,92%,2,5,,2,6,5,9,3,1,2,,4,1,,,1,6,,1,5,227006
+38,2053,Evergreen Valley College,Mathematics,1.9,Bob Lombard,4.8,98,84%,,6,1,7,1,3,,4,,,9,5,5,10,1,5,8,1,2,3,248875
+39,2053,Evergreen Valley College,Mathematics,3.6,Sithparran Vanniasegaram,4.7,98,88%,5,8,,7,11,7,,9,,,2,6,7,21,3,17,17,2,1,24,1912863
+40,2053,Evergreen Valley College,Philosophy,1.7,Kelley Wells,3.6,95,67%,,1,1,2,2,2,3,2,2,,2,2,3,,1,2,3,,1,2,161754
+41,2053,Evergreen Valley College,English,1.8,Scott Wilson,4.7,92,75%,1,3,,3,3,,4,8,,,5,6,,,8,6,1,2,,1,297986
+42,2053,Evergreen Valley College,History,2.5,David Hendricks,4.6,87,90%,,8,1,3,3,5,2,8,,,13,2,4,1,3,4,4,3,,3,702245
+43,2055,Fashion Institute of Design and Merchandising,Psychology,4.1,Misha Behbehani,2.5,89,11%,,,1,,2,1,,1,,,,3,3,8,3,,13,1,4,13,502511
+44,2055,Fashion Institute of Design and Merchandising,Fine Arts,3.3,Gail Cottingham,2.6,87,17%,,,,,,,,3,2,,2,1,,14,1,,8,,2,18,254020
+45,2055,Fashion Institute of Design and Merchandising,English,2.9,Nino Surdo,3.8,77,80%,,1,,3,3,,,7,,,9,7,1,,2,2,4,,,4,254013
+46,2055,Fashion Institute of Design and Merchandising,Marketing,3.6,Sheryl Marcus,4.6,63,N/A,,,,,,,,1,,,,1,,1,1,2,,,,2,254016
+47,2055,Fashion Institute of Design and Merchandising,Design,3.8,Ofelia Montejano,2.5,62,39%,,,1,,3,,,3,,1,,1,1,4,1,2,7,,,12,573327
+48,2055,Fashion Institute of Design and Merchandising,Fine Arts,3.3,Nancy Reigelman,4.5,60,N/A,1,2,,1,,,,4,,,,3,,3,,5,1,,,5,431752
+49,2055,Fashion Institute of Design and Merchandising,Marketing,2.1,Elisabeth Hinckley,4.6,58,86%,,1,,1,1,,,2,,1,,2,3,1,1,2,1,1,,2,154022
+50,2055,Fashion Institute of Design and Merchandising,Textiles & Clothing,3.5,Deborah Young,4.3,58,N/A,,,1,,1,,,4,,,1,,,1,1,1,2,,,3,454838
+51,2055,Fashion Institute of Design and Merchandising,Design,2.9,Robert Blackshear,3.9,57,N/A,1,,,5,1,,,1,,,3,,,,1,4,2,,,,571052
+52,2055,Fashion Institute of Design and Merchandising,Fine Arts,3.8,John Swiatek,3.9,52,N/A,,,,,,,,,,,,,,,,,,,,1,241232
+53,2055,Fashion Institute of Design and Merchandising,Design,4.0,Susan Zarate,2.9,52,N/A,,,,,,,,,,,,,,,,,,,,,241238
+54,2055,Fashion Institute of Design and Merchandising,Art History,3.1,Keri Shurtliff,4.2,51,63%,1,5,,1,2,1,2,1,2,,,1,3,,3,,3,1,1,1,469145
+55,2055,Fashion Institute of Design and Merchandising,Marketing,3.7,Jasmin Rucker,3.0,50,N/A,,,,,,,,,,1,,,,1,1,,1,,,2,854787
+56,2055,Fashion Institute of Design and Merchandising,Fine Arts,1.9,Doug Meyer,4.6,48,100%,,1,,5,4,,1,4,2,,1,,2,,,1,1,,,1,241240
+57,2055,Fashion Institute of Design and Merchandising,Design,4.2,Pamela Banks,2.5,44,N/A,,,,,1,,1,3,,,,1,,2,,,2,,,4,508725
+58,2055,Fashion Institute of Design and Merchandising,Marketing,2.0,Andre Barnwell,4.0,44,83%,,4,,1,2,3,1,3,,8,5,6,2,,2,2,1,,,1,1078582
+59,2055,Fashion Institute of Design and Merchandising,Design,3.3,Terese Radenbaugh,4.4,43,N/A,,,,2,,,,3,,,3,,,,,2,,,,1,1100268
+60,2055,Fashion Institute of Design and Merchandising,Design,4.1,Michael Perelman,3.7,42,N/A,,,,,,,,1,,,,,,3,,,1,,,,23514
+61,2056,Fayetteville Technical Community College,Criminal Justice,2.6,Pia Anderson,4.6,191,99%,9,19,3,77,56,43,24,87,2,,1,25,,9,64,52,7,,1,6,1670364
+62,2056,Fayetteville Technical Community College,Criminal Justice,2.3,Mike Hawkins,4.8,187,98%,6,7,,35,54,,13,61,,,8,21,2,7,64,54,15,,,4,938111
+63,2056,Fayetteville Technical Community College,Humanities,3.0,Kelly Perez,4.8,112,99%,12,2,,39,57,17,18,91,1,,2,22,1,4,22,29,1,,,2,2029453
+64,2056,Fayetteville Technical Community College,Computer Science,2.6,Nakia Cummings,4.7,95,100%,11,16,,14,11,5,1,33,,,14,24,2,6,8,32,3,,2,4,1856832
+65,2056,Fayetteville Technical Community College,Psychology,1.7,Jennifer Bledsole,4.8,54,95%,3,9,,8,3,12,,7,,,21,10,,,3,12,,1,,,1450461
+66,2056,Fayetteville Technical Community College,Biology,3.4,Jeffrey Martin,4.3,50,73%,,8,,5,5,1,1,4,1,,5,,4,,1,4,3,,3,,864595
+67,2056,Fayetteville Technical Community College,English,2.7,Lisa Grundy,4.3,45,100%,1,1,,5,7,1,1,7,1,,3,2,,,1,5,,,,,1381647
+68,2056,Fayetteville Technical Community College,Management,2.2,Kenneth N Buckey,4.8,42,100%,1,4,,13,8,,4,23,,,1,8,,1,14,15,,1,,,1897016
+69,2056,Fayetteville Technical Community College,Communication,1.9,John Edwards,4.5,35,N/A,1,,,4,3,,2,6,,,3,,,,4,4,1,,,1,450725
+70,2056,Fayetteville Technical Community College,History,3.2,Robert Nelms,3.5,35,55%,,1,1,1,5,3,10,,3,,,,4,2,1,,,1,,6,684441
+71,2056,Fayetteville Technical Community College,Biology,2.9,Gehan Soliman,3.6,34,56%,3,,,,6,10,8,9,,,,5,4,12,2,2,5,,1,10,1904946
+72,2056,Fayetteville Technical Community College,English,3.8,Vicki Bozzola Derka,3.3,34,57%,7,1,,5,5,3,5,17,,,,3,3,12,8,3,5,5,1,10,2028145
+73,2056,Fayetteville Technical Community College,English,3.6,Samuel Zahran,4.3,33,100%,,1,,1,5,,4,12,,,1,1,1,3,1,2,4,4,,9,743840
+74,2056,Fayetteville Technical Community College,Communication,3.1,Leslie Corpening,3.4,32,46%,,1,1,1,2,,1,6,,2,6,,,2,6,,7,,,12,1549411
+75,2056,Fayetteville Technical Community College,Information Science,3.2,Carlos G Bodden,4.7,32,100%,5,3,1,11,9,,1,9,,2,2,,1,5,2,24,6,,,,1899408
+76,2056,Fayetteville Technical Community College,Chemistry,2.5,John Fields,4.8,31,100%,,4,,2,5,5,1,1,,,2,,,1,2,,4,,,,1463209
+77,2056,Fayetteville Technical Community College,English,2.1,Joshua James,4.8,30,94%,3,,,6,9,2,,23,1,,9,7,,,4,10,,,,,1900976
+78,2056,Fayetteville Technical Community College,Biology,4.6,Benjamin Carlucci,2.7,30,40%,12,3,,2,1,2,7,2,3,,,,16,8,1,,9,,7,11,2284816
+79,2056,Fayetteville Technical Community College,Biology,3.0,Jenie Chute,4.3,29,88%,4,5,,9,11,6,,7,,,4,3,1,,,9,1,,1,2,1721273
+80,2056,Fayetteville Technical Community College,Psychology,2.5,James Robinson,4.8,28,100%,,8,,1,2,1,,1,,,5,1,,,2,2,4,,,,546102
+81,2057,Feather River College,English,3.2,Chris Connell,3.4,17,40%,,1,,,1,,2,1,1,,,,1,,1,2,1,1,,4,504475
+82,2057,Feather River College,English,2.1,Joan Parkin,3.8,9,100%,,1,,1,,,1,3,,,4,1,2,,2,1,,,,1,1749619
+83,2057,Feather River College,History,3.0,Thomas Heaney,3.5,8,N/A,,,,1,,,,,,,1,,,,,,1,,,,504536
+84,2057,Feather River College,Mathematics,3.0,Michael Bagley,4.8,8,100%,1,2,,5,,,1,1,,,4,4,,,,,,,,,1628773
+85,2057,Feather River College,Political Science,3.5,Katie Desmond,4.7,6,N/A,1,,,1,1,,,1,,,,1,,,,2,,,,1,1750389
+86,2057,Feather River College,Biology,2.6,Anna Thompson,4.4,5,N/A,,1,,,2,1,,2,,,,,,,,1,1,,,,820953
+87,2057,Feather River College,Philosophy,3.0,Mick Presnell,2.7,5,N/A,,,,,,,,,,,,,,,,,,,,,820954
+88,2057,Feather River College,Biology,3.8,Jim Cross,2.7,5,N/A,1,1,,,,,1,,,,,,,1,2,,1,1,1,2,1381858
+89,2057,Feather River College,Physics,2.5,Erik Kramer,3.8,4,N/A,,,,,,,,,,,,,,,,,,,,,820951
+90,2057,Feather River College,English,4.0,Pat Kent,4.0,3,N/A,,,,,,,,,,,,,,,,,,,,,719187
+91,2057,Feather River College,Agriculture,3.5,Russel Reid,4.0,2,N/A,,,,,,,,,,,,,,,,,,,,,668472
+92,2057,Feather River College,Mathematics,3.5,Ken Cawley,3.0,2,N/A,,,,,,,,,,,,,,,,,,,,,744137
+93,2057,Feather River College,Physical Education,2.0,Steve Mooshagian,4.5,2,N/A,,,,,1,,,,,,,,,,,,,,,,1424537
+94,2057,Feather River College,Nursing,2.5,Judith Mahan,5.0,2,N/A,,,,1,,1,,1,,,,2,,,,,,,,,2250102
+95,2057,Feather River College,English,3.0,Joe Willis,3.0,2,N/A,,,,,,,,1,,,,,1,,1,,,,,1,2294168
+96,2057,Feather River College,English,2.0,Mary Louise Ruth,1.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1436377
+97,2057,Feather River College,Business,2.0,Amelia Schulz,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1835396
+98,2057,Feather River College,Political Science,4.0,Paul Vaughn,2.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1889022
+99,2057,Feather River College,Biology,3.0,Darla DeRuiter,1.5,1,N/A,,,,,,,,,,1,,,1,,1,,,,,,2141410
+100,2057,Feather River College,Nursing,3.0,Amber Donnelly,3.0,1,N/A,,,,,,,,,,,,,,,,,,,,,2250112
+101,2058,Minnesota State Community and Technical College,History,3.3,Arlin Nikolas,4.6,37,100%,,7,,,2,,2,1,2,,2,2,2,1,,2,,,1,,602490
+102,2058,Minnesota State Community and Technical College,Mathematics,3.2,Jay Johnson,3.5,17,43%,3,,2,1,,,,3,2,,,,1,1,,1,1,1,1,4,248655
+103,2058,Minnesota State Community and Technical College,Biology,4.4,Matthew Borcherding,4.8,16,N/A,,3,,1,,,1,2,,,3,,,2,2,4,,,,,1596330
+104,2058,Minnesota State Community and Technical College,Chemistry,4.2,Ramona Caswell,4.0,13,86%,2,1,,1,2,,,,,,,,,1,,6,3,,2,5,1594121
+105,2058,Minnesota State Community and Technical College,Business,2.8,Tom Gausman,4.3,12,N/A,,2,,,1,,,2,,,1,,,,,2,,,,1,372768
+106,2058,Minnesota State Community and Technical College,Business,2.9,Kent Quamme,4.4,9,N/A,,,,,,,,,,,,,,1,1,,1,,,,619044
+107,2058,Minnesota State Community and Technical College,Biology,3.8,Camelia Lamey,2.1,9,N/A,,1,,,,1,4,,,,,,,4,,,,,,2,1694680
+108,2058,Minnesota State Community and Technical College,English,3.1,Paul Carne,3.3,8,N/A,,,,,,,,,,,,,,,,,,,,,248657
+109,2058,Minnesota State Community and Technical College,English,3.4,Joan Brickner,2.3,8,N/A,,,,,,,2,1,2,,,,,,1,,1,,,4,1693127
+110,2058,Minnesota State Community and Technical College,Mathematics,2.8,Tanya Hanstad,2.5,8,N/A,,,,,,,,,,,,,,,1,,,,,,372769
+111,2058,Minnesota State Community and Technical College,Psychology,3.0,Loren Synstelein,3.3,7,N/A,,,,,1,,,1,,,,,,,,,,,,,641154
+112,2058,Minnesota State Community and Technical College,Humanities,2.4,Ron Godzinski,4.6,7,N/A,,,,,1,,1,2,,,,1,,,2,1,,,,,1081823
+113,2058,Minnesota State Community and Technical College,English,2.3,Mr. Mann,3.4,6,N/A,,,,,,,1,,,,1,,,,,,,1,,,248653
+114,2058,Minnesota State Community and Technical College,Nursing,4.8,Tracy Morstad,3.0,6,N/A,,,,,,,1,,,,,,,,,,1,,,1,992026
+115,2058,Minnesota State Community and Technical College,Mathematics,3.0,Mike Booth,4.3,6,N/A,1,,1,2,,,,,,,,,,1,,1,,,,,1706382
+116,2058,Minnesota State Community and Technical College,Accounting,2.8,Jean McKenzie,4.8,5,N/A,,,,,,,,1,,,,,,,,1,,,,,334543
+117,2058,Minnesota State Community and Technical College,English,3.8,Terry Ruud,2.1,5,N/A,,,,,,,,,,,,,1,1,,,,1,,,1521653
+118,2058,Minnesota State Community and Technical College,Biology,3.0,Carol Bischof,2.3,4,N/A,,,,,,,,,,,,,,,,,,,,,372765
+119,2058,Minnesota State Community and Technical College,Writing,4.3,Anthony Miltich,4.3,4,N/A,,,,,,,,,,,,,,,,,,,,,1081828
+120,2058,Minnesota State Community and Technical College,Chemistry,3.2,Rebekah Ekelund,4.3,4,N/A,,,,3,2,1,2,2,,,,,,1,,,,,,,1473099
+121,2059,Finger Lakes Community College,History,2.8,Robert J. Brown,4.6,84,100%,3,9,,4,2,5,1,2,,,1,5,1,,,7,,,,2,472477
+122,2059,Finger Lakes Community College,English,2.6,Alton Jowers,4.3,56,91%,,2,,4,,,4,7,1,,8,1,,,4,8,,,,,358788
+123,2059,Finger Lakes Community College,English,3.4,Jon Palzer,4.7,45,94%,3,,,3,,,10,5,,,1,4,,2,12,6,3,,,4,162015
+124,2059,Finger Lakes Community College,Mathematics,3.2,Tim Biehler,4.7,42,100%,4,4,,1,2,,,1,,,10,,,2,,9,3,,,5,162013
+125,2059,Finger Lakes Community College,English,3.0,Deborah Ferrell,3.0,42,75%,,,,1,,1,,2,,,1,,1,3,6,,6,1,,7,162016
+126,2059,Finger Lakes Community College,Sociology,2.8,Sarah Brown,4.0,40,N/A,1,3,,3,1,,,3,,,2,1,1,1,,2,1,2,,2,578314
+127,2059,Finger Lakes Community College,English,2.2,Todd Natti,4.5,40,N/A,,,,,,,,,,,,,,,,,,,,,1475281
+128,2059,Finger Lakes Community College,Biology,3.4,Clinton Krager,3.5,39,83%,,3,,,,,,1,,,5,1,,1,2,3,1,,1,1,536206
+129,2059,Finger Lakes Community College,History,2.5,David Harmon,4.5,37,N/A,,,,1,,,,1,,,,1,,,,,,,,,324519
+130,2059,Finger Lakes Community College,Philosophy,2.3,John Talbot,3.7,33,N/A,,,,,,,,,,,,,,,,,,,,,135776
+131,2059,Finger Lakes Community College,Biology,3.1,Kelli Prior,4.8,32,80%,3,2,,3,2,2,,6,,,,2,2,,,6,5,,1,1,693081
+132,2059,Finger Lakes Community College,Physics,3.8,Leonard Ortenzi,2.7,31,N/A,,,,,,,,,,,1,,,,,,3,,,5,437526
+133,2059,Finger Lakes Community College,Computer Science,3.0,Jeff Howard,3.3,30,N/A,,,,,,,1,,,,1,,,5,2,,3,,,2,134181
+134,2059,Finger Lakes Community College,Psychology,1.8,Edward Kennedy,4.2,30,N/A,,4,,4,,,,1,,,,3,,,1,6,,,,,679867
+135,2059,Finger Lakes Community College,Business,2.3,Peter Kuyrla,4.2,28,N/A,,,,,,,,,,,1,1,,,,1,,,,,163708
+136,2059,Finger Lakes Community College,Mathematics,2.3,Jake Amidon,4.3,28,N/A,,,,,3,,,1,,,,,,,,,,,,1,273806
+137,2059,Finger Lakes Community College,Biology,2.9,Amy Fenwick,4.8,28,100%,1,4,,3,2,2,1,4,,,7,2,,2,,3,1,,,,1397667
+138,2059,Finger Lakes Community College,Biology,4.5,Suzanne Keller,3.0,28,N/A,,,,,1,,,,,,1,,3,,,1,3,,1,2,418874
+139,2059,Finger Lakes Community College,Law,3.7,Mark Hartwell,4.8,27,N/A,,,,,,,,,,,,,,,,,,,,,129571
+140,2059,Finger Lakes Community College,Languages,2.8,Barbara Kruger,3.9,27,N/A,,,,,1,,,1,,,,1,,1,2,,1,,,1,146172
+141,2060,Fisher College,English,2.7,John Martino,3.8,22,N/A,,,,,1,,,1,,,,,,,,1,,,,,302234
+142,2060,Fisher College,Theater,2.5,Danielle Herget,4.6,17,N/A,,,,,,,,,,,,,,,,,,,,,345294
+143,2060,Fisher College,History,3.1,David Smith,4.0,14,N/A,,,,,,,,,,,,,,,,,,,,,35101
+144,2060,Fisher College,Mathematics,3.7,Gail Peretti,2.8,14,N/A,,,,,,,,,,,,,,,,,,,,,302244
+145,2060,Fisher College,Science,3.2,Pauline Hatzikostantis,3.5,14,N/A,,,,,,,2,2,,,,,,,,,3,,,1,302247
+146,2060,Fisher College,Psychology,3.7,Nicholas Siciliano,3.4,13,N/A,1,,,,,,1,1,,,,,2,1,,,2,1,,2,302222
+147,2060,Fisher College,Mathematics,4.7,Kate Bruce,1.4,13,N/A,,,,,,,,,,,,,1,5,2,,1,,1,6,1728461
+148,2060,Fisher College,English,3.0,Natalie Sforza,3.9,12,N/A,,,,1,,,,2,,,,1,,,2,,,,,,302237
+149,2060,Fisher College,Communication,2.9,Marlena Karami,2.2,11,N/A,,,,,,,,,,,,,,,,,,,,,302229
+150,2060,Fisher College,Mathematics,1.9,Steve Pelles,4.1,10,N/A,,,,,,,,,,,,,,,,,,,,,388627
+151,2060,Fisher College,Criminal Justice,2.8,Robert Boomhower,5.0,9,N/A,,4,,,,,,1,,,2,,,,,2,,1,,,1836169
+152,2060,Fisher College,Mathematics,2.4,Sean Doyle,5.0,8,N/A,,,,,,,,,,,,,,,,,,,,,302217
+153,2060,Fisher College,Economics,1.5,Mohammed Agwa,3.1,8,N/A,,,,,,,,,,,,,,,,1,,,,1,1324366
+154,2060,Fisher College,English,2.1,Dean Walton,3.5,7,N/A,,,,,,,,,,,,,,,,,,,,,35102
+155,2060,Fisher College,Accounting,2.7,Donna Brady,4.8,7,N/A,,,,2,,,,1,,,,,,,,1,,,,,302216
+156,2060,Fisher College,Hospitality,2.4,Richard Metzger,4.8,7,N/A,,,,2,1,,,,,,,1,,,,,,,,,1669441
+157,2060,Fisher College,Hospitality,2.8,Nancy Pithis,5.0,5,N/A,,,,,,,,1,,,1,,,,,1,,,,,302248
+158,2060,Fisher College,Criminal Justice,2.2,Meredith Spencer,4.2,5,N/A,,,,,,,,,,,,,,,,,,,,,652921
+159,2060,Fisher College,Education,3.0,Linda Small,4.3,5,N/A,,,,,,,,,,,,,,,,,,,,,1282216
+160,2060,Fisher College,Psychology,3.0,Tunde Turi-Markovic,5.0,5,N/A,,1,,,,1,,,,,,,,,,1,,,,,1443722
+161,2061,Flathead Valley Community College,English,1.6,Brian Bechtold,4.8,16,N/A,,,,,,,,,,,,,,,,,,,,,64461
+162,2061,Flathead Valley Community College,Engineering,4.3,Effat Rady,3.6,12,N/A,1,,,1,,,,2,,,,,,,1,,1,,,2,363352
+163,2061,Flathead Valley Community College,English,2.7,Lowell Jaeger,3.8,10,N/A,,,,2,,,,2,,,,,,,2,,,,,,359845
+164,2061,Flathead Valley Community College,Chemistry,3.7,David Long,3.1,10,20%,,1,1,1,1,,,,,,2,,,,,2,1,1,,,1857257
+165,2061,Flathead Valley Community College,Mathematics,4.3,Debbre Hawkins,1.9,9,N/A,,,,,,,,,,,,,,,,,,,,,450305
+166,2061,Flathead Valley Community College,History,2.3,Jonathan Moses,3.3,9,N/A,,,,,,,,1,,,1,1,,,,,,,,,683499
+167,2061,Flathead Valley Community College,Theater,1.6,Joe Legate,4.9,9,N/A,,,,,2,,,1,,,3,,,,1,2,1,,,,683501
+168,2061,Flathead Valley Community College,Humanities,2.1,Carol Bergin,3.3,8,N/A,,,,,,,1,1,1,,,,1,,1,1,,,,,64460
+169,2061,Flathead Valley Community College,Psychology,2.3,Ivan Lorentzen,5.0,6,N/A,,,,,,,,,,,,,,,,,,,,,64458
+170,2061,Flathead Valley Community College,Education,1.2,David Scott,4.9,6,N/A,,,,,,,,,,,,,,,,,,,,,363354
+171,2061,Flathead Valley Community College,Computer Science,3.3,Dawn Rauscher,4.8,6,N/A,,,,,,,,,,,,,,,,,,,,,770675
+172,2061,Flathead Valley Community College,Sociology,2.7,Deb Miller,3.1,6,N/A,,,,1,,,,1,,,1,,,,,,,,,,1082666
+173,2061,Flathead Valley Community College,Chemistry,2.7,Adam Wenz,4.5,6,N/A,2,1,,,2,1,,1,,,1,,,,,1,,,,,1857258
+174,2061,Flathead Valley Community College,Biology,3.2,Hans Helmstetler,4.0,6,N/A,,1,,,1,,2,,,,2,1,,,,2,1,,,1,1994669
+175,2061,Flathead Valley Community College,Languages,2.4,Gerda Reeb,4.6,5,N/A,,,,,1,,,1,,,,,,1,,,,,,,450293
+176,2061,Flathead Valley Community College,Human Services,3.2,Richard Halverson,1.4,5,N/A,,,,,,,,,,,,,,,,,,,,,1230474
+177,2061,Flathead Valley Community College,Accounting,3.6,Ronnie Laudati,3.5,5,N/A,,,,,,,,,,,,,,1,,,,1,,1,1285074
+178,2061,Flathead Valley Community College,Mathematics,2.0,Linda Soper,3.9,4,N/A,,,,,,,,1,,,,,,,,,,,,1,64463
+179,2061,Flathead Valley Community College,Mathematics,2.8,Pete Wade,4.5,4,N/A,,,,,,,,,,,,,,,,,,,,,64465
+180,2061,Flathead Valley Community College,Fine Arts,2.8,John Rawlings,3.5,4,N/A,,,,,,,,,,,,,,,,,,,,,1183318
+181,2062,Florence-Darlington Technical College,Biology,4.0,Ken Malachowsky,4.0,61,100%,3,2,,3,2,10,2,7,,,2,1,1,3,1,1,8,,1,9,452211
+182,2062,Florence-Darlington Technical College,Sociology,2.1,Peggy Campbell,4.8,46,100%,,4,,5,,,,3,,,5,3,,,2,6,1,,1,,657200
+183,2062,Florence-Darlington Technical College,Biology,2.8,Patty Bostwick-Taylor,4.7,41,100%,2,6,,9,3,,,6,,,,1,1,,,7,2,,,,259012
+184,2062,Florence-Darlington Technical College,Psychology,1.9,Brantlee Haire,5.0,33,100%,4,,,4,3,5,1,2,,,,,,,,3,1,,,,443260
+185,2062,Florence-Darlington Technical College,Biology,4.0,Larry Green,3.4,31,N/A,,,,,,,,,,,,,,,,,,,,1,362522
+186,2062,Florence-Darlington Technical College,Psychology,1.3,Tony Fowler,4.9,30,N/A,1,2,,1,,,,1,,,3,,,,,5,,,,,352122
+187,2062,Florence-Darlington Technical College,Psychology,3.3,Chris Thomas,4.0,26,80%,1,3,,1,,1,,,1,,2,,1,2,3,2,1,,,2,229055
+188,2062,Florence-Darlington Technical College,Biology,4.0,Lucy Bridges,2.1,26,40%,,1,1,6,,1,5,,,,,,10,,1,,9,,3,11,1899532
+189,2062,Florence-Darlington Technical College,Biology,4.2,Kris Hueftle,2.6,25,N/A,,,,,,,,,,,,,,,,,,,,,443251
+190,2062,Florence-Darlington Technical College,English,3.0,Marjory Hall,4.5,21,89%,,,1,5,1,1,2,7,,,5,2,,1,2,4,3,2,,,1670416
+191,2062,Florence-Darlington Technical College,Psychology,2.4,Cheryl McGill,4.3,20,100%,2,2,,4,,1,2,1,,,,2,,2,1,1,,,,,353579
+192,2062,Florence-Darlington Technical College,English,3.8,Alan Trusky,3.5,20,83%,,,,,,1,2,4,,,1,1,,3,5,1,4,2,1,5,1533819
+193,2062,Florence-Darlington Technical College,Humanities,3.5,Ismael Perez,3.2,20,40%,,,,1,1,2,,2,,3,5,1,,2,4,,2,,,7,1583878
+194,2062,Florence-Darlington Technical College,Mathematics,3.4,Bob Indrihovic,3.3,19,43%,2,,,,2,2,,2,1,,1,,,7,1,1,2,,2,1,882608
+195,2062,Florence-Darlington Technical College,Chemistry,2.4,David Saleeby,4.3,16,N/A,1,,,2,1,,,4,,,4,3,2,1,,1,,,,2,734720
+196,2062,Florence-Darlington Technical College,Developmental Studies,3.3,Hattie Pinckney,3.4,16,83%,,,1,1,1,,3,3,1,,,,,,3,3,1,,1,5,1302232
+197,2062,Florence-Darlington Technical College,Mathematics,2.1,Debi McCandrew,4.9,15,N/A,,1,,5,1,1,,1,,,2,,,1,3,4,,,,,650318
+198,2062,Florence-Darlington Technical College,Psychology,2.0,Caroline McDaniel,4.7,15,N/A,,,,,1,1,,,,,,,,,1,1,,,,,780306
+199,2062,Florence-Darlington Technical College,Chemistry,3.6,Charles Taylor,2.9,14,N/A,,,,,,,,,,,1,,2,,,,,,,2,229052
+200,2065,Florida Career College,Agriculture,2.8,Richiez Anthony,4.6,4,N/A,,,,,,,,,,,,,,,,,,,,,1263700
+201,2065,Florida Career College,Health Science,1.0,Rafael Martinez,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1408123
+202,2065,Florida Career College,Communication,5.0,Mayra Busse,1.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1591152
+203,2065,Florida Career College,Computer Science,1.0,Mauricio Gongora,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1598111
+204,2065,Florida Career College,Computer Science,1.0,Trevan Smith,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1804193
+205,2065,Florida Career College,Nursing,4.0,Chandralaka Bhramdat,1.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1812214
+206,2066,Florida Keys Community College,Biology,2.9,Robert Bullis,4.7,30,100%,5,9,,3,3,,5,4,,,1,3,3,,5,3,,,,,1520797
+207,2066,Florida Keys Community College,Biology,3.5,Sherri Hitz,4.9,23,N/A,,,,,,,,1,,,1,1,,,,,,,,,1237915
+208,2066,Florida Keys Community College,Nursing,4.6,Julie Sagan,4.2,20,N/A,,3,,,,,1,,,,,,1,,,5,,,1,6,1158392
+209,2066,Florida Keys Community College,English,3.5,Ellen Elfstrom,5.0,11,N/A,,,,,,,,,,,,,,,,,,,,,1243212
+210,2066,Florida Keys Community College,Nursing,3.6,Sheri Mather,4.6,11,N/A,,,,,,,,,,,,,,,,,,,,,1717291
+211,2066,Florida Keys Community College,Biology,4.2,William Irwin,3.7,11,33%,,4,1,,1,,4,1,,,1,1,1,1,2,,,,,6,1810653
+212,2066,Florida Keys Community College,English,3.2,E.J. Miller-Laino,2.9,10,N/A,,,,,,,,1,,,,,,,1,,,,,,867546
+213,2066,Florida Keys Community College,Computer Science,2.0,Sam Hijazi,4.5,8,N/A,,,,1,,,,,,,,1,,,,1,,,,,931192
+214,2066,Florida Keys Community College,Psychology,2.3,Katheryn Eads,4.6,8,N/A,1,2,,,2,1,,3,,,,,,2,2,,,1,,1,1764215
+215,2066,Florida Keys Community College,Mathematics,4.3,Lee Kiser,3.4,7,N/A,,,,,,,,,,,,,,,,,,,,,320205
+216,2066,Florida Keys Community College,Science,4.4,Mark Preziosi,3.9,7,N/A,,,1,1,,,,1,,,,,,,,,3,,,2,1525793
+217,2066,Florida Keys Community College,Not Specified,2.7,Kenny Lingle,4.7,6,N/A,,,,,,,,,,,,,,,,,,,,,320203
+218,2066,Florida Keys Community College,History,3.7,Sharon Farrell,3.3,6,N/A,,,,1,,,,,,,,,,,,,,,,,1265049
+219,2066,Florida Keys Community College,English,3.6,Terry Ansbro,4.0,5,N/A,,,,,,,,,,,,,,,,,,,,,1239835
+220,2066,Florida Keys Community College,English,3.4,Dan Distasio,4.4,5,N/A,,,,1,,,,1,,,,1,,,,,,,,,1275478
+221,2066,Florida Keys Community College,Psychology,1.5,Cyna Underhill Wright,3.0,4,N/A,,,,,,,,,,,,,,,,,,,,,1266400
+222,2066,Florida Keys Community College,Science,3.5,Sarah Miller,4.9,4,N/A,,,,,,,,,,,,,,,,,,,,,1310491
+223,2066,Florida Keys Community College,Computer Science,2.7,Dawn Ellis,3.1,4,N/A,,,,,1,1,1,2,1,,,,,1,1,,,,1,,1619846
+224,2066,Florida Keys Community College,Nursing,3.0,Mary Turner,1.5,4,N/A,,,,,,,,,,,,,,,,,,,,,1676899
+225,2066,Florida Keys Community College,Mathematics,4.5,Kathryn Pridemore,1.2,4,N/A,,,,,,,2,,1,,,,,4,1,,,,,2,2111858
+226,2067,Florida National University,Business,2.8,Miguel A Pinzon,4.8,72,94%,,11,1,12,1,,11,28,,3,2,12,,2,17,14,3,,,9,1885826
+227,2067,Florida National University,Nursing,4.1,Yunieski Farradas,3.6,63,67%,,14,,9,1,,3,9,,,1,15,,1,5,17,6,,11,12,2157848
+228,2067,Florida National University,Mathematics,2.7,Ivan Pereda,4.9,35,97%,2,9,,12,7,5,,17,,,2,9,1,2,2,15,,,2,,2120303
+229,2067,Florida National University,Health Science,3.2,Carlos Cuervo,5.0,33,100%,,12,,5,3,7,,2,,,1,13,,1,2,9,1,,1,1,1164121
+230,2067,Florida National University,Health Science,3.7,Olema Ferret,4.1,32,82%,4,9,1,5,3,6,2,5,,,,10,,2,1,15,7,,2,1,1076686
+231,2067,Florida National University,Business,3.3,Michael Pelaez,4.9,30,97%,10,3,1,7,4,,,17,,,1,7,1,2,8,18,,,,,2269758
+232,2067,Florida National University,Mathematics,2.9,Henry Fernandez,4.9,28,96%,4,5,1,9,3,2,,12,1,,2,8,,,4,21,,,1,,2053538
+233,2067,Florida National University,Science,3.2,Jose Villasuso,4.1,25,78%,1,9,,2,4,2,4,6,1,,3,7,,,4,6,3,,,4,1829664
+234,2067,Florida National University,English,2.4,Ileana Torres,5.0,25,100%,5,9,,11,,,,13,,,,9,,,,12,,,,,1902022
+235,2067,Florida National University,English,2.1,Karelia Castañeda,4.9,23,100%,,,,1,2,,1,3,,,,1,,,2,3,,,,2,746935
+236,2067,Florida National University,Computer Science,4.1,Sonia Martinez,1.9,22,7%,,,,,,,4,,,1,,1,1,12,4,,2,1,3,10,978695
+237,2067,Florida National University,Business,3.8,James Bullen,3.9,21,72%,3,1,,3,1,,2,7,1,,1,2,2,3,5,4,,2,1,5,1887800
+238,2067,Florida National University,English,2.5,Ebel Moya,4.8,20,93%,3,6,,2,1,1,1,7,,,3,5,,,3,5,,,,,1740686
+239,2067,Florida National University,Health Science,3.4,Caridad Garbey,4.2,20,85%,2,5,,9,3,6,3,5,,,,4,3,,,7,2,,1,,2207249
+240,2067,Florida National University,Humanities,2.8,Daylen Elosegui,4.0,19,50%,,,,,,1,,3,,,1,,,1,3,2,2,,,2,1340759
+241,2067,Florida National University,Computer Science,3.2,Mario Gomez,5.0,18,100%,,4,,5,3,,2,7,,,3,5,,1,1,12,,,1,,511131
+242,2067,Florida National University,Humanities,3.5,Barbara Rodriguez,4.7,17,90%,1,3,,3,2,1,4,4,,,,2,,,,3,1,,,,679137
+243,2067,Florida National University,Health Science,3.3,Gisela LLamas,4.4,17,88%,1,5,,2,1,,,4,,4,,3,,,3,6,,,1,,2165338
+244,2067,Florida National University,Psychology,3.1,Jose Perez,4.9,15,100%,1,5,,3,5,1,,3,,,4,7,,,3,10,,,,,2215215
+245,2067,Florida National University,Computer Science,3.5,Vidal Rodriguez,4.4,15,80%,,,,,1,,2,7,,,1,3,,4,4,8,,,,5,2242635
+246,2068,Florida Technical College,Criminal Justice,2.2,Anthony Fouladi,4.9,42,N/A,,,,,,,,,,,,,,,,,,,,,1839205
+247,2068,Florida Technical College,Business,3.6,Christopher Fama,5.0,14,N/A,,,,,,,,,,,,,,,,,,,,,542973
+248,2068,Florida Technical College,Business,2.0,Donel Richemond,4.8,9,N/A,,,,,,,,,,,,,,,,,,,,,1736761
+249,2068,Florida Technical College,Criminal Justice,2.8,Gigi Alkhatib,5.0,9,N/A,,2,,2,1,,1,2,,1,,3,,,,4,,,,,1888302
+250,2068,Florida Technical College,Computer Science,1.7,Paul Cooper,4.9,7,N/A,,,,,,,,,,,,,,,,,,,,,1733595
+251,2068,Florida Technical College,General Studies,1.2,Lee Crawford,4.7,5,N/A,,,,,,,,,,,,,,,,,,,,,542679
+252,2068,Florida Technical College,Medicine,1.0,Corina Langford,5.0,5,N/A,,,,,,,,,,,1,1,,,,1,,,,,1793073
+253,2068,Florida Technical College,Business,2.0,Wayne Hunter,4.8,3,N/A,,,,,,,,1,,,,,,,,1,,,,1,747211
+254,2068,Florida Technical College,Nursing,2.3,Chantal Grant,5.0,3,N/A,,1,,,,,,1,,,,,,,1,2,,,,1,1891587
+255,2068,Florida Technical College,Criminal Justice,2.3,Aaron Rivas,4.3,3,N/A,,,,1,,1,,1,,,2,2,,,,1,,,,,2132147
+256,2068,Florida Technical College,Medicine,3.5,Hani Nasrallah,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1480252
+257,2068,Florida Technical College,Criminal Justice,2.5,Robert Caruso,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1653010
+258,2068,Florida Technical College,Health Science,4.0,Lisa Fowler,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1705077
+259,2068,Florida Technical College,Criminal Justice,3.0,Dr. Thomas R. Rios,5.0,2,N/A,,,,,,,1,1,,,,,1,,,,,,,,1810030
+260,2068,Florida Technical College,Business,3.0,Hensey Fenton,1.0,1,N/A,,,,,,,,,,,,,,,,,,,,,998095
+261,2068,Florida Technical College,General Studies,3.0,Jay Fierro,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1494670
+262,2068,Florida Technical College,Criminal Justice,5.0,Jorge Reyes,1.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1619862
+263,2068,Florida Technical College,Health Science,5.0,Michaud Lisa,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1705078
+264,2068,Florida Technical College,Computer Science,1.0,Nathan Gilbert,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1747107
+265,2068,Florida Technical College,Medicine,4.0,Yehia Aly,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1834746
+266,2069,Florida Technical College: Auburndale,Law,2.0,Eric Baime,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1546257
+267,2070,Florida Technical College: Deland,Engineering,3.1,Hored R. Salmon,4.7,117,100%,4,24,1,23,1,,8,39,,3,3,16,3,3,24,48,19,2,1,13,1842120
+268,2070,Florida Technical College: Deland,Law,1.5,Susan Larson,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1654499
+269,2070,Florida Technical College: Deland,Computer Science,5.0,Tony Artusa,2.8,2,N/A,,,,,,,,,,,,,,,,,1,,,,1769763
+270,2070,Florida Technical College: Deland,Health Science,5.0,Leslie Henderson,4.8,2,N/A,,,,,,,,,,,,,,,,,,,,,1836153
+271,2070,Florida Technical College: Deland,Computer Science,3.0,Lisa R Tennant,4.5,1,N/A,,,,1,,,,1,,,,,,,,,,,,,1904271
+272,2070,Florida Technical College: Deland,Health Science,4.0,Caitlin Harings,5.0,1,N/A,,1,,1,,,,,,,,1,,,,,,,,,2273661
+273,2070,Florida Technical College: Deland,English,5.0,Yalitza Santos Munoz,1.0,1,N/A,,,,,,,,,,,,,,1,,,,1,,,2306085
+274,2071,Florida Technical College: Jacksonville,Computer Science,3.0,Rebecca Westhoff,4.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1000009
+275,2071,Florida Technical College: Jacksonville,Science,5.0,Caroll Mann,3.3,2,N/A,,,,,,,1,,,,,,1,,,,,,1,2,1782220
+276,2071,Florida Technical College: Jacksonville,Mathematics,1.0,Timothy L Brown,4.0,1,N/A,,,,,,,,1,,,,1,,,,1,,,,,1573057
+277,2073,Fond Du Lac Tribal and Community College,Science,3.4,Glenn Langhorst,4.0,13,N/A,,,,,,,,,,,,,,,,,2,,,3,510178
+278,2073,Fond Du Lac Tribal and Community College,Humanities,1.5,Ron Gittings,5.0,8,N/A,,,,,,,,,,,,,,,,,,,,,472772
+279,2073,Fond Du Lac Tribal and Community College,English,4.5,Charlin Diver,1.0,4,N/A,,,,,,,,,,,,,,,,,,,,,1108009
+280,2073,Fond Du Lac Tribal and Community College,Mathematics,2.5,Ted Wetherbee,5.0,4,N/A,1,1,,1,,,,,,,,,,,,,,,,,1691681
+281,2073,Fond Du Lac Tribal and Community College,Business,2.7,Bryan Jon MacIewski,4.8,3,N/A,,,,,,,,,,,,,,,,,,,,,670368
+282,2073,Fond Du Lac Tribal and Community College,English,2.7,Marla Alhgren,3.7,3,N/A,,,,,,,,,,,,,,,,,,,,,722430
+283,2073,Fond Du Lac Tribal and Community College,Human Services,3.3,Candi Aubid,1.3,3,N/A,,,,,,,1,,,,,,,1,,,,,,,1815383
+284,2073,Fond Du Lac Tribal and Community College,Communication,3.0,Scherrie Foster,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,722432
+285,2073,Fond Du Lac Tribal and Community College,Biology,2.0,Michael Gillespie,3.5,2,N/A,,,,,,,,,,,,,,,,,,,,,1781226
+286,2073,Fond Du Lac Tribal and Community College,Biology,4.5,Amy Wold,1.0,2,N/A,,,,,,,1,,,,,,1,,,,,,1,2,2312522
+287,2073,Fond Du Lac Tribal and Community College,Not Specified,3.0,Katie Leverson,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1689461
+288,2073,Fond Du Lac Tribal and Community College,Nursing,3.0,Shannon Polley,5.0,1,N/A,,,,,,,,,,,1,1,,,,1,,,,,1927735
+289,2073,Fond Du Lac Tribal and Community College,English,5.0,Kristin Peterson,2.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1994178
+290,2073,Fond Du Lac Tribal and Community College,Business,2.0,Jozef Miketin,5.0,1,N/A,,,,1,1,,,,,,,,,,,1,,,,,2381984
+291,2073,Fond Du Lac Tribal and Community College,Nursing,5.0,Chelsea Salzer,1.0,1,N/A,,,,,,,1,,,,,,,,,,,,,1,2490284
+292,2074,Forrest Junior College,Psychology,3.0,James Whisenhunt,5.0,3,N/A,,,,,,,,,,,,,,,,,,,,,1156370
+293,2074,Forrest Junior College,Humanities,3.5,Ted D Mauro,5.0,2,N/A,,1,,,1,,,2,,,,2,,,,,,,,,2273679
+294,2074,Forrest Junior College,English,1.0,Jean Holloway,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1686766
+295,2075,Forsyth Technical Community College,Computer Science,1.9,Shawna Summers,4.7,90,N/A,,1,,1,,,,4,,,,1,,,1,1,,,,,1583408
+296,2075,Forsyth Technical Community College,History,1.4,Allen Pinnix,4.9,80,92%,3,13,,3,7,,1,2,1,,2,4,1,,2,9,2,,,,1737470
+297,2075,Forsyth Technical Community College,History,2.3,Barry Lawing,3.8,68,93%,4,8,,4,2,6,2,4,2,,7,1,4,,1,6,1,,,4,354594
+298,2075,Forsyth Technical Community College,Accounting,3.1,Philip Slater,4.8,51,100%,4,4,,11,5,,5,9,,,17,9,,6,7,16,5,,,2,1782614
+299,2075,Forsyth Technical Community College,Mathematics,4.1,Dale Boger,3.1,44,64%,2,,1,2,,,1,1,,,2,2,3,5,1,4,7,1,1,9,559861
+300,2075,Forsyth Technical Community College,Psychology,2.5,James Wright,4.8,41,95%,2,18,,14,8,5,6,11,,,5,5,1,2,1,13,,,1,,1877266
+301,2075,Forsyth Technical Community College,Humanities,3.2,Kathleen Barnes,3.5,39,50%,,6,,,11,,1,3,4,,2,1,4,,,3,14,,,9,959065
+302,2075,Forsyth Technical Community College,Communication,4.3,Barbara Guess,1.8,38,N/A,,,1,,1,2,2,,,5,,,,2,3,1,2,,,9,726859
+303,2075,Forsyth Technical Community College,Psychology,3.3,Kathryn Alves-Labore,3.7,37,77%,6,4,1,9,10,1,4,14,1,,7,5,,5,1,5,1,2,7,16,1659584
+304,2075,Forsyth Technical Community College,English,3.1,Michael Rivest,3.7,36,N/A,,,,,,,,,,,,,,,,,,,,,167127
+305,2075,Forsyth Technical Community College,English,4.1,Diana Campbell,2.2,36,21%,3,,1,5,3,,9,4,,,,,5,11,4,1,4,7,,13,1683844
+306,2075,Forsyth Technical Community College,Mathematics,2.9,Hidemi Arai,4.0,33,80%,1,,,1,,3,,,1,,2,,,1,,1,1,,1,3,608410
+307,2075,Forsyth Technical Community College,English,3.3,Lisa Stanley-Smith,3.1,32,10%,1,2,1,2,2,,3,2,,2,,,,2,4,1,8,2,,3,636726
+308,2075,Forsyth Technical Community College,Mathematics,4.4,Janet Yates,2.1,31,N/A,,,,,,,,,,,,,,,,,,,,,234657
+309,2075,Forsyth Technical Community College,Psychology,3.3,Shawn Matthews,3.9,30,91%,1,2,,4,4,4,9,9,,,1,3,1,5,5,2,2,3,,4,1780641
+310,2075,Forsyth Technical Community College,Philosophy,2.5,Dr. Fortuna,4.5,28,N/A,,,,,,,,,,,1,,1,,1,,,,,,328115
+311,2075,Forsyth Technical Community College,Biology,2.6,Andy Salandy,4.3,28,N/A,,,,1,,,1,1,,,1,3,,,2,2,,,,1,328121
+312,2075,Forsyth Technical Community College,Mathematics,4.6,Jeremy Lane,1.9,28,N/A,,,,,,,,,,,,,,,,,,,,,554535
+313,2075,Forsyth Technical Community College,Psychology,3.0,Jenny Huff,4.1,28,N/A,,,,,,,1,,,1,,,,,,,,,,1,935183
+314,2075,Forsyth Technical Community College,History,2.4,Sonia Chandarana Tandon,4.2,28,86%,3,5,4,4,3,1,8,6,,10,6,1,1,1,12,4,,,,1,1877270
+315,2077,Fort Berthold Community College,Computer Science,4.0,Israt Jahan,5.0,2,N/A,,2,1,,1,,,,,,,,,,1,1,,,,,2432240
+316,2078,Fort Peck Community College,Business,4.0,Jodi Magnan,4.0,1,N/A,,,,1,,,,,,,,1,,,,1,,,,,2093392
+317,2079,Fort Scott Community College,Psychology,2.8,Deborah Allen,3.3,6,N/A,,1,,,,,1,1,,,,,1,,1,,,,1,,1288529
+318,2079,Fort Scott Community College,Physical Education,2.6,Lauren Sigwing,3.5,5,N/A,,,,,,,,,,,,,,,,,,,,,1088799
+319,2079,Fort Scott Community College,Chemistry,3.3,Chris Holtz,4.5,4,N/A,,,,,,,,,,,,,,,,,,,,,278711
+320,2079,Fort Scott Community College,Sociology,3.8,Jerry Smith,3.0,4,N/A,,,,,,,,,,,,,,,,,,,,,464108
+321,2079,Fort Scott Community College,Music,3.0,Rhonda Bailey,4.5,4,N/A,1,1,,1,,,,2,,,,1,,,,,,,,,697491
+322,2079,Fort Scott Community College,Music,2.7,Betty Jo Laflen,4.5,3,N/A,,,,,,,,,,,,,,,,,,,,,697496
+323,2079,Fort Scott Community College,Nursing,2.0,Vickie Laderer,5.0,3,N/A,,2,,3,,3,,,,,,,,,1,,,,,,2488376
+324,2079,Fort Scott Community College,Business,2.0,Debra Cummings,4.8,2,N/A,,,,,,,,,,,,,,,,1,,,,,1601639
+325,2079,Fort Scott Community College,Biology,2.0,Kenneth Hudiburg,4.0,2,N/A,,,,,,,,,,,,,,,,,1,,1,,1780853
+326,2079,Fort Scott Community College,Biology,4.0,Tracy Springer,3.0,2,N/A,,,,,,,1,,,,1,,,,,,1,,1,1,2130666
+327,2079,Fort Scott Community College,History,4.0,John Seal,5.0,1,N/A,,,,1,,1,,1,,,,,,,,,,,,,1604733
+328,2079,Fort Scott Community College,Nursing,5.0,Bob Hagberg,2.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1693793
+329,2079,Fort Scott Community College,Agriculture,1.0,Ryan Edgecomb,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1707996
+330,2079,Fort Scott Community College,Mathematics,3.0,Christina Stabb,5.0,1,N/A,,,,1,,,,1,,,,,,,,,,,,,2079264
+331,2079,Fort Scott Community College,Geography,3.0,Gerald Hart,5.0,1,N/A,,,,1,,,,,,,,,1,,,1,,,,,2280257
+332,2079,Fort Scott Community College,Mathematics,3.0,DeeAnn VanLuyck,3.0,1,N/A,1,,,1,,,,,,,,,,1,,,,,,,2280259
+333,2079,Fort Scott Community College,Psychology,3.0,Kathy Coker,4.0,1,N/A,,,,,,,,1,,,,,,,,,,,,,2337445
+334,2079,Fort Scott Community College,Education,4.0,Greg Turner,5.0,1,N/A,,1,,,,,,,,,,,,,,1,,,,1,2393226
+335,2079,Fort Scott Community College,Science,4.0,Elie Riachi,2.0,1,N/A,,,,,,,1,,,,,,,,,,,,,,2466624
+336,2079,Fort Scott Community College,Mathematics,4.0,Darcus Kottwitz,1.0,1,N/A,,,,,,,,,,,,,,,,,,,1,,2262069
+337,2081,Fox Valley Technical College,Mathematics,2.4,Cristina Mullally,4.5,42,88%,2,3,,11,17,1,2,24,,,2,2,6,4,8,11,1,,1,2,1920315
+338,2081,Fox Valley Technical College,Information Technology,3.7,Donna Gehl,1.9,23,N/A,,,2,1,,,2,2,,,,,,4,1,,1,,,3,1195067
+339,2081,Fox Valley Technical College,Natural Sciences,4.1,Sheila Adenwalla,3.0,21,50%,1,,,,,,4,1,1,,,,4,1,1,,4,,2,5,426894
+340,2081,Fox Valley Technical College,Mathematics,3.1,Garry Block,3.1,19,N/A,1,1,,,,,,1,,,1,,,,,2,,,,,1017940
+341,2081,Fox Valley Technical College,Computer Information Systems,2.3,Joseph Wetzel,4.8,19,100%,4,2,,2,1,,,2,,,1,3,,,1,6,,,,,1237089
+342,2081,Fox Valley Technical College,Information Technology,2.7,Jim Welisek,3.9,16,N/A,,1,,,1,,,1,,1,1,2,2,1,1,1,2,,,1,254827
+343,2081,Fox Valley Technical College,Business,3.4,Jeff Meverden,4.3,13,N/A,1,,,,,,1,1,,,3,1,,1,,2,,,,1,953465
+344,2081,Fox Valley Technical College,Psychology,1.9,Heather Pincelli,4.7,13,N/A,,,,,,1,,1,,,,1,,,,,,,,,1835954
+345,2081,Fox Valley Technical College,Computer Science,2.1,Steve Everding,3.7,12,N/A,,,,,1,1,,,,,,,2,,,1,1,,,,664866
+346,2081,Fox Valley Technical College,Communication,3.0,Timothy Meier,4.4,11,N/A,1,1,,1,,,,3,,,2,,,1,,3,,,,1,1171616
+347,2081,Fox Valley Technical College,Psychology,1.6,Erin Bates,4.8,11,N/A,,,,,1,1,,2,,,,,,,,,,,,,1176891
+348,2081,Fox Valley Technical College,Natural Sciences,2.4,Jennifer Graham,4.6,11,N/A,,,,2,1,,,1,,,,,,,,2,1,,1,1,1432231
+349,2081,Fox Valley Technical College,Computer Science,3.2,Dan Kretz,1.3,11,N/A,,,,,,,2,,,,,,,1,,,,,,,146921
+350,2081,Fox Valley Technical College,Social Science,3.4,Abbey Casper-Curtis,1.9,10,N/A,,,,,1,,3,,1,4,,,,4,4,,1,,,2,756577
+351,2081,Fox Valley Technical College,Biochemistry,4.9,Debbie Sesselmann,1.6,10,N/A,1,,,,1,,,,,,,,,3,,,6,,,5,1883234
+352,2081,Fox Valley Technical College,Science,3.0,Rebecca Polk-Pohlmann,4.8,9,80%,1,2,,1,2,,,3,,,,1,,,1,5,1,,1,,705466
+353,2081,Fox Valley Technical College,Social Science,1.9,Debbie Ratliff Gendron,3.3,9,50%,,,,1,1,1,1,1,1,3,2,,1,,,1,,,,,1520805
+354,2081,Fox Valley Technical College,Psychology,3.1,Brenda Herubin,2.8,9,N/A,,,,1,,,,,,,,,,,,1,,,,,1612048
+355,2081,Fox Valley Technical College,Computer Science,1.8,Bob Day,4.1,8,N/A,,,,,,,,,,,,,,,,,,,,,99385
+356,2081,Fox Valley Technical College,Computer Science,3.6,Elizabeth Halweg,1.9,8,N/A,,,,,,,,,,,,,,,,,,,,,254830
+357,2082,Frank Phillips College,Science,3.7,Matthew Broxson,3.9,15,82%,7,1,,1,3,,3,3,1,,1,2,3,,5,3,5,,1,3,1625409
+358,2082,Frank Phillips College,Psychology,2.2,Jan Moore,4.5,12,N/A,,,,2,,1,2,2,,,,,1,,1,,2,,,,1091830
+359,2082,Frank Phillips College,Science,1.8,Craig Yerger,4.2,11,N/A,3,1,,2,,,,2,,,1,,,4,2,,2,,,,1664039
+360,2082,Frank Phillips College,English,2.0,Susan Greenwald,3.1,10,N/A,1,,,,1,,,2,,2,,,,,2,,1,1,,1,1310622
+361,2082,Frank Phillips College,History,3.5,John Jordan,4.0,10,67%,,,,,,,6,4,,,1,,,1,5,,2,,,5,1902336
+362,2082,Frank Phillips College,Science,4.7,Gina Morris,1.9,6,N/A,,,1,,,,1,,,1,,,,,1,,4,1,,3,1565530
+363,2082,Frank Phillips College,English,3.2,Dawn George,3.8,6,60%,1,,,1,1,,3,2,,,,,1,2,1,,,3,,,1675293
+364,2082,Frank Phillips College,English,3.4,Judy Hart,3.6,5,N/A,1,,,,,1,,1,,,,,,,,,,,,,718036
+365,2082,Frank Phillips College,Business,3.3,Dick Novotny,3.5,4,N/A,1,,,,,1,,2,,,1,,1,2,,2,,,,1,2113446
+366,2082,Frank Phillips College,Chemistry,1.0,Arthur Davis,2.2,3,N/A,,,,,,,,,,,,,,,,,,,,,869170
+367,2082,Frank Phillips College,Physics,3.3,David Brink,4.7,3,N/A,,,,,,,,,,,,,,,,,,,,,1672489
+368,2082,Frank Phillips College,Political Science,4.3,Chase Thornton,4.5,3,N/A,,1,,,,,,,,,,1,1,,,1,,,,1,1704319
+369,2082,Frank Phillips College,English,4.0,Shannon Carroll,4.2,3,N/A,,,,,,,1,1,,,,,,,,1,,1,,1,2002755
+370,2082,Frank Phillips College,English,3.0,Bryant Manning,4.2,3,N/A,,2,,,,,,2,,,,2,,,,1,1,,,1,2096517
+371,2082,Frank Phillips College,Mathematics,3.5,Beth Summers,2.8,2,N/A,,,,,,,,,,,,,,2,,,1,,1,,1910873
+372,2082,Frank Phillips College,English,1.0,Cindy Hassell,3.3,2,N/A,,,,1,,,1,,,1,,,,,,,,,,,1973571
+373,2082,Frank Phillips College,Nursing,3.0,Lisa Trahan,3.0,2,N/A,,,,,,,2,,,,,,,1,1,,1,1,,,2180175
+374,2082,Frank Phillips College,English,2.0,David W Holmes,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1773126
+375,2082,Frank Phillips College,English,4.0,Georgina Gant,1.0,1,N/A,,,,,,,,,,,,,1,1,,,,,,1,2168410
+376,2082,Frank Phillips College,History,3.0,Mark Miers,4.0,1,N/A,,,,,1,,1,1,,,,,,,,,,,,,2213811
+377,2084,Frederick Community College,Economics,1.7,Dave Hickman,4.8,69,100%,,2,,2,8,,,1,1,,8,3,2,,4,6,12,,,,76884
+378,2084,Frederick Community College,Social Science,2.1,Marshall Botkin,4.5,60,82%,,4,,1,2,4,,,2,,7,2,,,2,6,5,,2,2,16857
+379,2084,Frederick Community College,English,3.6,Michael Doerrer,5.0,59,100%,,15,,16,10,3,3,27,,,16,19,,,11,13,1,,,,1940157
+380,2084,Frederick Community College,English,2.3,Ted Taft,4.7,51,100%,,5,,4,2,1,3,9,,,3,8,1,,4,5,,,,1,432285
+381,2084,Frederick Community College,History,3.2,Bruce Thompson,4.6,51,100%,,4,,2,4,,1,5,,,3,1,3,,1,5,1,3,,5,16860
+382,2084,Frederick Community College,Social Science,2.5,Jill Schultz,4.3,48,77%,2,5,,2,1,,6,1,5,,,3,2,,7,2,5,3,,1,236666
+383,2084,Frederick Community College,Health Science,2.5,Darlene Overholtzer,3.6,43,44%,,,,,4,,3,4,,,,,,3,9,,2,3,,6,1223535
+384,2084,Frederick Community College,Computer Science,4.0,Walter Martynenko,2.1,42,N/A,,,,,,,4,1,,,1,,4,9,1,,6,,,13,239926
+385,2084,Frederick Community College,History,3.7,Michael Powell,3.8,41,38%,2,1,,2,1,,3,3,1,,1,,2,1,3,2,4,1,1,8,154488
+386,2084,Frederick Community College,Biology,3.5,Debra Ellis,4.0,39,83%,,1,,7,,3,1,3,,,2,1,,1,,,1,,,1,839992
+387,2084,Frederick Community College,Mathematics,3.4,Larry Huff,3.5,39,83%,3,1,,4,2,,,4,1,,4,,,6,4,5,4,,,1,1332518
+388,2084,Frederick Community College,Mathematics,2.4,Larry Standifer,4.7,38,100%,1,7,,3,9,2,,3,1,,4,2,2,,1,6,12,,,2,993328
+389,2084,Frederick Community College,Science,2.2,Gregg Mason,4.8,38,N/A,1,4,,2,8,6,,3,,,,1,,,2,8,,,1,,1260774
+390,2084,Frederick Community College,Psychology,2.4,Barbara Angleberger,4.8,37,N/A,,2,,1,,2,1,3,,,,4,,,1,8,,,,,98419
+391,2084,Frederick Community College,English,2.5,Bryan Hiatt,4.7,35,91%,1,1,,3,5,2,3,9,,,2,1,,3,3,5,,1,,1,1183254
+392,2084,Frederick Community College,Biology,4.0,Joseph Rosebrock,3.3,34,N/A,,1,1,,3,1,1,1,,,,,3,,1,1,1,,,4,990011
+393,2084,Frederick Community College,Science,3.2,Marc Frankenberry,4.9,33,100%,1,3,,8,,4,,2,,,,2,1,,,5,,,,1,1041724
+394,2084,Frederick Community College,Computer Science,3.1,Frank Seidel,2.8,32,50%,1,,,2,,,9,1,,,1,,4,5,,,5,,1,5,91633
+395,2084,Frederick Community College,Computer Science,2.0,Rabiha Kayed,4.5,32,N/A,,,,2,3,,,2,,,,,1,1,3,1,,,,1,1644787
+396,2084,Frederick Community College,Biology,3.0,Jessica Newnam-Baicy,4.4,32,100%,2,2,,10,5,6,1,4,,,2,,5,,,4,1,,,2,1448444
+397,2085,Fresno City College,Political Science,4.4,James Joseph,2.3,184,16%,,2,14,,1,1,33,1,,,2,,9,7,4,1,21,,14,26,213796
+398,2085,Fresno City College,Computer Information Tech.,2.3,Rio Waller,4.8,176,95%,8,5,,14,14,7,1,19,,,6,14,,9,6,12,,,,,1010414
+399,2085,Fresno City College,Sociology,1.5,Bernard Navarro,4.5,175,85%,1,15,,7,6,17,8,11,4,5,12,16,13,1,19,21,21,,1,2,687474
+400,2085,Fresno City College,History,2.9,Paul Gilmore,4.2,163,71%,4,16,6,4,1,1,25,16,,,11,12,12,2,2,5,12,3,2,19,209660
+401,2085,Fresno City College,Psychology,1.8,Rebecca Slaton,4.4,137,78%,6,19,,7,13,5,2,3,6,,12,8,11,,2,16,9,,6,,245856
+402,2085,Fresno City College,Mathematics,1.8,Ray Stanton,4.5,135,76%,4,12,,34,7,4,1,15,1,,19,22,3,,3,28,1,1,5,,199680
+403,2085,Fresno City College,Sociology,1.5,Linda Vang,4.9,128,98%,4,20,1,18,12,8,,8,1,,36,22,,,7,18,,,,,411581
+404,2085,Fresno City College,Political Science,3.3,Sarbjit Johal,3.4,127,96%,1,2,,4,10,1,9,5,1,,3,2,10,1,3,8,10,2,2,10,197315
+405,2085,Fresno City College,Mathematics,3.0,Rosemarie Bezerra-Nader,4.3,127,84%,9,7,,22,2,1,2,13,1,,3,25,,26,16,7,6,1,1,5,412950
+406,2085,Fresno City College,History,2.6,Brian Rutishauser,4.5,125,68%,,15,1,1,10,1,9,8,1,,1,5,7,,1,9,17,1,6,6,110957
+407,2085,Fresno City College,Biology,4.3,Michael Gilbert,4.2,121,95%,1,30,2,7,5,,19,19,,,26,6,3,5,9,18,13,,4,28,573191
+408,2085,Fresno City College,Mathematics,3.0,L Dorn,3.6,119,65%,2,2,,5,3,5,,1,1,,13,,3,10,6,3,9,,5,11,427747
+409,2085,Fresno City College,Chemistry,4.3,Christian Vellandi,2.3,115,11%,1,,1,1,,1,10,,3,1,2,,4,22,1,2,16,2,16,31,736119
+410,2085,Fresno City College,Mathematics,2.2,Doug Avery,4.2,110,73%,,5,,6,4,4,1,6,,,23,2,,8,2,9,7,,1,7,197308
+411,2085,Fresno City College,Biology,2.6,Hawkins Dowis,4.8,110,100%,6,16,18,13,5,4,3,10,1,1,12,5,2,,7,11,13,,2,2,664899
+412,2085,Fresno City College,Computer Science,1.7,Todd McLeod,4.7,110,71%,,2,,4,8,2,,2,1,,2,6,,7,3,1,,,,,326994
+413,2085,Fresno City College,Political Science,3.3,Mark Trezza,3.7,110,67%,1,6,15,2,4,12,20,6,1,,3,1,6,9,2,2,24,1,2,23,591346
+414,2085,Fresno City College,Psychology,2.0,Forrest Williams,4.7,106,100%,5,19,,16,14,6,5,15,,1,17,13,,1,1,14,7,,,3,821345
+415,2085,Fresno City College,History,3.5,Allen Siroky,3.3,99,61%,2,,,4,4,2,7,15,4,,,2,8,,1,2,6,1,3,26,127573
+416,2085,Fresno City College,Communication,2.5,Loretta Ramos,4.5,99,100%,,21,,4,23,6,1,5,9,1,13,22,5,1,3,13,5,1,,,394353
+417,2086,Front Range Community College,History,2.0,Bruce Nye,4.8,66,93%,3,31,,4,6,,4,6,6,,17,10,7,2,4,18,2,3,,,1484482
+418,2086,Front Range Community College,Biology,4.3,Anjali Vaidya,3.5,49,54%,2,3,2,4,1,2,4,1,,,,,4,4,3,4,13,1,3,13,1044049
+419,2086,Front Range Community College,Humanities,3.4,Angelica McMillan,3.7,48,74%,1,1,,5,4,,5,9,,9,1,,3,2,10,3,5,,4,2,1034695
+420,2086,Front Range Community College,Mathematics,2.9,Steven Yamiolkoski,4.3,48,100%,3,7,,6,3,,,6,,,17,7,,5,,7,12,,,4,1365817
+421,2086,Front Range Community College,Humanities,3.7,Marilee Wehde,4.5,44,N/A,,,,,,,,,,,,,,,,,,,,,471120
+422,2086,Front Range Community College,Literature,3.3,Randy Russell,3.2,44,63%,3,3,,1,2,,6,9,1,1,,1,2,9,5,3,10,5,,7,1256931
+423,2086,Front Range Community College,Communication,2.6,Brandon Stow,4.7,41,100%,,5,,9,3,,,10,,,14,4,1,,3,6,8,4,,1,1577918
+424,2086,Front Range Community College,Communication,2.1,Hermy McCabe,4.9,38,100%,,8,,7,,,1,10,,,7,25,,1,16,11,,,,,1813734
+425,2086,Front Range Community College,English,3.0,Fortino Gomez,4.7,38,100%,4,2,,5,4,1,,12,,,4,3,,2,2,9,3,1,,,1124936
+426,2086,Front Range Community College,History,3.5,Anthony Heideman,4.0,37,85%,,5,,4,4,5,8,9,,,1,3,6,11,2,5,1,,1,3,901163
+427,2086,Front Range Community College,Biology,4.3,Yong Tang,2.8,34,44%,1,,,,,,5,,,,1,1,3,1,1,,8,,6,8,1130195
+428,2086,Front Range Community College,Biology,4.4,Rich Fulghum,2.5,33,38%,2,,4,,,,6,1,,,3,,3,4,3,2,9,,3,19,765197
+429,2086,Front Range Community College,English,1.6,Andrew Blade,3.9,33,88%,,3,,4,4,1,1,10,2,,2,1,,,7,7,,,,1,1733241
+430,2086,Front Range Community College,Art History,3.1,Judith Lightfield,2.8,30,N/A,,,,,2,2,2,1,,1,2,2,2,1,4,,10,4,,8,1109530
+431,2086,Front Range Community College,Philosophy,2.0,Craig Schroetlin,4.9,30,92%,1,9,1,2,3,,1,10,,,5,6,,2,4,7,,,,,1722441
+432,2086,Front Range Community College,Mathematics,2.1,James Fiebiger,4.1,29,56%,,3,,9,2,,1,7,,1,9,2,,5,1,6,4,2,4,2,1576814
+433,2086,Front Range Community College,Economics,2.6,Matthew Wilson,3.8,28,78%,1,3,1,2,4,1,,1,,,,,8,4,,4,4,,1,2,1464907
+434,2086,Front Range Community College,Mathematics,3.9,James Flores,1.8,26,22%,,1,,,2,,,,2,,,,1,6,,,5,,1,9,1608019
+435,2086,Front Range Community College,Business,2.4,Abel Coombs,4.6,26,93%,1,8,,,1,4,,1,3,,6,5,2,,1,9,2,,,3,1462746
+436,2086,Front Range Community College,Psychology,2.5,Delores Dehaven,2.5,25,20%,,,,,1,1,2,1,,,,,3,,1,1,,,,,1284146
+437,2087,National College,Medicine,3.5,Sally Quim,4.5,2,N/A,,,,,,,,,,,,,,,,,,,,,752280
+438,2089,Fulton-Montgomery Community College,Psychology,1.9,Paula Brown-Wienstock,4.7,56,100%,,4,,3,2,,,3,,,11,5,,,1,5,1,,1,,472382
+439,2089,Fulton-Montgomery Community College,History,3.5,Stephen Barry,2.7,47,N/A,,,,,,,,,,,,,,,,,,,,,164518
+440,2089,Fulton-Montgomery Community College,Mathematics,3.3,Pat Grande,3.0,44,20%,1,,,1,,,,,2,,,,,5,,,3,,,5,84225
+441,2089,Fulton-Montgomery Community College,History,2.4,Jonas Kover,4.8,34,N/A,,1,2,1,,,,,,,,,1,,,1,,,,,163037
+442,2089,Fulton-Montgomery Community College,Psychology,2.2,James Gyldenvand,3.6,28,50%,,,,,1,,1,,2,,1,,1,,2,1,2,,1,1,323122
+443,2089,Fulton-Montgomery Community College,Psychology,2.2,John Van Bladel,4.0,26,89%,1,,,6,2,3,1,5,2,,1,6,1,,6,6,,,,,1626362
+444,2089,Fulton-Montgomery Community College,Computer Science,2.3,Frank Yunker,4.1,24,N/A,,,,,,,,,,,,,1,,,,1,,,1,156606
+445,2089,Fulton-Montgomery Community College,Languages,2.4,Robert Jones,4.2,24,N/A,2,,,1,1,,1,1,,,1,1,,,2,,,,1,1,157187
+446,2089,Fulton-Montgomery Community College,Psychology,3.1,Jean Marie Reinke,4.7,24,N/A,,,,1,,1,,1,,,1,1,,,,,,,,,616669
+447,2089,Fulton-Montgomery Community College,Theater,2.2,Jason Radalin,4.6,23,N/A,,1,,1,3,,4,,,,,1,2,,,2,,1,,,515386
+448,2089,Fulton-Montgomery Community College,Communication,2.1,James Hinkle,4.3,20,N/A,,,,,,,,,,,,,,,,,,,,,231643
+449,2089,Fulton-Montgomery Community College,Education,2.0,Sheryl Seppa,4.5,20,N/A,,,,,,,,,,,,,,,,1,,,,,253096
+450,2089,Fulton-Montgomery Community College,Biology,4.0,Michael McDarby,3.0,20,N/A,2,1,,,,1,1,,1,,,,1,,,1,2,1,1,4,709072
+451,2089,Fulton-Montgomery Community College,English,4.2,Steven Hymowech,3.3,20,N/A,,,,,1,,1,2,,2,,,,3,2,1,2,2,,5,1035472
+452,2089,Fulton-Montgomery Community College,Science,4.4,Susan Mac Leod,3.6,20,100%,1,1,,1,2,,,,,,1,1,,,1,1,3,1,,6,1414057
+453,2089,Fulton-Montgomery Community College,Chemistry,3.0,Jane Slezak,2.9,19,N/A,,,,,,,,,,,,,,,,,,,,,323114
+454,2089,Fulton-Montgomery Community College,Multimedia,1.9,Robert Renda,4.4,18,N/A,,1,,,1,,,1,,,,,,,1,,1,,,,299048
+455,2089,Fulton-Montgomery Community College,Computer Science,2.2,Marty Waffle,4.4,17,N/A,,,1,,1,,,1,,,,,,,,,,,,,164522
+456,2089,Fulton-Montgomery Community College,Biology,4.8,Karen Martin,1.3,17,N/A,,,,,,,,,,,,,,,,,,,,,497658
+457,2089,Fulton-Montgomery Community College,Physics,3.6,Ayuk Gilbert,4.0,17,100%,6,,,2,,,1,5,,,,6,,10,2,,2,,,4,2011078
+458,2090,Gadsden State Community College,Mathematics,3.1,Danny Wilborn,4.0,71,91%,16,4,,18,10,8,,28,5,,27,7,5,9,16,20,8,,1,,1258939
+459,2090,Gadsden State Community College,Mathematics,3.7,Rhoda Oden,2.7,56,N/A,,1,1,,1,,,,,,,,2,2,4,1,9,,1,8,77763
+460,2090,Gadsden State Community College,Mathematics,2.7,Tammy Morgan,4.0,54,40%,,,3,2,2,,,,1,,1,,,7,1,2,3,,1,3,165141
+461,2090,Gadsden State Community College,Mathematics,2.4,Jesse Osborne,4.5,52,100%,4,1,1,3,1,3,1,1,,,,,,,2,,4,,1,4,177691
+462,2090,Gadsden State Community College,Psychology,1.5,Richard Bennett,4.9,50,N/A,,1,,,,,,,,,,1,,,,,,,,,169746
+463,2090,Gadsden State Community College,Biology,4.2,Jeff Machen,3.0,45,40%,,,,2,,,2,,,,,,4,,,2,1,,1,4,287304
+464,2090,Gadsden State Community College,Biology,3.9,Nancy Lee,3.5,42,25%,2,1,,2,,,,1,2,,,,3,1,3,1,10,1,5,11,197265
+465,2090,Gadsden State Community College,Biology,2.8,Phil Snider,4.8,40,92%,,5,,3,4,2,,4,,,2,,3,,4,4,8,,1,2,571146
+466,2090,Gadsden State Community College,English,2.7,David Murdock,4.8,39,71%,,4,,1,1,,2,1,,,6,3,1,,1,2,,,1,,573207
+467,2090,Gadsden State Community College,History,3.0,Wayne Findley,4.5,37,N/A,,1,1,,1,1,,,,,,,1,,,2,1,,,1,169712
+468,2090,Gadsden State Community College,Mathematics,2.8,Susan Brown,3.7,37,67%,,1,,2,,4,,2,2,,,,,3,5,2,7,,1,4,306691
+469,2090,Gadsden State Community College,English,1.4,Todd Hamilton,4.8,35,100%,2,3,,6,,,,1,,,7,3,,,,2,,,,,436044
+470,2090,Gadsden State Community College,Mathematics,1.8,William Kirby,4.8,34,100%,,2,,,2,5,,3,1,,,,,1,1,3,1,,,,145115
+471,2090,Gadsden State Community College,Communication,1.9,Patricia Connell,4.2,34,89%,,3,,,9,3,,4,1,1,1,,,1,8,2,1,,,1,77764
+472,2090,Gadsden State Community College,English,2.1,Charolette Kiger,3.2,33,N/A,,,,,,,,,1,,,,,1,2,,1,1,,3,313255
+473,2090,Gadsden State Community College,Mathematics,2.7,Lynette King,4.1,33,82%,1,1,,3,3,6,,6,1,,,,1,9,2,2,3,,,5,313765
+474,2090,Gadsden State Community College,English,3.6,Glenda Selman,4.1,32,N/A,,,,,,,1,,,,2,,1,,,2,3,,,1,77760
+475,2090,Gadsden State Community College,History,3.3,George Terrell,4.5,32,N/A,,,,,,,,,,,,,,,,,,,,,152578
+476,2090,Gadsden State Community College,Biology,1.5,Kenneth Stiefel,4.6,32,N/A,,1,,,1,1,,1,,,2,,1,,,1,1,,,1,383999
+477,2090,Gadsden State Community College,Mathematics,4.2,Cal Smith,1.9,31,33%,,,,,,,,,,,,,1,2,1,,3,,2,7,165138
+478,2092,Gallipolis Career College,Communication,4.0,Denny Daugherty,4.0,1,N/A,,,,1,1,,,,,,,1,,,,,,,,,1604951
+479,2092,Gallipolis Career College,Accounting,4.0,Dennis Desjarlais,3.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1729454
+480,2092,Gallipolis Career College,Medical Services,5.0,Joy Staten,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1729458
+481,2093,Galveston College,Political Science,2.7,Lee Rathbun,4.4,35,N/A,,5,,7,4,17,1,14,,,4,1,6,3,12,5,1,,,6,1988241
+482,2093,Galveston College,Health Science,3.6,James Salazar,3.8,33,83%,8,11,,2,14,1,8,10,,,,7,5,,1,4,7,,3,7,1846899
+483,2093,Galveston College,History,4.1,Larry Bloomsted,3.5,31,58%,1,2,,1,1,2,9,2,,,3,,2,9,4,,1,,,12,1366928
+484,2093,Galveston College,English,3.1,Michael Berberich,4.3,26,86%,1,2,,,2,,4,6,,,1,1,,2,2,2,1,2,,2,792804
+485,2093,Galveston College,Physics,4.0,Daniel Gebreselasie,2.4,22,N/A,2,,,2,2,,1,,,,,,,2,1,,3,,,6,809094
+486,2093,Galveston College,English,3.7,Leslie Braniger,4.4,21,N/A,,,,2,2,2,4,3,,1,,1,,1,1,,2,,,2,1502371
+487,2093,Galveston College,English,2.4,Carrie C. Hatfield,4.2,19,N/A,,,,,,,,,,,,,,,,,,,,1,1828650
+488,2093,Galveston College,Mathematics,2.6,Rodrigo Santoyo,4.7,18,100%,4,5,,4,1,,,6,,,1,2,1,4,,7,6,,,,1820801
+489,2093,Galveston College,Mathematics,2.2,Carolyn Harnsberry,4.8,17,N/A,,,,,,,,,,,,,,2,1,1,2,,,2,1318172
+490,2093,Galveston College,Mathematics,2.6,John Rimar,4.0,17,N/A,,,,1,2,,,,,,1,,,,,1,2,,,,579334
+491,2093,Galveston College,Psychology,2.3,E Tapp,3.9,15,N/A,,1,,,3,2,,3,,,1,1,1,1,1,3,1,,1,1,1108022
+492,2093,Galveston College,Music,2.1,Cindy Kates,4.3,15,N/A,,,,,1,1,,2,1,,,,,1,3,1,,,,,1363503
+493,2093,Galveston College,Social Science,2.5,Theron Waddell,4.3,14,N/A,1,,,1,,2,,2,,,,1,1,,,3,,,,,246790
+494,2093,Galveston College,English,3.2,Shane Wallace,3.7,14,75%,,2,,2,3,,2,3,,,5,1,,2,1,1,3,2,,4,1940256
+495,2093,Galveston College,Chemistry,3.4,Anna Sanchez,4.3,13,N/A,,,,3,,2,,2,,,,,,,1,4,,,,1,987535
+496,2093,Galveston College,Chemistry,4.0,Klaus Adam,3.0,11,N/A,,,,,,,,,,,,,,,,,,,,,563482
+497,2093,Galveston College,Nursing,2.1,Pat Perry,3.4,10,N/A,,,,,,,,,,,,,1,,,,,,,,563540
+498,2093,Galveston College,Art History,1.0,John Stovall,4.6,10,N/A,,,,1,,,,,,,1,1,,,1,,,,,,792811
+499,2093,Galveston College,Physical Education,1.6,Conrad Breitbach,4.7,10,N/A,,,,1,,,,1,,,,,,,1,,,,,,1100050
+500,2093,Galveston College,Biology,4.8,Randy Langford,2.2,10,N/A,,,,,,,,,,,,,,,,,,,,,503081
+501,2094,Garden City Community College,Political Science,2.1,Frank Bean,3.1,14,N/A,,,,,,,,,,,,,,,,,,,,,197905
+502,2094,Garden City Community College,Communication,4.1,Laura York Guy,3.6,9,N/A,,,,,,,,,,,,,,,,,,,,,271745
+503,2094,Garden City Community College,Education,2.0,Winsom Lamb,4.6,8,N/A,,,,,,,,,,,,,,,,,,,,,200623
+504,2094,Garden City Community College,Psychology,3.5,Joe Slobko,3.5,8,N/A,,,,,,,,,,,,,,,,,,,,,213309
+505,2094,Garden City Community College,Biology,4.3,John Schaffer,3.5,7,N/A,,,1,,,1,,,,,,,,,,,,,,,200599
+506,2094,Garden City Community College,Physical Ed,1.0,Doyle McGraw,3.1,7,N/A,,,,,,,,,,,,,,,,,,,,,466833
+507,2094,Garden City Community College,Fine Arts,3.3,Dave Kinder,3.6,6,N/A,,,,,,,,,,,,,,,,,,,,,213308
+508,2094,Garden City Community College,English,1.2,Larry Walker,4.4,5,N/A,,,,,,,,,,,,,,,,,,,,,212306
+509,2094,Garden City Community College,Music,1.8,Bruce Spiller,4.8,4,N/A,,,,,,,,,,,,,,,,,,,,,661350
+510,2094,Garden City Community College,Social Science,1.3,Greg Thomas,5.0,4,N/A,,,,,,,,,,,,,,,,,,,,,782114
+511,2094,Garden City Community College,Psychology,3.3,Tammy Hutcheson,3.4,4,N/A,,,,,,,,,,,,,,,,,,,,,841582
+512,2094,Garden City Community College,Biology,4.3,Terry Lee,4.4,4,N/A,,,,,,,,,,,,,,,,,,,,,944223
+513,2094,Garden City Community College,Music,2.7,James McAllister,3.5,3,N/A,1,,,,1,,,,,,,,,,,1,,,,,829950
+514,2094,Garden City Community College,Biology,2.7,Bob Wilson,4.7,3,N/A,,,,,,,,,,,,,,,,,,,,,1027369
+515,2094,Garden City Community College,Biology,3.0,Art Nonhof,4.5,2,N/A,,,,,,,,1,,,,,,1,,,,,,1,1092758
+516,2094,Garden City Community College,English,3.5,Doris Meng,4.5,2,N/A,,,,,,,,,,,,,,,,,,,,,1297530
+517,2094,Garden City Community College,English,4.0,Marsha Wright,4.3,2,N/A,,,,,,,,,,,,,,,1,,,1,,1,1773357
+518,2094,Garden City Community College,English,4.0,Alan Payne,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1297533
+519,2094,Garden City Community College,History,5.0,Juana Little,1.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1621421
+520,2094,Garden City Community College,Music,3.0,Clayton Wright,4.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1890312
+521,2095,National Park Community College,Biology,3.6,Darlene Gentles,4.2,25,N/A,,,,,,,,,,,1,,1,2,,1,2,,1,4,588044
+522,2095,National Park Community College,English,2.7,Joan Henry,2.3,18,N/A,1,,,,,,3,,,2,2,,1,,3,1,,3,,1,588050
+523,2095,National Park Community College,History,3.8,Van Davis,4.0,16,N/A,,,,,,,,,,,,,,,,,,,,,588053
+524,2095,National Park Community College,Mathematics,3.3,Greg Fulton,4.0,13,N/A,,,,,1,,,1,,,1,,,,,1,,,,,1462026
+525,2095,National Park Community College,Social Science,2.1,Charles Argo,4.5,13,N/A,,4,,1,,,,2,,,3,1,,,3,2,2,1,,,1806141
+526,2095,National Park Community College,Sociology,3.0,Stephanie Coke,4.2,12,N/A,,2,,2,,,,1,,,,,,,1,,,,,,1077005
+527,2095,National Park Community College,Chemistry,1.6,Ed Bennet,4.3,11,N/A,,,,,,,,,,,,,,,,,,,,,507511
+528,2095,National Park Community College,Mathematics,2.2,Paula Welch,4.9,11,N/A,1,,,1,1,1,,1,,,,,,,,,,,,,921064
+529,2095,National Park Community College,Mathematics,2.9,Caleb Grisham,4.3,11,N/A,2,1,,,,,,1,,,,1,,,,1,,,,,1180375
+530,2095,National Park Community College,English,3.0,Boyce Lovett,3.8,11,N/A,,,,,,,2,2,,,,,1,2,1,,,1,,3,1472047
+531,2095,National Park Community College,Languages,1.9,Kimberlina McIntyre,4.6,10,N/A,,,,,,1,,1,,,,1,,,1,1,,,,,440801
+532,2095,National Park Community College,Psychology,2.9,Carol Stonecipher,3.6,10,N/A,,,,,,,,,,,,,,,,,,,,,797682
+533,2095,National Park Community College,Writing,2.6,Nannette Crane,4.0,10,N/A,,,,,,,,1,,,,,,1,,,,,,1,923088
+534,2095,National Park Community College,Biology,2.3,Kelly Pickett,5.0,10,N/A,1,1,,6,,3,,1,,,,1,,,1,2,,,,,1043495
+535,2095,National Park Community College,English,3.1,Ken Cook,2.9,9,N/A,,,,,,,,,,,,,,,,,,,,,643813
+536,2095,National Park Community College,English,4.1,Roger Fox,3.8,9,N/A,,,1,,1,,2,2,,,,,,,,2,3,,,1,730334
+537,2095,National Park Community College,Nursing,4.1,Susan Davis,3.3,8,N/A,,,,,,,,,,,,,,,,,,,,,507508
+538,2095,National Park Community College,Biology,4.0,Janet Braley,4.3,8,N/A,,,1,,,,,,,,,1,,1,1,,1,,,,1165510
+539,2095,National Park Community College,Psychology,2.4,Ruben Flores,4.3,8,N/A,,,,1,1,,2,,1,,,,,,,,,,,,1319704
+540,2095,National Park Community College,Science,4.2,Jim Johnson,2.6,8,N/A,,,,,1,1,,,,,,,,2,,,,,,4,1329283
+541,2096,Garrett College,Psychology,3.9,Terry Kasecamp,3.4,36,60%,1,2,2,,1,3,2,1,,,,3,2,,1,,,,2,1,371496
+542,2096,Garrett College,Chemistry,4.7,Linda Griffith,3.1,16,N/A,,,,,,,,,,,,,,,,,,,,,607699
+543,2096,Garrett College,Mathematics,2.9,Jeff Reitz,3.2,9,N/A,,,,1,,1,,2,,,,,,,,,,,,1,467566
+544,2096,Garrett College,Mathematics,1.8,Michael Nedrow,4.5,9,N/A,,,,,,,,1,,,,,,,,1,1,,,,556772
+545,2096,Garrett College,Biology,4.1,Carolyn Deniker,4.8,8,N/A,,,,,,,,,,,,,,,,,,,,,611129
+546,2096,Garrett College,Art History,2.1,Ron Skidmore,4.8,8,N/A,,,,,,,,,,,,,,,,,,,,,612236
+547,2096,Garrett College,Business,2.7,Stacy Miller,5.0,7,N/A,1,1,,,,,,,,,1,,,,,,,,,,476701
+548,2096,Garrett College,English,2.3,Dr. Greg Jenkins,4.3,7,N/A,,,,,,,,1,,,,,,,,,,,,1,542125
+549,2096,Garrett College,History,4.0,Beth Luers,4.2,7,N/A,,2,,,,,1,,,,,2,,,,3,1,,,,951400
+550,2096,Garrett College,Mathematics,1.7,Tim Foster,5.0,6,N/A,,,,1,,,,2,,,1,,,,,2,,,,,740831
+551,2096,Garrett College,Sports,1.6,Terry Peterson,3.5,5,N/A,,,,1,,,,1,,,,,,,2,,,,,,782896
+552,2096,Garrett College,Biology,3.4,Kevin Dodge,4.8,5,N/A,,,,1,,,,2,,,1,,,,,,2,,,1,1823340
+553,2096,Garrett College,Computer Science,2.3,Pramod Kapor,4.1,4,N/A,,1,,,1,,,1,,,,,,,,,,,,,698770
+554,2096,Garrett College,Theater,3.3,Ben Sincell,4.0,4,N/A,,,,,,,,,,,,,,,,,,,,,963287
+555,2096,Garrett College,Mathematics,2.3,Barry Stephens,3.3,4,N/A,,,,,,,,,,,,,,,,,,,,,1099749
+556,2096,Garrett College,Biology,2.7,Peter Skylstad,5.0,4,N/A,,2,,,,,,1,,,,1,1,,,1,,,,,1549275
+557,2096,Garrett College,English,2.0,Jack Dubose,2.7,3,N/A,,,,,,,1,,,,,,,,,,,1,,1,703701
+558,2096,Garrett College,Biology,1.7,Anthony Oliverio,5.0,3,N/A,,,,,,,,,,,,,,,,,,,,,1808350
+559,2096,Garrett College,English,3.0,Lonnie Brewster,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,736850
+560,2096,Garrett College,Psychology,4.0,Terry Kasekamp,4.3,2,N/A,,,,,,,,,,,,,,,,,,,,,736851
+561,2097,Gaston College (all campuses),Mathematics,2.1,Bill Burgin,4.7,65,93%,6,6,,7,3,,,6,2,1,15,1,1,,1,8,1,,,1,667195
+562,2097,Gaston College (all campuses),Psychology,2.2,Sherry Sherrill,4.8,65,95%,,12,,8,7,9,1,14,,,20,3,,1,2,7,3,,,,319115
+563,2097,Gaston College (all campuses),History,2.7,Brian Bookout,4.5,47,82%,1,4,,1,5,3,3,5,,,,3,1,4,4,6,,,1,,168015
+564,2097,Gaston College (all campuses),Philosophy,3.6,Mary Morton,3.2,47,56%,1,1,4,1,2,7,14,2,,,3,1,,6,,2,2,1,3,7,150747
+565,2097,Gaston College (all campuses),History,2.7,Bob Blanton,4.4,44,60%,,7,,,2,3,1,1,,,7,,1,,1,2,5,,,,278451
+566,2097,Gaston College (all campuses),Psychology,3.3,Hisayo Gallo,3.0,37,50%,,2,,,2,5,3,1,1,,1,,,2,2,,,1,1,5,673251
+567,2097,Gaston College (all campuses),English,4.1,Alicia McCullough,3.4,35,N/A,,,,,1,1,1,1,,,,,,1,,,3,1,,4,540599
+568,2097,Gaston College (all campuses),English,3.6,Joe Argent,2.7,32,57%,1,1,,,,,2,2,,,,,2,7,1,2,,1,,6,270639
+569,2097,Gaston College (all campuses),Sociology,2.9,Susan Flynn,4.0,32,71%,1,1,,2,2,3,1,4,,,1,,1,2,3,2,4,,,5,977851
+570,2097,Gaston College (all campuses),Geology,2.9,Brian Dibartolo,3.7,31,N/A,,,,,,2,,,,,,,,1,,2,,,,1,718369
+571,2097,Gaston College (all campuses),Psychology,1.8,Lori Metcalf,4.7,29,100%,,,,,1,2,3,,,,,,,,,1,,,,,321867
+572,2097,Gaston College (all campuses),History,2.0,Sid Sowers,3.9,29,N/A,,1,,,1,2,2,,1,,,,2,2,1,,2,,,1,502963
+573,2097,Gaston College (all campuses),Communication,3.4,Michael Pane,2.0,28,N/A,,,,,,,,1,,,,,,,,,1,,,,320394
+574,2097,Gaston College (all campuses),Science,3.0,Lidia Adkins,4.2,28,N/A,2,1,1,2,1,2,,1,,,,,1,,2,2,2,,,,1162350
+575,2097,Gaston College (all campuses),History,3.0,Mark Carver,4.0,26,71%,1,3,6,2,1,,1,4,1,,5,,1,,2,1,2,,,2,1235260
+576,2097,Gaston College (all campuses),English,2.9,Michael Powell,3.8,25,N/A,1,,,,2,1,1,1,,,1,,2,,1,,1,1,,3,215229
+577,2097,Gaston College (all campuses),English,2.9,John Withers,3.4,25,30%,1,3,,1,,2,2,6,3,,3,1,1,,3,,1,2,,6,1356927
+578,2097,Gaston College (all campuses),Mathematics,3.8,Tonia Broome,3.1,25,40%,,,,,,1,2,1,,,,,1,7,2,,,,,8,270643
+579,2097,Gaston College (all campuses),Science,1.8,Jerry Angelichio,4.3,24,N/A,,1,,1,1,,,1,,,1,,,,,,,,,,555736
+580,2097,Gaston College (all campuses),Science,3.9,Melissa Armstrong,2.9,23,60%,3,,,,1,,,1,,,,,1,3,1,,2,,1,,223406
+581,2098,Gateway Community College,Psychology,3.3,Lauren Doninger,4.3,147,83%,10,12,,4,11,4,6,32,,2,2,4,1,14,11,11,5,2,3,12,1097642
+582,2098,Gateway Community College,Communication,3.4,Franz Douskey,4.9,144,94%,9,13,,2,1,,,5,,5,6,10,,,15,13,,,,,768943
+583,2098,Gateway Community College,Mathematics,2.1,Vitaly Drucker,4.3,131,94%,2,3,,35,6,8,1,13,5,,20,4,,7,6,15,9,,,2,1184325
+584,2098,Gateway Community College,Biology,3.1,Bret Bird,3.9,123,N/A,,1,11,1,1,,1,2,1,,1,4,4,2,2,3,2,,,13,1624630
+585,2098,Gateway Community College,Sociology,2.4,Victor Medina,4.8,93,100%,1,6,,6,1,,,1,1,,3,1,,,,3,3,,,,77547
+586,2098,Gateway Community College,English,2.4,Toni Morotti,4.9,91,98%,,6,1,29,7,2,5,34,,,15,20,,5,15,38,8,3,,,1176335
+587,2098,Gateway Community College,English,2.7,Chester Schnepf,4.3,88,88%,,6,,2,1,1,13,5,,,9,10,1,3,4,7,7,12,,,543211
+588,2098,Gateway Community College,Psychology,3.3,Tom Fahy,4.0,81,63%,,2,6,2,3,1,7,6,1,,5,3,,1,9,2,3,,,12,249091
+589,2098,Gateway Community College,Business,3.2,Stephen Fries,3.7,79,76%,8,,5,6,10,,4,2,,,,1,,20,2,10,14,4,3,5,886935
+590,2098,Gateway Community College,Biology,3.2,Norman Abell,4.5,78,74%,4,7,1,,9,1,2,6,1,,4,2,6,,1,7,7,,3,7,429184
+591,2098,Gateway Community College,Mathematics,3.2,John Callaghan,3.5,75,58%,1,1,1,4,1,,,3,3,,5,,1,4,4,2,1,,1,2,801191
+592,2098,Gateway Community College,Biology,3.1,Heidi Rydene,4.3,71,38%,1,,,3,1,5,,1,,,,1,1,2,2,1,7,,5,9,479183
+593,2098,Gateway Community College,Biology,4.0,Louise Petroka,4.3,70,90%,10,10,,7,5,,5,6,1,,1,4,4,,4,10,6,,7,11,780260
+594,2098,Gateway Community College,Biology,3.0,Leonardo Kurachi Ube,4.6,69,88%,2,8,1,7,4,,4,9,,,5,4,3,,1,10,,,1,2,1253327
+595,2098,Gateway Community College,English,4.2,Doree Robinson,2.8,68,N/A,,,,,,,9,2,,1,,,,10,,1,1,4,,11,849645
+596,2098,Gateway Community College,History,2.2,Joseph Maynard,4.6,68,70%,1,3,,1,2,1,4,1,,,2,2,2,1,1,4,1,,,1,1205647
+597,2098,Gateway Community College,English,3.1,Julie Carthy,4.7,59,100%,3,1,,9,12,1,7,19,,,3,5,,5,5,2,7,4,,,906670
+598,2098,Gateway Community College,Mathematics,3.7,Saverio Perugini,2.5,57,100%,1,1,,,6,1,1,1,,,1,,,3,,,3,,1,3,249089
+599,2098,Gateway Community College,English,1.6,Mary Burns,4.6,53,100%,1,1,,6,3,1,2,7,1,1,2,3,,4,2,4,1,1,,,363810
+600,2098,Gateway Community College,Psychology,1.7,Teresa Russo,4.9,52,100%,2,,,3,6,3,1,5,1,1,,1,,2,,2,4,1,,1,803885
+601,2099,Gateway Community College,Communication,2.1,Joseph Swaba,4.9,134,100%,8,27,,22,15,,4,49,1,2,31,40,,2,20,52,,,,,665687
+602,2099,Gateway Community College,Humanities,3.5,Leo Valverde,4.1,104,75%,3,13,,4,6,18,25,28,3,1,18,3,3,3,21,11,3,,9,60,1909003
+603,2099,Gateway Community College,Biology,3.7,Jim Crimando,3.5,81,61%,,1,,1,4,3,5,,2,,,,11,1,4,3,12,,8,14,192654
+604,2099,Gateway Community College,Biology,3.2,Timothy Cejka,4.3,75,94%,2,6,,11,4,2,,2,,,2,6,5,,1,14,9,,5,6,1086845
+605,2099,Gateway Community College,Mathematics,1.8,Douglas Walker,4.9,65,100%,2,8,,8,9,,,6,1,,8,3,,,4,12,4,,1,,812499
+606,2099,Gateway Community College,Biology,3.7,David Gerstman,4.1,64,N/A,,1,,2,1,1,3,1,,,3,1,,,,2,2,,,1,152940
+607,2099,Gateway Community College,Mathematics & Sciences,2.6,Shannon Ruth,4.9,53,96%,6,13,1,14,6,2,,17,,,2,12,,3,2,15,4,,,1,1747769
+608,2099,Gateway Community College,Biology,2.5,Abdul Awad,4.7,52,93%,,6,5,8,,6,,4,1,,,3,1,,3,6,3,,1,2,1118251
+609,2099,Gateway Community College,English,2.9,Mark Meyers,4.9,48,100%,9,6,,18,10,,,34,1,1,19,10,1,,5,9,4,1,,,2259667
+610,2099,Gateway Community College,Communication,2.4,Christopher Mims,4.8,43,97%,1,15,,9,8,3,1,14,,6,32,7,,,6,13,1,,,3,2057716
+611,2099,Gateway Community College,Health Science,3.7,Elizabeth Dunphy,3.8,35,55%,2,,1,3,4,,5,,,,,,2,4,2,3,14,2,1,9,1579418
+612,2099,Gateway Community College,Chemistry,2.9,Tara Coleman,4.8,35,100%,3,18,,12,9,5,,17,,2,,3,,1,5,10,10,1,1,4,2134795
+613,2099,Gateway Community College,Biology,2.6,James Ware,4.3,34,85%,1,2,,2,2,,1,2,2,,7,1,,,,6,7,,3,2,987836
+614,2099,Gateway Community College,Biology,3.2,Cheryl Berg,4.7,32,100%,3,5,,3,,,4,6,,,,1,,,3,1,6,,,,897517
+615,2099,Gateway Community College,Mathematics,3.5,James Baugh,4.0,31,N/A,,,1,2,,2,1,,,,,1,,1,,,1,1,,2,683515
+616,2099,Gateway Community College,Health Science,3.0,Michael Kevin Tapscott,4.9,31,100%,2,8,,18,3,,,8,,,5,22,,,8,15,4,,,,2258935
+617,2099,Gateway Community College,Nursing,3.3,Linda Permoda,4.5,28,71%,2,3,,3,2,,2,7,1,,,4,,,2,4,5,,1,2,954577
+618,2099,Gateway Community College,Chemistry,4.4,Jaqueline Fergusson,2.8,27,N/A,,,,,,,,,,,,,,,,,,,,,898166
+619,2099,Gateway Community College,Chemistry,3.4,Tsuhen Michelle Chang,4.0,26,69%,3,2,10,7,,2,,5,,,9,2,1,10,3,2,9,,,6,2015070
+620,2099,Gateway Community College,Nursing,4.4,Ellen Cummings,3.5,25,71%,,1,,2,1,,1,2,,,,,4,,,4,5,,1,4,1149936

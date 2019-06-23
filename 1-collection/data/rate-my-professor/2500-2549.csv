@@ -1,0 +1,448 @@
+,campus_id,campus_name,dept,difficulty,name,quality,rating_count,retake,tag_accessibleoutsideclass,tag_amazinglectures,tag_bewareofpopquizzes,tag_caring,tag_cleargradingcriteria,tag_extracredit,tag_getreadytoread,tag_givesgoodfeedback,tag_gradedbyfewthings,tag_groupprojects,tag_hilarious,tag_inspirational,tag_lectureheavy,tag_lotsofhomework,tag_participationmatters,tag_respected,tag_skipclassyouwon'tpass,tag_somanypapers,tag_testheavy,tag_toughgrader,tid
+0,2501,Mountain View College,History,2.6,Ryan Pettengill,4.5,150,98%,4,44,,8,21,28,18,26,,,6,9,6,5,21,22,11,1,1,2,1453509
+1,2501,Mountain View College,English,2.8,Lisa Jackson,4.8,119,93%,8,9,,30,9,3,9,70,,1,11,24,1,4,24,35,9,3,,11,1821672
+2,2501,Mountain View College,Mathematics,2.3,Sam Rodgers,4.3,95,90%,1,5,,1,11,,,5,5,,7,,1,5,2,7,19,,,5,247571
+3,2501,Mountain View College,Biology,2.5,Denise Shipley,4.6,85,91%,5,14,,14,10,14,8,16,1,3,1,3,4,4,7,19,10,,4,1,1208438
+4,2501,Mountain View College,Political Science,1.6,Gary Church,4.9,81,100%,,5,,1,6,7,,5,,,12,6,,,5,14,4,1,,,1015042
+5,2501,Mountain View College,Speech Communication,1.5,Tisha Lackey,4.9,78,100%,6,14,,21,11,1,,26,,12,9,8,,,16,18,2,,,,1725179
+6,2501,Mountain View College,Geology,4.2,Lynn Millwood,2.9,75,48%,6,1,7,9,,4,11,3,,,3,4,6,20,1,,6,1,2,16,660277
+7,2501,Mountain View College,Mathematics,1.9,C Barron,4.1,71,100%,2,,,1,8,2,,2,,,2,,,2,2,2,1,,1,,199217
+8,2501,Mountain View College,Speech Communication,1.2,Tanisha Bell,5.0,70,100%,1,9,,20,4,4,,20,1,2,,55,,,9,55,,,,,1922177
+9,2501,Mountain View College,Mathematics,2.0,Mohammed Zouyousefain,4.0,67,92%,2,1,,4,14,7,3,1,,,1,1,1,12,,8,,,3,2,402463
+10,2501,Mountain View College,Biology,3.6,Margaret Silva,3.6,65,40%,,2,,3,1,1,2,3,,,,1,4,,3,2,7,,3,6,51053
+11,2501,Mountain View College,Biology,2.5,Debby Sutton,4.8,63,91%,,10,,7,,3,4,5,,,6,1,,1,1,8,5,,2,,1192287
+12,2501,Mountain View College,Philosophy,2.4,Auksuole Rubavichute,4.2,61,100%,1,,,2,5,4,5,3,2,,,,,1,1,,1,,,1,855130
+13,2501,Mountain View College,English,2.6,Paul Benson,3.5,58,13%,,1,,,2,,3,2,,,,,5,3,2,,6,2,,11,656255
+14,2501,Mountain View College,Information Technology,2.4,Heronn Harrison,4.8,58,96%,11,6,,16,14,4,1,18,,4,15,8,1,4,11,26,1,,1,,1708285
+15,2501,Mountain View College,Psychology,1.4,Pat Gentry,4.8,58,100%,,11,,5,4,,,4,1,,11,10,,1,2,4,1,,,,1119699
+16,2501,Mountain View College,Economics,3.0,Reginald Gray,4.2,58,79%,8,7,2,11,7,17,8,21,3,,9,16,4,10,4,17,2,,6,6,1863946
+17,2501,Mountain View College,Government,3.4,Jonathon York,3.2,55,31%,,2,,4,3,1,3,2,,15,1,2,4,4,4,,2,12,,3,812798
+18,2501,Mountain View College,Mathematics,3.1,Kumars Ranjbaran,2.7,54,60%,3,,,3,3,2,1,3,,,1,,,10,3,1,1,,2,5,340674
+19,2501,Mountain View College,Mathematics,1.7,G. Chancey,4.5,54,88%,2,2,,9,5,6,,7,1,,4,1,,,2,2,2,,1,1,248618
+20,2503,MTI College of Business and Technology,Law,3.5,Samina Asgur,4.8,32,100%,2,13,,11,,,,9,,3,1,23,1,,12,15,,,,2,1993960
+21,2503,MTI College of Business and Technology,History,3.0,Taylor Tiraterra,4.7,10,N/A,,,,,,,,,,,,,,,,,,,,,1289590
+22,2503,MTI College of Business and Technology,English,1.8,Karen McClendon,4.7,8,N/A,,,,,,,,,,,,,,,,,,,,,218895
+23,2503,MTI College of Business and Technology,Graphic Arts,2.3,John Alcorcha,4.9,8,N/A,,,,,,,,,,,,,,,,,,,,,218896
+24,2503,MTI College of Business and Technology,Computer Science,1.8,Raju Sah,4.5,6,N/A,,,,,,,,,,,,,,,,,,,,,925936
+25,2503,MTI College of Business and Technology,Computer Science,2.4,Karen Skeoch,4.6,5,N/A,,,,,,,,,,,,,,,,,,,,,896956
+26,2503,MTI College of Business and Technology,Computer Science,2.5,Diana Biasiol,4.0,4,N/A,1,,,,,,,,,1,,1,,,,1,,1,,1,1258953
+27,2503,MTI College of Business and Technology,Computer Science,2.0,Fouad Nobari,5.0,3,N/A,,,,1,,,,1,,,,,,,1,,,,,,218899
+28,2503,MTI College of Business and Technology,Mathematics,2.7,Barbara Dickson,4.7,3,N/A,,,,,,,,1,,,,,,1,,,,,,,218901
+29,2503,MTI College of Business and Technology,English,3.5,Amber Dickey,4.8,2,N/A,,,,,,,,,,,,,,,,,,,,,1215383
+30,2503,MTI College of Business and Technology,Computer Science,2.0,Michael Davidson,5.0,2,N/A,1,,,1,,,,,,,1,,,,,,,,,,1258954
+31,2503,MTI College of Business and Technology,Mathematics,1.5,Jill Bourque,5.0,2,N/A,,,,1,,,,1,,,1,,,,,,,,,,1258956
+32,2503,MTI College of Business and Technology,English,1.0,Gordon Curt,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1258952
+33,2503,MTI College of Business and Technology,Computer Science,4.0,Tyrone Nickel,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1449790
+34,2503,MTI College of Business and Technology,Medicine,2.0,Lori Tomson,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1557921
+35,2503,MTI College of Business and Technology,Computer Science,1.0,Rochelle Barnes,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1954001
+36,2503,MTI College of Business and Technology,Computer Science,1.0,Robert Young,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1954005
+37,2503,MTI College of Business and Technology,Business,2.0,Joyce Rogers,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1954011
+38,2503,MTI College of Business and Technology,Accounting,1.0,Tatyana Grishina,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1954022
+39,2503,MTI College of Business and Technology,Law,5.0,Christine McKenzie,1.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1993967
+40,2505,Murray State College,History,2.2,Kirk Rodden,4.4,36,N/A,,2,,,3,1,,,,,2,,3,,,2,1,,1,,153790
+41,2505,Murray State College,Computer Science,3.0,Syed Hasan,4.3,29,N/A,,,,,2,1,,1,,,,,,1,1,,,,,,707475
+42,2505,Murray State College,English,3.4,Sharon Burris,3.2,25,N/A,,,,,,1,1,,,,,,,1,,,1,2,,2,165518
+43,2505,Murray State College,Science,4.0,Bruce Stewart,3.6,21,N/A,,,,2,,,,,,,,2,1,,,,,,,,137482
+44,2505,Murray State College,Mathematics,4.2,Greg Boyd,2.8,15,N/A,,,,,,,,,,,,,,2,,,2,1,,3,470944
+45,2505,Murray State College,Mathematics,3.4,Pia Bauer,3.1,11,N/A,,,,,,,,,,,,,,,,,,,,,137478
+46,2505,Murray State College,English,2.5,Lisa Coulter,3.5,11,N/A,,,,,,,,,,,,,,1,,,,1,1,,149515
+47,2505,Murray State College,Computer Science,2.0,Cleta Phillips,4.0,11,N/A,,,,,,,,,,,,,,,,,,,,,162653
+48,2505,Murray State College,Sociology,1.6,Jane Bullard,4.7,11,N/A,,,,,,,,,,,,,,,,,,,,,169745
+49,2505,Murray State College,Psychology,3.1,Rebecca Henthorn,4.1,11,N/A,,,,,,,,,,,,,,,,,,,,,316672
+50,2505,Murray State College,Economics,1.9,Paul Dameron,3.6,10,N/A,,,,,,,,,,,,,,,,,,,,,292529
+51,2505,Murray State College,English,3.2,Edward Woode,4.1,9,N/A,,,,,,,,1,,,,,,,,1,,,,,1287118
+52,2505,Murray State College,English,3.3,Jeana West,4.0,8,N/A,,,,,,,,,,,,,,,,,,,,,161686
+53,2505,Murray State College,Fine Arts,2.6,Alan Burris,4.5,7,N/A,,,,,,,,,,,,,,,,,,,,,165514
+54,2505,Murray State College,Computer Science,3.1,Syed Hasen,2.1,7,N/A,,,,,,,,,,,,,,,,,,,,,356624
+55,2505,Murray State College,History,4.4,Todd Speaks,4.6,7,N/A,,,,,,,,,,,,,,,,,,,,,472493
+56,2505,Murray State College,English,3.2,Andrew Geyer,2.8,6,N/A,,,,,,,,,,,,,,,,,,,,,142947
+57,2505,Murray State College,Biology,3.5,Michelle Elmer,2.8,6,N/A,,,,1,1,,2,,,,,1,,,1,,,,,1,1713093
+58,2505,Murray State College,Biology,3.6,Noble Jobe,4.5,5,N/A,,,,,,,,,,,,,,,,,,,,,357552
+59,2505,Murray State College,Business,2.6,Willa Dean Caldwell,4.1,5,N/A,,,,,,,,,,,,,,,,,,,,,408459
+60,2506,Muscatine Community College,History,2.6,Jeff Kaufmann,4.9,17,N/A,,2,,,1,,,,,,2,,,,,2,,,,,216761
+61,2506,Muscatine Community College,English,4.0,Lisa Powell-Cler,3.3,17,29%,2,1,1,,1,,1,4,,,,1,,5,2,,4,3,,5,1178533
+62,2506,Muscatine Community College,Psychology,2.7,Paula Finch,3.9,14,N/A,,4,,5,2,,3,7,,,1,8,,,2,2,,,,2,1863304
+63,2506,Muscatine Community College,English,3.5,James Compton,3.4,13,20%,,,,1,,,,2,,,2,,,,,2,,2,,1,207090
+64,2506,Muscatine Community College,Humanities,3.4,Kay Rooff-Steffen,4.9,8,N/A,,,,,1,,,1,,,,,,,1,,,,,,216768
+65,2506,Muscatine Community College,Mathematics,4.9,William Trotter,1.4,8,N/A,,,,,,,,,,,,,,,,,,,,,1459854
+66,2506,Muscatine Community College,English,4.1,Dan Baldwin,4.4,7,N/A,,,,,,,,,,,,,,,,,1,1,,,216766
+67,2506,Muscatine Community College,Chemistry,4.0,Janelle Torres Y Torres,2.9,7,N/A,,,,,,,,,,,,,,,,,,,,,486766
+68,2506,Muscatine Community College,Economics,2.4,John Dabeet,4.4,7,N/A,,,1,,,,,,,,1,,,,,1,,,,,1320913
+69,2506,Muscatine Community College,Biology,3.7,Lori Welter,4.2,6,N/A,,,,,,,,,,,,,,,,,,,,,216764
+70,2506,Muscatine Community College,Biology,2.7,Jana Fowler,5.0,6,N/A,,,,,1,,1,,,,,,,,1,,,,,,1773751
+71,2506,Muscatine Community College,Chemistry,2.8,Brandon Lange,4.8,6,N/A,1,1,,1,1,,,,,,,1,,1,1,1,1,,,,1828774
+72,2506,Muscatine Community College,Mathematics,3.2,Ann Mayes,5.0,5,N/A,,,,,,,,,,,,,,,,,,,,,216762
+73,2506,Muscatine Community College,English,3.8,Stephen Holland,3.7,5,N/A,,,,,,,,,,,,,,,,,,,,,592098
+74,2506,Muscatine Community College,English,2.8,Lisa Hadley,2.9,5,N/A,,,,,,,,,,,,,,,,,,,,,1178535
+75,2506,Muscatine Community College,Science,4.0,Ken Johnson,2.9,4,N/A,,,,1,,,,,,,1,1,,,,,,,,,1250605
+76,2506,Muscatine Community College,Communication,1.0,David Lane,4.8,3,N/A,,,,,,,,,,,,,,,,,,,,,1742554
+77,2506,Muscatine Community College,Developmental Education,1.0,Niki Moore Nienhaus,5.0,3,N/A,,,,2,,2,,1,,,1,,,,,,,,,,2005436
+78,2506,Muscatine Community College,Music,3.0,Jan Phillips,2.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1078938
+79,2506,Muscatine Community College,Agriculture,3.5,Paul Martin,4.3,2,N/A,,,,,,,,,,,,,,,,,,,,,1262300
+80,2508,Napa Valley College,Psychology,2.8,Jeff Wachsmuth,4.8,148,100%,1,22,,5,5,,5,3,1,,21,5,2,,3,9,21,,1,,286936
+81,2508,Napa Valley College,Political Science,3.1,John Liscano,4.2,128,79%,,8,,1,,,11,2,4,,5,3,1,1,15,5,4,,2,4,286926
+82,2508,Napa Valley College,Philosophy,3.4,Sharon Gocke,3.7,113,80%,,3,,3,2,,10,1,6,,,7,7,,1,3,15,,3,3,286934
+83,2508,Napa Valley College,English,4.0,Eileene Tejada,2.9,87,46%,,4,,2,4,,17,3,1,,,6,2,15,1,4,3,12,,10,342448
+84,2508,Napa Valley College,Mathematics,2.6,Dave Ellingson,4.3,70,92%,7,3,1,11,2,3,,3,2,,13,,2,6,,3,1,,2,,456985
+85,2508,Napa Valley College,Mathematics,1.7,William Fried,4.7,68,94%,,,,,11,5,,2,,,15,1,1,3,4,7,1,,,,366629
+86,2508,Napa Valley College,Mathematics,1.5,Randy Villa,4.7,66,94%,2,3,2,6,7,23,,6,,,1,,3,,,11,9,1,1,,362588
+87,2508,Napa Valley College,Mathematics,3.2,S Lohse,2.9,65,44%,,,,,1,1,,,,,1,,1,5,,,5,,3,7,456983
+88,2508,Napa Valley College,History,1.3,Bruce Clymer,4.4,60,100%,,6,,1,6,3,,1,1,,,1,7,,10,5,2,,,,395779
+89,2508,Napa Valley College,Biology,3.8,Stephanie Burns,3.9,60,65%,6,4,,6,3,1,3,1,3,,3,1,8,,1,4,5,,5,2,749303
+90,2508,Napa Valley College,Anthropology,3.1,Jessica Amato,4.4,56,100%,2,2,,4,6,1,4,4,,1,4,1,2,,3,5,3,,2,3,892282
+91,2508,Napa Valley College,English,2.8,Jon Breaw,4.9,55,100%,3,2,,8,3,,13,15,,,8,7,,2,20,11,10,,,1,1460395
+92,2508,Napa Valley College,Social Science,2.4,Glen Bell,4.0,52,N/A,,,,2,3,,3,2,,,,,1,4,2,,1,,,,286929
+93,2508,Napa Valley College,Humanities,1.6,Janet Stickmon,4.8,52,94%,3,9,,8,3,6,1,6,2,3,,8,2,,4,6,,,,,900064
+94,2508,Napa Valley College,Chemistry,3.9,Forest Quinlan,4.0,50,94%,5,5,,2,1,,,,,,20,,4,6,2,2,13,1,2,10,1286937
+95,2508,Napa Valley College,English,2.6,Michael Dow,3.9,49,N/A,,,,,1,,3,1,,1,,,,2,3,1,1,,,2,71697
+96,2508,Napa Valley College,Biology,4.5,Bonnie Moore,2.9,48,36%,,1,4,2,3,,2,,1,,,,5,1,,2,18,,6,22,286925
+97,2508,Napa Valley College,History,2.3,Rick Donohoe,3.9,48,N/A,,,,,,,,,,,,,,,,,,,,,366622
+98,2508,Napa Valley College,Chemistry,3.2,Steven Fawl,4.3,48,88%,2,6,,1,5,2,,2,,,1,1,,,,4,3,,,2,362587
+99,2508,Napa Valley College,Art History,2.8,Amanda Badgett,4.8,48,89%,,4,,3,7,1,,1,,,2,2,3,,,3,7,,2,2,624084
+100,2509,Nash Community College,Criminal Justice,1.6,Keith Milks,4.8,34,N/A,,1,,1,2,1,,,1,,2,,,,,1,,,,,293596
+101,2509,Nash Community College,Mathematics,3.2,Kochi Angar,3.8,27,N/A,2,,2,2,3,1,,1,,,,,,2,2,,1,,,,293580
+102,2509,Nash Community College,Mathematics,2.5,Dina Pitt,4.5,24,N/A,,,,2,,,,1,,,,1,,,2,,,,1,1,253043
+103,2509,Nash Community College,Biology,3.7,Michael Shaner,3.1,22,N/A,,,,,,,,,,,,,,,,,,,,,282333
+104,2509,Nash Community College,English,1.8,Etaf Rum,3.7,21,13%,,2,1,5,,,1,1,,1,3,4,1,1,2,2,,,1,1,1838992
+105,2509,Nash Community College,Science,4.5,June Kearney,1.9,20,N/A,,,1,,,,,,,,,,7,5,,,5,,3,11,291697
+106,2509,Nash Community College,Psychology,2.3,Elizabeth Hood,4.8,20,100%,3,10,,8,2,1,,5,3,,2,3,1,,1,3,,,,,1256199
+107,2509,Nash Community College,Psychology,2.3,David West,4.3,18,N/A,,,,,,2,,1,,,1,,,,,1,,,,,74932
+108,2509,Nash Community College,Psychology,2.1,Angela Blankenship,4.5,16,N/A,2,,,1,3,,2,,,,,,,,1,2,,,,1,577769
+109,2509,Nash Community College,English,3.2,Bill O'Boyle,3.1,15,N/A,,,,1,,,,1,,,1,,,,,,,1,,1,74929
+110,2509,Nash Community College,Humanities,1.9,Jay Peacock,4.5,12,N/A,1,2,,,,,,1,,,,1,2,,,2,,,,,487857
+111,2509,Nash Community College,Mathematics,2.7,Shilo Lawrence,4.2,12,80%,3,1,,1,1,,,2,1,1,2,2,,,,,,,,1,721652
+112,2509,Nash Community College,Science,4.1,Ken Nash,3.6,11,83%,2,,,,,,4,,,,3,1,3,1,,,2,,,2,293588
+113,2509,Nash Community College,English,3.8,Katie Hoffer,3.7,11,N/A,,,,2,,,2,,,,,,,3,3,,,1,,6,2007643
+114,2509,Nash Community College,Mathematics,3.4,Teresa Peacock,4.7,11,N/A,1,,,1,,,,2,,,,1,,,,,2,,,2,291639
+115,2509,Nash Community College,Humanities,3.6,Kay Gelo,3.7,10,N/A,,,,,,,,,,,,,,,,,,,,,291689
+116,2509,Nash Community College,Communication,2.0,Lisa Cooper,4.4,9,N/A,,,,,,,,1,,,,,,,1,1,,,,,294849
+117,2509,Nash Community College,Criminal Justice,1.7,Carmi Guyette,5.0,9,N/A,,,,,,,,1,,,2,1,,,1,1,,,,,942620
+118,2509,Nash Community College,Science,3.8,Holly Carmichael,4.8,9,N/A,,3,,1,,,1,,,,1,,,1,,2,3,,,,293585
+119,2510,Nashville Auto-Diesel College,Painting,1.0,Jason Black,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1472586
+120,2510,Nashville Auto-Diesel College,Automotive Technology,1.0,James Tanner,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1572147
+121,2510,Nashville Auto-Diesel College,Automotive Technology,3.0,Richard Martain,2.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1836557
+122,2510,Nashville Auto-Diesel College,Automotive Technology,4.0,Scott Jones,5.0,1,N/A,,,,,,,,,,,,1,,,1,1,,,,,2170107
+123,2512,National College,Psychology,2.0,Jessica Stewart,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,802579
+124,2513,National College: Bluefield,Accounting,3.0,Tim Whited,4.3,2,N/A,,,,,,,,,,,,,,,,,,,,,1032310
+125,2514,National College: Charlottesville,Business,3.0,H Albert,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,913249
+126,2515,National College: Danville,English,4.0,Betty Floyd,4.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1553559
+127,2515,National College: Danville,Mathematics,4.0,Linda Law,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1715825
+128,2517,National College: Harrisonburg,Business,3.0,Larry Davis,3.0,1,N/A,,,,,,,,,,,,,,,,,,,,,620526
+129,2517,National College: Harrisonburg,Biology,5.0,Alice Tutwiler,1.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1341324
+130,2517,National College: Harrisonburg,Accounting,1.0,Chris Balderson,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1448686
+131,2517,National College: Harrisonburg,Computer Science,3.0,Stephen Meyers,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1490991
+132,2517,National College: Harrisonburg,English,1.0,Fred Shira,4.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1828314
+133,2517,National College: Harrisonburg,Business,1.0,Dwilght Slough,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1828315
+134,2518,National College: Lynchburg,Business,3.0,Barbara Skoumbourdis,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,850024
+135,2518,National College: Lynchburg,Mathematics,4.0,David Knapton,1.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1715820
+136,2520,National College: Pikeville Campus,Accounting,3.5,Samuel Hatcher,4.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1404982
+137,2520,National College: Pikeville Campus,Nursing,5.0,Edith Owens,1.0,1,N/A,,,,,,,,,,,,,,,,,,,,,2155471
+138,2523,Wyotech,Not Specified,1.2,John Sturgeon,4.8,6,N/A,,,,,,,,,,,,,,,,,,,,,861804
+139,2523,Wyotech,Electrical Technology,2.0,Carlos Leon,2.3,2,N/A,,,,,,,,,,,,,,,,,,,,,891086
+140,2524,Naugatuck Valley Community College,Computer Science,1.8,Peter Cisek,4.8,193,100%,6,2,,18,13,6,1,16,1,,3,2,,3,4,13,,,,,1307742
+141,2524,Naugatuck Valley Community College,English,1.8,Lisa Shuchter,4.9,169,100%,7,3,,20,8,6,2,23,1,1,2,10,,,6,15,,1,,,220411
+142,2524,Naugatuck Valley Community College,Sociology,3.6,Farshad Malek-Ahmadi,3.0,157,44%,1,2,1,15,8,,23,6,1,,1,7,3,3,16,16,4,,3,13,561023
+143,2524,Naugatuck Valley Community College,Psychology,2.2,Angela Tiru,4.2,115,89%,2,10,2,25,32,16,3,25,3,11,2,12,2,7,28,30,4,1,1,,1307212
+144,2524,Naugatuck Valley Community College,English,3.8,Wade Tarzia,3.3,107,50%,,2,9,,1,,14,2,2,2,5,,4,6,2,,5,1,,16,107467
+145,2524,Naugatuck Valley Community College,Psychology,2.1,Lawrence Venuk,4.8,81,100%,1,5,1,9,3,2,2,10,,,6,6,,2,3,9,,,,1,170014
+146,2524,Naugatuck Valley Community College,Sociology,3.1,Tim Jacobs,3.3,77,N/A,,3,,1,1,,,,1,,2,,3,,,1,3,,,2,116478
+147,2524,Naugatuck Valley Community College,Biology,4.1,Rachel Sackett,3.5,76,60%,2,4,,3,1,6,,2,,,,4,1,1,,1,7,,1,9,582089
+148,2524,Naugatuck Valley Community College,Mathematics,3.3,Deborah Litwinko,4.2,73,86%,2,1,,15,7,5,1,12,1,,5,4,1,6,,7,8,,2,6,700537
+149,2524,Naugatuck Valley Community College,Biology,3.1,Jeff Damiano,4.5,72,92%,9,9,,12,7,,3,15,3,,14,7,5,,2,6,17,,7,17,1439412
+150,2524,Naugatuck Valley Community College,History,3.5,Karla Ekquist,2.9,71,30%,1,1,,2,,1,8,2,1,,,2,4,2,1,4,1,,3,7,178353
+151,2524,Naugatuck Valley Community College,Biology,3.8,Lawrence Altman,4.6,67,75%,,6,,5,,3,2,2,,,1,3,3,,,8,7,,,7,150604
+152,2524,Naugatuck Valley Community College,Psychology,3.0,Kim O'Donnell,4.0,67,79%,1,2,,4,1,8,3,7,1,2,3,2,1,3,3,4,3,1,,4,91752
+153,2524,Naugatuck Valley Community College,English,2.5,Patricia Pallis,4.4,64,56%,2,4,,9,4,,5,10,,,,,,2,6,1,,3,,7,169805
+154,2524,Naugatuck Valley Community College,Science,4.3,Del Cummings,3.3,63,N/A,1,,,1,,1,,1,,,,,,2,,,3,1,,5,91729
+155,2524,Naugatuck Valley Community College,Chemistry,4.4,Alex Zozulin,3.8,63,78%,4,,,3,1,,,4,,,2,,2,3,,1,7,,1,7,628412
+156,2524,Naugatuck Valley Community College,Psychology,3.4,Sandra Valente,3.0,61,40%,,1,1,,,,9,1,1,,,3,,2,4,5,1,1,,12,178330
+157,2524,Naugatuck Valley Community College,Communication,3.0,Barbara Antonicka,2.8,60,75%,,,,2,1,,3,4,1,4,,1,5,2,4,1,4,4,,8,205385
+158,2524,Naugatuck Valley Community College,Biology,3.2,"Jianyu ""jenny"" Zheng",3.3,60,86%,2,1,,6,8,22,6,8,,3,,4,5,1,1,8,8,,5,5,1385556
+159,2524,Naugatuck Valley Community College,Communication,2.1,Michelle Ciampi,4.4,59,100%,,11,,3,6,2,,8,,2,19,5,3,,11,6,7,,,3,681684
+160,2525,Navarro College,Biology,2.7,Lynn Simpson,4.5,55,N/A,,7,,4,8,18,,9,,,6,1,,,5,7,10,,,4,554007
+161,2525,Navarro College,History,3.8,Dan Nesmith,4.1,47,40%,,6,1,1,2,1,11,2,,,3,,4,1,1,2,5,,2,6,119023
+162,2525,Navarro College,Philosophy,2.8,Carey Ford,4.2,35,92%,3,6,,3,6,2,3,8,,,,8,,2,10,16,5,2,,4,1692931
+163,2525,Navarro College,Psychology,2.6,Clayton Todd Kirk,4.3,25,60%,,,1,,,,,2,,,3,1,,,,3,,,,,687431
+164,2525,Navarro College,Biology,2.8,Lisa Dillman,4.7,22,N/A,1,,3,7,,,1,4,,,,1,,2,3,,,,,,253807
+165,2525,Navarro College,Communication,2.2,Butch Owens,4.4,17,N/A,,1,,1,1,,,1,,,1,,,,,,,,,,378699
+166,2525,Navarro College,Psychology,3.4,Monica Castator,3.4,17,50%,,,,,,2,3,,,,,,2,2,,2,,,2,3,971333
+167,2525,Navarro College,English,2.7,Suzanne Spaniel,4.8,17,100%,1,,,3,1,,1,8,,,,2,,1,1,5,3,,,2,1423526
+168,2525,Navarro College,English,3.2,Beverly Pearson,4.0,16,N/A,,1,,2,,,3,3,,,,,,3,,,,1,1,3,883504
+169,2525,Navarro College,Biology,3.3,Virginia Grossman,4.2,16,80%,,1,,1,3,,,,,,,1,7,,,4,6,,3,1,1206938
+170,2525,Navarro College,English,4.1,Anna Kantor,1.7,16,13%,1,,,,,,,1,2,,1,1,,3,1,2,,5,1,4,1454083
+171,2525,Navarro College,Humanities,3.1,Laurie Robertstad,4.1,15,N/A,,,,,,,,,,,,,1,,,,1,,,1,354984
+172,2525,Navarro College,Music,2.7,Lamont Goodman,3.5,15,N/A,,,,,,,,,,,,,,,1,1,,,,,687415
+173,2525,Navarro College,Psychology,1.9,Guy Featherston,4.6,15,N/A,,,,1,7,,1,2,1,,,,,,,1,,,,,1140392
+174,2525,Navarro College,English,2.4,Belinda Adams,4.8,14,80%,1,2,,1,2,,2,3,,,1,,,,4,4,,,,,594235
+175,2525,Navarro College,Political Science,3.3,Amanda Morrison,4.2,14,86%,2,4,,2,,,2,3,1,,3,1,,1,,2,1,,,1,1610471
+176,2525,Navarro College,Biology,4.7,Heather Stottman,1.7,14,N/A,,,2,,1,,5,,,,,,3,1,,,7,,3,3,1807796
+177,2525,Navarro College,Biology,4.2,Floretta L Jones,2.4,14,25%,2,,,1,,,6,1,,,,1,4,1,,,7,,4,9,1814967
+178,2525,Navarro College,History,3.3,Karen Till,4.0,13,N/A,,1,,1,,,,,,,,1,,,,,,,,,179500
+179,2525,Navarro College,Mathematics,3.9,Rita O'Brien,3.3,13,N/A,,,,,,,,,,,,,,,,,1,,,,354513
+180,2526,Kaplan University,Psychology,2.8,Yasmeen Aleem,3.4,4,N/A,,,,,,,,,,,,,,,,,,,,,1905535
+181,2526,Kaplan University,English,3.0,Rathi Krishnan,3.2,3,N/A,,,,,,,1,,,,,,,,,,,,,,1803664
+182,2526,Kaplan University,Psychology,2.0,Christine Testani,4.5,3,N/A,1,,,2,,,1,1,,,,,,,,1,,,,,1914412
+183,2526,Kaplan University,Management,4.5,"Avimanyu ""Avi"" Datta",3.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1283933
+184,2526,Kaplan University,Nursing,3.5,Barbara Loguda,3.0,2,N/A,,,,,,,1,,,,,,,1,,,,,,1,1884820
+185,2526,Kaplan University,Psychology,4.0,Cara Jared,2.0,2,N/A,,,,,,,1,,,1,,,,,,,,,,1,2006615
+186,2526,Kaplan University,Political Science,3.0,John Lick,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1464176
+187,2526,Kaplan University,Nursing,2.0,Laynne Evans,1.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1884822
+188,2526,Kaplan University,Communication,1.0,Mary Bromberg,4.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1905534
+189,2526,Kaplan University,Psychology,2.0,Jennifer Robertson,4.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1905536
+190,2526,Kaplan University,Psychology,1.0,Arlene Garcia,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1914413
+191,2526,Kaplan University,Biology,4.0,Paula Murray,3.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1914415
+192,2526,Kaplan University,Psychology,1.0,Crystal Alstot,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1978694
+193,2526,Kaplan University,Psychology,4.0,Harla Frank,4.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1978695
+194,2526,Kaplan University,Business,1.0,Marla Thompson,4.5,1,N/A,,,,1,,,,,,,1,,,,1,,,,,,2039380
+195,2527,Nebraska College of Technical Agriculture,Agriculture,4.0,Ricky Sue Barnes,4.5,1,N/A,,,,,,,,,,,1,,,,1,,1,,,,2027110
+196,2530,Neosho County Community College,Science,3.7,Michael Campbell,3.4,18,44%,3,,1,,3,,1,2,,,2,,3,1,2,,2,2,5,6,1308681
+197,2530,Neosho County Community College,English,4.1,Mary Weilert,2.5,14,N/A,,,,,,1,,,,,,,,1,,,2,,1,2,253598
+198,2530,Neosho County Community College,History,3.0,Joseph M. Cook,4.4,14,100%,,,,5,9,,,4,,,,,,,6,12,,,,,2030275
+199,2530,Neosho County Community College,Science,3.8,Steve Yuza,4.3,12,N/A,,,,,,,,,,,,,,,,,,,,,116456
+200,2530,Neosho County Community College,Psychology,3.6,Larry Anderson,2.6,9,N/A,,,,,1,,1,,,,,,1,,,,1,,,2,598253
+201,2530,Neosho County Community College,Fine Arts,3.4,Tosca Harris,3.1,8,N/A,,,,,,,,,,,,,,,,,,,,,466071
+202,2530,Neosho County Community College,Biology,3.1,Eric Row,4.4,8,100%,3,1,,2,3,,,1,,,,,,1,1,2,,,,,1726009
+203,2530,Neosho County Community College,Psychology,2.1,Tom Grady,3.9,7,N/A,,,,,,,,,,,,,,,1,,,,,1,842063
+204,2530,Neosho County Community College,English,3.4,Ruth Zollars,4.0,7,60%,,,,,3,1,1,3,1,,,,,,3,,1,,1,1,1438198
+205,2530,Neosho County Community College,Sociology,2.2,Mark Eldridge,4.5,5,N/A,,,,,,,1,,,,1,,,1,,,,,,,1691165
+206,2530,Neosho County Community College,Mathematics,4.0,Charles Baab,3.1,4,N/A,,,,,,,,,,,,,,,,,,,,,595542
+207,2530,Neosho County Community College,Nursing,3.8,Mary Lisa Josyln,4.9,4,N/A,,,,,,,,,,,,,,,,,,,,,842065
+208,2530,Neosho County Community College,Science,3.0,Darin Schmitz,5.0,3,N/A,,,,,,,,,,,,,,,,,,,,,806749
+209,2530,Neosho County Community College,Business,4.0,Mark Watkins,3.3,3,N/A,,,,,,,,,,,,,,,,,,,,,842061
+210,2530,Neosho County Community College,History,2.7,Mindy Ayers,4.3,3,N/A,,1,,,,,,,,,,,,,1,,,1,,,1272433
+211,2530,Neosho County Community College,History,3.7,Kevin Blackwell,2.5,3,N/A,,,,,1,,1,,,,,,,,,,,,1,,1691164
+212,2530,Neosho County Community College,Nursing,3.0,Stephanie Guinotte,3.5,3,N/A,,,,,,,,,,,,,,,,,,,,,1889003
+213,2530,Neosho County Community College,Physical Science,3.0,Luka Kapkiai,3.0,3,N/A,,,,1,,,,,,,1,,1,1,,,,,,1,1999867
+214,2530,Neosho County Community College,Theater,2.0,Sarah Owens,2.8,2,N/A,,,,,,,,,,,,,,,,,,,,,1338043
+215,2530,Neosho County Community College,Humanities,2.0,Robert Conway,5.0,2,N/A,,1,,1,,,,,,,2,,,,,,1,,,,1670057
+216,2532,New England College of Business,Finance,2.5,Akou Doffou,4.1,8,N/A,,,,,,,,,,,,,,,,,,,,,1415100
+217,2532,New England College of Business,Business,3.5,Deborah Sementa,3.0,4,N/A,,,,,,,,,,,,,,,,,,,,,904738
+218,2532,New England College of Business,Finance,3.7,Sandra Owen,3.8,3,N/A,,,,,1,,1,,,,,,,,,1,,,,,798298
+219,2532,New England College of Business,Economics,3.5,Vivian Hatziyannis,1.0,2,N/A,,,,,,,,,,1,,,,,,,,,,,2003274
+220,2532,New England College of Business,Mathematics,4.0,Robert Huebner,2.8,2,N/A,,,,,,,1,1,,,,,,1,1,,,,,2,2106097
+221,2532,New England College of Business,History,3.0,Edward Hutchinson,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1595211
+222,2532,New England College of Business,Philosophy,3.0,Jennifer Cournoyer,1.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1892887
+223,2532,New England College of Business,Accounting,4.0,Donna Viens,5.0,1,N/A,,,,1,,,,1,,,,,,,,1,,,,,2159747
+224,2533,New England Culinary Institute,Writing,2.7,Darryl Benjamin,4.5,40,N/A,,4,,4,3,,4,17,,,,12,,2,7,5,,2,,1,1905397
+225,2533,New England Culinary Institute,Culinary Arts,2.5,Emma Cutler-Grimes,4.8,17,N/A,,1,,,,,,,,,1,1,,,,,,,,,293478
+226,2533,New England Culinary Institute,Culinary Arts,2.6,Andre Burnier,4.3,12,N/A,,,,,,,,,,,,,,,,,,,,,294927
+227,2533,New England Culinary Institute,Culinary Arts,3.6,Mark Davis,3.6,11,N/A,,,,,,,,,,,,,,,,,,,,,294973
+228,2533,New England Culinary Institute,Culinary Arts,1.2,Peg Checchi,5.0,8,N/A,,,,,,,,1,,,1,,,,,1,,,,,294929
+229,2533,New England Culinary Institute,Culinary Arts,2.6,Joe Buley,4.4,7,N/A,,,,,,,,,,,,,,,,,,,,,294924
+230,2533,New England Culinary Institute,Culinary Arts,3.6,Adrian Westrope,4.2,7,N/A,,,,,,,,1,,,1,,,,,1,,,,,294948
+231,2533,New England Culinary Institute,Culinary Arts,1.8,Mary Rosholt,4.2,5,N/A,,,,1,,,,,,,,,,,1,,,,,,294954
+232,2533,New England Culinary Institute,Culinary Arts,4.0,Bryan Severns,5.0,4,N/A,,,,,,,,,,,,,,,,,,,,,294942
+233,2533,New England Culinary Institute,Culinary Arts,4.5,Sarah Langan,4.6,4,N/A,,,,,,,,,,,,,,,,,,,,,295768
+234,2533,New England Culinary Institute,Languages,3.0,Mario Martinez,5.0,4,N/A,,,,,,,,,,,,,,,,,,,,,295785
+235,2533,New England Culinary Institute,Culinary Arts,1.5,Molinaro Mark,5.0,4,N/A,,,,,,,,,,,,,,,,,,,,,302872
+236,2533,New England Culinary Institute,Culinary Arts,2.7,Lyndon Virkler,5.0,3,N/A,,,,,,,,,,,,,,,,,,,,,295583
+237,2533,New England Culinary Institute,Culinary Arts,3.7,Claire Menck,3.8,3,N/A,,,,,,,,,,,,,,,,,,,,,874118
+238,2533,New England Culinary Institute,Culinary Arts,3.5,Will Bohmann,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,295755
+239,2533,New England Culinary Institute,Culinary Arts,4.0,Dellie Rex,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1137581
+240,2533,New England Culinary Institute,Culinary Arts,2.0,David Miles,5.0,2,N/A,,,,,,,,1,,,,,,,,1,,,,,1680773
+241,2533,New England Culinary Institute,Culinary Arts,1.0,Chiavacci John,1.0,1,N/A,,,,,,,,,,,,,,,,,,,,,302871
+242,2533,New England Culinary Institute,Education,5.0,David Garaventa,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1180610
+243,2534,Lincoln College of Technology,Business,1.4,Nicholas Bergan,2.9,5,N/A,,,,,,,,,,,,,,,,,,,,,1017658
+244,2534,Lincoln College of Technology,Design,3.0,Rick Mitchell,2.8,3,N/A,,,,,,,,,,,,,,,,,,,,,706903
+245,2534,Lincoln College of Technology,Computer Science,4.3,Marty Truchon,5.0,3,N/A,,,,,,,,,,,,,,,,,,,,,737383
+246,2535,New England School of Communications,Communication,1.9,Don Depoy,3.4,20,N/A,,,,,,,,,,,,,,,,,,,,,256648
+247,2535,New England School of Communications,Communication,2.2,Mark Nason,2.9,16,N/A,,,,1,,,,1,,,3,2,,1,,1,,,,,56912
+248,2535,New England School of Communications,Communication,4.2,David MacLaughlin,2.8,14,N/A,,,,,,,,,,,,,,,,,,,,,56911
+249,2535,New England School of Communications,Management,2.2,Tristan Richards,4.4,12,N/A,,,,,,,,,,,,,,,,,,,,,277882
+250,2535,New England School of Communications,Graphic Arts,3.1,Rodney Verrill,4.3,10,N/A,,,,,,,,,,,,,,,,,,,,,257457
+251,2535,New England School of Communications,Engineering,3.2,Doug Hoyt,4.0,6,N/A,,,,,,,,,,,,,,,,,,,,,686881
+252,2535,New England School of Communications,Communication,1.3,Dale Duff,1.3,4,N/A,,,,,,,,,,,,,,,,,,,,,256136
+253,2535,New England School of Communications,Communication,4.3,Susan Patten,3.3,3,N/A,,,,,,,,,,,,,,,,,,,,,962800
+254,2535,New England School of Communications,Communication,2.7,Brave Williams,4.5,3,N/A,,,,,,,2,,,,,,,,2,2,,,,,1552803
+255,2535,New England School of Communications,Psychology,2.7,Nancy Hunter-Daisey,4.7,3,N/A,,1,,,1,,,1,,,1,1,,,,,,,,,1735132
+256,2535,New England School of Communications,Communication,1.7,Laura Gurney,4.3,3,N/A,,,,,,,,,,,,,,1,,,1,,,,1888150
+257,2535,New England School of Communications,Communication,3.5,Ben Haskell,2.8,2,N/A,,,,,,,,,,,,,,,,,,,,,691134
+258,2535,New England School of Communications,Graphic Arts,2.5,Scott Traylor,3.8,2,N/A,,,,,,,,,,,,,1,1,,,,,1,,1038069
+259,2535,New England School of Communications,Journalism,3.0,Jeffrey Hope,4.5,2,N/A,,,,,,,,,,,,,,,,,,,,,1786414
+260,2535,New England School of Communications,Engineering,3.0,Ian Anderson,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1711296
+261,2535,New England School of Communications,Communication,3.0,John Easton,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1713526
+262,2535,New England School of Communications,Communication,4.0,Bill Davis,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1763402
+263,2535,New England School of Communications,Film,4.0,Steve Vachon,3.0,1,N/A,,,,,,,,,,1,,,,,,,1,,,1,2497093
+264,2537,Lakes Region Community College,Writing,2.8,Jay Plyler,3.4,19,N/A,,,,3,,,,4,,1,,,,1,1,1,,,,,741071
+265,2537,Lakes Region Community College,History,2.7,Scott Cracraft,4.3,16,N/A,,1,1,,1,,1,,,,,,2,,,,,1,,1,772710
+266,2537,Lakes Region Community College,English,2.4,Arthur Deleault,4.7,10,N/A,,,,1,,,,1,,,1,1,,,,2,,,,,811602
+267,2537,Lakes Region Community College,Mathematics,2.3,Julie Morin,5.0,8,N/A,,,,,,,,,,,,,,,,,,,,,298864
+268,2537,Lakes Region Community College,Psychology,2.0,Jennifer Anderson,4.8,8,N/A,,,,,,,,,,,,,,,,,,,,,1164703
+269,2537,Lakes Region Community College,Business,2.1,Max Brown,4.4,7,N/A,1,,,,1,,,,,,,,,,,1,,,,,669677
+270,2537,Lakes Region Community College,Science,2.4,Nancy Maiorano,5.0,7,N/A,,,,,,,,,,,,,,,,,,,,,1427672
+271,2537,Lakes Region Community College,Computer Science,3.0,Kurt Webber,1.3,6,N/A,,,,,,,,,,,,,1,,,,,,,1,390445
+272,2537,Lakes Region Community College,Science,4.0,Janet Bloom,3.1,6,N/A,1,,,,,,,,,,,,1,1,,1,,,,1,1160458
+273,2537,Lakes Region Community College,Psychology,2.5,Dave Pollock,2.3,6,N/A,,,,,,,,,,,,,,1,1,,,,,,1459954
+274,2537,Lakes Region Community College,Economics,3.4,Jack Praschnik,3.0,5,N/A,,,,,,,,,,,,,,,,,,,,,1779236
+275,2537,Lakes Region Community College,Mathematics,2.3,Fran Seigle,4.8,3,N/A,,,,,,,,,,,,,,1,1,1,,,,,811604
+276,2537,Lakes Region Community College,Nursing,1.0,Jeffrey Murray,4.8,3,N/A,,,,,,,,,,,,,,,,,,,,,1506471
+277,2537,Lakes Region Community College,Psychology,1.7,Robert McKenney,5.0,3,N/A,,,,,,1,,,,,,,,,1,,,,,,1568820
+278,2537,Lakes Region Community College,Education,1.3,Pat Wild,3.7,3,N/A,,,,,,,,,,,,,,,,,,,,,1576961
+279,2537,Lakes Region Community College,Hospitality,3.0,Cris Merritz,3.0,2,N/A,,,,,,,,,,,,,,,,,,,,,666134
+280,2537,Lakes Region Community College,Not Specified,5.0,John Connell,4.0,2,N/A,,,,,1,,,,,,,,,,,,,,,,1215928
+281,2537,Lakes Region Community College,Graphic Arts,4.5,Audrey Garretson,4.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1293149
+282,2537,Lakes Region Community College,Languages,3.0,Rosa Blais,4.8,2,N/A,,,,,,,,,,,,,,,,,,,,,1741002
+283,2537,Lakes Region Community College,Psychology,4.0,Deborah Hoyt,3.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1826745
+284,2539,NHTI Concord's Community College,Biology,3.9,Nathan Strong,3.5,34,N/A,,1,,,1,,,,,,1,1,1,,,1,7,,1,4,257309
+285,2539,NHTI Concord's Community College,Biology,4.1,Amy Liptak,3.5,26,100%,3,4,,2,3,1,,,,,,1,2,1,,2,9,1,,7,1260629
+286,2539,NHTI Concord's Community College,Psychology,2.7,Jeanne Duford,4.9,20,100%,1,4,1,3,1,1,,2,,1,1,3,,,2,3,1,,,,715749
+287,2539,NHTI Concord's Community College,Science,2.2,Perry Seagroves,4.3,19,N/A,1,,,3,4,,,1,,,2,1,,,,1,1,,,,102988
+288,2539,NHTI Concord's Community College,Management,2.6,Joe Gula,4.8,19,N/A,,,,1,,,,1,,,2,2,1,,1,1,,,,,451221
+289,2539,NHTI Concord's Community College,Computer Science,3.8,Aaron Conn,2.7,19,N/A,,1,,,,,,,2,,,,,,1,,1,1,,1,1299327
+290,2539,NHTI Concord's Community College,Criminal Justice,2.7,Stephen O'Donnel,4.9,17,N/A,1,,,1,,,,1,,,,,,,1,2,2,,,1,266379
+291,2539,NHTI Concord's Community College,Physics,3.7,Mehrdad Meskoob,2.4,16,42%,1,,1,2,2,,2,,1,,,,4,1,2,1,5,,3,5,1903418
+292,2539,NHTI Concord's Community College,Accounting,3.6,Laura Morgan,4.4,14,N/A,,,,1,1,,,1,,,2,1,,1,,,3,,,,699897
+293,2539,NHTI Concord's Community College,English,1.9,Craig Cushing,4.8,13,N/A,,,,,,,,,,,,,,,,,,,,,292821
+294,2539,NHTI Concord's Community College,Fine Arts,4.0,Susan Haas,5.0,12,N/A,,,,,,,,3,,,,,,,,3,1,,,2,1115685
+295,2539,NHTI Concord's Community College,Mathematics,4.6,Dan Shagena,3.8,12,N/A,2,,1,,,,1,,,,,,,2,,,2,,,1,1438991
+296,2539,NHTI Concord's Community College,Mathematics,1.4,Laurie Service,5.0,12,N/A,1,,,7,1,,,2,,,1,4,,,,6,,,,,2013865
+297,2539,NHTI Concord's Community College,Biology,3.8,Jessana Palm,3.0,12,N/A,,,,,,,,,,,,1,1,,1,1,1,1,1,2,891605
+298,2539,NHTI Concord's Community College,Mathematics,3.7,Joseph Heise,3.2,12,N/A,,,,,2,,,,1,,,,1,2,,2,,,1,1,1438990
+299,2539,NHTI Concord's Community College,Computer Science,3.6,Bill Shurbert,4.9,11,N/A,,,,,,,,,,,,,,1,,,,,,1,876387
+300,2539,NHTI Concord's Community College,Biology,3.1,Craig Meservey,4.6,11,N/A,,1,,1,2,,,2,1,,1,,,,,,1,,,,1455267
+301,2539,NHTI Concord's Community College,English,1.8,Steve Ambra,3.5,10,N/A,,1,,,,1,1,1,,,,,1,,,1,,,,,292816
+302,2539,NHTI Concord's Community College,Social Science,1.9,Susan Allison-Endriss,4.2,10,N/A,,,,1,,,,1,,,,,,,,,,,,,897352
+303,2539,NHTI Concord's Community College,Physics,4.5,Adam Hopper,3.8,10,80%,,,,2,,,,1,,,,,,1,,3,,,1,6,1887831
+304,2540,New Mexico Junior College,Biology,4.4,Nancy Hein,1.9,12,57%,1,,,,2,1,4,2,,,,,,4,,,1,3,2,5,1965403
+305,2540,New Mexico Junior College,Chemistry,2.6,Kennedy O. Alila,3.8,10,71%,1,1,,2,1,,,2,1,,1,,2,4,1,1,2,,,,1824058
+306,2540,New Mexico Junior College,Biology,2.8,Heather Davis,4.9,10,100%,1,2,,4,5,,1,4,,,1,,1,3,,,,,,,1881917
+307,2540,New Mexico Junior College,Biology,3.8,Jaime Farrow,2.9,10,N/A,,,,,,1,4,2,,,,,,3,,,,,1,2,1335678
+308,2540,New Mexico Junior College,English,2.9,Dallas Hulsey,4.6,9,N/A,,2,,,,,,2,,,,,,,1,1,,,,,1631873
+309,2540,New Mexico Junior College,Psychology,2.6,Walter Journigan,4.8,8,N/A,,2,,1,,,2,2,,,,,,,1,2,,,1,,1252213
+310,2540,New Mexico Junior College,Mathematics,2.7,Charlotte Schmitz,4.7,8,100%,2,2,,1,2,,,2,,,,2,,1,,,,,1,,1824059
+311,2540,New Mexico Junior College,Biology,2.9,Kay Goad,4.5,7,N/A,2,,,1,1,1,2,,,,,,1,,1,,2,,1,,658045
+312,2540,New Mexico Junior College,English,3.2,Linda Connell,2.7,6,N/A,,,,,,,,,,,,,,,,,,,,,618402
+313,2540,New Mexico Junior College,Psychology,2.8,Richard Steinhouse,4.6,5,N/A,,,,,,,,,,,,,,,,,,,,,747205
+314,2540,New Mexico Junior College,Sociology,1.3,Joe Garcia,4.5,4,N/A,,,,,,,,,,,,,,,,,,,,,708878
+315,2540,New Mexico Junior College,History,2.5,Stephen Townsend,3.3,4,N/A,,,1,,1,,,,,,,,,,,,1,,,,747210
+316,2540,New Mexico Junior College,Mathematics,3.2,Shyla McGill,4.8,4,N/A,,,,,,,,2,,,,,,1,,,,,1,,1734794
+317,2540,New Mexico Junior College,Communication,1.5,Richard Miller,4.4,4,N/A,,1,,1,,1,,,,,1,1,2,,1,,,,,,1736492
+318,2540,New Mexico Junior College,Music,1.5,Rebecca Patman,5.0,4,N/A,,,,,2,,,2,,,,,,,,1,,,,,1782586
+319,2540,New Mexico Junior College,Psychology,2.5,Kenneth Reed,2.9,4,N/A,,1,,,1,,,1,,,1,,1,,1,1,,,,,2046616
+320,2540,New Mexico Junior College,Communication,2.0,Lynda Newman,4.5,4,N/A,,,,2,,,,4,,1,,1,,,2,,,,,,2185129
+321,2540,New Mexico Junior College,Social Science,1.0,Patty Emmerich,3.7,3,N/A,,,,1,1,,,,,,,,,,,,,,,,658193
+322,2540,New Mexico Junior College,Criminal Justice,3.0,Rebecca Titus,3.0,3,N/A,,,,,1,,1,1,,,,1,,1,1,,,,,,1844784
+323,2540,New Mexico Junior College,Science,2.7,Jesse Huguley,3.7,3,N/A,,,,,,,,,,,,,,,,,,,,,1902695
+324,2541,New Mexico Military Institute,Mathematics,3.5,Charity Schwalm,2.8,17,N/A,,,,2,1,,,,,,2,,1,4,,2,1,,,3,1382098
+325,2541,New Mexico Military Institute,Criminal Justice,3.1,Gilbert Alvarado,3.4,16,N/A,,,,,,,,,,,,,,,,,,,,,427433
+326,2541,New Mexico Military Institute,Biology,2.4,Mary Beth Atwood,4.7,13,N/A,1,,,1,,,,,,,,,,,,,,,1,,416262
+327,2541,New Mexico Military Institute,Biology,3.8,Nancy Hein,3.1,12,N/A,2,,,1,1,1,4,,,,,,,3,1,,3,,,4,416260
+328,2541,New Mexico Military Institute,History,4.4,Ted Hitchcock,4.4,11,N/A,,,,,,,,,,,,,,,,,,,,,416244
+329,2541,New Mexico Military Institute,Chemistry,4.5,Thomas Tekut,2.6,11,N/A,,,,,,,,,,,,,,,,,1,,,1,416252
+330,2541,New Mexico Military Institute,History,3.0,Stan Phipps (dr),2.8,8,N/A,,,,,,,,,,,,,,,,,,,,,427431
+331,2541,New Mexico Military Institute,Communication,3.4,Moses Theimer,3.9,8,N/A,,,,,,,,,,,,,,,,,,,,,1098013
+332,2541,New Mexico Military Institute,English,4.9,Lewis Toland,3.4,7,N/A,,,,,,,,,,,,,,,,,,,,1,830841
+333,2541,New Mexico Military Institute,English,2.7,Linda Scott,4.4,6,N/A,,,,,,,,,,,,,,,,,,,,,269242
+334,2541,New Mexico Military Institute,Psychology,2.8,Terry Wagner,5.0,5,N/A,,,,1,,,,,,,,1,,,,1,,,,,599533
+335,2541,New Mexico Military Institute,Chemistry,4.3,Elena Viltchinskaia,3.4,4,N/A,,2,,2,,,,1,,,,1,,,,,,,,1,1661048
+336,2541,New Mexico Military Institute,Mathematics,2.5,John Surgett,3.8,4,N/A,,1,,,,,,2,,,,1,,,,1,,,,,800203
+337,2541,New Mexico Military Institute,Biology,2.5,John R. McVay,4.8,4,N/A,,1,,,,,,1,,,,,,,,2,,1,,,2338997
+338,2541,New Mexico Military Institute,Music,2.3,Steve Thorp,4.3,3,N/A,,,,,,,,,,,,,,,,,,,,,416248
+339,2541,New Mexico Military Institute,History,3.7,Billy Gallagher,3.7,3,N/A,,,,,,,,,,,,,,,,,,,,,724134
+340,2541,New Mexico Military Institute,Mathematics,2.3,Jeana Bernell,3.2,3,N/A,,,,,,,,,,,,,,,,,,,,,1028802
+341,2541,New Mexico Military Institute,Business,4.5,Terri Castillo,4.8,2,N/A,,,,,,,1,,,,,,,1,,,,,,1,1549293
+342,2541,New Mexico Military Institute,English,2.0,Eva McCollaum,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1609738
+343,2542,New Mexico State University at Alamogordo,Biology,3.4,Vicente Lombrana,4.8,47,100%,1,3,,6,,,,3,,,,,1,,,1,2,,1,,25075
+344,2542,New Mexico State University at Alamogordo,Biology,4.3,Gloria Villaverde,2.0,24,67%,,2,,1,,2,4,,,,3,1,,12,2,,2,13,2,10,1775357
+345,2542,New Mexico State University at Alamogordo,English,3.9,Kathy Roark-Diehl,3.8,18,N/A,,,,,1,,4,3,,1,1,,,1,3,1,,,,2,178317
+346,2542,New Mexico State University at Alamogordo,Communication,1.9,James Gallagher,4.5,18,N/A,,1,,,,,,1,,,1,,,,,,,,,,178323
+347,2542,New Mexico State University at Alamogordo,Biology,2.2,Jennifer Smith,4.8,17,100%,1,4,,5,1,1,,3,,,4,5,,2,1,1,1,,,,1061018
+348,2542,New Mexico State University at Alamogordo,History,3.2,John Haley,3.6,15,N/A,,1,1,,1,,1,,1,,,1,,,,,,1,1,2,462160
+349,2542,New Mexico State University at Alamogordo,Chemistry,3.4,Wayne McGowan,4.1,15,N/A,1,,,1,1,1,,1,,,,,,,,2,2,,1,,637699
+350,2542,New Mexico State University at Alamogordo,Sociology,2.8,Bill Lockhart,4.7,14,N/A,,,,,,,,,,,,,,,,,,,,,178314
+351,2542,New Mexico State University at Alamogordo,Philosophy,1.9,Frank Webb,3.3,9,N/A,,1,,1,,,,,,,,,2,,,,,,,,448046
+352,2542,New Mexico State University at Alamogordo,Physics,1.7,Mike Eydenberg,3.9,8,N/A,,,,,,1,,1,,,,,,1,,,,,,,178322
+353,2542,New Mexico State University at Alamogordo,Mathematics,2.9,Sylvia Walker,3.6,8,N/A,,,,1,,,,1,,,,1,,1,,1,2,,,2,1725776
+354,2542,New Mexico State University at Alamogordo,Languages,3.2,Gonzalez Gonzalez,3.2,6,N/A,,,,,,,,,,,,,,,,,,,,,448050
+355,2542,New Mexico State University at Alamogordo,Mathematics,3.0,Bette Berry,3.3,6,N/A,,,,,,,,,,,,,,,,,,,,,448052
+356,2542,New Mexico State University at Alamogordo,Astronomy,4.7,Rob Klinger,2.3,6,20%,,1,,,,,,1,1,,,,1,4,1,,,,2,4,1959657
+357,2542,New Mexico State University at Alamogordo,History,3.0,Kim Lopez,4.8,5,N/A,1,,,,1,1,,1,,,,2,,,,,,,,,846340
+358,2542,New Mexico State University at Alamogordo,Mathematics,3.0,Lynette Wedig,2.7,5,N/A,,,,,,,,,,,,,,,,,,,,,1201575
+359,2542,New Mexico State University at Alamogordo,Mathematics,2.8,Rita Eisele,4.9,5,N/A,1,,,1,,,,,,,,,,,,,1,,,,1436416
+360,2542,New Mexico State University at Alamogordo,Mathematics,3.6,Janet Delgado,3.0,5,N/A,,,,,1,,,1,,,,,,,,,,,,1,965560
+361,2542,New Mexico State University at Alamogordo,Theater,2.8,Connie Breding,4.3,4,N/A,,,,,,,,,,,,,,,,,,,,,698190
+362,2542,New Mexico State University at Alamogordo,Mathematics,5.0,Don Michael,1.4,4,N/A,,,,,,,,,,,,,,,,,,,,,977202
+363,2543,New Mexico State University at Carlsbad,Psychology,3.1,John Vacca,4.1,25,83%,1,,,12,8,11,1,14,,2,,8,1,1,2,1,1,,,4,1902448
+364,2543,New Mexico State University at Carlsbad,Mathematics,2.0,Debra Packer,4.8,5,N/A,1,1,,3,4,,,2,1,,,,,1,,1,,,,,1719616
+365,2543,New Mexico State University at Carlsbad,English,2.8,Melissa Gish,3.3,4,N/A,,,,,,,,,,,,,,,,,,,,,629338
+366,2543,New Mexico State University at Carlsbad,Education,3.0,Karla Thompson,4.1,4,N/A,,,,1,,,,1,,,,1,,,,,,,,,833957
+367,2543,New Mexico State University at Carlsbad,Languages,3.8,Chang S. Lee,3.6,4,N/A,,,,,,,,1,,,,,,1,,1,,,,,1784116
+368,2543,New Mexico State University at Carlsbad,English,2.8,Shelley DeBlasis,2.0,4,N/A,1,,,,,,,1,,2,,,,1,,1,,,,,1797100
+369,2543,New Mexico State University at Carlsbad,History,2.3,Kenda Josselet,1.0,4,N/A,,,,,,,1,,,,,,,2,,,,,,3,2148744
+370,2543,New Mexico State University at Carlsbad,English,3.0,Mark Buckholz,4.8,3,N/A,1,,,1,,,,1,,,1,,,,1,,,,,,1301816
+371,2543,New Mexico State University at Carlsbad,Social Work,2.3,Celina Bryant,5.0,3,N/A,,,,1,1,1,,1,,,,,,1,,,,1,,,1739483
+372,2543,New Mexico State University at Carlsbad,Sociology,2.3,Felecia Cantwell,5.0,3,N/A,,,,,1,,,,,,,1,,,,1,,,,,1797103
+373,2543,New Mexico State University at Carlsbad,Mathematics,3.0,Yaxi Zhao,3.8,3,N/A,,,,,,,,,,,,,,1,,,,,,,1797106
+374,2543,New Mexico State University at Carlsbad,Biology,4.0,Ashley Hernandez,3.5,2,N/A,,,,1,,1,,,,,,,,,,1,,,,1,1906023
+375,2543,New Mexico State University at Carlsbad,Business,3.0,Jon Strahan,3.0,2,N/A,,,,1,,,1,1,,1,1,,,,1,,,,,,1955908
+376,2543,New Mexico State University at Carlsbad,English,4.0,Cindy Baasen,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1685498
+377,2543,New Mexico State University at Carlsbad,Communication,1.0,Julie B. Montgomery,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1784109
+378,2543,New Mexico State University at Carlsbad,Science,1.0,Deborah Haggerton,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,2092246
+379,2543,New Mexico State University at Carlsbad,Business,1.0,Janet F. Ellis,5.0,1,N/A,,,,,,,,1,,,,,,1,1,,,,,,2092248
+380,2543,New Mexico State University at Carlsbad,English,1.0,Justin P. Burnside,5.0,1,N/A,,,,,1,,,1,,,,,,,,,,,,,2092251
+381,2543,New Mexico State University at Carlsbad,Biology,4.0,Monty Harris,2.0,1,N/A,,,,,,,1,,,,,,1,,,,1,,,,2186814
+382,2543,New Mexico State University at Carlsbad,Chemistry,4.0,Robyn Hayes,5.0,1,N/A,1,,,,,1,,,,,,,,,,,,,,1,2298464
+383,2544,New Mexico State University at Grants,Mathematics,3.0,Mark Lowther,5.0,5,N/A,1,,,1,,,,,,,1,1,,,,1,1,,,,659242
+384,2544,New Mexico State University at Grants,Humanities,3.3,William Serban,4.8,3,N/A,,,,,,,,,,,,,,1,,,,1,,1,1576871
+385,2544,New Mexico State University at Grants,Biology,5.0,Sharon Walsh,1.8,2,N/A,,,,,,,,,,,,,,,,,,,,,1620561
+386,2544,New Mexico State University at Grants,English,2.5,Irving Gleason,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1620562
+387,2544,New Mexico State University at Grants,Education,1.0,Kathleen O'Conner,4.0,2,N/A,,,,,,,1,,,,,,,1,1,,,,,,1620565
+388,2544,New Mexico State University at Grants,Humanities,1.0,Kumen Adams,5.0,2,N/A,,,,1,,,,,,,,,,,,,,,,,1620566
+389,2544,New Mexico State University at Grants,Computer Science,1.0,Karen Henry,5.0,2,N/A,,,,,2,,,2,,,,,,,,,,,,,2092230
+390,2544,New Mexico State University at Grants,Education,1.0,Louise Blazquez,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1620544
+391,2544,New Mexico State University at Grants,Education,1.0,Rex Morris,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1620547
+392,2544,New Mexico State University at Grants,Geography,5.0,Michael Leach,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1620549
+393,2544,New Mexico State University at Grants,English,1.0,Gail Burke,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1620556
+394,2544,New Mexico State University at Grants,Mathematics,5.0,Janet Prewett,1.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1620557
+395,2544,New Mexico State University at Grants,Design,1.0,Doug Larson,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1620559
+396,2544,New Mexico State University at Grants,English,1.0,Joan Erben,5.0,1,N/A,,,,,,,,,,,1,1,,,1,,,,,,2040681
+397,2544,New Mexico State University at Grants,Computer Science,1.0,Gabriel K. Gallegos,5.0,1,N/A,,,,1,1,,,,,,,,,,,,,,,,2092238
+398,2544,New Mexico State University at Grants,Computer Science,2.0,Zac Smith,4.0,1,N/A,,,,,1,,,1,,,,,,,,1,,,,,2146609
+399,2544,New Mexico State University at Grants,Computer Science,5.0,Catherine Burds,5.0,1,N/A,,,,,1,,,,,,,,,,,,,,,,2146610
+400,2544,New Mexico State University at Grants,Computer Science,5.0,Mark Eversole,5.0,1,N/A,,,,,1,,,,,,,,,1,,,,,,,2146611
+401,2545,New River Community College,Economics,3.0,Ken Long,3.8,60,29%,,,,4,3,5,10,,1,,,1,3,1,1,1,,,5,3,583789
+402,2545,New River Community College,Chemistry,3.3,Wesley Adcock,3.0,48,40%,,1,,,1,,3,1,2,,1,,1,1,3,1,,,1,2,359684
+403,2545,New River Community College,Biology,2.5,Cynthia Wynne,4.7,37,83%,4,5,,7,3,7,1,2,2,,3,2,2,1,1,3,,,1,,1106388
+404,2545,New River Community College,Biology,3.1,Amy Dawson,4.7,36,N/A,,1,,3,2,2,1,2,,,2,,1,1,,2,2,,,6,359685
+405,2545,New River Community College,History,1.7,Ted Farmer,4.8,34,89%,1,4,,,5,6,1,1,,,1,,3,,,5,1,,,1,592949
+406,2545,New River Community College,Health Science,2.5,Brian Clark,3.7,32,N/A,1,1,,1,,,2,2,,2,1,1,,,1,2,,,,3,771911
+407,2545,New River Community College,English,2.7,Megan Doney,3.8,29,78%,3,,,4,5,,1,5,,,,1,,1,2,1,1,2,,1,1373961
+408,2545,New River Community College,Mathematics,3.6,Travis Coake,2.3,27,N/A,,,,1,,,,,,,,,,5,1,,1,,1,2,929465
+409,2545,New River Community College,History,2.0,William Friedl,4.7,26,100%,,2,,3,1,4,,2,,,4,1,2,,1,3,1,,,,552354
+410,2545,New River Community College,Mathematics,2.9,Rachel Case,2.8,23,N/A,,,,,,,,,,,,,,,,,,,,,128555
+411,2545,New River Community College,Computer Science,2.2,Connie Leathers,3.9,23,N/A,,,,,,,,,,,,,,,,,,,,,359686
+412,2545,New River Community College,English,2.7,Laura Osborne,4.9,23,N/A,,,,2,4,,4,3,,,2,4,,1,,3,1,,,2,742072
+413,2545,New River Community College,Psychology,2.2,Graham Mitchell,4.4,22,N/A,1,,,2,,,1,,1,,2,3,1,,1,2,,,,,527957
+414,2545,New River Community College,Accounting,3.1,Ray Wurzberger,4.8,22,N/A,,1,,2,,,,,,,2,1,,1,,1,2,,,1,355637
+415,2545,New River Community College,Computer Science,3.6,Carlotta Eaton,2.4,22,N/A,,,1,1,,,1,1,,3,1,1,,5,,2,3,,,10,894595
+416,2545,New River Community College,English,1.8,Sarah Tolbert-Hurysz,5.0,20,N/A,,,,1,,,,1,,,,,,,1,,,,,,758286
+417,2545,New River Community College,Music,1.9,Louise Billaud,4.5,19,N/A,,,,,1,,,1,,,,,,1,1,,,,,1,861843
+418,2545,New River Community College,Mathematics,3.6,Caroline Abbott,2.7,19,N/A,,,,1,1,,,,,,,,,3,2,,1,,1,,950750
+419,2545,New River Community College,English,2.9,Benjamin Campbell,3.8,19,40%,1,1,,2,1,,1,3,,,,,,,1,1,1,2,,3,1316685
+420,2545,New River Community College,Engineering,2.9,Samuel B Thomason,2.6,18,N/A,,1,,,,,,1,,,,1,,,,,1,,,1,101427
+421,2546,New York Career Institute,Accounting,3.7,Cheryl Gorman,4.5,15,N/A,,,,2,,,,5,,,3,1,,,,4,3,,,2,1059701
+422,2546,New York Career Institute,English,1.6,MR. Margolies,4.9,5,N/A,,,,1,1,,,,,,1,,,,,,,,,,693653
+423,2546,New York Career Institute,Law,3.0,Karen Abel-Bey,3.8,3,N/A,,,,,,,,,,,,,,,,,,,,,1690823
+424,2546,New York Career Institute,Law,1.5,Reid Goldsmith,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1335824
+425,2546,New York Career Institute,Writing,2.0,Anthony Messina,5.0,1,N/A,,,,,,,,,,,,1,,1,,1,,,,,1950140
+426,2546,New York Career Institute,Criminal Justice,1.0,Christine Warmuth,5.0,1,N/A,,,,1,,,,,,,,1,,,,,,,,1,2108383
+427,2549,Niagara County Community College,Psychology,3.7,Laura Scaletta,2.6,82,26%,,4,,,3,2,11,,5,,2,1,,3,5,1,12,,4,16,203551
+428,2549,Niagara County Community College,Criminal Justice,2.3,Richard Harrington,4.8,69,100%,4,10,,6,14,34,,22,5,,41,5,2,,5,32,10,,1,,1887135
+429,2549,Niagara County Community College,Biology,2.1,Estelle Steiner,4.8,57,100%,3,9,,6,1,,,4,,,13,5,1,,,4,,,2,,1321459
+430,2549,Niagara County Community College,Psychology,1.8,Robert Warner,4.5,54,100%,,6,,2,1,,1,6,1,,10,2,2,,,6,3,,,,203547
+431,2549,Niagara County Community College,History,3.8,Donald Fisher,3.5,52,50%,,8,,1,3,,4,,1,,,2,3,,1,1,4,3,1,6,154587
+432,2549,Niagara County Community College,Biology,2.7,Mark Fronczak,4.6,52,100%,3,10,1,4,6,1,,1,,,15,2,,,3,9,8,,,5,603966
+433,2549,Niagara County Community College,Mathematics,2.1,Tadeus Krupa,4.8,50,89%,3,3,,3,1,,,4,,,6,,,2,1,3,1,,,,298949
+434,2549,Niagara County Community College,English,4.2,Suzanne Buffamanti,2.7,48,36%,,1,,,,,9,5,,,,1,,7,6,1,3,7,,16,657614
+435,2549,Niagara County Community College,English,3.4,Elizabeth Sachs,3.7,47,63%,,,,4,1,,3,6,,,,2,,6,4,1,2,4,,3,647431
+436,2549,Niagara County Community College,Anthropology,3.4,Phil Hasley,3.2,46,N/A,,,,,1,,2,1,1,,,,4,,1,,1,1,,1,583603
+437,2549,Niagara County Community College,Biology,3.8,Robert Bucella,3.2,45,50%,,1,,,4,,1,2,2,,2,,4,1,1,2,7,,1,4,461550
+438,2549,Niagara County Community College,Social Science,2.2,Mark Bonacci,4.8,43,100%,2,7,,7,1,2,,7,1,,8,12,,,1,9,,,,,144365
+439,2549,Niagara County Community College,Business,1.9,David Nemi,4.5,42,N/A,,1,,1,1,,,,1,1,2,,1,,1,3,,,,1,371186
+440,2549,Niagara County Community College,Philosophy,3.1,Larry Castellani,2.8,38,20%,,1,,,,1,2,1,1,,1,3,3,,3,,1,,,4,694991
+441,2549,Niagara County Community College,Biology,4.1,Bethany Gysbers,3.9,37,90%,1,8,,2,5,,1,2,1,,2,,2,,,3,14,,1,9,763655
+442,2549,Niagara County Community College,English,4.0,Ian Stapley,2.8,37,33%,2,1,,1,,,1,2,,,,,1,8,4,,2,7,,8,577181
+443,2549,Niagara County Community College,Physics,4.1,Usha Pande,2.3,36,11%,,1,5,,1,,2,1,,,,,,2,,,10,,,9,298928
+444,2549,Niagara County Community College,Criminal Justice,2.1,Tim Veiders,3.9,35,N/A,,,,,1,,,,,,1,,,,2,3,1,,,1,122956
+445,2549,Niagara County Community College,Mathematics,2.5,Anne Jowsey,4.3,34,83%,1,1,,3,1,,,2,,,,,1,6,1,,3,,2,,154593
+446,2549,Niagara County Community College,Psychology,2.1,Kathy Gerbasi,4.4,34,100%,,1,,4,,,,1,,1,4,,,1,,5,2,,,,242530

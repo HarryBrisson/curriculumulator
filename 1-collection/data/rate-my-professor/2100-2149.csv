@@ -1,0 +1,594 @@
+,campus_id,campus_name,dept,difficulty,name,quality,rating_count,retake,tag_accessibleoutsideclass,tag_amazinglectures,tag_bewareofpopquizzes,tag_caring,tag_cleargradingcriteria,tag_extracredit,tag_getreadytoread,tag_givesgoodfeedback,tag_gradedbyfewthings,tag_groupprojects,tag_hilarious,tag_inspirational,tag_lectureheavy,tag_lotsofhomework,tag_participationmatters,tag_respected,tag_skipclassyouwon'tpass,tag_somanypapers,tag_testheavy,tag_toughgrader,tid
+0,2100,Gateway Technical College,Economics,2.3,Robert Haggarty,5.0,48,100%,4,11,,6,1,,1,6,,,2,6,,1,2,13,1,,,,1736122
+1,2100,Gateway Technical College,Psychology,3.1,Steven Sloan,3.6,28,60%,,2,1,1,1,,1,,1,,1,1,6,,,,2,,1,3,612037
+2,2100,Gateway Technical College,Sociology,2.0,Ron Schultz,4.6,25,100%,1,3,,1,3,,1,1,,,4,2,,1,8,5,2,,,,332049
+3,2100,Gateway Technical College,Psychology,3.6,Jeff Goodpaster,3.4,24,N/A,,1,,,,,,,,,,,,,,,1,,,1,18134
+4,2100,Gateway Technical College,Science,4.2,Henry Meier,2.6,18,N/A,,,,1,,,,,1,,,,1,,,,3,,,3,806727
+5,2100,Gateway Technical College,Life Science,3.4,Donald Zakutansky,4.3,18,100%,1,5,,2,2,,,4,,,1,1,1,,2,6,2,,,,807228
+6,2100,Gateway Technical College,Psychology,3.6,Michael Costello,3.1,18,100%,,1,,,6,3,1,7,,,,,,4,1,,2,,,1,1267143
+7,2100,Gateway Technical College,Mathematics,2.7,Qun Yu,3.8,17,N/A,,,,2,1,,,1,,,,1,,1,,1,2,,,,752069
+8,2100,Gateway Technical College,Natural Sciences,4.4,Shahida Dar,2.7,16,56%,2,1,,1,2,1,,1,1,1,,1,,1,,3,3,,4,6,1886259
+9,2100,Gateway Technical College,General Studies,3.7,Randall Mueller,4.2,15,N/A,,,,1,1,4,,,,1,,,,3,2,1,2,,1,2,757774
+10,2100,Gateway Technical College,Writing,2.1,Amy Wang,3.8,13,N/A,1,,,1,1,,,4,,,3,,,,1,,,,,,332055
+11,2100,Gateway Technical College,Nursing,2.8,Paula Antlfinger,4.3,13,100%,,4,,2,1,,1,4,,,2,1,,,,3,,,,1,807389
+12,2100,Gateway Technical College,Economics,3.0,Angelina Ordonez,3.9,12,N/A,,,,,,,,,,,,,,,,,,,,,954701
+13,2100,Gateway Technical College,Nursing,3.2,Jose Avila,3.4,11,80%,1,,,1,1,1,,1,,,1,,,1,,,1,,1,,813054
+14,2100,Gateway Technical College,Nursing,4.9,Lauri Rogers,1.4,11,N/A,,,,,,,1,,,,,,,1,1,,1,3,,10,1985603
+15,2100,Gateway Technical College,Mathematics,2.3,Dennis Landgergott,3.3,10,N/A,,,,,1,,,,,,,,,1,,,,,,,807081
+16,2100,Gateway Technical College,Mathematics,3.8,Scott Stieg,3.5,9,N/A,,,,,,,,,,,,,,,,,1,,,1,640157
+17,2100,Gateway Technical College,Information Technology,2.9,Tina Trainor,2.0,8,N/A,,,,,,,,,,,,,,,,,,,,,830942
+18,2100,Gateway Technical College,Nursing,4.2,Dori Groom,4.3,8,N/A,1,,,,2,,,4,,,,,,2,4,,,,,1,1208453
+19,2100,Gateway Technical College,Nursing,4.1,Renee Seymour,3.8,8,86%,1,,,5,2,,2,3,,,,3,,1,1,2,,,1,1,2113984
+20,2101,Gavilan College,Psychology,3.5,Carlton Oler,4.2,96,93%,,24,,5,12,3,,5,,,6,27,2,1,7,20,29,1,,9,958749
+21,2101,Gavilan College,Political Science,3.3,Marc Turetzky,4.2,90,93%,1,4,1,1,4,4,3,12,,,4,8,1,7,4,6,2,4,,8,248586
+22,2101,Gavilan College,English,2.8,Erin Crook,4.7,78,100%,,5,,6,1,2,1,6,,,1,7,,,3,10,,,,,376763
+23,2101,Gavilan College,Communication,2.5,Denise Besson,4.7,72,93%,,7,,5,2,1,1,7,,1,6,4,1,,7,10,2,,2,5,378219
+24,2101,Gavilan College,Fine Arts,3.0,Jane Edberg,4.3,67,71%,,8,,1,3,,4,15,,,1,9,,9,5,4,2,1,,4,417141
+25,2101,Gavilan College,Art History,2.0,Deborah Z Gustlin,4.8,62,100%,1,4,,6,5,15,2,9,1,,6,13,,5,5,5,,1,,,1861564
+26,2101,Gavilan College,Humanities,4.7,Leah Halper,2.4,60,38%,1,,1,,,,15,4,,,,,,18,4,1,6,10,1,23,708256
+27,2101,Gavilan College,English,3.7,Christina Salvin,3.7,57,78%,1,2,,3,1,3,3,11,,,,2,,7,2,2,1,3,,8,561338
+28,2101,Gavilan College,History,3.3,Enrique Luna,3.8,57,78%,,,,1,4,,3,7,,,2,2,2,4,2,2,5,1,,3,313939
+29,2101,Gavilan College,Business,2.8,Sonia Banks,5.0,54,100%,,16,,,3,,,2,,,5,13,,,2,13,4,,,,1028281
+30,2101,Gavilan College,Mathematics,2.9,Ken Wagman,4.3,51,78%,3,2,,7,,3,1,5,,1,6,6,,8,1,6,1,,2,3,366939
+31,2101,Gavilan College,Humanities,2.0,Grant Richards,4.2,44,100%,,2,,4,2,6,,4,1,1,,1,,,4,7,3,1,,1,292380
+32,2101,Gavilan College,Mathematics,3.3,Russell Lee,3.5,42,N/A,,,,,,,2,1,,,,,2,,1,,1,,,4,316144
+33,2101,Gavilan College,Psychology,3.3,Julie Campilli,2.7,40,11%,,,,,4,4,3,,1,1,,,6,,9,,6,,1,12,352457
+34,2101,Gavilan College,Art History,2.2,Arturo Rosette,3.7,40,80%,,2,,,2,,,2,,,1,2,,1,1,1,1,,,2,367668
+35,2101,Gavilan College,English,3.6,Ted Brett,3.0,39,N/A,,1,,,,,,2,,,2,1,,,,,,,,,81881
+36,2101,Gavilan College,Anthropology,3.7,Debra Klein,3.2,39,57%,,1,2,2,1,,8,4,,,,,1,7,2,,1,4,,8,733619
+37,2101,Gavilan College,Biology,3.6,Rey Morales,3.2,36,56%,,1,2,1,1,1,4,1,,,3,1,8,,1,2,7,1,2,3,676198
+38,2101,Gavilan College,Chemistry,3.0,Dale Clark,3.9,35,100%,,2,,,2,4,,,,,2,,6,,,1,3,,,,316124
+39,2101,Gavilan College,Mathematics,3.5,Marla Dresch,3.8,34,67%,1,,,1,2,,,1,,1,,1,,5,1,3,4,1,2,2,441441
+40,2105,Georgia Military College,Biology,3.9,Mark Fairbrass,4.2,49,89%,1,6,,1,,,,5,,,8,1,,,4,2,8,,,2,291540
+41,2105,Georgia Military College,History,2.6,Rob Sherwood,4.3,31,78%,3,5,,3,2,1,,1,,,1,1,1,,3,2,2,2,,2,671408
+42,2105,Georgia Military College,Psychology,3.5,Tony Mayo,2.7,27,17%,,,1,1,,,3,,2,,2,,4,,1,1,2,,,2,291601
+43,2105,Georgia Military College,English,2.3,Saye Atkinson,4.5,23,N/A,,,,,,,1,1,,,1,,,,,,,,,,291574
+44,2105,Georgia Military College,Humanities,3.4,Kellie Mzik,4.0,23,N/A,,2,3,2,4,2,3,6,,,2,4,,1,6,4,,1,,4,1699541
+45,2105,Georgia Military College,English,2.7,Charles Farmer,3.6,21,N/A,,,,,,,,,,,,,,,,,,,,,291569
+46,2105,Georgia Military College,English,2.7,Amy Zipperer,4.8,20,N/A,1,3,,1,,1,3,5,,,1,2,,,1,3,,,,,666117
+47,2105,Georgia Military College,History,2.0,Edward Shelor,4.7,20,100%,1,1,,1,2,,1,,1,,2,3,,,5,7,2,,,,694562
+48,2105,Georgia Military College,Biology,3.4,Cynthia Anderson,3.7,18,N/A,2,1,1,1,,,,,,,2,,1,1,1,1,,,,1,291553
+49,2105,Georgia Military College,Music,1.7,Moona Yu,4.2,16,100%,,,,6,1,,,2,,1,2,3,4,1,,1,4,,1,,291475
+50,2105,Georgia Military College,History,1.5,Mary Helen Davis,4.8,15,100%,,4,,4,1,,,2,1,,12,4,1,,1,3,,,,,1603127
+51,2105,Georgia Military College,Mathematics,3.6,Xionghui (shawn) HE,2.7,15,50%,,,1,,,1,,,1,,,,,4,1,2,7,,1,3,1626521
+52,2105,Georgia Military College,Biology,2.8,Ramona Rice,3.7,13,N/A,,1,,2,,,1,1,,1,,,4,,,,,1,,,291529
+53,2105,Georgia Military College,History,3.5,John Swann,4.0,13,N/A,,,,,,,1,,,,,,,1,,,,,,1,1455337
+54,2105,Georgia Military College,Health Science,1.2,Sonny Harmon,4.5,12,N/A,,,,1,1,,,,,,1,,,,,2,,,,,291535
+55,2105,Georgia Military College,Mathematics,2.1,Jim Rowland,4.0,12,N/A,,,,,,,,,,,,,,,,,,,,,291593
+56,2105,Georgia Military College,Science,3.8,Shep Little,2.9,12,N/A,,,,,,,,1,,,,1,,1,1,,1,,,1,1145268
+57,2105,Georgia Military College,Physical Education,3.3,Patrick Beer,2.5,11,N/A,,,,,,,2,,1,,,,,,,,1,,1,1,291582
+58,2105,Georgia Military College,Biology,3.6,Linda Moore,3.1,11,N/A,,,,,,,1,,,,,,,,2,,1,,,1,1036783
+59,2105,Georgia Military College,English,3.5,Jennifer Van Vliet,3.2,11,33%,,1,,,1,,4,2,,2,,,1,2,2,,1,1,1,5,1897725
+60,2107,Germanna Community College- Locust Grove Campus,Health Science,4.5,Helen Mergenthal,2.6,41,N/A,,,,,,4,,,2,,,,2,,2,1,4,,1,3,371410
+61,2107,Germanna Community College- Locust Grove Campus,Biology,3.4,Michael Read,4.0,32,N/A,1,1,,,,,,3,,,,,4,,,1,1,,,7,189378
+62,2107,Germanna Community College- Locust Grove Campus,Communication,1.7,Natalie Wright,4.7,27,78%,,6,,4,3,4,1,9,,,14,,1,2,9,5,3,,,3,2063906
+63,2107,Germanna Community College- Locust Grove Campus,Anthropology,2.0,Joel Tate,4.3,26,N/A,,,,,,,,1,,,,,,,,1,,,,,221219
+64,2107,Germanna Community College- Locust Grove Campus,Languages,3.7,Miguel Lechuga,2.8,19,N/A,,,,,,,,,,,,,,,,,,,,,106566
+65,2107,Germanna Community College- Locust Grove Campus,Art History,3.8,Amanda Guyton,2.5,19,N/A,,,,,,,,,,,,,,1,,,,,,1,593547
+66,2107,Germanna Community College- Locust Grove Campus,English,3.8,Sunithi Gnanadoss,3.8,19,N/A,,,,,,,,1,,,,1,,,,,,,,,743795
+67,2107,Germanna Community College- Locust Grove Campus,Psychology,2.6,Debra Rezendes,4.4,19,88%,,3,,4,4,1,1,12,1,2,,3,1,2,4,5,1,,1,2,1937011
+68,2107,Germanna Community College- Locust Grove Campus,Nursing,3.9,Sheryln Farrish-Barner,3.9,18,80%,,,,1,,,2,2,,,4,2,1,1,1,4,3,,,2,732465
+69,2107,Germanna Community College- Locust Grove Campus,Health Science,3.7,William Chadduck,4.4,17,N/A,,1,,1,,,,4,,,,2,,,,2,4,,,,1303655
+70,2107,Germanna Community College- Locust Grove Campus,History,1.8,Rich Gossweiler,4.9,16,N/A,,,,,,,,,,,,,,,,,,,,,221229
+71,2107,Germanna Community College- Locust Grove Campus,English,4.9,Lazalia Richardson,3.1,15,N/A,,,,,,,,,,,,,,,,,,,,,685528
+72,2107,Germanna Community College- Locust Grove Campus,Health Science,4.1,Season Thomson,3.9,14,N/A,1,,,,1,1,,3,,,,,,1,1,1,,,,,751080
+73,2107,Germanna Community College- Locust Grove Campus,Chemistry,2.5,Alan Berry,4.6,14,N/A,,,,,,,,,,,,,,,,,,,,,1015818
+74,2107,Germanna Community College- Locust Grove Campus,Nursing,2.6,Sharon Leake,4.8,14,N/A,,4,,2,1,,1,3,,,1,5,,,,3,1,,,,1164811
+75,2107,Germanna Community College- Locust Grove Campus,Computer Science,2.5,Bruce Ford,3.1,13,N/A,,,,,2,,1,1,,,,,,2,,,,1,,,172461
+76,2107,Germanna Community College- Locust Grove Campus,Biology,3.8,Rebecca Evans-Case,3.4,12,N/A,,,,,3,,1,1,1,,,,3,2,1,,,,,2,1606640
+77,2107,Germanna Community College- Locust Grove Campus,Psychology,2.8,Tomeka Jack-Myree,3.0,11,40%,,,,1,3,,1,1,,1,,2,2,2,7,,6,,,,1961892
+78,2107,Germanna Community College- Locust Grove Campus,Humanities,1.2,Heidi Jones,5.0,11,N/A,2,1,,,2,,1,4,,,1,1,,,1,,,,,,1477997
+79,2110,Glen Oaks Community College,Business,3.0,Michelle McNamara,4.8,37,88%,2,8,,5,3,,,12,,,10,1,2,,7,6,1,,1,,867219
+80,2110,Glen Oaks Community College,Education,2.7,Stephen Ryno,4.5,30,77%,3,2,,4,3,,,13,1,,8,4,1,4,4,7,2,,,2,1513103
+81,2110,Glen Oaks Community College,English,2.0,Kevin Gave,4.5,26,83%,1,1,,2,4,,,5,,,5,,,,1,1,,1,,1,111896
+82,2110,Glen Oaks Community College,History,4.3,R Wathen,1.9,18,N/A,,,,,,,,,,,,,,,,,,,,1,17383
+83,2110,Glen Oaks Community College,Sociology,4.3,Jeanne Reed,2.9,16,N/A,,,,1,,,,2,,,,,1,,,1,1,1,,2,284906
+84,2110,Glen Oaks Community College,Science,4.3,Ren Hartung,4.0,16,57%,2,2,1,2,1,,,,,,1,,,,,3,,,3,2,1114082
+85,2110,Glen Oaks Community College,Fine Arts,2.0,Michael Northrop,4.8,13,N/A,1,,,2,1,,,,,,,,1,,1,,,,,,589806
+86,2110,Glen Oaks Community College,Psychology,2.6,Chad Worthington,4.5,13,100%,,4,,2,1,,1,,2,,8,,3,,,1,,,,,1539537
+87,2110,Glen Oaks Community College,Mathematics,3.2,? Deter,2.6,11,N/A,,,,,,,,,,,,,,,,,,,,,675457
+88,2110,Glen Oaks Community College,Biology,3.7,Jeff Hucko,2.9,11,67%,3,,,,,1,2,,,,1,,4,2,,,2,,1,4,1659573
+89,2110,Glen Oaks Community College,Physics,3.2,Jerry Barkley,3.4,10,N/A,,,,,,,,1,,,,,,1,,,,,,1,259383
+90,2110,Glen Oaks Community College,Physical Ed,2.2,Steve Proefrock,3.4,10,N/A,,,,,,,,,,,,,1,,,,1,,1,,395114
+91,2110,Glen Oaks Community College,Biology,4.0,Maria Rodriguez,4.0,9,71%,2,,,3,3,3,1,1,,,,1,1,5,1,,1,,1,4,2117871
+92,2110,Glen Oaks Community College,Chemistry,3.3,Roshini Pimmachcharige,4.9,8,100%,3,,,4,3,2,1,7,,,,1,,,,,2,,,1,2403631
+93,2110,Glen Oaks Community College,Business,2.6,Lester Keith,4.8,7,N/A,,,,,,,,,,,,,,1,1,1,,,,,1034012
+94,2110,Glen Oaks Community College,English,1.3,Laurie Hatfield,3.4,7,N/A,1,,,2,,,,1,,,,,,,,,,,,,1855045
+95,2110,Glen Oaks Community College,English,1.9,Lori Hatfield,4.3,7,N/A,1,,,1,1,1,1,4,,1,2,1,,,1,2,,,,,2013844
+96,2110,Glen Oaks Community College,Communication,2.5,Christopher Mundie,4.3,6,83%,,1,,,4,,1,1,1,,2,,,1,4,,1,,,,2296421
+97,2110,Glen Oaks Community College,Business,1.2,Bill Furr,2.4,5,N/A,,,,,,,,,,,,,,,,,,,,,363553
+98,2111,Glendale Community College,Mathematics,3.4,Kristina Burch,3.7,835,77%,118,58,3,138,230,65,16,173,9,25,32,12,78,443,127,119,170,30,75,139,1384575
+99,2111,Glendale Community College,Mathematics,3.1,Brian Bird,4.3,332,91%,6,5,5,40,28,51,,63,3,,46,9,9,46,34,43,54,,10,33,266244
+100,2111,Glendale Community College,Mathematics,3.3,Andrew McKintosh,4.4,288,89%,5,22,1,14,34,,,20,10,,1,,7,3,11,22,52,,13,14,254034
+101,2111,Glendale Community College,Criminal Justice,2.5,Shane Krauser,4.8,282,N/A,,3,,1,,,,,,,1,3,,,1,3,,,,,1176920
+102,2111,Glendale Community College,English,3.7,Phillip Roderick,4.6,205,72%,3,6,2,23,16,1,36,35,1,,1,21,6,7,6,19,21,3,2,31,877337
+103,2111,Glendale Community College,Mathematics,3.4,Jason Bright,3.5,190,74%,3,15,2,7,27,1,15,24,2,,30,4,13,62,30,23,71,,15,53,905296
+104,2111,Glendale Community College,Biology,2.9,Sagarika Dash,4.5,175,90%,1,14,,32,10,6,5,9,,,3,21,3,,4,14,7,,1,7,653111
+105,2111,Glendale Community College,Computer Science,1.8,Clark Shipley,4.8,155,89%,2,7,,13,3,,3,4,,,16,6,3,11,2,7,1,,1,1,164736
+106,2111,Glendale Community College,Mathematics,1.8,John Grima,4.9,113,97%,8,14,,15,19,3,,13,7,,10,10,3,6,1,26,1,,2,2,879841
+107,2111,Glendale Community College,Biology,4.2,Robert Reavis,2.8,110,36%,2,2,7,2,5,13,20,3,,,,2,20,5,,6,14,3,9,27,653110
+108,2111,Glendale Community College,Biology,3.5,Erik Gergus,4.1,105,85%,2,13,,12,3,13,6,11,,1,5,10,12,12,2,16,8,,6,16,479527
+109,2111,Glendale Community College,Biology,3.5,Angela Mick,4.5,103,88%,,15,5,9,4,6,2,7,,,4,3,9,,2,16,32,,4,15,507340
+110,2111,Glendale Community College,Mathematics,2.9,Matthew T Michaelson,4.6,103,97%,3,11,,6,27,12,2,18,2,1,9,5,3,31,12,8,29,,2,14,1833250
+111,2111,Glendale Community College,Psychology,2.5,Julie Morrison,4.8,97,100%,2,12,2,13,5,7,2,10,,1,2,3,,6,8,11,7,,,2,745766
+112,2111,Glendale Community College,Mathematics,3.3,Jeff Kruse,3.8,94,68%,3,5,,2,1,1,3,10,6,,2,4,9,3,3,7,17,,10,22,180239
+113,2111,Glendale Community College,Chemistry,3.2,Kim Smith,3.9,93,70%,3,5,,3,3,9,5,11,,,1,3,7,1,2,9,19,,7,9,747941
+114,2111,Glendale Community College,Mathematics,3.9,Walter Kehowski,2.7,93,58%,3,,,2,3,4,6,1,,,1,,7,11,2,5,14,,2,12,165163
+115,2111,Glendale Community College,Biology,3.3,Justin York,4.5,87,83%,2,11,,6,5,12,2,9,1,,2,4,6,,3,10,9,,6,11,1381234
+116,2111,Glendale Community College,Psychology,2.2,Fernando Romero,4.3,86,96%,1,20,,8,7,2,8,6,,,11,8,2,3,7,5,6,1,,,830161
+117,2111,Glendale Community College,Biology,3.5,Karl Krout,4.5,82,95%,,10,,,6,12,3,7,2,,8,3,5,,,8,14,,2,13,741946
+118,2112,Globe University,Psychology,3.7,Kristie Kellis,4.5,10,N/A,,,,,,,,,,,,,,,,,,,,,1695758
+119,2112,Globe University,Mathematics,1.5,Matt Davis,5.0,4,N/A,,,,,,,,,,,,,,,,,,,,,1691697
+120,2112,Globe University,Criminal Justice,3.3,Joseph Vanasse,5.0,3,N/A,,,,,,,,,,,,,,,,,,,,,1703947
+121,2112,Globe University,Law,4.5,Barbara Leiran,5.0,2,N/A,,,,,,,,1,,,,,,1,,,,,,,1807190
+122,2112,Globe University,Criminal Justice,5.0,Laurie Rosas,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1723926
+123,2112,Globe University,Business,2.0,Mary Thomas,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1917426
+124,2113,Globe Institute of Technology,Computer Science,1.8,Yevgeniya Orlova,3.9,20,N/A,,,,,,,,,,,,,,,,,,,,,558945
+125,2113,Globe Institute of Technology,History,1.7,Felice Guarnieri,4.3,6,N/A,,,,,,,,,,,,,,,,,,,,,633825
+126,2113,Globe Institute of Technology,English,1.8,Matthew Paczkowski,5.0,5,N/A,,,,3,4,,,2,,,2,,,,1,,,,,,2016052
+127,2113,Globe Institute of Technology,Political Science,1.0,Vladimir Zvyagin,5.0,3,N/A,,,,,,,,,,,,,,,,,,,,,1037533
+128,2113,Globe Institute of Technology,Computer Science,3.0,Bonnie Jones,4.3,3,N/A,,,,,,,,1,,,,1,,,,,,,,,1269830
+129,2113,Globe Institute of Technology,Mathematics,4.3,Samuel Antwi-Agyei,2.7,3,N/A,,,,,,,,,,,,,,,,,,,,,1820329
+130,2113,Globe Institute of Technology,Mathematics,1.0,Jacob Sloujitel,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1269845
+131,2113,Globe Institute of Technology,Education,2.0,Robyn Gertner,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1820327
+132,2113,Globe Institute of Technology,Mathematics,1.0,Ruyi Wang,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1820341
+133,2113,Globe Institute of Technology,Business,1.0,Edward Nemirovsky,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1838514
+134,2114,Rowan College at Gloucester County,History,1.9,Gina Rongione-D'Argenio,4.5,211,85%,5,40,,27,10,27,18,20,5,,66,15,5,4,13,42,4,7,,2,1106615
+135,2114,Rowan College at Gloucester County,History,1.7,Joseph D'Argenio,4.5,174,86%,4,22,,13,18,40,17,22,3,,37,9,7,7,6,35,1,8,,4,1211977
+136,2114,Rowan College at Gloucester County,Psychology,3.8,Joseph Manganello,4.1,146,N/A,,,,,,,,,,,,,,,,,,,,,152848
+137,2114,Rowan College at Gloucester County,Communication,2.3,Namorah Byrd,4.3,145,92%,3,3,,16,32,1,5,54,4,,5,18,4,9,7,21,4,3,,11,977640
+138,2114,Rowan College at Gloucester County,Mathematics,4.4,Carlos Burke,2.0,141,7%,1,,,,,,,1,6,,,,13,,,,21,,5,31,563863
+139,2114,Rowan College at Gloucester County,English,3.3,Charles Harkins,3.7,111,33%,,,,5,,,3,3,,,,,3,9,4,1,12,3,,13,17930
+140,2114,Rowan College at Gloucester County,Accounting,3.3,Leo Chow,3.8,98,43%,,,,,2,3,1,,3,,,,3,4,,3,11,1,,9,303847
+141,2114,Rowan College at Gloucester County,Psychology,2.3,Jessica Jolly,4.7,97,94%,9,4,,20,18,1,6,17,1,,4,7,3,,6,9,2,,1,11,1253332
+142,2114,Rowan College at Gloucester County,Mathematics,3.8,William Mays Sr.,2.6,95,N/A,,1,,,1,2,,2,1,,,,,,,,,,,2,1247830
+143,2114,Rowan College at Gloucester County,Biology,3.1,Emily Allen,4.3,91,91%,2,6,,6,6,2,,5,,,,1,1,,4,2,4,,,4,279520
+144,2114,Rowan College at Gloucester County,Mathematics,3.3,Ali Navaab,2.3,89,42%,1,,,3,3,1,,2,,,,,9,6,,,3,1,3,5,587849
+145,2114,Rowan College at Gloucester County,Mathematics,2.8,Oron Nahom,4.3,88,84%,,13,,7,9,,,,3,1,3,6,7,3,1,5,2,,3,3,259488
+146,2114,Rowan College at Gloucester County,History,2.0,Nicholas Weeks,4.7,87,100%,3,16,,6,5,,,12,1,,21,,2,2,,6,16,,,,1110730
+147,2114,Rowan College at Gloucester County,Biology,2.6,Jessica Degraff,4.4,87,100%,3,4,,4,6,11,1,2,1,1,12,5,,,2,5,4,,2,3,459766
+148,2114,Rowan College at Gloucester County,Communication,1.9,David Schleicher,4.4,83,73%,1,2,,5,2,2,15,15,,2,2,1,4,2,5,2,,,,5,270632
+149,2114,Rowan College at Gloucester County,Mathematics,2.8,Michelle Briles,4.0,83,90%,7,4,,4,4,,,5,1,,2,4,1,5,1,6,17,,6,6,1007538
+150,2114,Rowan College at Gloucester County,Mathematics,2.5,Anna Roth,3.5,83,42%,,,,1,4,,1,3,,,,,1,7,5,,3,,,1,1100340
+151,2114,Rowan College at Gloucester County,Sociology,2.7,Chara Doyle,3.9,83,72%,2,1,,10,9,1,7,8,1,,,5,1,14,6,7,1,8,1,10,1345272
+152,2114,Rowan College at Gloucester County,Business,3.7,Tom McCormack,2.3,82,33%,,1,,,2,1,12,,3,,1,1,9,6,,,3,,2,9,199976
+153,2114,Rowan College at Gloucester County,Literature,2.9,Sylvia Baer,4.4,81,88%,,7,,5,3,,10,9,,,5,11,1,7,2,6,3,1,,1,143198
+154,2115,Gogebic Community College,Psychology,2.5,Tricia Wendt,4.7,19,N/A,,1,,,1,,1,1,,,,,,,,1,,,,1,89391
+155,2115,Gogebic Community College,Psychology,2.9,Amanda Delich,4.5,18,N/A,,,,,,,1,1,,,,,,1,,,2,,,1,708564
+156,2115,Gogebic Community College,English,2.8,Ryon List,4.1,17,N/A,1,1,,,,,1,1,,,1,3,,,2,2,,,,1,1370376
+157,2115,Gogebic Community College,Chemistry,4.1,Serena Mershon-Lohkamp,3.7,15,N/A,,,,,,,,1,,,,,,1,,,1,,,1,662322
+158,2115,Gogebic Community College,Physics,3.4,Brian Anderson,4.0,13,N/A,,,,,,,,1,,,,,,,1,,1,,,,711352
+159,2115,Gogebic Community College,History,2.6,Daniel Obradovich,3.1,13,N/A,,1,,3,,,1,,1,,6,,,,1,3,,,,1,1279905
+160,2115,Gogebic Community College,English,2.8,Pat O'Neil,4.4,12,N/A,,,,,,,,,,,,,,,,,,,,,162842
+161,2115,Gogebic Community College,Mathematics,2.2,Deb Pletcher,5.0,11,N/A,,,,,,,,,,,,,,,,,,,,,89390
+162,2115,Gogebic Community College,Music,3.3,Alex Marciniak,2.7,9,N/A,,,,,,,,1,,,,,1,1,,1,,,,1,708567
+163,2115,Gogebic Community College,English,2.5,Apryl Mateas,3.0,9,N/A,1,,,,1,,1,1,1,,1,,1,2,,,1,1,,3,1561760
+164,2115,Gogebic Community College,Mathematics,2.8,John Sokol,4.5,9,86%,,2,,3,1,2,,3,,,3,1,,1,,1,1,,,,1582649
+165,2115,Gogebic Community College,Biology,2.2,Larry Gabka,4.3,8,N/A,1,1,,,,,,,,,,,,,,1,,,,,708571
+166,2115,Gogebic Community College,Accounting,2.8,Dennis MacKey,4.2,6,N/A,,,,,,,,,,,,,,,,,,,,,378944
+167,2115,Gogebic Community College,Anthropology,3.6,Deb Daniels,2.2,5,N/A,,,,,,,,,,,,,,,,,,,,,89386
+168,2115,Gogebic Community College,Economics,1.0,Myron RE,3.1,5,N/A,,,,,,,,,,,,,,,,,,,,,602639
+169,2115,Gogebic Community College,Fine Arts,2.0,Skip Bessen,4.4,4,N/A,,,,,,,,,,,,,,,,,,,,,162841
+170,2115,Gogebic Community College,Mathematics,3.3,Lori Stahl,4.3,4,N/A,,,,1,,,,1,,,,,,,,,,,,1,986337
+171,2115,Gogebic Community College,Not Specified,2.3,Jim Vanderspoel,4.7,3,N/A,1,1,,,,,,,,,,,,,,1,,,,,1212679
+172,2115,Gogebic Community College,Nursing,4.5,Kit Malloy,4.8,2,N/A,,,,,,,,,,,,,,,,,,,,,890929
+173,2115,Gogebic Community College,Sociology,2.0,Dale Jackson,5.0,2,N/A,,,,,1,1,,,,,,,,,,,,,,,1018305
+174,2116,Golden West College,Computer Science,1.9,S Liu,4.4,201,95%,5,14,3,32,47,76,12,51,,14,36,18,23,17,24,39,47,,,6,415197
+175,2116,Golden West College,Biology,3.2,MaryLynne LaMantia,4.7,185,81%,4,23,2,18,4,4,2,13,,,9,10,12,,5,4,19,,7,12,267142
+176,2116,Golden West College,History,2.7,David Moore,4.4,184,86%,,13,,1,9,,6,2,2,,2,4,4,,3,11,5,,1,2,1249001
+177,2116,Golden West College,English,2.0,Abraham Tarango,4.3,176,100%,,19,,8,2,,5,5,5,,29,9,,1,3,17,,,,2,142374
+178,2116,Golden West College,Mathematics,3.8,Pete Bouzar,3.2,173,53%,2,1,,4,4,6,6,5,2,1,3,1,6,10,10,6,37,,15,31,577729
+179,2116,Golden West College,English,2.1,Paul Tayyar,4.8,171,100%,2,24,1,16,1,,10,23,1,1,5,26,1,1,8,15,,,,,419837
+180,2116,Golden West College,Chemistry,4.3,James Almy,3.4,146,53%,6,9,,5,8,,5,4,1,,6,6,5,9,6,13,35,,20,47,1155563
+181,2116,Golden West College,Communication,2.1,John Lervold,4.8,139,100%,,5,,6,2,,2,5,2,2,15,2,1,,6,3,2,,,,1219554
+182,2116,Golden West College,Psychology,2.3,Maria Chovan,3.4,138,43%,,,,1,6,7,9,2,,,,1,1,3,6,,1,,,1,346080
+183,2116,Golden West College,Biology,3.7,Frank Baker,3.6,129,N/A,,,,,,,1,,,,,,,,,,,1,,2,353518
+184,2116,Golden West College,Political Science,2.2,Margot Bowlby,4.3,129,79%,,3,1,5,13,2,8,6,1,,2,,4,1,5,2,7,1,1,2,636805
+185,2116,Golden West College,Biology,2.7,Catherine Egan,4.7,117,100%,2,5,,7,9,10,1,2,1,,7,2,3,,3,8,6,1,1,,1373845
+186,2116,Golden West College,Science,3.3,Konrad Stein,3.7,112,50%,2,5,1,2,2,,8,1,2,,2,2,1,1,1,5,2,,3,17,233605
+187,2116,Golden West College,Mathematics,2.3,David Marino,3.8,111,N/A,,2,,4,2,2,,1,,,,3,,1,,1,,,,,336837
+188,2116,Golden West College,History,2.3,Sunshine McClain,4.6,109,89%,5,15,,12,15,8,11,12,5,,1,7,11,4,3,6,15,,1,4,1406934
+189,2116,Golden West College,Social Science,2.9,Steven Isonio,3.8,106,82%,3,,,7,5,10,4,8,1,,,1,2,6,,6,4,,1,3,294285
+190,2116,Golden West College,Mathematics,2.5,Maryam Khakbazan,4.2,106,95%,9,35,1,31,4,3,,7,,,3,18,3,7,24,8,8,,,1,1163957
+191,2116,Golden West College,Biology,3.2,Stephen Miller,3.8,105,65%,1,3,,,7,1,4,2,1,2,4,1,12,,2,2,13,1,7,10,453227
+192,2116,Golden West College,Biology,3.4,Don Lindsay,4.4,102,N/A,,,,,,,,,,,,,,,,,,,,,439331
+193,2116,Golden West College,Mathematics,3.0,Anthony Hoang,3.5,102,67%,1,2,1,5,2,2,,6,,,2,1,1,6,3,3,6,,4,10,775960
+194,2119,Golf Academy of America: the Carolinas,Food & Beverage Management,2.9,Lew Gach,4.1,7,N/A,,,,,,,,,,,,,,,,,,,,,773580
+195,2119,Golf Academy of America: the Carolinas,Professional Golf Management,2.5,Phil Pendergrass,2.9,4,N/A,,,,,,,,,,,,,,,,,,,,,1184275
+196,2119,Golf Academy of America: the Carolinas,Sports,3.0,Martin Woodhouse,2.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1577171
+197,2120,Gordon State College,English,2.6,Caesar Perkowski,4.5,220,93%,8,17,9,13,5,30,48,33,7,7,24,8,3,1,41,9,2,4,,52,1046651
+198,2120,Gordon State College,History,4.6,Gail Parsons,2.4,140,N/A,,1,,,,,,,,,,,,,,,,,,1,212840
+199,2120,Gordon State College,History,3.5,Gary Cox,3.9,102,N/A,,,,,,,2,3,1,,,,4,,,2,6,,2,8,272609
+200,2120,Gordon State College,Mathematics,3.4,Marwan Zabdawi,2.8,100,25%,,1,,,1,1,,1,2,,,,3,2,,,5,,3,7,443894
+201,2120,Gordon State College,English,4.0,Mark King,3.3,98,28%,,,2,,1,,9,5,1,,1,,1,4,3,,18,6,,21,814509
+202,2120,Gordon State College,Biology,2.9,Mark Brinkman,3.3,95,67%,,,,,2,4,1,1,3,,2,1,15,,3,2,13,,2,6,601291
+203,2120,Gordon State College,History,2.5,Stacey Watson,4.6,91,100%,1,50,18,4,10,8,,26,3,2,20,27,7,6,21,27,19,,,10,2098220
+204,2120,Gordon State College,Political Science,3.6,Kris Beck,3.3,86,50%,1,1,,,5,,8,2,1,,,2,2,1,2,1,3,,2,9,555463
+205,2120,Gordon State College,Biology,4.2,Gregory Hartman,2.8,82,17%,,,,,,,9,2,3,,,,10,,1,,14,,6,18,1165106
+206,2120,Gordon State College,Psychology,2.9,Joseph Mayo,4.3,79,N/A,,3,1,1,1,,1,,,,1,3,,,1,4,2,,,1,285535
+207,2120,Gordon State College,Biology,1.5,Teresa Stanley,4.9,79,100%,3,13,,,3,,,4,,,9,2,1,,3,8,7,,,,427894
+208,2120,Gordon State College,Biology,3.9,Cathy Lee,3.1,78,36%,1,2,,2,1,8,2,1,,,,2,3,1,,1,2,,2,6,1068571
+209,2120,Gordon State College,English,2.8,Stephen Raynie,4.3,76,43%,1,,,2,2,,2,4,,,,,1,,1,,3,4,,7,669160
+210,2120,Gordon State College,Biology,4.2,Phillip Jen,4.1,75,83%,,3,,,1,8,,,,,7,1,4,,1,1,12,,,9,673464
+211,2120,Gordon State College,History,2.0,Jeremy Richards,4.0,75,75%,,2,,,3,,2,,5,,1,,14,,1,,8,,2,,772276
+212,2120,Gordon State College,History,1.9,Donald Butts,4.7,74,100%,,7,,1,2,,,2,,,,,8,,,5,5,,,2,871476
+213,2120,Gordon State College,Languages,2.8,Darren Broome,3.5,70,83%,1,,,1,1,,1,3,1,,1,,,6,4,1,3,,2,4,133232
+214,2120,Gordon State College,English,1.4,Anna Higgins,4.8,69,100%,,,,2,1,,2,3,,,5,1,,,3,3,1,,,2,360680
+215,2120,Gordon State College,Physics,4.3,Chad Davies,3.0,68,60%,,,,1,1,,1,1,,1,2,1,,3,2,1,8,2,,8,272604
+216,2120,Gordon State College,Sociology,2.4,Bethany Johnson,4.5,66,100%,,4,,1,4,1,1,3,1,,1,3,,,4,4,2,,,,1219350
+217,2121,Grays Harbor College,Sociology,1.8,Chris Portmann,4.3,49,100%,2,5,2,,1,,,2,,,6,1,1,,1,4,,,,,167728
+218,2121,Grays Harbor College,Psychology,3.7,Charlie Watkins,3.3,38,N/A,,,,,,,,,,,,,,,,,,,,,167727
+219,2121,Grays Harbor College,English,3.8,Lynne Lerych,3.4,36,N/A,,,,,,,1,3,1,,1,,,,1,,3,,,2,167731
+220,2121,Grays Harbor College,English,2.2,Darby Cavin,5.0,36,N/A,1,,,,3,,,3,,1,3,,,,,3,,,,,218846
+221,2121,Grays Harbor College,Languages,4.1,Jacek Lerych,3.5,34,50%,,,,1,,,1,1,,,2,,,2,3,,6,,,7,167729
+222,2121,Grays Harbor College,English,3.2,Allison Deboer,3.7,33,N/A,,1,,,,,3,1,,,,,,,1,,,,,1,427693
+223,2121,Grays Harbor College,Mathematics,3.3,Tom Kuester,3.8,31,100%,2,1,,,1,,,3,,,3,1,1,1,1,5,2,,,1,206415
+224,2121,Grays Harbor College,Communication,3.7,Brad Duffy,3.0,28,N/A,,,,,,,,,,,,,,,,,,,,,175546
+225,2121,Grays Harbor College,Computer Science,2.3,Darrelyn Miller,4.2,22,N/A,,,,,,,,,,,,,1,,,,,1,,,220513
+226,2121,Grays Harbor College,Economics,1.8,Mark Zerr,3.9,20,N/A,2,,,,1,,2,1,,,,,1,1,,,,,,,194273
+227,2121,Grays Harbor College,Mathematics,3.1,Lynn Siedenstrang,3.5,19,N/A,,,,,,,,,1,,,,,,,,,,,,175551
+228,2121,Grays Harbor College,English,1.6,Gary Arthur,4.0,18,N/A,,,,,,,,1,,,,,,,1,1,,,,,224082
+229,2121,Grays Harbor College,Biology,4.2,Diane Carter,4.2,16,N/A,,,,,,,,,,,,,,,,,,,,,206074
+230,2121,Grays Harbor College,Mathematics,2.3,Jeff Koskela,5.0,16,N/A,,,,1,,1,,2,,,1,1,,,,2,,,1,,331718
+231,2121,Grays Harbor College,Biology,3.1,Mohammed Ibrahim,3.5,15,N/A,,,,,,,,,,,,,,1,,,,,,1,175548
+232,2121,Grays Harbor College,History,3.6,Gary Murrel,3.4,15,N/A,,,,,,,,,,,1,,,,1,,2,,,1,428714
+233,2121,Grays Harbor College,Criminal Justice,2.1,Ron Bradbury,4.3,14,N/A,,,,,,,,,,,,,1,,,1,1,,,,221720
+234,2121,Grays Harbor College,History,2.4,Diane Muir,4.2,13,N/A,2,,,,1,,,1,,,1,1,1,,,1,,,,,243147
+235,2121,Grays Harbor College,Mathematics,3.2,Julie Nelson,4.1,13,N/A,1,,,1,,1,,2,,,,,,2,1,,4,,,4,720175
+236,2121,Grays Harbor College,Computer Science,2.7,Scott Blankenship,4.1,12,N/A,,,,,,,,,,,,,,,,,,,,,226643
+237,2122,Grayson College,Science,3.1,Richard Weart,4.9,118,98%,10,20,,20,5,11,,31,,,40,4,1,,8,26,15,,2,9,1744460
+238,2122,Grayson College,History,3.6,Mary Linder,3.5,57,43%,,3,,4,2,3,1,4,1,,1,,3,6,2,,4,1,1,12,1191605
+239,2122,Grayson College,Social & Behavioral Sciences,3.1,Ron Velten,3.1,48,40%,,,,,6,3,5,,2,,2,,2,5,1,1,1,2,,6,411509
+240,2122,Grayson College,History,3.8,Donna Kumler,4.0,36,N/A,,,,,,1,,,,,,1,,,,1,1,,,2,549683
+241,2122,Grayson College,Psychology,1.7,Carla Fanning,4.8,35,100%,1,6,,4,,6,2,5,,,5,6,,,,3,,,,,1440533
+242,2122,Grayson College,Science,3.3,Ryan Myers,4.3,31,100%,1,2,,2,4,6,1,4,,,3,,2,1,,2,9,,1,4,1373962
+243,2122,Grayson College,Mathematics,2.2,Lori Henderson,4.9,29,N/A,,,,1,,,,,,,,,,,,,,,,,183378
+244,2122,Grayson College,History,2.4,Edward Owens,3.6,28,N/A,,1,,,,1,1,,,,,,,,,,,,,,216521
+245,2122,Grayson College,Communication,2.3,Jennifer Millspaugh Gray,4.8,28,N/A,,,,,1,1,,1,,,,,,,,,,,,,1459256
+246,2122,Grayson College,English,2.6,Jean Sorensen,4.1,27,50%,1,,,,3,2,6,6,,1,,2,2,2,2,2,5,2,,2,410548
+247,2122,Grayson College,Mathematics,2.2,Susan Morrow,4.5,26,N/A,,,,2,,,,1,,,,,,,,1,,,,,517537
+248,2122,Grayson College,Biology,3.4,Michael Keck,3.8,26,43%,,4,1,,,2,1,,1,1,,1,3,,3,,6,,3,,549672
+249,2122,Grayson College,Mathematics,3.6,Stanley Henderson,3.8,25,N/A,,,,,,,,,,,,,,,,,,,,,554710
+250,2122,Grayson College,English,2.8,Brian Diaz,4.2,24,N/A,,2,,1,1,,2,4,,,1,,,,,2,2,1,,1,1032427
+251,2122,Grayson College,Biology,4.2,R Popplewell,2.1,23,29%,,,,,1,3,3,,,,,,2,4,1,,2,,2,,859582
+252,2122,Grayson College,Languages,3.0,Brandy Fair,3.1,21,40%,,2,,1,,,,,,3,1,,2,,,,,,,2,1103554
+253,2122,Grayson College,History,3.2,Matthew Hamilton,4.2,20,88%,1,5,,1,2,1,,,1,,3,4,,,2,5,4,,2,3,1721226
+254,2122,Grayson College,Economics,2.8,David Foster,2.4,19,N/A,,,,,3,2,,,,1,,,2,,1,,,,,,425390
+255,2122,Grayson College,History,2.7,Chase MacHen,4.5,19,83%,1,5,,2,1,,2,3,,,7,,,,2,3,3,,,1,1585100
+256,2122,Grayson College,English,4.2,Marlea Treviño,3.0,19,56%,,2,,,1,,,4,,,,,,10,3,1,,4,,4,1644754
+257,2123,Green River College,Psychology,3.7,Jerry Marshall,2.9,194,26%,5,7,1,1,7,2,37,,7,,8,5,9,13,7,2,5,,16,49,290833
+258,2123,Green River College,Psychology,3.5,Carsh Wilturner,4.5,192,84%,,26,1,4,1,21,20,12,1,,2,15,11,2,18,13,16,,11,4,115830
+259,2123,Green River College,Mathematics,2.6,Rob Jonas,4.2,136,71%,2,12,3,10,15,10,1,16,,1,22,6,12,10,6,21,9,,3,7,359754
+260,2123,Green River College,Mathematics,3.6,Steven Black,4.3,131,80%,2,18,,5,9,1,,7,,,7,9,,17,6,15,12,,2,28,212637
+261,2123,Green River College,English,3.8,Victoria Scrivner,3.7,115,56%,1,,,3,7,4,3,17,2,,15,2,,13,3,7,7,5,2,25,539190
+262,2123,Green River College,English,3.7,Walter Lowe,3.2,114,37%,2,,5,2,2,1,3,10,4,3,7,,1,6,8,3,3,3,,30,624481
+263,2123,Green River College,Sociology,3.5,Louise Hull,3.6,113,50%,,1,,4,2,2,13,8,,,,4,,6,4,,1,1,,6,183952
+264,2123,Green River College,Philosophy,3.6,Ty Barnes,3.4,112,42%,4,9,,5,2,11,5,6,8,1,15,3,5,5,7,2,16,1,2,30,1093214
+265,2123,Green River College,Communication,4.3,William Scott,2.5,110,13%,,2,1,,1,,17,3,1,2,2,1,4,11,6,,3,7,2,30,447912
+266,2123,Green River College,Journalism,3.3,John Knowlton,2.1,110,11%,,1,,3,1,,28,1,,,,2,7,21,4,1,4,,10,43,355005
+267,2123,Green River College,Mathematics,2.3,Doug Bridges,4.5,106,97%,12,9,,46,9,2,,31,1,,15,9,,3,14,34,7,,1,1,1374147
+268,2123,Green River College,Physical Education,3.4,Tom Jackson,2.5,103,17%,,1,,5,1,,16,2,8,,,2,3,,6,,26,,13,21,570461
+269,2123,Green River College,English,3.9,Eric Nelson,4.0,102,58%,1,,,3,5,,15,13,,,,1,,3,6,7,,,2,17,529895
+270,2123,Green River College,History,3.4,Mark Thomason,2.6,98,47%,2,3,1,2,5,,14,6,3,2,5,,3,5,,,5,6,3,17,464023
+271,2123,Green River College,Biology,3.5,Steven Brumbaugh,4.0,94,52%,4,3,2,4,5,1,6,6,,3,10,2,5,15,1,4,8,,3,19,354220
+272,2123,Green River College,Mathematics,3.6,Nelson Phouphakone,2.9,93,55%,4,3,2,9,4,16,5,8,5,,1,3,5,11,,4,10,2,7,24,869384
+273,2123,Green River College,English,4.0,Vic Aquino,3.2,91,N/A,,,,,,,,,,,,,,1,1,,,,,1,183950
+274,2123,Green River College,Economics,2.9,Mark Blaisdell,3.8,91,54%,5,1,4,5,6,2,13,9,2,,1,,1,10,1,5,2,,3,9,183953
+275,2123,Green River College,Mathematics,3.5,Michael Pahlow,2.3,91,35%,1,,,2,4,8,1,,3,1,,,7,3,7,2,15,1,6,28,1165956
+276,2123,Green River College,English,2.5,Hank Galmish,4.2,88,N/A,,,,,1,,,2,,,,1,,,,1,,,,,115846
+277,2124,Greenfield Community College,English,3.4,Christine Monahan,4.6,35,86%,1,,,2,3,,12,3,,,,3,,2,14,,1,,,4,560505
+278,2124,Greenfield Community College,Political Science,2.6,Jason Larose,4.1,31,N/A,,,,,,,,,,,,,,,,,,,,,203824
+279,2124,Greenfield Community College,English,3.6,Wendy Barnes,3.8,29,N/A,1,,,,,,1,1,,1,,,,1,1,,3,2,,1,900122
+280,2124,Greenfield Community College,Economics,2.7,Thom Simmons,4.0,24,60%,1,1,,1,2,,,2,1,2,1,3,1,2,2,2,,1,1,2,342910
+281,2124,Greenfield Community College,Psychology,3.3,Terry Boyce,4.0,24,N/A,,1,,1,2,,4,,,,,,,,1,1,,,,1,36131
+282,2124,Greenfield Community College,Science,2.6,Ted Johnson,3.5,23,50%,2,1,,,2,,1,,1,,1,,,,,,3,,2,,203827
+283,2124,Greenfield Community College,English,2.2,Lillian Ruiz,4.7,22,N/A,,,,2,4,,1,3,,,1,,1,,1,1,,,,,203830
+284,2124,Greenfield Community College,Communication,3.5,Kimberly Morin,2.3,22,43%,2,1,,1,1,,1,1,,,,1,,3,1,,,6,,5,1129402
+285,2124,Greenfield Community College,Mathematics,3.8,Sandy Gokey,3.7,21,67%,3,,,3,2,,,2,,,,1,,3,,1,4,,1,1,204555
+286,2124,Greenfield Community College,Criminal Justice,3.1,Buz Eisenberg,4.9,18,N/A,,,,,,,1,,,,,1,,,1,,,,,,203829
+287,2124,Greenfield Community College,Mathematics,3.3,Norman Beebe,4.8,17,100%,3,1,,5,,,,3,,,1,,,3,1,4,,,,,300872
+288,2124,Greenfield Community College,Mathematics,2.7,Peter Rosnick,3.8,16,N/A,1,3,,1,1,,,1,,,2,1,,,,1,1,,,,294016
+289,2124,Greenfield Community College,Philosophy,2.8,David Makinster,3.2,16,N/A,,,,,,,,1,,,,,3,2,1,,1,1,,,849941
+290,2124,Greenfield Community College,Mathematics,2.9,Caitlin Worth,3.8,16,N/A,,,,1,4,,,2,,,,,,2,1,2,1,,,2,1652576
+291,2124,Greenfield Community College,Psychology,3.6,Anne Wiley,4.3,15,N/A,,,,,,,,,,,,,,,,,,,,,300896
+292,2124,Greenfield Community College,Humanities,3.2,Steve Poulin,4.3,15,N/A,,,1,1,1,,1,1,,1,1,1,,,,2,,,,,805938
+293,2124,Greenfield Community College,Mathematics,3.8,Linda Cavanaugh,4.0,14,N/A,,,,,,,,1,,,,1,,1,,2,3,,,3,300876
+294,2124,Greenfield Community College,Sociology,2.8,Linda McCarthy,4.9,14,N/A,,,,,1,1,5,2,,,,,,,3,,,,,,957412
+295,2124,Greenfield Community College,Anthropology,3.7,Greg Vouros,3.0,14,N/A,,,,,,,1,1,,,,1,,,1,1,,,1,,1070757
+296,2124,Greenfield Community College,Psychology,2.6,Joshua Becker,4.5,14,89%,1,5,,4,,,1,1,1,,3,5,1,1,,10,1,,,,1865246
+297,2127,Guilford Technical Community College,Biology,4.8,George Whitesides,2.0,104,24%,,1,,1,1,,4,1,3,,1,,16,,1,1,19,,7,22,145199
+298,2127,Guilford Technical Community College,History,2.1,Jeff Kinard,4.3,65,78%,1,2,,,2,6,4,3,2,,1,,4,,9,1,4,,2,6,444612
+299,2127,Guilford Technical Community College,English,2.0,William Carpenter,4.9,50,100%,7,18,,24,1,5,,10,,,14,20,,,4,19,2,,,,1496252
+300,2127,Guilford Technical Community College,Mathematics,4.6,Jay Dejohn,2.4,46,71%,,2,2,,2,,,,,,,1,2,2,1,1,8,,,11,161857
+301,2127,Guilford Technical Community College,Psychology,2.4,Hank Fiero,4.5,46,80%,,3,,,1,2,1,1,1,,9,,3,,,2,5,,2,1,386564
+302,2127,Guilford Technical Community College,Languages,2.1,Bill Raines,4.9,44,100%,2,3,,4,5,1,1,8,,,18,2,,,6,10,2,,,,354309
+303,2127,Guilford Technical Community College,Sociology,2.6,Kim Churchill,3.5,43,N/A,,2,,1,,1,,,,3,5,,1,,1,,2,,,1,386543
+304,2127,Guilford Technical Community College,Biology,4.0,Alex Jordan,3.1,43,57%,,3,,1,,,10,1,1,,,,3,,2,,10,,1,5,1176249
+305,2127,Guilford Technical Community College,Computer Science,3.4,Jim Carrier,3.3,42,N/A,,,,3,3,,,2,,,,1,,1,3,2,1,,,,372449
+306,2127,Guilford Technical Community College,English,2.5,Tom Riddle,4.5,42,89%,4,1,,10,,,,12,,,1,2,1,,1,4,1,,,1,622129
+307,2127,Guilford Technical Community College,Mathematics,4.3,Glenn Booker,1.5,38,10%,1,,13,1,,,1,,3,,1,,5,6,1,,6,,2,12,196789
+308,2127,Guilford Technical Community College,Biology,3.7,Jeremy Creech,3.5,38,40%,2,4,,3,1,,6,1,2,,1,,5,,,,3,,1,9,725156
+309,2127,Guilford Technical Community College,Psychology,2.2,George Ritchie,4.7,36,N/A,,,,,2,3,2,4,1,,1,1,,1,,1,,,,,155651
+310,2127,Guilford Technical Community College,Mathematics,3.1,Lynn Scott,4.5,36,84%,9,2,,12,7,,,10,,,,,4,13,1,4,6,,1,1,1286474
+311,2127,Guilford Technical Community College,Psychology,2.2,Steve Withrow,3.5,35,N/A,,1,,2,1,1,,4,,,3,,,,,1,1,,,,145201
+312,2127,Guilford Technical Community College,History,1.7,Kathleen Rawls,4.0,35,N/A,,,,,,,,,,,,,,,,,,,,,386558
+313,2127,Guilford Technical Community College,English,3.6,Steve Taylor,3.7,34,50%,1,,,1,,,1,5,3,2,1,,,2,1,,4,1,,8,709647
+314,2127,Guilford Technical Community College,Mathematics,2.1,Paul Whittington,4.8,33,100%,,4,,8,5,,,3,,2,,,1,2,,5,,,,,508141
+315,2127,Guilford Technical Community College,Mathematics,4.3,David Barnette,2.7,33,N/A,1,,,1,,,,2,,,,1,,1,1,2,1,,1,2,485008
+316,2127,Guilford Technical Community College,Computer Science,2.3,Astrid Todd,3.3,32,N/A,1,,,2,,1,,,,,3,2,,,,1,1,,,,563176
+317,2128,Gulf Coast State College,Political Science,2.5,Jason Rooks,4.8,147,98%,4,,,19,59,63,2,112,1,,44,6,,1,42,19,,32,1,8,1972974
+318,2128,Gulf Coast State College,History,3.1,Richard Baldwin,3.2,111,71%,,4,1,2,1,1,1,1,2,,5,6,2,,,2,1,,,4,103316
+319,2128,Gulf Coast State College,History,2.9,Patrick Brennan,3.5,104,30%,2,5,,1,,2,8,2,2,1,9,1,5,1,1,2,5,2,2,3,750764
+320,2128,Gulf Coast State College,Biology,4.3,Fledia Ellis,2.5,100,8%,1,,,2,2,,3,,1,,,,12,6,,,,,2,16,284281
+321,2128,Gulf Coast State College,Mathematics,3.0,Lloyd Harris,4.8,97,100%,5,6,,10,5,,,6,,,13,5,,4,1,18,4,,,,402731
+322,2128,Gulf Coast State College,Geology,3.8,Jamie Webb,3.5,91,50%,1,8,,,4,,8,2,6,,8,3,6,6,2,2,5,,6,13,402695
+323,2128,Gulf Coast State College,Psychology,2.2,Wes Keene,4.7,80,90%,4,6,,13,7,1,1,14,1,2,2,9,,2,7,14,,,,3,694465
+324,2128,Gulf Coast State College,Psychology,4.0,Lisa Fosbender,2.6,79,N/A,,2,,2,1,,5,1,,,3,1,,2,1,,9,,1,17,534996
+325,2128,Gulf Coast State College,Social Science,2.2,John Phillips,3.5,75,71%,,1,,5,6,1,,1,1,1,12,5,2,,2,5,1,,,1,657581
+326,2128,Gulf Coast State College,Political Science,3.4,Elizabeth Trentanelli,3.3,65,50%,,1,,3,3,3,4,10,2,1,,6,3,2,8,4,2,3,1,4,551956
+327,2128,Gulf Coast State College,Biology,3.8,Jim Sheetz,3.3,63,73%,5,,,7,4,7,2,1,,,,2,7,,1,5,10,,2,5,1307290
+328,2128,Gulf Coast State College,Biology,2.3,Lee Gonshor,5.0,62,N/A,,8,,4,1,4,,,,,3,3,1,,1,10,3,,,1,669449
+329,2128,Gulf Coast State College,Biology,4.1,Melissa Moore,2.0,59,N/A,,,,,,,,,,,,,,,,,,,,,348914
+330,2128,Gulf Coast State College,Mathematics,2.8,Leo Lusk,4.0,58,90%,,5,,9,5,,,3,1,,1,3,,,3,8,8,,1,2,402730
+331,2128,Gulf Coast State College,Social Science,4.0,Mike Gattis,3.1,56,N/A,,,,,,,,1,,,,,,,1,,,,,1,1104074
+332,2128,Gulf Coast State College,English,3.4,Betty McKinnie,2.7,54,11%,,1,,,,,5,1,,1,3,,2,4,2,,,,3,7,698434
+333,2128,Gulf Coast State College,Psychology,1.7,Art Chapman,4.7,52,100%,,2,1,7,6,11,2,2,,1,4,8,1,1,4,3,8,,,,1273088
+334,2128,Gulf Coast State College,Sociology,2.6,Ron Penton,2.4,51,N/A,,,,,,,,,,,,,,,,,,,,,413659
+335,2128,Gulf Coast State College,Mathematics,3.1,Terri Bedford,4.3,51,67%,2,1,1,4,1,,,6,2,,4,3,,11,,2,4,,,6,580664
+336,2128,Gulf Coast State College,Mathematics,2.4,Riccardo V. Mensiteri,4.0,51,78%,7,5,,24,5,,,6,3,,13,9,5,3,2,5,7,,,11,1944713
+337,2129,Gupton Jones College of Funeral Service,Anatomy,3.8,James Hinz,4.2,7,N/A,,1,,,,,,,,,,,,,,1,,,1,,260173
+338,2129,Gupton Jones College of Funeral Service,Funeral Service Education,3.2,Jeff Seiple,4.8,5,N/A,,,,,,,,,,,,,,,,,,,,,260170
+339,2129,Gupton Jones College of Funeral Service,History,1.7,Katherine Campbell,2.7,3,N/A,,,,,,,,,,,,,,,,,,,,,1088417
+340,2129,Gupton Jones College of Funeral Service,Funeral Service Education,3.0,Patty Hutcheson,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1591743
+341,2129,Gupton Jones College of Funeral Service,History,2.0,Karen Henson,3.0,1,N/A,,,1,,,,,,,,,,1,,,,1,,,,2387671
+342,2130,Gwinnett Technical College,English,2.3,Cynde Gregory,4.8,290,N/A,,,,,,,,,,,,,,,,,,,,,1105677
+343,2130,Gwinnett Technical College,English,4.3,Tiffany Parks,1.5,144,8%,,1,3,2,,,6,2,2,4,,2,2,6,7,1,17,3,,27,1041514
+344,2130,Gwinnett Technical College,Business,3.0,Taylor Arebe,4.1,128,91%,19,9,2,14,34,2,23,66,2,1,7,12,8,20,34,32,3,4,1,15,1949948
+345,2130,Gwinnett Technical College,Mathematics,2.2,Gregory Allen,4.7,112,96%,6,14,,15,2,9,,9,,,14,2,3,4,,16,5,,,1,1003406
+346,2130,Gwinnett Technical College,Computer Science,2.9,Tony Tran,4.9,98,99%,12,36,1,14,9,,7,62,,5,30,30,1,4,26,36,5,,1,3,1975456
+347,2130,Gwinnett Technical College,Psychology,2.1,Dennis Maltais,4.8,91,79%,,8,,8,5,2,2,5,1,,13,4,1,2,4,7,4,,1,2,875934
+348,2130,Gwinnett Technical College,English,2.0,Stephanie Denny,4.6,82,88%,1,1,,14,8,3,2,12,,,,4,,,1,,1,3,,2,1169073
+349,2130,Gwinnett Technical College,Management,2.5,Perry Hidalgo,4.7,81,100%,10,12,,13,6,3,1,29,,11,19,16,,1,9,25,,,,,522537
+350,2130,Gwinnett Technical College,Biology,4.1,Catherine C Scholz,4.8,80,82%,2,9,,5,1,,,5,,,1,2,1,,1,4,3,,1,2,228400
+351,2130,Gwinnett Technical College,Biology,3.2,Ozan Ozcan,4.5,78,90%,3,18,,9,12,,3,7,1,,1,1,3,,4,10,7,,3,2,970551
+352,2130,Gwinnett Technical College,Social Science,2.4,Anita J Canada,4.5,71,90%,3,13,,15,14,1,5,38,,7,2,22,,15,25,16,7,,1,8,2007842
+353,2130,Gwinnett Technical College,History,1.7,Tim Dineen,4.8,69,96%,5,17,,7,6,,3,6,,,6,4,9,,1,13,15,,1,,1363459
+354,2130,Gwinnett Technical College,Biology,3.2,Margaret Long,4.0,69,71%,2,12,,9,4,,4,13,1,,12,2,1,4,6,8,15,,,15,1644020
+355,2130,Gwinnett Technical College,English,2.6,Penny Waddell,4.5,60,100%,1,3,,2,1,2,,7,,,2,1,,3,2,6,,,,,826597
+356,2130,Gwinnett Technical College,Biology,3.8,Saeideh Sadri,3.3,60,48%,7,2,1,4,4,,8,8,,,1,1,4,1,8,8,11,,,18,1620193
+357,2130,Gwinnett Technical College,English,3.2,Padmaja Vedula,3.2,58,36%,3,3,,2,2,2,12,10,4,,,6,,5,4,1,4,3,,15,1072031
+358,2130,Gwinnett Technical College,Mathematics,2.5,Johnny Zamor,4.0,58,93%,3,5,,8,8,12,1,4,,,1,,,6,2,4,6,,,4,1477740
+359,2130,Gwinnett Technical College,Mathematics,2.3,Carlton Calhoun,4.3,57,60%,,2,,2,1,,,5,,,2,4,,1,1,2,3,,1,1,1042855
+360,2130,Gwinnett Technical College,Humanities,2.9,Amber Walden,3.5,57,78%,1,3,2,1,4,5,1,5,,,,2,6,7,5,,8,4,,12,1410371
+361,2130,Gwinnett Technical College,Psychology,1.6,Kelly Spillman,3.9,52,N/A,,,,,,,1,,,,1,,,,1,,,,,,1002365
+362,2131,Kaplan College (was Hagerstown Business College),Accounting,2.8,Rick Smith,4.9,10,N/A,,,,,,,,,,,,,,,,,,,,,138966
+363,2131,Kaplan College (was Hagerstown Business College),Information Science,2.3,Scott Dorsey,4.5,8,N/A,,,,,,,,,,,,,,,,,,,,,1561852
+364,2131,Kaplan College (was Hagerstown Business College),Computer Science,3.4,Tatyana Zidarov,2.2,7,N/A,,,,,,,,,,,,,,1,1,,,,,,141833
+365,2131,Kaplan College (was Hagerstown Business College),Psychology,1.2,Karen Stiles,4.9,6,N/A,,,,,,,,,,,,,,,,,,,,,326385
+366,2131,Kaplan College (was Hagerstown Business College),Mathematics,3.8,Larry L. Funk,3.2,5,N/A,,,,,,,,,,,,,,,,,,,,,373901
+367,2131,Kaplan College (was Hagerstown Business College),Student Success,1.4,John Brantley,5.0,5,N/A,,,,,,,,,,,,,,,,,,,,,818658
+368,2131,Kaplan College (was Hagerstown Business College),English,2.0,Patt Fawcett,4.8,4,N/A,,,,,,,,,,,,,,,,,,,,,326384
+369,2131,Kaplan College (was Hagerstown Business College),Law,2.5,Mark Anders,3.9,4,N/A,,,,,,,,,,,,,,,,,,,,,718700
+370,2131,Kaplan College (was Hagerstown Business College),Criminal Justice,1.0,Mark Singer,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1295954
+371,2131,Kaplan College (was Hagerstown Business College),Criminal Justice,4.0,Chip Snyder,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1295957
+372,2131,Kaplan College (was Hagerstown Business College),Criminal Justice,1.0,TY Humbertson,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1295959
+373,2132,Hagerstown Community College,Humanities,2.1,Mike Harsh,4.8,69,78%,2,1,,2,2,,1,7,3,1,9,4,,1,4,2,2,1,,1,214822
+374,2132,Hagerstown Community College,Psychology,2.5,Vaughn Crowl,4.4,40,N/A,,3,,2,,,,1,,,,2,,,,1,,,,,249171
+375,2132,Hagerstown Community College,Chemistry,4.3,Veronica Stein,3.4,40,54%,1,1,,,1,,4,2,,,,,4,9,2,4,8,1,5,14,865144
+376,2132,Hagerstown Community College,Biology,4.7,Terri Bidle,4.4,39,91%,3,6,1,2,2,,1,3,,,,1,,3,1,7,4,2,,5,285725
+377,2132,Hagerstown Community College,Biology,3.3,Bernard Murphy,3.0,39,100%,2,1,,1,3,5,,4,,1,1,1,5,,,2,3,,,5,412382
+378,2132,Hagerstown Community College,Science,3.4,Andrew O'Brien,4.4,37,94%,1,1,,2,9,15,1,12,,1,6,,2,9,6,5,7,,1,2,1785063
+379,2132,Hagerstown Community College,Psychology,2.6,Louise Wine,4.3,35,100%,1,3,4,4,6,9,,4,,,1,,3,1,2,1,1,,,2,335961
+380,2132,Hagerstown Community College,Sociology,1.9,Dan Ryan,4.7,35,100%,2,5,,2,3,,3,4,,,6,5,,2,2,7,1,,1,,1347650
+381,2132,Hagerstown Community College,History,4.3,Timothy M Jenness,3.5,33,44%,1,1,,1,1,,10,5,,,,,2,,13,2,7,,1,17,1817688
+382,2132,Hagerstown Community College,Humanities,3.1,Ann Clark,4.7,32,N/A,,,,,,,,,,,,,,,,,,,,,255241
+383,2132,Hagerstown Community College,Biology,3.0,Rosemary Nickerson,3.8,32,78%,2,1,,,1,3,5,2,,,,,1,3,,3,1,2,,2,515782
+384,2132,Hagerstown Community College,Mathematics,2.5,Paula Kessler,5.0,30,100%,2,1,,5,2,2,,3,,,,,,1,,2,,,,,307385
+385,2132,Hagerstown Community College,History,3.9,Tom Clemens,4.0,29,N/A,,,,,,,,,,,,,,,,,,,,,335957
+386,2132,Hagerstown Community College,English,3.4,Melinda May,2.9,29,20%,,,,,,,2,3,,,,,2,4,2,1,6,3,,7,1113914
+387,2132,Hagerstown Community College,Languages,2.7,Thomas Seward,3.5,28,50%,,,,,2,,1,,2,,4,,1,4,3,2,2,,,,928173
+388,2132,Hagerstown Community College,Psychology,1.7,Erick R Williams,4.0,28,60%,,4,,5,4,3,1,2,6,1,4,3,4,,1,8,,,,,1809323
+389,2132,Hagerstown Community College,Science,4.2,Nancy Thorpe,2.1,27,N/A,,,1,,,1,4,,,,,,3,2,2,,2,,1,4,773958
+390,2132,Hagerstown Community College,Mathematics,2.9,Alicia Myers,4.7,27,100%,7,4,,10,3,3,,4,,,,4,,1,2,5,1,,,1,1821431
+391,2132,Hagerstown Community College,English,2.1,Dixie Myers,3.8,26,N/A,,,,1,,,,1,,,,,,,,,,,,,107866
+392,2132,Hagerstown Community College,Music,2.1,Daniel Webber,4.4,26,N/A,1,,,,,,4,,,,,,,1,1,,,,,,374836
+393,2133,Halifax Community College,History,1.0,Shaun Stokes,4.6,6,N/A,,,,,,,,,,,,,,,,,,,,,945893
+394,2133,Halifax Community College,Computer Science,2.6,Emmanuel Obi,4.0,5,N/A,,,,,,,1,1,,,,,,1,,,,,,,1557984
+395,2133,Halifax Community College,Chemistry,4.3,Pocahontas Jones,4.1,4,N/A,,,,,,,,,,,,,,,,,,,,,241958
+396,2133,Halifax Community College,Business,3.0,Lateef Balogun,3.1,4,N/A,,,,,,,,,,,,,,,,,,,,,642465
+397,2133,Halifax Community College,Biology,2.5,Julie Galvin,5.0,4,N/A,,1,,3,1,,,,,,,2,,,,3,,,,,1064497
+398,2133,Halifax Community College,Mathematics,2.2,Nina Swink,4.0,4,N/A,,,,2,,,,,,,,,,1,,1,3,,,1,1156270
+399,2133,Halifax Community College,Sociology,1.0,Phillip Pair,5.0,3,N/A,,,,,,,,,,,,,,,,,,,,,1064149
+400,2133,Halifax Community College,Communication,4.0,Sharon Askew,1.0,3,N/A,,,,,,,,,,,,,,3,2,,1,,,3,2090178
+401,2133,Halifax Community College,English,1.5,Charles Wilkinson,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,710323
+402,2133,Halifax Community College,Physics,5.0,Bijoy Patnaik,2.3,2,N/A,,,,,,,,,,,,,,,,,,,,,748130
+403,2133,Halifax Community College,Physical Education,2.5,Scott Dameron,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1064135
+404,2133,Halifax Community College,English,1.0,Lamont Sparrow,5.0,2,N/A,,,,,,,,,,,,,,,1,1,,,,1,1900042
+405,2133,Halifax Community College,English,3.0,Bryan Carter,1.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1150772
+406,2133,Halifax Community College,Design,1.0,Alice Vaughan,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1463500
+407,2133,Halifax Community College,Biology,3.0,Sarah Nesbit,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1846370
+408,2133,Halifax Community College,Education,1.0,Adrian Leche,1.0,1,N/A,,,,,,,,,,,,,,,,,1,,,1,2143195
+409,2133,Halifax Community College,History,5.0,Woodrow Harding,4.5,1,N/A,,,,,,,,1,,,,,,,,1,,,,,2143201
+410,2133,Halifax Community College,English,5.0,Timothy Davis,1.0,1,N/A,,,,,,,,,,,,,,,,,1,,,1,2284459
+411,2135,Hallmark College,Health Science,2.0,Michelle Lizana,4.3,2,N/A,,,,1,,,,,,,1,,,,,,,,,,1215933
+412,2135,Hallmark College,Psychology,3.5,Harry Lowe,5.0,2,N/A,,,,,,,,,,,,1,,,1,1,,,,,1423187
+413,2135,Hallmark College,Education,1.0,Pearl Dominguez,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1423193
+414,2135,Hallmark College,Computer Science,4.0,Michael Turner,4.0,1,N/A,,1,,,,,,,,,,,,,1,,,,,1,1578550
+415,2135,Hallmark College,Computer Science,2.0,Joana Alvarado,1.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1676131
+416,2135,Hallmark College,Psychology,2.0,Rachel Olvera,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1800385
+417,2135,Hallmark College,Business,5.0,Kurt Klein,5.0,1,N/A,,,,,,,,1,,,,1,,,,,,,,1,2335256
+418,2136,Kaplan College,Criminal Justice,3.0,Scott Moline,1.0,2,N/A,,,,,,,,,,,,,,,,,1,,,1,978803
+419,2137,Harcum College,Science,4.9,Kathleen Davis,1.1,63,N/A,,,2,,1,,5,3,,,,,1,4,,,6,,,6,1459131
+420,2137,Harcum College,English,1.4,Sarah Bostock,4.6,46,N/A,,,,1,,1,,4,,,1,,,1,2,6,,,,,1329463
+421,2137,Harcum College,Science,4.1,Nadine Hackman,3.4,21,N/A,,,,,,,,,,,,,,,,,,,,,402638
+422,2137,Harcum College,Veterinary Sciences,3.2,Kathy Koar,3.8,20,N/A,,,,,,,,,,,,,1,,,,1,,1,1,756067
+423,2137,Harcum College,Veterinary Sciences,2.0,Mary Friday,4.4,18,N/A,,,,,,,,,,,,,,,,,,,,,720426
+424,2137,Harcum College,Science,4.2,June Kinsley,2.9,16,N/A,,,,,,,1,,,,,,,,,,,,,1,234429
+425,2137,Harcum College,Biology,3.4,Stephen Pipitone,4.2,15,N/A,,,,,,,,,,,,,,,,,,,,,937454
+426,2137,Harcum College,Nursing,3.3,Elizabeth Cratin,4.5,15,N/A,,,,,,,,1,,,,,,,,1,,,,1,1537988
+427,2137,Harcum College,Mathematics,1.4,Jo-Anne Perkinson,3.8,14,N/A,,,,,,1,,,,,,,,,,,,,,,19512
+428,2137,Harcum College,Health Science,1.7,Craig Wooters,4.5,13,N/A,,,,,,,,,,,,,,,,,,,,,402650
+429,2137,Harcum College,Science,3.5,Mary Buttery,2.5,13,N/A,,,,2,1,,1,2,,,,,,1,1,,1,,,1,1952917
+430,2137,Harcum College,Mathematics,2.9,Thomas Ferry,4.4,12,N/A,1,,,2,1,,,2,,,,,,,1,,,,,1,514250
+431,2137,Harcum College,Science,2.8,Trish O'Connell,3.2,12,N/A,,,,,,,,,,,,,,,,,,,,,842045
+432,2137,Harcum College,Science,2.7,Rose Herman,3.2,9,N/A,,,,,,,,,,,,,,,,,,,,,534495
+433,2137,Harcum College,Biology,3.6,Meredith Much,3.2,8,N/A,,,,,,,,,,,,,,,,,,,,,833768
+434,2137,Harcum College,Science,2.9,Jan Greenlee,4.6,7,N/A,,,,,,,,,,,,,,,,,,,,,534494
+435,2137,Harcum College,Science,2.9,Karen Naylor,4.7,7,N/A,,,,1,2,,,2,,,,,,,,1,,,,,650004
+436,2137,Harcum College,Design,3.9,Heidi Techner,4.6,7,N/A,,,,1,,,,1,,,,1,,,,,,,,,1090263
+437,2137,Harcum College,Science,2.5,Thomas Viola,4.9,6,N/A,,1,,1,,,,,,,2,,,,,2,,,,,452161
+438,2138,Harford Community College,Biology,2.8,Allison E Collins,4.5,165,94%,13,7,3,30,29,86,4,53,,2,10,4,13,44,9,58,22,2,,7,2027236
+439,2138,Harford Community College,Mathematics,2.1,Chris Jones,5.0,113,100%,5,7,,9,7,,1,10,,,13,4,1,3,1,14,4,,,,433273
+440,2138,Harford Community College,English,4.3,Dorothy Miller,1.9,106,31%,,2,,1,1,,3,3,3,1,,1,11,4,3,,2,1,,19,93916
+441,2138,Harford Community College,English,4.1,Scott West,2.4,104,13%,2,,1,3,3,,1,8,2,,3,1,2,4,3,1,6,9,2,33,383863
+442,2138,Harford Community College,English,4.2,Linda Clary,4.1,101,N/A,,,,1,1,,,1,,,,,,1,,,,1,,1,119034
+443,2138,Harford Community College,Biology,4.2,Wendy Rappazzo,4.0,97,62%,2,4,,2,1,3,4,8,,1,5,,6,7,5,4,7,1,3,20,200138
+444,2138,Harford Community College,Psychology,2.1,Raymond Richardson,4.8,87,100%,3,14,,11,1,10,2,6,2,,18,15,3,,2,9,1,,2,1,1025819
+445,2138,Harford Community College,English,2.3,Colleen Webster,4.8,87,90%,,4,,11,1,,9,6,2,,8,15,,1,2,8,1,1,,5,219586
+446,2138,Harford Community College,Political Science,2.4,Stephanie Hallock,4.6,84,92%,1,8,,2,1,,4,3,3,,4,7,2,2,1,4,1,,,2,269363
+447,2138,Harford Community College,Criminal Justice,1.4,Clarence Terrill,4.9,79,N/A,,,,,1,,,1,,,,,,,,,,,,,118902
+448,2138,Harford Community College,Psychology,3.8,Orlando Correa,2.7,74,N/A,,1,,,2,1,3,,,,,,,,3,,4,,,6,215482
+449,2138,Harford Community College,Business,2.3,Ryker Hughes,3.8,73,69%,2,,1,,8,4,7,10,,3,4,1,2,1,1,1,1,3,1,3,177219
+450,2138,Harford Community College,Psychology,2.9,Manoyla Bayar,3.3,69,25%,,,1,2,1,1,3,1,1,3,2,1,,1,2,,3,,3,10,92373
+451,2138,Harford Community College,English,2.7,Susan Meyer,4.7,63,100%,3,1,,2,3,,3,11,,,4,2,,,9,1,,2,,3,443548
+452,2138,Harford Community College,Psychology,1.7,Gary Popoli,4.9,62,N/A,,1,,,,,,,,,2,2,,,,1,,,,,269429
+453,2138,Harford Community College,Sociology,2.6,Sharon Stowers,3.3,62,57%,,2,,2,1,6,5,3,1,,,,2,2,3,1,2,1,1,5,326232
+454,2138,Harford Community College,Humanities,3.7,Linda Heil,3.0,60,29%,,,,1,3,,2,2,,8,,,3,1,5,,4,,,9,92369
+455,2138,Harford Community College,English,1.8,Laura Fox,4.8,59,N/A,,1,,6,5,,3,5,1,,2,4,,,,4,1,,,,115923
+456,2138,Harford Community College,History,3.1,Andrew Kellett,3.7,59,47%,,3,,1,5,,11,2,,,11,,1,,9,,2,1,1,12,1190427
+457,2138,Harford Community College,Mathematics,2.8,Michele Catterton,3.8,59,50%,3,,,3,7,8,,4,2,,,,,11,4,3,4,,,5,590033
+458,2140,Gadsden State Community College Ayers Campus,Economics,2.2,Brent Wright,4.8,171,99%,18,43,,42,16,33,,48,2,,77,10,6,,30,36,30,,2,,1894697
+459,2140,Gadsden State Community College Ayers Campus,History,1.8,Todd Hamilton,4.8,30,100%,3,7,,2,1,1,,5,,,5,5,,,2,6,3,,,,433806
+460,2140,Gadsden State Community College Ayers Campus,Biology,3.0,Kaci Rodgers,3.8,29,91%,,4,1,8,2,6,2,4,,,3,1,,,2,5,5,,,2,1660158
+461,2140,Gadsden State Community College Ayers Campus,Accounting,2.9,Alison Hollingsworth,4.4,23,91%,9,2,2,6,9,4,5,9,,,1,1,1,4,1,5,5,,,,2185379
+462,2140,Gadsden State Community College Ayers Campus,Computer Science,2.1,Paulinus Ozor-Ilo,3.0,14,83%,,,,2,4,2,,5,,,2,1,,3,1,,1,1,,1,1296650
+463,2140,Gadsden State Community College Ayers Campus,English,3.3,Beth Gray,3.7,13,N/A,1,1,,1,1,,2,1,,,1,,,,1,1,,,,,433805
+464,2140,Gadsden State Community College Ayers Campus,Biology,3.5,Nancy Lee,4.1,13,80%,,,,3,,,,2,1,,,,2,,1,,3,,2,2,1310955
+465,2140,Gadsden State Community College Ayers Campus,Mathematics,4.1,Cal Smith,2.2,12,40%,1,,,,2,,,2,,,,1,1,2,3,1,4,,1,2,1733986
+466,2140,Gadsden State Community College Ayers Campus,English,3.0,Wendy Gurley,4.5,11,N/A,1,1,,2,2,1,1,3,,,1,,,3,1,3,,,,1,1654970
+467,2140,Gadsden State Community College Ayers Campus,English,1.6,Vanna McKee,5.0,7,N/A,,,,,,,,,,,,,,,,,,,,,1297875
+468,2140,Gadsden State Community College Ayers Campus,Mathematics,1.3,Wendy McClure,4.8,6,N/A,1,,,1,1,,,,1,,,2,,,,1,,,,,1655013
+469,2140,Gadsden State Community College Ayers Campus,Biology,3.4,James Skillman,3.7,5,N/A,,1,,,,,,,,,,,1,,1,,2,,,1,1366995
+470,2140,Gadsden State Community College Ayers Campus,English,1.8,Mike White,4.6,5,N/A,,,,1,,,,,,,,,,1,,1,,,,,1654967
+471,2140,Gadsden State Community College Ayers Campus,English,3.0,Laura Sullins,3.8,5,N/A,,1,,,1,,2,2,1,,1,,,,1,1,2,,,1,1952302
+472,2140,Gadsden State Community College Ayers Campus,History,3.3,Dale Karns,3.7,3,N/A,,,,,,,,,,,,,,,,,,,,,1454833
+473,2140,Gadsden State Community College Ayers Campus,History,2.3,Kenneth Morrison,5.0,3,N/A,,,,,,,,,,,,,,,,,,,,,1632372
+474,2140,Gadsden State Community College Ayers Campus,English,4.0,Emily B Gray,3.7,3,N/A,,,,,,,,,,,,,1,,,,,,,1,1790768
+475,2140,Gadsden State Community College Ayers Campus,Mathematics,3.7,Candace Davis,4.7,3,N/A,1,2,,,1,,,2,,,,,,1,,,1,,,,2232472
+476,2140,Gadsden State Community College Ayers Campus,Biology,4.0,Amanda Glaze,4.8,2,N/A,,,,,,,,,,,,,,,,,,,,,1473514
+477,2140,Gadsden State Community College Ayers Campus,English,1.0,Holley Harmon,4.8,2,N/A,,,,1,,,,1,,,,,,,,,,,,,2007126
+478,2141,Hartnell College,English,4.2,Ulises Palmeno,4.6,205,96%,18,30,4,18,31,33,68,113,,,22,38,1,36,17,39,41,11,,51,1990157
+479,2141,Hartnell College,Political Science,2.4,Larry Adams,4.8,121,97%,3,29,,6,4,7,5,4,,,6,9,4,1,3,23,21,,1,,130206
+480,2141,Hartnell College,Mathematics,2.1,Mark Weber,4.8,112,97%,11,23,1,10,16,6,,4,5,,18,4,4,1,1,19,3,,,,130193
+481,2141,Hartnell College,Psychology,3.0,Yoshiko Matsushita-Arao,4.8,88,100%,1,12,,3,7,4,2,8,,,5,7,,2,4,8,10,,,4,298117
+482,2141,Hartnell College,Biology,3.8,Isabel Ferraris,3.9,70,61%,5,16,2,15,11,1,7,5,5,,,7,9,,5,10,22,,13,14,1815630
+483,2141,Hartnell College,Mathematics,2.2,Jim Butler,4.8,68,95%,4,5,,14,3,,,5,5,,13,7,,3,1,11,4,,1,,516322
+484,2141,Hartnell College,History,3.1,Ann Dejesus-Riley,2.8,61,90%,,1,,,1,3,8,4,3,,2,2,1,2,2,1,,1,,1,91153
+485,2141,Hartnell College,History,2.1,Sam Pacheco,4.6,57,95%,,16,,5,2,5,10,3,5,,11,5,2,,12,6,1,,,,322303
+486,2141,Hartnell College,Mathematics,3.2,Greg Perkins,4.4,53,89%,3,2,5,3,3,2,1,2,,,5,1,,8,2,2,1,,1,5,298146
+487,2141,Hartnell College,English,2.8,Ron Waddy,3.0,47,39%,1,1,,,,1,4,4,3,,4,2,3,,,1,3,,,13,60027
+488,2141,Hartnell College,Mathematics,3.5,M Hussain,2.9,46,56%,2,,,5,,,1,,,,1,2,1,9,8,3,3,,1,2,693041
+489,2141,Hartnell College,English,4.2,Daniel Perez,2.5,40,20%,4,,,,,1,9,4,3,,,2,1,14,2,,6,7,1,17,1546594
+490,2141,Hartnell College,Biology,3.8,Ann Wright,4.1,39,N/A,1,2,1,3,4,2,3,3,1,,,2,3,,1,2,2,,,4,392082
+491,2141,Hartnell College,Music,1.8,William Faulkner,3.1,39,46%,,2,,1,,2,,2,4,1,1,,2,,2,2,5,,,1,425857
+492,2141,Hartnell College,English,2.6,María Teutsch (Tabor),4.3,37,40%,,,,,1,,5,3,,,1,2,,,,,,2,,2,80588
+493,2141,Hartnell College,Geology,2.6,Bob Barminski,4.0,36,N/A,,1,,,,1,3,2,1,,5,,2,1,1,2,3,,,3,627494
+494,2141,Hartnell College,English,3.1,Rhea Mendoza,4.5,36,75%,1,,,2,1,,4,6,,,,1,,6,1,2,5,2,,8,637582
+495,2141,Hartnell College,Psychology,3.2,Larry Lachman,4.3,35,92%,,11,,,7,,2,2,2,,1,4,6,1,1,4,12,,,,687453
+496,2141,Hartnell College,Biology,3.3,Alexander Edens,4.6,35,92%,1,8,4,1,7,,2,1,,3,2,,3,,,7,6,,3,1,669673
+497,2141,Hartnell College,Mathematics,3.2,Chris Moss,3.9,34,80%,,2,3,1,8,3,1,,,,5,,2,3,1,1,6,,1,,706672
+498,2143,Hawkeye Community College,Sociology,3.6,Roger Eich,3.0,115,55%,8,,,7,5,5,6,10,1,,1,2,5,13,7,4,2,19,,23,119576
+499,2143,Hawkeye Community College,Psychology,3.2,James Rodgers,2.8,68,14%,,,,,,1,7,,2,,3,1,1,1,1,,,2,1,6,169578
+500,2143,Hawkeye Community College,Chemistry,4.0,Ron Sindric,2.8,66,N/A,,,,,,,,1,,,,1,,,,,1,,,,257720
+501,2143,Hawkeye Community College,Religion,4.2,Linda Smith,1.8,65,17%,,,,,,,4,,,,,,4,2,1,,2,3,3,5,125445
+502,2143,Hawkeye Community College,Communication,2.2,Frances Kavalier,4.8,62,96%,5,5,,16,11,,2,17,,2,,10,1,,5,11,,,,,945358
+503,2143,Hawkeye Community College,History,2.8,Ken Cox,3.0,57,N/A,,,,,1,,1,,,,,,,,1,,,,,,118951
+504,2143,Hawkeye Community College,Business,2.6,Karen Reynolds,4.3,57,77%,3,2,,6,6,3,1,22,,1,2,7,,10,17,17,13,,1,,1531856
+505,2143,Hawkeye Community College,Science,3.6,Cindi Boyd,2.4,53,N/A,,,,,,,4,,1,,,,3,,1,,,,,5,142441
+506,2143,Hawkeye Community College,Mathematics,2.2,Rod Holke-Farnam,4.7,50,N/A,,2,,2,3,,,1,,,5,,,,,3,,,,,257723
+507,2143,Hawkeye Community College,Social Science,3.1,Patrick Ashwood,3.6,49,75%,,,,,3,1,4,1,,,1,,7,2,1,2,3,5,,4,123967
+508,2143,Hawkeye Community College,Accounting,3.0,Deb Weber,4.6,49,N/A,1,,,1,,,,1,,,,,,1,,,,,,1,175401
+509,2143,Hawkeye Community College,Business,2.7,Mark Ryan,4.9,45,92%,3,3,,8,2,,1,8,,,9,7,,,7,6,1,,,4,902657
+510,2143,Hawkeye Community College,Business,4.0,Joseph Toe,2.2,45,44%,,,2,2,,,,,1,,,,4,6,1,,1,,2,1,1482247
+511,2143,Hawkeye Community College,Communication,2.8,Carol Luvert,4.0,42,100%,,,,2,8,,1,8,,,3,3,,3,1,2,4,1,,,447381
+512,2143,Hawkeye Community College,Mathematics,2.7,Jeremy Fry,4.2,41,89%,2,2,,2,1,3,1,7,,,2,,1,2,2,5,8,,,2,321000
+513,2143,Hawkeye Community College,Social Science,2.6,Lisa Munoz,4.1,39,100%,,1,,3,2,1,4,,,,,2,2,,2,,1,2,,2,606871
+514,2143,Hawkeye Community College,Women's Studies,2.8,Karla Brown,3.7,38,N/A,,1,3,,,1,,1,,,,,2,6,2,,,5,,,360925
+515,2143,Hawkeye Community College,Accounting,4.3,Wayne Paper,2.3,37,N/A,,,,,,,,,,,,,,,,,,,,,131990
+516,2143,Hawkeye Community College,Psychology,2.4,Gery Deaver,4.5,37,N/A,,1,,,,,,,,,1,1,,,,,,,,,139378
+517,2143,Hawkeye Community College,History,2.4,Patrick Malloy,4.3,37,100%,1,2,,2,1,,,6,,,,6,2,,4,6,1,,,1,444793
+518,2144,Haywood Community College,Zoology,2.5,Dawn Cusick,4.8,12,N/A,1,1,,4,,,,,,,,3,,,1,3,,,,1,1243041
+519,2144,Haywood Community College,Mathematics,3.8,Beverly Brown,4.0,11,N/A,,,,,,,,,,,1,1,,,,1,,,,,335876
+520,2144,Haywood Community College,History,2.9,Greg McLamb,4.2,11,N/A,,,,,,,,,,,,,,,,,,,,,1187407
+521,2144,Haywood Community College,English,2.3,Sandra Dillingham,2.7,10,N/A,,,,,1,,,1,,,,,,2,,,,,,,467449
+522,2144,Haywood Community College,Communication,2.9,Katherine Greysen,3.0,9,N/A,,,,,,,,4,,1,,1,,2,5,1,2,,,1,1973192
+523,2144,Haywood Community College,Religion,3.4,Jeremy Phillips,4.0,8,N/A,,,,1,,,1,,,,,1,,1,2,,,,,,1253452
+524,2144,Haywood Community College,Psychology,2.0,Steve Wampler,4.8,8,N/A,2,,,5,,1,,3,,,3,1,1,,,2,,,1,,1994220
+525,2144,Haywood Community College,Science,4.4,Nikae Perkinson,4.2,5,N/A,,,,,,1,1,1,,,,,1,,,,3,,,1,1187393
+526,2144,Haywood Community College,Communication,4.0,Matthew Heimburg,3.2,5,N/A,,,,,,,,,,,,,,,,,,,,,1187403
+527,2144,Haywood Community College,Biology,3.0,Lucy Lowe,4.5,5,N/A,1,,,,,,,1,,1,,,,,,,,,,,1187409
+528,2144,Haywood Community College,Horticulture,2.5,John Sherman,5.0,4,N/A,,,,,,,,,,,,,,,,,,,,,660528
+529,2144,Haywood Community College,History,4.8,Stephanie Wampler,3.9,4,N/A,,,2,,,,2,1,,,,,,3,,1,,,,,1794841
+530,2144,Haywood Community College,English,3.5,Teresa Vanlandingham,5.0,4,N/A,,1,,1,,,1,,,,,1,,1,,,,1,,,1880865
+531,2144,Haywood Community College,Biology,4.3,Steven Heulett,4.2,3,N/A,,1,,,1,,,,,,,1,,,,,,,,,1013847
+532,2144,Haywood Community College,Biology,4.0,Sara Martin,5.0,3,N/A,,1,,,,,,1,,,,1,,,,2,,,1,,1253449
+533,2144,Haywood Community College,Communication,5.0,Ralph Hamlett,3.5,3,N/A,,,,,,,,1,,,,,,1,1,,,1,,1,1610786
+534,2144,Haywood Community College,Horticulture,3.5,George Thomas,3.0,2,N/A,,,,,,,,,,,,,,,,,,,,,660529
+535,2144,Haywood Community College,Wildlife,2.5,Rick Lindsey,3.5,2,N/A,,,,,,,,,,,,,,,,,,,,,673255
+536,2144,Haywood Community College,Wildlife,3.0,Dave Dudek,4.8,2,N/A,,,,,,,,,,,,,,,,,,,,,673258
+537,2144,Haywood Community College,English,1.5,Jason Woodard,4.3,2,N/A,,,,,,,,,,,,,,,,,,,,,1253453
+538,2145,Hazard Community College,English,3.5,Scott Lucero,3.2,22,N/A,,,,,,1,2,,,,,,,,2,,1,,,,798337
+539,2145,Hazard Community College,History,2.8,Mike Strickland,3.3,12,N/A,,,1,,,,1,,,,1,,,,,,1,,1,1,798181
+540,2145,Hazard Community College,Biology,2.8,Paul Currie,4.5,11,N/A,1,1,,,1,,2,,,,1,1,,1,,1,,,,1,727461
+541,2145,Hazard Community College,History,1.9,Thomas Neace,4.0,10,N/A,,,,2,1,2,2,1,1,,,1,1,,,,,,,,129449
+542,2145,Hazard Community College,Computer Science,2.8,David Frazier,2.9,10,N/A,,,,,1,1,1,,,,,,1,,,,,,,2,129459
+543,2145,Hazard Community College,Computer Science,3.7,Jeremiah Bryant,2.7,10,N/A,1,,,,,,3,,,,,,,5,,,2,2,2,,1109610
+544,2145,Hazard Community College,Mathematics,2.4,Jerry Michael Combs,4.6,9,N/A,,,,2,1,,,1,,,,1,,,1,2,1,,,1,1125412
+545,2145,Hazard Community College,Mathematics,3.5,Sharon Stewart,3.3,6,N/A,,,,,,,,,,,,,,,,,,,,,129445
+546,2145,Hazard Community College,Physics,3.8,Jeremy Wood,3.6,6,N/A,1,,,,2,,1,2,,1,,,2,,1,1,,,1,,1817869
+547,2145,Hazard Community College,English,2.6,Timothy Dunn,4.0,5,N/A,,,,,,,1,,,,,,2,,,,,,,,797389
+548,2145,Hazard Community College,English,4.0,Randy Moon,3.7,5,N/A,,,,,,,,1,,,,,,,1,,,,,1,1125362
+549,2145,Hazard Community College,Biology,4.0,Rex Medlin,4.8,5,100%,1,,,1,4,,4,2,,,,,,3,,,,,,,2304479
+550,2145,Hazard Community College,Sociology,4.2,Sandra Petrey-Blandau,2.4,5,20%,,,,,1,,4,,,,,,1,5,,,,2,,1,2253657
+551,2145,Hazard Community College,Health Science,2.5,Dell Sasser,5.0,4,N/A,,,,,,,,,,,,,,,,,,,,,143824
+552,2145,Hazard Community College,Psychology,2.8,JM Dixon,4.4,4,N/A,,,,,,,1,,,,,,,,,,1,,,1,727524
+553,2145,Hazard Community College,Mathematics,1.5,Michael Nyagol,4.6,4,N/A,,,,,,,,,,,,,,1,1,,,,,1,1701219
+554,2145,Hazard Community College,Mathematics,2.5,Daniel Madden,4.0,4,N/A,,,,2,,,,1,,,,,,,,1,,,,1,1914092
+555,2145,Hazard Community College,Mathematics,4.5,Amanda Spencer-Barnes,2.5,4,N/A,,,,1,1,,,,,,,,,,1,,2,,,1,1967712
+556,2145,Hazard Community College,English,4.8,Savannah Sipple,2.0,4,N/A,,,,,1,,1,,,,,,,2,1,,,1,1,3,2010925
+557,2145,Hazard Community College,Biology,3.2,Diane Gibson,1.2,4,N/A,,,,,1,,1,,,,,,,2,1,,,,,,2086128
+558,2146,Heald College: Concord,Accounting,3.1,Kinkin Sandhu,4.2,10,N/A,,,,,,,,,,,,,,,,,,,,,684836
+559,2146,Heald College: Concord,Accounting,4.3,Jeffrey Dewlaney,4.3,9,N/A,,,,,,,,,,,,,,,,,,,,,684839
+560,2146,Heald College: Concord,Computer Science,1.8,Olga Zaychykova,4.0,8,N/A,,,,,,,,,,,,,,,,,,,,,202995
+561,2146,Heald College: Concord,Mathematics,2.1,David Brown,4.8,7,N/A,,,,,,,,,,,,,,,,,,,,,682447
+562,2146,Heald College: Concord,English,2.9,Rachel Akin,4.7,7,N/A,,3,,1,,,,1,,,,,,,1,2,,,,,1655282
+563,2146,Heald College: Concord,Computer Science,3.5,Janmarrie Crab,4.2,6,N/A,,,,,,,,,,,,,,,,,,,,,622512
+564,2146,Heald College: Concord,English,1.5,Moria Manchouck,3.8,4,N/A,,,,,,,,,,,,,,,,,,,,,1305190
+565,2146,Heald College: Concord,Computer Science,3.0,Candy Francis,5.0,3,N/A,,,,,,,,,,,,,,,,,,,,,668905
+566,2146,Heald College: Concord,Computer Science,3.0,David Swan,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,682448
+567,2146,Heald College: Concord,Mathematics,3.0,Leah Burkhart,4.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1686748
+568,2146,Heald College: Concord,Computer Science,2.0,Kenneth Mayer,2.8,2,N/A,,,,,,,,,,,,,,,,,,,,,1739176
+569,2146,Heald College: Concord,Mathematics,2.0,Susan Wolff,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1684669
+570,2146,Heald College: Concord,Student Success,2.0,Ben Saheli,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1700279
+571,2146,Heald College: Concord,English,5.0,Renato Sioson,1.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1835334
+572,2146,Heald College: Concord,English,1.0,Jennifer Smith,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1973416
+573,2147,Heald College: Fresno,English,2.2,Aaron Spjute,4.9,5,N/A,,,,1,,,,2,,,,,,,1,1,,,,,1638066
+574,2147,Heald College: Fresno,Not Specified,4.7,Tammie Makely-Tripp,3.8,3,N/A,,,,,,,,,,,,,,,,,,,,,1699764
+575,2147,Heald College: Fresno,Psychology,2.0,Katie Heaton,3.0,2,N/A,,,1,,,,,,1,,,,,,,,,,,1,1527705
+576,2147,Heald College: Fresno,Criminal Justice,3.0,Steven Barefoot,4.5,2,N/A,,,,,,,,,,,,,,,,,,,,,1546873
+577,2147,Heald College: Fresno,Criminal Justice,1.0,David Noblett,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1595221
+578,2147,Heald College: Fresno,Education,4.0,Kei Shabazz,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1521169
+579,2147,Heald College: Fresno,Business,2.0,Kathleen Villareal,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1734310
+580,2147,Heald College: Fresno,Medicine,4.0,Gurinder Sidhu,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1751484
+581,2147,Heald College: Fresno,Business,3.0,Elaine Anes,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1755508
+582,2147,Heald College: Fresno,Accounting,2.0,Nawaz A Shah,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1860815
+583,2147,Heald College: Fresno,History,3.0,Garen Nidy,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1903081
+584,2148,Heald College: Salinas,Business,1.3,Lisa R Spence,5.0,4,N/A,,,,,,,,,,,,,,,,,,,,,1826701
+585,2148,Heald College: Salinas,Accounting,1.0,Amado Mabul,2.3,2,N/A,,,,1,,,,,,,,,,,1,,,,,,1504090
+586,2148,Heald College: Salinas,English,3.5,Jennifer Fenton,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1504091
+587,2148,Heald College: Salinas,Mathematics,1.5,Chris Cherpas,3.3,2,N/A,,,,,,,,,,,,,,,,,,,,,1504094
+588,2148,Heald College: Salinas,Mathematics,1.5,Enrique Limon,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1736573
+589,2148,Heald College: Salinas,Criminal Justice,2.0,Shelly Smith,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,720954
+590,2148,Heald College: Salinas,Mathematics,1.0,Christopher Jackson,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1504088
+591,2148,Heald College: Salinas,Not Specified,5.0,Mathias Mulengwa,1.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1504092
+592,2148,Heald College: Salinas,Science,1.0,Raymond Myers,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1504095

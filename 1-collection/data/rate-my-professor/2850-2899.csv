@@ -1,0 +1,702 @@
+,campus_id,campus_name,dept,difficulty,name,quality,rating_count,retake,tag_accessibleoutsideclass,tag_amazinglectures,tag_bewareofpopquizzes,tag_caring,tag_cleargradingcriteria,tag_extracredit,tag_getreadytoread,tag_givesgoodfeedback,tag_gradedbyfewthings,tag_groupprojects,tag_hilarious,tag_inspirational,tag_lectureheavy,tag_lotsofhomework,tag_participationmatters,tag_respected,tag_skipclassyouwon'tpass,tag_somanypapers,tag_testheavy,tag_toughgrader,tid
+0,2851,Southwest Virginia Community College,Business,2.3,Loretta Beavers,3.8,27,N/A,,,,1,1,,2,1,,2,,,2,,,,,2,1,,252504
+1,2851,Southwest Virginia Community College,Biology,4.4,Georgia Householder,4.0,24,80%,1,2,1,4,1,,3,,,,,,,1,,5,2,,1,,265773
+2,2851,Southwest Virginia Community College,Sociology,3.2,John Brenner,4.7,21,N/A,,,,,,,,,,,,1,,,1,1,,,,1,503288
+3,2851,Southwest Virginia Community College,Accounting,4.1,Paris Lester,1.9,19,N/A,,,,,,,,,,,,,,,,,,,,,499544
+4,2851,Southwest Virginia Community College,Psychology,2.5,Alice Brown,3.5,17,N/A,,,,2,,1,2,2,,,,1,1,2,,,,,,,286897
+5,2851,Southwest Virginia Community College,Engineering,2.5,Craig Ashbrook,4.9,17,N/A,,,,,,,,,,,,,,,,,,,,,552523
+6,2851,Southwest Virginia Community College,Science,2.4,Jason Osborne,3.9,14,N/A,,,,1,1,,,,,,2,,,,,,1,,,1,501885
+7,2851,Southwest Virginia Community College,Computer Science,3.1,Janet Rowell,3.3,13,N/A,,,,,1,,,1,,,,,1,1,1,1,1,,,,252500
+8,2851,Southwest Virginia Community College,English,2.8,Teresa Jewell,4.8,13,N/A,1,,,1,,,,,,,1,,,,,,,,,,1492387
+9,2851,Southwest Virginia Community College,English,2.8,Shari Hammond,3.9,11,N/A,,,,,,,,,,,,,,,,,,,,,686013
+10,2851,Southwest Virginia Community College,Mathematics,2.8,Bill Feiss,4.4,11,N/A,2,,,1,,1,,1,,,2,,,,1,1,,,,,1185044
+11,2851,Southwest Virginia Community College,Science,3.9,Dr. Morris,1.8,10,N/A,,,,,,,,,,,,,,,,,,,,,135994
+12,2851,Southwest Virginia Community College,Music,3.6,Joseph Trivette,2.5,9,N/A,,,,,,,,,,,,,,,,,,,,,209609
+13,2851,Southwest Virginia Community College,Graphic Arts,3.1,Doug Branton,4.8,9,N/A,,,,,,,,,,,,,,,,,,,,,587820
+14,2851,Southwest Virginia Community College,Mathematics,3.8,Danny Whited,3.1,9,N/A,,,,1,,,,1,,,,,,1,,1,,,1,2,1353048
+15,2851,Southwest Virginia Community College,Psychology,2.6,April Hess,4.1,7,N/A,,,,,,,,,,,,1,,,1,,,,,,252505
+16,2851,Southwest Virginia Community College,History,2.0,Brian Wright,3.5,7,N/A,,,,,,,,,,,,,,,,,,,,,587836
+17,2851,Southwest Virginia Community College,Business,3.8,Patsy Hankins,2.7,6,N/A,,,,,,,,,,,,,,,,,,,,,252498
+18,2851,Southwest Virginia Community College,Humanities,2.8,Brian Wright,5.0,5,N/A,,,,,,,,,,,,,,,,,,,,,501808
+19,2851,Southwest Virginia Community College,Communication,2.8,Lanna Lumpkins,4.9,5,N/A,,,,,,,,,,,,,,,,,,,,,1030917
+20,2852,Southwest Wisconsin Technical College,Economics,2.0,Karyl Nicholson,4.5,13,N/A,,1,,1,1,1,,4,,,1,1,,4,4,1,2,,,,722993
+21,2852,Southwest Wisconsin Technical College,Social Science,4.6,Linda Bernhardt,2.4,5,N/A,,,,,,,,,,,,,,,,,,,,,148184
+22,2852,Southwest Wisconsin Technical College,Humanities,1.8,Chantel Hampton,4.3,4,N/A,,,,1,1,,,,,,1,,,,1,,,,,,1493796
+23,2852,Southwest Wisconsin Technical College,Criminal Justice,1.3,George Dulzo,4.8,3,N/A,,,,,,,,,,,,,,,,,,,,,126739
+24,2852,Southwest Wisconsin Technical College,Agriculture,1.7,Scott Kennedy,4.7,3,N/A,,,,,,,,,,,,,,,,,,,,,722991
+25,2852,Southwest Wisconsin Technical College,Computer Science,3.3,Aaron Holverson,3.2,3,N/A,,,,,,,,,,,,,,,,,,,,,911027
+26,2852,Southwest Wisconsin Technical College,Business,2.3,Paul Bell,2.8,3,N/A,,,,,,,,,,1,1,,,2,,,,1,,,1494970
+27,2852,Southwest Wisconsin Technical College,Mathematics,1.5,Wally Iselin,3.0,2,N/A,,,,,,,,,,,,,,,,,,,,,766039
+28,2852,Southwest Wisconsin Technical College,Graphic Arts,3.0,Eric Gross,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1717091
+29,2852,Southwest Wisconsin Technical College,Criminal Justice,3.0,Tom Kretschman,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1827859
+30,2852,Southwest Wisconsin Technical College,English,4.0,Amy Poteet,2.0,1,N/A,,,,,,,,,,,,,1,,,,,,1,1,2261203
+31,2852,Southwest Wisconsin Technical College,Education,1.0,Renae Blaschke,3.0,1,N/A,1,,,1,,,,,,,,,,,1,,,,,,2261214
+32,2853,Southwestern College of Business,Medicine,4.4,Mrs. Artemus-Craig,3.1,5,N/A,,,,,,,,,,,,,,,,,,,,,740805
+33,2855,Southwestern College of Business: Middletown,Health Science,4.3,Dee Daulton,4.0,4,N/A,,,,,,1,,,,,,,,,,,,,,,808923
+34,2856,Southwestern Community College,Computer Science,3.2,Kurt Berger,3.7,30,N/A,2,,,2,3,,1,4,,,7,2,,,2,1,3,,,1,243814
+35,2856,Southwestern Community College,Computer Science,3.5,Kirk Stephens,3.3,25,N/A,,,,1,,,,1,,,,,,,,1,,,,,233303
+36,2856,Southwestern Community College,Biology,2.4,Trevor Rundle,4.3,20,N/A,2,2,,1,,,,2,,,,1,2,,,2,2,,1,1,233294
+37,2856,Southwestern Community College,Religion,3.3,Bucky Dann,3.8,19,N/A,1,,,1,,,1,2,,,2,,2,1,1,,,1,,2,870943
+38,2856,Southwestern Community College,Mathematics,3.8,Hilary Seagle,3.1,17,N/A,,,,,,,,,,,,,,,2,,2,,,2,251971
+39,2856,Southwestern Community College,Humanities,2.9,Duane Wesolick,3.4,16,N/A,,,,,,,1,,,,,,,,1,,,,,,282175
+40,2856,Southwestern Community College,Mathematics,3.9,Terry Tolle,2.0,15,N/A,,,,,,,,,,,,,,,,,,,,,248684
+41,2856,Southwestern Community College,Psychology,2.5,Tracy Chapple,3.5,15,N/A,,,,1,,,,,,,,1,,,,,,,,,250821
+42,2856,Southwestern Community College,Biology,3.7,Lunsford Eddie,4.3,14,N/A,,,,,,,1,,,,,,,,,,1,,,1,355716
+43,2856,Southwestern Community College,Accounting,4.3,Cheryl Contino-Conner,4.7,13,N/A,,,,,,,,,,,,,,,,,,,,,466641
+44,2856,Southwestern Community College,English,2.8,Owen Gibby,4.4,12,N/A,,,,,,,,,,,,,,,,,,,,,247628
+45,2856,Southwestern Community College,Chemistry,3.5,Deanne Oppermann,3.8,12,N/A,,,,,,,,1,,,,,,,,1,1,,,,728868
+46,2856,Southwestern Community College,Biology,3.3,Chad Hallyburton,3.5,12,N/A,,1,,1,2,,1,,,,,,,1,1,,,,,2,1463698
+47,2856,Southwestern Community College,Mathematics,3.8,Vicki Todd,1.5,12,20%,,,,,,,,1,,,,,,5,1,,1,2,1,5,1568094
+48,2856,Southwestern Community College,Computer Science,2.7,Joe Roman,4.5,11,N/A,,,,,,,,,,,,,,,,,,,,,234629
+49,2856,Southwestern Community College,English,2.6,Chris Cox,3.7,11,N/A,,,,,,,,,,,1,1,,,,,,,,,255495
+50,2856,Southwestern Community College,Mathematics,3.4,Rudy Beharrysingh,3.5,10,N/A,,,,1,,1,,,,,1,1,,,,,,,,,259915
+51,2856,Southwestern Community College,History,2.8,Jim Hippensteel,4.9,9,N/A,1,,,,1,,1,3,,,1,,,,,2,,,,,1564800
+52,2856,Southwestern Community College,Health Science,3.9,Sarah Altman,2.5,8,N/A,,,,,,1,,,,,,1,,,,,1,,,,248947
+53,2856,Southwestern Community College,English,3.4,Allan Grant,4.2,7,N/A,,1,,,,,,1,,,,1,,,,1,,,,,1002630
+54,2857,Southwestern Community College,Biology,3.9,Mindy Skarda,2.8,14,N/A,,,,,,,1,,,,,,,2,,1,,,1,2,568638
+55,2857,Southwestern Community College,Psychology,3.1,Kate Burrell,3.6,11,N/A,,,,,,,,,,,,,,,,,,,,,98147
+56,2857,Southwestern Community College,Mathematics,2.2,Wade Sick,4.5,8,N/A,1,,,,2,,,,1,,,,,,,,,,,,739407
+57,2857,Southwestern Community College,Psychology,3.9,Delores Doench,3.6,7,N/A,,,,,,,,,,,,,,,,,,,,,568639
+58,2857,Southwestern Community College,English,2.6,Kelly Franklin,4.8,7,100%,1,1,,2,,,,4,1,,3,2,,,2,1,,1,,,2129759
+59,2857,Southwestern Community College,Music,2.2,Doug Greene,3.8,6,N/A,,,,,1,,,,,,1,,1,,,,,,,,739410
+60,2857,Southwestern Community College,English,2.8,Justin Robertson,4.5,6,N/A,,,,,,,,,,,,,,,,,,,,,1047682
+61,2857,Southwestern Community College,Mathematics,2.6,Justin Mann,5.0,5,N/A,,,,,,,,,,,,,,,,,,,,,651845
+62,2857,Southwestern Community College,Nursing,3.2,Susan White,3.6,5,N/A,,,,,,,,,,,,,,,,,,,,,668618
+63,2857,Southwestern Community College,Nursing,4.6,Suzanne Carlson,3.2,5,N/A,,,,,,,,,,,,,,,,,,,,,869293
+64,2857,Southwestern Community College,Chemistry,2.8,Ed Trullinger,4.8,4,N/A,,,,,,,,,,,,,1,1,,,,,1,,854447
+65,2857,Southwestern Community College,Sociology,3.8,Jody Nedley-Newcomb,2.3,4,N/A,,,,,,,,,,,,,,,,,1,1,,2,1628330
+66,2857,Southwestern Community College,Psychology,2.8,Nichole Rinehart,5.0,4,N/A,,,,1,2,1,,1,,,3,1,,,,,1,1,,,2181804
+67,2857,Southwestern Community College,Business,2.0,Brandi Shay,3.7,3,N/A,,,,,,,,,,,,,,,,,,,,,651844
+68,2857,Southwestern Community College,Business,4.7,William Brothers,3.7,3,N/A,,,,,,,,,,,,,,,,,,,,,1678332
+69,2857,Southwestern Community College,History,2.7,Randy Hughes,4.8,3,N/A,,,,1,,,,,,,1,,2,,,1,1,,,,1694242
+70,2857,Southwestern Community College,Science,3.7,Debbie Galusha,1.7,3,N/A,,,,,,,1,,2,,,,,3,,,,,,3,2253051
+71,2857,Southwestern Community College,Biology,3.7,Clint Williams,3.7,3,N/A,,,,,,,,1,,,1,,1,,1,,,,1,1,2128662
+72,2857,Southwestern Community College,Business,4.0,Barb Brown,3.9,3,N/A,,,,,,,1,,,1,,,,2,2,,,,,,1789328
+73,2858,Southwestern Illinois College,Biology,4.4,Cinnamon Vanputte,3.2,102,36%,3,,,3,1,,5,11,2,,,5,6,5,2,,19,,11,26,279505
+74,2858,Southwestern Illinois College,English,3.1,Alicia Morgan,4.0,99,80%,17,4,,22,27,9,11,33,,1,,8,4,12,6,10,2,8,,3,1403497
+75,2858,Southwestern Illinois College,History,3.1,Kevin Monroe,4.6,96,92%,1,35,,5,7,,7,9,4,,26,12,5,,7,19,7,3,3,8,92799
+76,2858,Southwestern Illinois College,Psychology,3.2,Traci Sachteleben,3.7,88,89%,2,8,9,15,11,8,9,16,1,,1,4,1,,5,11,1,,2,5,266515
+77,2858,Southwestern Illinois College,Economics,3.7,Dennis Shannon,4.0,74,88%,,2,,6,10,5,3,5,,,9,2,3,3,13,3,4,,2,3,226004
+78,2858,Southwestern Illinois College,Anthropology,4.3,Karen Jobe,2.3,73,13%,,,,,,1,13,1,,1,,1,5,9,2,,5,2,2,19,130696
+79,2858,Southwestern Illinois College,Geography,2.7,Jeff Arnold,4.6,69,92%,,10,,,1,,1,,,,15,4,3,,2,2,12,,1,5,823579
+80,2858,Southwestern Illinois College,Psychology,2.8,Barbara Hunter,4.7,68,92%,2,8,1,4,4,1,3,3,,2,5,,1,2,8,8,4,,1,1,70286
+81,2858,Southwestern Illinois College,Sociology,3.3,Michael Smith,3.1,67,N/A,,3,,,1,,2,,1,1,6,,3,1,,,,,1,,1172631
+82,2858,Southwestern Illinois College,History,2.9,Ray Webb,4.5,66,88%,3,6,,4,5,,9,4,2,,6,1,1,,5,7,2,,1,5,130636
+83,2858,Southwestern Illinois College,Mathematics,4.0,Tim Grant,3.7,63,69%,3,1,1,,,,1,5,2,,1,,1,13,2,9,12,,1,13,941727
+84,2858,Southwestern Illinois College,Psychology,4.0,Kathy Kufskie,1.9,55,15%,1,,,,2,,14,2,1,2,1,,2,4,7,1,13,,2,17,1568862
+85,2858,Southwestern Illinois College,Mathematics,2.3,Robin Anderson,4.5,54,100%,,4,1,6,3,8,,6,,2,1,1,,,2,5,1,,,,1038494
+86,2858,Southwestern Illinois College,Biology,3.2,Mike Marlen,4.7,54,90%,,2,,1,8,7,,5,,,2,2,,,4,7,5,,,1,610623
+87,2858,Southwestern Illinois College,Mathematics,3.1,Lee Brendel,3.5,54,70%,,5,,3,3,,,5,1,,1,,,3,4,1,5,,2,2,978607
+88,2858,Southwestern Illinois College,Psychology,3.8,Laura Billings,3.5,50,78%,,4,,1,5,,14,5,2,,,,2,,2,3,,,1,8,216614
+89,2858,Southwestern Illinois College,Mathematics,3.9,Connie Park,2.5,50,11%,1,,,,3,1,1,4,,,,,4,11,2,1,10,,2,9,986908
+90,2858,Southwestern Illinois College,Science,2.8,Michael Dyer,4.3,49,N/A,,3,,4,2,,,2,,,6,1,3,,1,3,6,,1,1,432317
+91,2858,Southwestern Illinois College,English,3.0,Cory Lund,3.6,49,83%,1,4,,2,3,,1,12,1,,2,9,,4,3,5,2,2,,1,565252
+92,2858,Southwestern Illinois College,Biology,4.0,Randi Papke,3.2,48,25%,1,1,5,,2,2,4,1,,3,1,,3,2,4,,4,,3,9,1071739
+93,2859,Southwestern Indian Polytechnic Institute,Engineering,3.5,Dean Pershall,5.0,4,N/A,,,,,,,,1,,,,,,,1,1,,,,,261558
+94,2859,Southwestern Indian Polytechnic Institute,Mathematics,4.0,Robin Nicole Benton,5.0,4,N/A,1,,,2,3,,,1,,,,,,2,,1,2,,,,2258990
+95,2859,Southwestern Indian Polytechnic Institute,English,3.0,Paul Frank,4.0,3,N/A,,,,,,,,,,,,,,,,,,,,,726713
+96,2859,Southwestern Indian Polytechnic Institute,Engineering,3.3,Nadar Vadiee,5.0,3,N/A,,,,,,,,,,,,,,,,,,,,,726719
+97,2859,Southwestern Indian Polytechnic Institute,Chemistry,4.3,Bill Adams,5.0,3,N/A,,1,,,1,,,,,,2,1,,,,,,,,1,1384596
+98,2859,Southwestern Indian Polytechnic Institute,English,1.0,Gary Betts,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1162181
+99,2859,Southwestern Indian Polytechnic Institute,Health Science,2.0,Samuel Henderson,5.0,1,N/A,1,,,,,,,1,,,,,,,,1,,,,,2192880
+100,2860,Southwestern Michigan College,Communication,1.9,Tim Smith,4.8,51,N/A,,,,,,,,1,,,1,1,,,,2,,,,,126669
+101,2860,Southwestern Michigan College,Humanities,1.7,Deep Uppal,4.4,40,N/A,,,,,,,,,,,,,,,,,,,,,789542
+102,2860,Southwestern Michigan College,Communication,1.7,Jack Crouse,4.6,34,N/A,,,,,,,,,,,1,,,,,1,,,,,173980
+103,2860,Southwestern Michigan College,Business,3.4,Bill Boeckman,4.8,30,100%,2,12,,3,6,2,1,8,,,8,11,1,1,7,12,3,,1,,2214856
+104,2860,Southwestern Michigan College,Biology,3.8,Anna Norris,4.4,26,100%,1,6,,,2,,,1,,,,,5,3,,2,6,,1,3,190029
+105,2860,Southwestern Michigan College,Biology,3.8,Clyde Dalton,3.4,23,N/A,,,,,,,,,,,,,,,,,,,,,166376
+106,2860,Southwestern Michigan College,English,4.0,Maria Derose,2.3,23,32%,1,2,1,2,2,1,4,1,1,,,1,1,9,3,3,16,,,11,1830067
+107,2860,Southwestern Michigan College,Social Science,2.9,Stephen Jess,3.6,21,N/A,,,,,,,,,,,,,1,,1,,,,,,169130
+108,2860,Southwestern Michigan College,Mathematics,2.4,Ria Thomas,4.8,21,100%,1,,,1,3,1,,3,,1,1,2,,1,1,2,1,,,,204115
+109,2860,Southwestern Michigan College,English,3.3,Will Tomory,3.6,20,N/A,,,,,,,,,,,,,,,,,,,,,105944
+110,2860,Southwestern Michigan College,Languages,2.6,Natalie Anagnos,4.4,20,86%,4,,,2,2,,,4,,,4,2,,2,3,2,,1,,1,190034
+111,2860,Southwestern Michigan College,English,2.4,Scott Topping,4.9,19,N/A,,,,,,,,,,,,,,,,,,,,,166568
+112,2860,Southwestern Michigan College,Social Science,1.9,Donald Ludman,4.6,19,N/A,,1,,4,,,,1,,,,3,1,,1,4,,,,,190046
+113,2860,Southwestern Michigan College,Social Science,3.1,Mary Young,3.5,18,N/A,1,1,,,,,1,,,,,1,1,1,,,1,1,,3,143407
+114,2860,Southwestern Michigan College,Mathematics,2.8,Andrew Dohm,4.2,17,N/A,,,,,,,,,,,,,,,,,,,,,190043
+115,2860,Southwestern Michigan College,Psychology,2.8,Jeff Dennis,4.5,17,N/A,,2,,2,,,,1,1,,,1,3,1,,1,,2,,1,1393519
+116,2860,Southwestern Michigan College,Biology,3.7,Bruce Patnoudes,3.4,16,N/A,,1,,2,,,,,,,,,1,,,,,,,2,200271
+117,2860,Southwestern Michigan College,Mathematics,2.4,Brian Leonard,4.8,15,N/A,,,,,,,,,,,,,,,,,,,,,308977
+118,2860,Southwestern Michigan College,Computer Science,2.8,Dan Kamradt,3.0,14,N/A,,,,,,,,,,,,,,,,,,,,,200274
+119,2860,Southwestern Michigan College,English,2.6,Hailey Sheets,4.9,14,100%,2,,,7,3,,1,4,,,,2,,,,3,,1,,,1774442
+120,2861,Southwestern Oregon Community College,History,3.2,Fred Brick,4.5,54,N/A,,2,,,1,,,2,,,2,2,,,,,,1,,3,259239
+121,2861,Southwestern Oregon Community College,Mathematics,2.9,Sean Hutcherson,3.4,45,67%,1,,,4,2,,,3,,,,,1,6,1,1,,,1,2,259240
+122,2861,Southwestern Oregon Community College,Communication,2.3,Bernadette Kapocias,3.4,34,20%,,,,1,,,2,,,2,,1,,,5,,5,1,,1,259248
+123,2861,Southwestern Oregon Community College,Biology,4.1,Daniel Brouse,2.7,34,N/A,1,,,,,,3,1,1,,,,1,,1,,2,,2,4,268488
+124,2861,Southwestern Oregon Community College,English,3.6,Mark Wilson,3.3,31,N/A,,,1,,,,1,4,,,2,,,,,,,,1,1,260833
+125,2861,Southwestern Oregon Community College,Sociology,2.1,Christina Alexander,4.5,30,N/A,1,,,3,,,,1,,,,1,,,3,3,,,,,259247
+126,2861,Southwestern Oregon Community College,Literature,3.5,Candace Favilla,3.3,29,N/A,,2,,2,,,,1,,,,3,1,1,1,,,,,2,259234
+127,2861,Southwestern Oregon Community College,Mathematics,4.1,George Elkins,3.0,26,N/A,,,,,,,,,,,,,,,,,,,,,259102
+128,2861,Southwestern Oregon Community College,Mathematics,3.0,John Christiansen,4.6,24,N/A,,,,,,,,1,,,,1,,,,1,,,,,259402
+129,2861,Southwestern Oregon Community College,Psychology,3.3,Ânny Mueller,4.1,23,N/A,,4,,1,,,2,1,,1,1,4,,1,3,4,,,,2,622195
+130,2861,Southwestern Oregon Community College,Writing,2.4,Zita Ingham,2.9,22,N/A,,,,2,,,,1,,,,,,,,,1,,,,259242
+131,2861,Southwestern Oregon Community College,Biology,3.5,Robert Fields,4.4,19,N/A,,,,1,,1,3,1,,,2,,2,,,,1,,,1,259105
+132,2861,Southwestern Oregon Community College,Chemistry,3.9,Anne Sylvia,4.4,17,N/A,,,,,,,,,,,,,,,,1,,,,1,268490
+133,2861,Southwestern Oregon Community College,Geology,3.4,Ron Metzger,4.6,17,N/A,,1,,1,,,,,,,,,,,,1,,,,,344745
+134,2861,Southwestern Oregon Community College,Writing,3.6,Eleanor Montagna,2.8,16,17%,,,,,,,,2,,,,1,,3,1,1,,1,1,5,729652
+135,2861,Southwestern Oregon Community College,Literature,2.1,Sally Harrold,3.1,14,N/A,,,,1,,,,1,,,,,,,,,,1,,,120660
+136,2861,Southwestern Oregon Community College,Writing,2.6,Evan Davis,2.4,14,N/A,,,,,,,,,,,,,,,,,,,,,259238
+137,2861,Southwestern Oregon Community College,Humanities,3.6,Hugh Malafry,3.0,14,N/A,,,,,,,,,,,,,,,,,,,,,650669
+138,2861,Southwestern Oregon Community College,Mathematics,2.4,Willa Shannon,4.1,13,N/A,,,,,,,,,,,,,,,,,,,,,259236
+139,2861,Southwestern Oregon Community College,Mathematics,3.2,Jeff Hayen,4.4,13,N/A,,,,,,,,,,,,,,,,,,,,,821822
+140,2862,Spartanburg Community College,Communication,2.6,Allison Horrell,4.6,74,81%,1,4,,8,2,,1,14,,2,11,15,,,11,10,10,,,9,1142094
+141,2862,Spartanburg Community College,Biology,4.2,John Todd,3.9,61,55%,8,,,3,,,,4,4,,,,12,,1,3,16,,7,10,628383
+142,2862,Spartanburg Community College,Political Science,3.5,Natasha Harlan,3.5,45,100%,,6,,2,1,,,7,,,3,10,,3,6,2,11,,,8,1220867
+143,2862,Spartanburg Community College,Biology,3.9,Craig Denesha,4.2,41,93%,1,1,,3,1,1,11,3,1,,4,,3,,,7,5,,1,2,1183201
+144,2862,Spartanburg Community College,Economics,3.4,Chris Fant,3.6,38,86%,,6,,1,3,1,2,3,,,2,2,1,1,2,2,1,,,1,699688
+145,2862,Spartanburg Community College,English,3.3,Rita Weeks,3.3,35,N/A,,,,2,,,3,4,,,,2,,4,1,,,2,,3,67605
+146,2862,Spartanburg Community College,Science,3.9,Gail Jones,4.0,35,89%,,,7,1,,2,,,,,5,,,2,1,2,3,,,,851877
+147,2862,Spartanburg Community College,Biology,4.1,Chipley Bennett,4.3,33,80%,,,4,,,,,2,,,2,,5,,,1,5,,1,3,507888
+148,2862,Spartanburg Community College,Health Science,4.4,Darlene Sauls,2.3,31,N/A,,,,1,,,2,,,,,1,,2,,,,,,2,1330156
+149,2862,Spartanburg Community College,Sociology,2.0,Ted Fansher,4.0,31,100%,2,,,4,1,5,2,2,2,,8,,,1,5,7,2,,,,1276950
+150,2862,Spartanburg Community College,History,2.6,Bruce Dillenback,4.4,30,83%,2,2,,3,3,,2,1,1,,,,2,,1,1,1,,,2,608221
+151,2862,Spartanburg Community College,Computer Science,3.1,Mr. Matt Alimagham,4.3,30,60%,1,1,2,,,,,4,,,2,2,2,,2,2,8,,,1,643696
+152,2862,Spartanburg Community College,English,2.8,John Marshall Evans,3.5,30,100%,,1,,1,3,,6,3,1,3,,3,,,11,2,3,,,2,1499621
+153,2862,Spartanburg Community College,Biology,3.9,Michael Winterrowd,2.2,29,40%,1,,,1,1,1,5,,4,1,2,,8,,2,1,5,,1,4,1479392
+154,2862,Spartanburg Community College,English,2.5,Jenny Williams,4.1,28,N/A,,,,,,,2,,,,,,,,,,3,,,3,641633
+155,2862,Spartanburg Community College,English,2.3,Alan Tessaro,4.4,28,N/A,2,1,,1,1,,,5,,,,1,,,4,3,1,1,,1,818090
+156,2862,Spartanburg Community College,Biology,3.6,Abigail Babcock,4.3,28,50%,1,3,2,4,1,,1,4,3,,1,,4,,,2,7,,4,7,1224927
+157,2862,Spartanburg Community College,Mathematics,2.6,Tim McBride,4.5,28,92%,2,7,,6,5,1,,3,4,,1,1,1,2,5,10,1,,1,2,1483774
+158,2862,Spartanburg Community College,Mathematics,4.0,Melanie J. Roberts,3.3,27,78%,3,1,5,2,2,1,,1,1,,1,,,4,1,,11,,,8,1427150
+159,2862,Spartanburg Community College,Communication,2.1,Bob Stokem,4.7,24,100%,1,1,,3,1,1,,5,,,1,2,,,,1,1,,,1,321474
+160,2863,Spencerian College,English,3.7,Carolyn Hensley,4.3,6,N/A,,1,,1,,1,,,,,2,1,,,,2,,,,1,680945
+161,2863,Spencerian College,Psychology,2.0,Tonnie Renfro,5.0,4,N/A,,,,,,,,,,,,,,,,,,,,,260803
+162,2863,Spencerian College,Not Specified,2.7,Axel Dell,4.8,3,N/A,,,,,,,,,,,,,,,,,,,,,776089
+163,2863,Spencerian College,Medicine,3.0,Julie Owens,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1432042
+164,2863,Spencerian College,Law,4.0,Julie Ryan,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1432048
+165,2863,Spencerian College,Radiology,5.0,Beverly Flick,3.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1551315
+166,2863,Spencerian College,Business,4.0,Michael Raymer,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1691228
+167,2863,Spencerian College,Psychology,4.0,Stephen Landman,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1691895
+168,2864,Spencerian College: Lexington,Psychology,2.0,Leslie Moore,2.5,2,N/A,,,,,,,,,,,,,,,,,,,,,1832719
+169,2865,Spokane Community College,History,2.7,Stacy Kowtko,4.3,113,92%,4,2,,9,4,23,17,14,1,5,4,7,,20,2,2,,3,,,298971
+170,2865,Spokane Community College,Psychology,3.0,Ger Moua,2.9,91,42%,1,3,32,,7,2,8,3,8,2,2,1,12,,8,4,22,4,7,9,987470
+171,2865,Spokane Community College,Chemistry,2.3,L. Jaye Hopkins,4.8,81,100%,3,7,,5,4,2,,6,,,5,2,,,1,4,1,,,,891242
+172,2865,Spokane Community College,Mathematics,4.0,Jacqueline Freudenthal,2.3,81,21%,2,,,1,,,9,6,1,5,,1,,24,5,1,6,,7,12,894067
+173,2865,Spokane Community College,Mathematics,3.4,Kelly Jahns,4.1,78,100%,4,,,5,9,4,,14,,,9,5,,4,5,4,7,,1,4,501667
+174,2865,Spokane Community College,Business,4.5,Doug Nelson,4.0,76,N/A,,1,,2,1,,,1,,,,1,,2,1,1,4,,,6,689371
+175,2865,Spokane Community College,Biology,3.7,Mukti Ryan,4.5,75,89%,,5,,14,2,11,1,,,,2,1,1,,1,17,20,,2,15,1624595
+176,2865,Spokane Community College,Mathematics,3.2,Scott Satake,4.1,72,58%,4,,1,9,2,,3,5,,,9,1,1,15,3,2,7,1,7,11,332136
+177,2865,Spokane Community College,Mathematics,3.0,Kamilia Nemri,3.8,69,41%,1,1,,4,3,4,,4,,2,,,3,9,3,7,1,,4,2,768401
+178,2865,Spokane Community College,Biology,3.2,Susan Butler,4.0,69,53%,1,,,2,4,5,6,1,,,,,2,5,4,2,5,,1,5,957229
+179,2865,Spokane Community College,Mathematics,4.0,Rebecca Cosner,2.7,68,28%,3,1,1,2,2,3,2,5,1,,3,,1,20,2,4,18,1,10,18,1634076
+180,2865,Spokane Community College,Biology,4.3,Jade Bost,2.2,67,18%,,,5,1,,4,2,,,,,,5,1,3,,9,1,4,13,809400
+181,2865,Spokane Community College,Communication,2.4,Linda Seppa-Salisbury,5.0,67,100%,,10,,6,6,,,10,,1,1,13,,1,8,6,,,,,710388
+182,2865,Spokane Community College,Biology,4.1,Methea Sapp,3.5,64,27%,,1,,,2,1,5,2,1,1,,,7,2,1,,3,,7,10,732492
+183,2865,Spokane Community College,Psychology,3.2,Jason Eggerman,4.3,61,91%,7,6,,4,5,1,16,14,,,4,1,3,1,13,2,4,,3,12,1634712
+184,2865,Spokane Community College,Mathematics,3.9,Kristen Humphrey,2.1,60,46%,3,1,,2,1,,2,2,,1,,1,1,8,5,,2,1,,2,741940
+185,2865,Spokane Community College,Biology,2.7,Suzanne Bassett,4.7,60,96%,6,5,,16,8,15,4,4,,,2,2,2,,3,8,3,,2,,958744
+186,2865,Spokane Community College,Chemistry,3.1,Mike Miller,3.7,60,83%,1,4,,4,5,1,,4,2,,2,1,3,,1,3,2,,2,1,654596
+187,2865,Spokane Community College,Communication,2.6,Angela Wizner,3.0,59,50%,,1,4,2,2,,8,4,1,8,,3,,,8,,1,,,2,324277
+188,2865,Spokane Community College,Music,3.1,David Such,2.5,58,50%,1,,,,,5,4,2,2,,,,1,6,,1,1,,1,4,515849
+189,2866,Spokane Falls Community College,Psychology,2.6,Katella DeBolt,4.6,119,79%,4,14,2,6,4,4,1,5,4,2,16,8,3,1,4,2,8,1,1,5,962118
+190,2866,Spokane Falls Community College,Biology,4.3,George Timm,1.8,111,14%,1,1,,3,,2,12,,3,1,2,1,2,5,1,,11,1,6,18,228143
+191,2866,Spokane Falls Community College,History,3.4,George Suttle,4.0,108,59%,1,12,4,6,2,1,3,,7,,4,6,20,,5,6,27,,13,24,591433
+192,2866,Spokane Falls Community College,Mathematics,4.4,Jim Hallam,1.7,106,N/A,,,,,,,,,,,,,,1,1,,,,,,136219
+193,2866,Spokane Falls Community College,Political Science,4.2,Meike Mittelstadt,2.9,105,47%,,1,,,3,,14,2,1,1,1,2,3,15,5,2,1,1,3,7,228145
+194,2866,Spokane Falls Community College,Mathematics,3.9,Rudy Gunawan,3.7,93,35%,2,3,1,2,2,,4,3,4,2,,1,,5,,6,5,,8,22,94763
+195,2866,Spokane Falls Community College,History,3.1,Vance Youmans,4.1,92,86%,1,8,,,,3,5,1,2,,7,9,5,3,4,4,4,4,,1,92569
+196,2866,Spokane Falls Community College,Biology,3.9,Al Wilson,3.5,82,63%,,4,,4,10,3,1,3,3,1,2,3,5,,1,5,16,,4,8,471084
+197,2866,Spokane Falls Community College,English,3.7,Barbara Williamson,4.0,80,88%,,5,,7,2,2,16,11,,,4,11,1,8,11,1,6,1,,3,462416
+198,2866,Spokane Falls Community College,Biology,3.3,Velma Matthew,4.2,79,29%,,3,,1,5,3,4,1,,,9,1,5,2,5,3,16,,5,16,228146
+199,2866,Spokane Falls Community College,Mathematics,3.4,Gary Glaze,4.2,76,68%,2,1,,2,1,,1,4,3,,4,2,,13,8,6,7,,1,9,595219
+200,2866,Spokane Falls Community College,Psychology,2.1,Karl-Erik Andreasson,4.2,74,85%,,4,,9,5,3,4,6,,,6,4,,1,3,3,,,,,215126
+201,2866,Spokane Falls Community College,English,3.6,Bradley Bleck,2.5,73,30%,,,,4,3,,17,7,1,,1,1,4,12,5,2,5,6,,9,282657
+202,2866,Spokane Falls Community College,Philosophy,2.1,Britni Weaver,4.1,72,79%,3,6,,5,2,7,1,5,2,,4,4,5,1,3,5,3,,,,762247
+203,2866,Spokane Falls Community College,Chemistry,4.3,Joanna Petridou,2.1,70,12%,1,1,,3,,,4,1,1,,,,12,1,2,,15,,4,20,290676
+204,2866,Spokane Falls Community College,Anthropology,4.1,Jerry O'Neal,3.1,65,N/A,,,,,,,,,,,,,,,,,,,,,468792
+205,2866,Spokane Falls Community College,Geography,3.5,Cameron McCormick,3.0,65,63%,3,2,1,4,3,1,2,6,,,3,,4,10,2,5,6,1,1,8,1173822
+206,2866,Spokane Falls Community College,Astronomy,3.3,John Whitmer,4.5,65,92%,2,4,,1,8,,4,5,,,1,2,2,4,,4,2,,2,2,547129
+207,2866,Spokane Falls Community College,Communication,3.3,Larry Massey,4.7,64,86%,,4,2,1,,,6,3,,2,4,1,,1,8,5,4,,,4,763360
+208,2866,Spokane Falls Community College,English,2.2,Irv Broughton,3.3,64,22%,2,2,1,,,4,3,5,1,,1,1,6,3,2,,3,4,,1,813480
+209,2867,Spoon River College - Canton,English,3.0,Donna Smith,4.6,25,N/A,,,,1,,,,2,,,,1,,,,2,,,,,303742
+210,2867,Spoon River College - Canton,Sociology,3.0,Michael C. Maher,4.8,23,N/A,,,,,,,,2,,,,,,,2,1,,,,1,373043
+211,2867,Spoon River College - Canton,English,3.3,Douglas Okey,2.8,18,N/A,,,,,,,1,1,,,,,,2,3,,,,,3,373050
+212,2867,Spoon River College - Canton,Social Science,2.3,Jason Strandburg,4.8,13,N/A,,1,,1,,1,,,,,3,1,,,,3,1,,,,678456
+213,2867,Spoon River College - Canton,Physics,2.5,Win Tha Htwe,4.2,12,N/A,,1,,,,,,,,,3,,2,,1,2,,,,,192907
+214,2867,Spoon River College - Canton,Philosophy,3.5,Ron Wroblewski,3.5,10,N/A,,,,,,,,,,,,,,,,,,,,,465841
+215,2867,Spoon River College - Canton,Mathematics,2.9,Brian D. Dalpiaz,3.9,9,N/A,,,,,,,,,,,,,,1,2,,,,,,373051
+216,2867,Spoon River College - Canton,Philosophy,2.2,Bob Zellman,4.9,8,N/A,,1,,,1,,,,,,,1,,,,,,,,,192905
+217,2867,Spoon River College - Canton,Graphic Arts,2.6,Tracy L. Snowman,4.2,8,N/A,,,,,,,,,,,,,,,,,,,,,373068
+218,2867,Spoon River College - Canton,English,2.7,Jan Hardy,4.4,7,N/A,,,,,,,,,,,,,,,,,,,,,132459
+219,2867,Spoon River College - Canton,Biology,2.4,Thomas Vogel,4.9,7,N/A,,,,,1,,,,,,2,2,,,,1,,,,,501805
+220,2867,Spoon River College - Canton,Mathematics,2.0,Jim Sheff,4.9,7,N/A,,,,,,,,,,,,,,,,,,,,,1093956
+221,2867,Spoon River College - Canton,Health Science,3.7,Amy McCallister,1.4,7,N/A,,,,,,,1,,,,,,,,,,,,1,6,1602624
+222,2867,Spoon River College - Canton,Chemistry,2.6,Stacy Swanson,3.5,5,N/A,,,,,,,,,,,,,,,,,,,,,741181
+223,2867,Spoon River College - Canton,Sociology,1.8,Beate Wilson,3.1,4,N/A,,,,,,,,,,,,,,,,,,,,,642323
+224,2867,Spoon River College - Canton,Communication,2.3,Bob Gorg,4.4,4,N/A,,,,,,,,,,,,,,,,,,,,,696441
+225,2867,Spoon River College - Canton,Sociology,2.5,Jennifer Briney,4.8,4,N/A,,,,,,,,,,,,,,,,,,,,,889403
+226,2867,Spoon River College - Canton,Health Science,2.5,Danyelle Barlow,3.0,4,N/A,,,,,1,,1,,,,,,,,1,,,,,,1306596
+227,2867,Spoon River College - Canton,Communication,2.0,Dustin Day,4.1,4,N/A,,,,,,,,,,,,,,,,,,,,,1593521
+228,2867,Spoon River College - Canton,Mathematics,2.3,Sarah Dalpiaz,4.3,3,N/A,,,,,,,,,,,,,,,,,,,,,846031
+229,2868,Benedictine University at Springfield,Business,3.3,Dave Saner,3.2,10,N/A,,,,,,,,,,,,,,1,,,,,,1,717096
+230,2868,Benedictine University at Springfield,Mathematics,2.9,Barbara Tanzyus,4.5,9,N/A,,,,,,,,,,,,,1,,,,,,,,512514
+231,2868,Benedictine University at Springfield,English,3.3,Judith Anderson,3.2,8,N/A,,,,,,,,,,,,,,,,,,,,,391412
+232,2868,Benedictine University at Springfield,English,1.7,Amy Lakin,4.8,6,N/A,,,,,,,,,,,,,,,,,,,,,391418
+233,2868,Benedictine University at Springfield,English,3.0,Lynette Shaw-Smith,5.0,6,N/A,,,,1,,,,3,,,1,1,,,,2,,,,2,391419
+234,2868,Benedictine University at Springfield,Mathematics,4.3,Teresa Saner,4.0,4,N/A,,,,,,,,1,,,,1,,,1,,,,,,889302
+235,2868,Benedictine University at Springfield,Chemistry,3.3,Wayne Burrows,4.4,4,N/A,,,,,,,,,,,,,,,,,,,,,959128
+236,2868,Benedictine University at Springfield,English,2.0,David Logan,4.8,4,N/A,,,,,,,,,,,,,,,,,,,,,1047193
+237,2868,Benedictine University at Springfield,Psychology,3.8,William Harmening,4.9,4,N/A,,,,,1,,1,,,,,,,,,,,,,,1107706
+238,2868,Benedictine University at Springfield,English,3.3,Ted Morrissey,4.5,3,N/A,,,,,,,,,,,,,,1,,,,,,,391407
+239,2868,Benedictine University at Springfield,Mathematics,5.0,Philip Welsh,2.8,2,N/A,,,,,,,,,,,,,,,,,1,,,1,1810220
+240,2868,Benedictine University at Springfield,Health Science,4.0,Torrie Buchanan,5.0,2,N/A,,,,2,,,,,,,,,,,1,1,,,,,1947584
+241,2868,Benedictine University at Springfield,Business,4.0,Professor Uzonna Olumba,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,2049366
+242,2868,Benedictine University at Springfield,Mathematics,4.0,Kazim Abbot,5.0,1,N/A,,,,1,,,,,,,,,,,1,1,,,,,2050120
+243,2869,Springfield Technical Community College,Business,2.7,Paul Thornton,4.6,72,100%,,9,,2,5,,3,20,,10,,9,,2,12,5,,,,3,143056
+244,2869,Springfield Technical Community College,Engineering,2.5,Zahi Haddad,4.4,55,100%,4,7,,9,2,,1,3,,,5,4,,5,,11,2,1,,,127340
+245,2869,Springfield Technical Community College,Biology,2.6,Richard Greco,4.8,54,88%,,7,,2,,2,,2,1,,3,2,,6,,4,,,,1,1768073
+246,2869,Springfield Technical Community College,Social Science,2.0,Nicholas Camerota,3.9,50,N/A,,4,,1,1,,2,,,,3,1,1,,1,,2,,,,172738
+247,2869,Springfield Technical Community College,Mathematics,1.7,Richard Burns,5.0,48,100%,1,4,,7,2,,1,4,,,2,9,,,,4,,,,2,25029
+248,2869,Springfield Technical Community College,Mathematics,2.4,Leonard Groeneveld,4.0,48,N/A,1,1,1,,,,,1,1,,1,,,,,,3,,1,3,301815
+249,2869,Springfield Technical Community College,Psychology,1.8,John Guerra,4.5,47,100%,,9,,4,3,,,5,1,,7,4,2,,,7,,,,4,752725
+250,2869,Springfield Technical Community College,Biology,3.6,Joseph Maciaszek,3.5,45,55%,2,2,,4,1,,6,3,,,2,,2,2,2,7,6,1,2,7,1010380
+251,2869,Springfield Technical Community College,Biology,4.2,Austin Burt,3.4,45,69%,1,5,,3,2,2,6,2,,,1,5,1,2,4,2,9,3,4,7,1288662
+252,2869,Springfield Technical Community College,Chemistry,4.5,Mark Wells,2.5,39,N/A,1,,,1,2,,,,,,,2,,2,,3,4,,2,5,700494
+253,2869,Springfield Technical Community College,English,3.0,Pamela Jongbloed,3.5,39,54%,,1,,1,2,,5,3,1,,3,2,1,1,2,1,7,2,,3,923873
+254,2869,Springfield Technical Community College,Psychology,1.8,Eric Brown,4.4,39,100%,,3,,3,2,1,3,1,,,2,2,,1,6,2,,,,,951909
+255,2869,Springfield Technical Community College,Biology,3.6,B. Poe,3.2,38,20%,,,,,2,,6,2,,,1,,4,3,3,,5,,1,1,829517
+256,2869,Springfield Technical Community College,Economics,3.2,Michael Magala,3.4,37,N/A,,1,,,2,,3,,,,1,,1,,,,1,,2,1,135521
+257,2869,Springfield Technical Community College,English,2.6,Theresa Shea,4.8,35,100%,1,4,,4,,,3,8,,,11,11,,2,3,10,8,,,,1359515
+258,2869,Springfield Technical Community College,Biology,3.3,Michele Nash,3.4,35,56%,,2,2,4,2,5,2,2,1,1,4,,,1,4,,4,,1,4,316620
+259,2869,Springfield Technical Community College,Mathematics,2.0,Lauren Brewer,4.8,34,100%,,4,,5,1,4,,5,,,2,1,,1,2,5,3,,,,301814
+260,2869,Springfield Technical Community College,Mathematics,1.7,James Ramah,4.8,32,N/A,,1,,7,2,1,,1,,,6,1,,,1,4,2,,,,1689908
+261,2869,Springfield Technical Community College,Biology,3.3,Philip Dalessio,4.8,32,91%,2,3,,14,3,3,5,3,,,4,1,,1,,9,3,,1,3,1140042
+262,2869,Springfield Technical Community College,English,3.5,Janet Crosier,1.9,32,10%,,,1,,1,,3,2,2,1,,,,1,3,,2,2,,6,1364522
+263,2870,St. Catharine College,English,3.4,Leo Hamelin,4.0,5,N/A,,,,,,,,,,,,,,,,,,,,,138002
+264,2870,St. Catharine College,Health Science,3.8,Manism Okafor,3.5,4,N/A,,,,,,,,,,,,,,,,,,,,,1355441
+265,2870,St. Catharine College,Criminal Justice,1.7,DR. Toder,2.7,3,N/A,,,,,,,1,,,,,,,,1,,1,,,,926522
+266,2870,St. Catharine College,Humanities,4.0,Tara Tuttle,5.0,2,N/A,,,,,,,1,,,,,,,,,1,,1,,,1833970
+267,2870,St. Catharine College,Computer Science,1.0,Gary Whittle,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1440795
+268,2870,St. Catharine College,Mathematics,4.0,Sam Su,1.0,1,N/A,,,,,,,,,,,,,1,1,,,1,,,,2080636
+269,2872,St. Clair County Community College,Criminal Justice,2.0,Brian Moeller,4.7,108,N/A,,,,,,,,,,,,,,,,,,,,,378576
+270,2872,St. Clair County Community College,Social Science,2.3,Kraig Archer,3.8,107,56%,,1,,8,2,10,7,5,,2,,2,11,8,2,2,4,3,2,5,120957
+271,2872,St. Clair County Community College,English,3.3,Cliff Johnson,4.0,103,50%,2,3,,1,,,4,12,1,,9,5,1,4,20,2,2,2,,16,225284
+272,2872,St. Clair County Community College,English,4.0,Louella Allen,2.7,77,43%,,,,3,1,3,,2,,1,,1,,11,10,3,11,10,,3,575915
+273,2872,St. Clair County Community College,Mathematics,2.2,Paul Bedard,4.8,75,91%,3,2,3,18,3,10,,6,2,,18,3,,1,1,4,1,,,,253233
+274,2872,St. Clair County Community College,Biology,3.2,Robert Moldenhauer,4.3,71,75%,1,4,,5,3,1,1,2,5,,6,1,5,,1,7,3,,5,5,219459
+275,2872,St. Clair County Community College,Communication,2.0,Tangie Christmas,3.0,70,43%,,,,5,1,11,1,5,1,,1,,2,,6,,10,2,,1,585814
+276,2872,St. Clair County Community College,Economics,4.0,Robert Tansky,3.1,69,N/A,,,,,,,,,,,,,,,,,,,,,235943
+277,2872,St. Clair County Community College,History,3.8,Patricia Frank,4.1,64,92%,,4,,3,2,,6,2,,,8,1,4,1,2,4,9,,3,9,610754
+278,2872,St. Clair County Community College,Psychology,2.5,Alan Meno,4.8,59,N/A,,,,,,,,,,,,,,,,,,,,,120943
+279,2872,St. Clair County Community College,Criminal Justice,3.0,Bj Roe,4.4,58,N/A,,,,,,,,,,,,,,,,,,,,,331372
+280,2872,St. Clair County Community College,English,2.2,Jeff Torricelli,4.0,57,N/A,,,,,2,,,,,,6,2,,,2,,,,,,119613
+281,2872,St. Clair County Community College,Biology,2.9,Dave Webb,3.6,56,67%,4,4,1,1,4,,,2,2,1,1,,10,,,2,6,,2,6,609093
+282,2872,St. Clair County Community College,Mathematics,2.6,Barry Trippett,4.2,55,67%,2,,,4,2,,,5,,,,,,1,,,,1,1,,287441
+283,2872,St. Clair County Community College,Business,2.7,Terry Langan,4.0,54,50%,1,,,2,2,,1,2,,,,,3,5,,3,2,,2,3,247770
+284,2872,St. Clair County Community College,English,3.1,Gary Schmitz,4.5,50,100%,,,,1,1,,,5,2,,,2,,,,3,1,1,,1,138096
+285,2872,St. Clair County Community College,English,3.6,John Lusk,3.4,50,57%,1,1,,2,,,7,3,,,,,,5,1,5,,4,,14,231110
+286,2872,St. Clair County Community College,Biology,3.7,Janice Fritz,3.7,50,68%,9,3,,8,4,4,1,5,,,2,1,2,6,4,5,4,,1,5,1199314
+287,2873,St. Cloud Technical & Community College,Computer Science,2.5,Marlene Miller,4.6,70,91%,8,9,,9,15,,3,25,,4,,13,,6,11,8,4,2,,,1625393
+288,2873,St. Cloud Technical & Community College,Philosophy,3.1,Robert Kapitzke,4.2,38,100%,,2,,3,1,,1,5,,,4,3,,4,4,4,3,,,4,1042816
+289,2873,St. Cloud Technical & Community College,English,3.0,Brad Kramer,4.7,35,100%,1,4,,1,1,1,1,6,,,4,6,,,,5,3,,,,585213
+290,2873,St. Cloud Technical & Community College,Biology,2.6,Jessica Wade-Ferrell,4.3,35,100%,,,,8,2,7,,7,,,,1,2,1,6,8,3,,,,1603424
+291,2873,St. Cloud Technical & Community College,Communication,3.1,Luke Green,3.9,35,82%,1,1,,2,3,4,2,6,1,1,3,3,1,,4,11,1,,1,2,1617040
+292,2873,St. Cloud Technical & Community College,Sociology,3.0,Jennifer Kraipowich,3.9,33,20%,1,,,2,,,4,,,,,,,1,3,,1,,,,590507
+293,2873,St. Cloud Technical & Community College,Women's Studies,2.3,Cathrine Borgert,4.3,32,N/A,,,,1,1,,,3,,,,2,,,2,1,1,,,,444915
+294,2873,St. Cloud Technical & Community College,Writing,2.6,Susan Engel,4.6,32,100%,4,,,14,12,3,1,21,,,,1,,,4,9,1,,,,1747615
+295,2873,St. Cloud Technical & Community College,Sociology,4.3,Jessica Lourey,3.1,31,69%,2,,,,4,,1,8,,2,,1,2,8,,3,4,,,9,1108620
+296,2873,St. Cloud Technical & Community College,Biology,2.9,Chris Sorenson,3.7,30,67%,1,3,,3,1,1,,5,,,1,1,,12,3,6,6,,2,2,1585764
+297,2873,St. Cloud Technical & Community College,Design,3.1,Jeff Palm,4.2,29,N/A,1,2,1,5,,2,1,3,,,2,3,,1,2,4,3,,,1,335726
+298,2873,St. Cloud Technical & Community College,Health Science,3.5,Tim Simpson,4.8,28,N/A,,2,,1,,,,1,,,,,,,,1,,,,,557318
+299,2873,St. Cloud Technical & Community College,Mathematics,3.5,Kevin Blanchette,3.0,28,67%,,1,,1,3,,,4,,,2,,2,6,1,,1,,,2,945522
+300,2873,St. Cloud Technical & Community College,Health Science,2.8,Mark Gucinski,4.6,27,100%,,1,2,4,2,,,4,,2,9,,1,2,5,6,1,,1,2,1818053
+301,2873,St. Cloud Technical & Community College,Biology,3.8,Edward Tillman,3.4,26,75%,,2,,,3,,,2,,,,,7,2,2,4,9,,3,14,1418390
+302,2873,St. Cloud Technical & Community College,Not Specified,2.1,Steve Whipple,4.3,25,100%,,1,,2,1,2,1,4,,,,,,4,4,2,2,1,,1,744982
+303,2873,St. Cloud Technical & Community College,Economics,3.5,Thomas O'Keefe,2.9,25,N/A,,,,1,1,,,1,,,,,2,,2,,3,,,2,872217
+304,2873,St. Cloud Technical & Community College,English,2.1,Clare Opatz-Osgood,4.6,25,83%,,2,,,3,2,,5,1,1,,1,,1,3,,3,2,,1,341070
+305,2873,St. Cloud Technical & Community College,Mathematics,4.4,Rob Jahnke,2.1,24,N/A,,,,,,,,,,,,,1,2,,,1,,,1,316461
+306,2873,St. Cloud Technical & Community College,Social Science,3.7,Jan Stanley,3.2,24,57%,,,,,,2,2,2,,1,,1,,2,3,2,3,3,,7,445550
+307,2874,St. Johns River State College,Computer Science,2.3,Angela Passmore,4.9,76,100%,14,1,,49,13,9,,43,,5,5,16,2,,12,26,1,,,,1661727
+308,2874,St. Johns River State College,Psychology,3.5,Anna P Harvey,3.6,62,85%,5,2,,3,12,1,10,33,2,10,1,27,1,1,31,6,1,,,4,1912920
+309,2874,St. Johns River State College,Communication,2.3,Rebecca Sullivan,4.7,48,95%,6,,,21,6,,2,25,1,,,5,,,4,16,4,1,,,1003980
+310,2874,St. Johns River State College,Social Science,2.7,James Maggio,3.6,32,73%,1,1,1,2,5,3,7,4,1,1,2,2,1,6,9,2,1,3,,5,1596712
+311,2874,St. Johns River State College,Mathematics,3.5,Stephen Dennis,2.9,29,27%,,,1,1,3,,1,2,1,,2,1,1,7,2,2,5,2,,4,1788999
+312,2874,St. Johns River State College,Mathematics,2.1,Sherry Colarusso,4.9,27,100%,1,1,,5,3,1,,8,,,1,1,,4,4,2,,,,1,1622371
+313,2874,St. Johns River State College,Psychology,2.2,J Milanes,4.2,26,N/A,,,,,,,,,,,,,,,,,,,,,241112
+314,2874,St. Johns River State College,Humanities,3.1,DR. Savage,4.2,26,100%,1,4,1,1,,,1,,1,,3,5,,,,4,2,,,,757821
+315,2874,St. Johns River State College,Mathematics,2.0,Stacey Daniels,5.0,25,100%,3,2,,5,3,,,4,,,,,,2,,2,4,,,,1447879
+316,2874,St. Johns River State College,History,2.3,Chris Killmer,4.5,24,N/A,,3,,1,2,1,1,,1,,2,1,1,,1,1,1,,,1,1269869
+317,2874,St. Johns River State College,English,3.3,Donna Terry,3.6,24,71%,,,,1,1,,7,12,,1,5,3,2,4,2,1,3,2,1,6,1832303
+318,2874,St. Johns River State College,Computer Science,2.5,Ruth E Manlandro,3.6,23,N/A,,,,2,1,,1,3,,,,1,,,2,3,,,,2,1600990
+319,2874,St. Johns River State College,Business,3.0,Antionette Richardson,2.5,22,29%,1,,,2,1,,,1,,,1,1,,3,3,2,1,1,,6,1801733
+320,2874,St. Johns River State College,Mathematics,3.8,Deborah Eckhardt,3.4,22,10%,3,,,1,,,1,3,,,,,,7,5,,10,,,11,711964
+321,2874,St. Johns River State College,Mathematics,2.4,Phillip Lyons,4.9,21,N/A,1,1,,3,3,,,,1,,1,,,1,,3,1,,,,223079
+322,2874,St. Johns River State College,Sociology,1.8,Julie Blanco-Davilla,4.5,21,91%,,6,,3,1,1,1,6,1,,4,8,,2,2,4,3,,1,,1783933
+323,2874,St. Johns River State College,Physics,3.6,Ryan Wolfe,2.1,20,N/A,,,,,,,,,,,,,,,,,,,,,584819
+324,2874,St. Johns River State College,Humanities,4.1,Christy Furr,2.6,20,N/A,,,,,2,,2,,,,,,1,,1,,1,,,3,1194628
+325,2874,St. Johns River State College,Science,4.2,Natasha Nichols,2.9,20,N/A,,,5,2,4,,1,1,,,,,1,2,,,1,,,6,1782838
+326,2875,St. Louis Community College at Florissant Valley,Biology,2.7,Christopher Cronin,4.7,84,N/A,,,,,,,,1,,,,,,,,,,,,,1580592
+327,2875,St. Louis Community College at Florissant Valley,Social Science,4.0,Margaret Tyler,3.0,58,18%,,2,1,,3,1,8,,,,,,4,3,,,7,,3,16,249289
+328,2875,St. Louis Community College at Florissant Valley,English,4.4,Barbara Wachal,2.3,44,5%,,,1,,2,,7,2,,2,,,4,7,2,,8,16,,30,697469
+329,2875,St. Louis Community College at Florissant Valley,English,2.2,James Mense,4.8,42,100%,2,,,3,1,3,,5,,,1,1,,1,4,3,,,,,726536
+330,2875,St. Louis Community College at Florissant Valley,Biology,3.2,Kevin Toal,4.1,42,50%,1,6,,2,,6,4,1,,,3,3,,2,3,3,7,,,4,1444222
+331,2875,St. Louis Community College at Florissant Valley,Psychology,1.7,Steven Christiansen,3.9,40,100%,2,3,1,3,7,7,6,3,2,7,4,1,,,8,4,4,1,,,1444214
+332,2875,St. Louis Community College at Florissant Valley,Mathematics,3.9,Christine Lewis,2.3,40,40%,3,3,1,2,3,2,,5,2,,1,,,7,5,,5,,7,15,948008
+333,2875,St. Louis Community College at Florissant Valley,Chemistry,4.0,Suzanne Saum,2.9,39,46%,,1,,1,1,,4,3,2,,,,3,,1,,7,,5,9,712139
+334,2875,St. Louis Community College at Florissant Valley,Communication,2.5,Amy Brown,4.8,39,100%,4,1,,5,6,1,,5,1,1,1,3,,,9,6,,1,,,774566
+335,2875,St. Louis Community College at Florissant Valley,Social Science,1.5,Annie Wagganer,5.0,37,100%,1,10,,7,1,,1,4,,,5,9,1,,4,5,,,,,1528394
+336,2875,St. Louis Community College at Florissant Valley,English,3.0,Carlos Blanco,4.4,36,88%,,3,1,2,1,,,2,,,2,2,1,1,6,2,6,,,1,570356
+337,2875,St. Louis Community College at Florissant Valley,Mathematics,2.3,Rick Pescarino,4.7,35,N/A,,2,,1,1,,,1,,,1,1,,1,,1,,,,,440557
+338,2875,St. Louis Community College at Florissant Valley,Biology,3.8,Neelima Bhavsar,3.6,35,60%,1,4,2,5,3,2,,5,,1,4,3,1,2,1,3,,,,7,1299996
+339,2875,St. Louis Community College at Florissant Valley,Mathematics,3.7,Anne Mosher,3.1,33,67%,1,1,,1,,,1,2,,,,,1,1,,1,2,,,3,949155
+340,2875,St. Louis Community College at Florissant Valley,History,1.9,Paul Nygard,4.7,32,N/A,,,,,1,1,,,,,1,,,,,,,,,,111999
+341,2875,St. Louis Community College at Florissant Valley,Spanish,2.7,Kelly Mueller,4.7,32,100%,2,4,,7,1,,,8,1,,6,3,,,2,3,,,,,948173
+342,2875,St. Louis Community College at Florissant Valley,English,3.9,James Sodon,1.4,31,N/A,,,,,,,3,,3,,,,1,3,1,,6,3,,10,864653
+343,2875,St. Louis Community College at Florissant Valley,Chemistry,4.2,Donna Friedman,2.6,28,17%,,,,,,,5,,,,,,2,1,,,10,,2,9,788817
+344,2875,St. Louis Community College at Florissant Valley,Mathematics,3.2,John Hake,4.0,28,67%,1,,1,5,1,,,4,,,4,2,2,6,,1,1,,,2,947632
+345,2875,St. Louis Community College at Florissant Valley,English,2.4,Timothy Layton,4.6,26,90%,1,,,1,1,1,1,9,,,7,1,,,4,3,,,,1,629657
+346,2876,St. Louis Community College at Forest Park,Mathematics,3.2,Mike Lueke,4.4,88,93%,17,6,,30,10,27,3,27,1,,1,7,,10,9,12,6,1,5,9,1643249
+347,2876,St. Louis Community College at Forest Park,Biology,4.1,William Huber,3.1,86,25%,,6,,,1,4,10,,2,,6,4,3,5,,,8,,9,16,651749
+348,2876,St. Louis Community College at Forest Park,Biology,4.4,Tommie Frison,2.7,82,47%,,1,8,2,3,3,9,,1,,,1,7,4,1,5,13,,3,19,651751
+349,2876,St. Louis Community College at Forest Park,Chemistry,2.4,Joe Wilson,4.8,66,92%,11,10,,12,8,4,2,11,,,7,11,1,2,2,17,6,,1,6,1475363
+350,2876,St. Louis Community College at Forest Park,Physics,3.8,Jonathan Morris,4.0,62,82%,1,4,,4,5,5,1,1,2,,4,3,4,5,,9,4,,2,4,577032
+351,2876,St. Louis Community College at Forest Park,Economics,2.7,Nick Peppes,4.3,54,67%,1,4,,,2,,,4,4,,1,3,1,1,3,3,2,,,1,112019
+352,2876,St. Louis Community College at Forest Park,Sociology,1.7,Andrea Nichols,4.8,48,88%,1,,,3,3,1,5,1,,,,,,1,3,1,,1,2,,412131
+353,2876,St. Louis Community College at Forest Park,History,3.6,Dorian Brown,2.9,45,N/A,,3,1,,,1,6,,1,,,1,,1,,,2,,,6,402952
+354,2876,St. Louis Community College at Forest Park,Mathematics,2.8,Efrem Negash,3.8,41,80%,1,1,2,11,5,1,,6,,,,3,1,7,7,4,4,,1,3,1030685
+355,2876,St. Louis Community College at Forest Park,Humanities,2.0,Mark Kruger,4.8,36,N/A,1,3,,1,1,1,,1,,,4,1,,,,2,,,,,1448873
+356,2876,St. Louis Community College at Forest Park,English,3.5,Dr. Angela Warfield,4.7,35,87%,,1,,4,4,,2,7,,,4,3,,,7,1,3,2,,5,1472483
+357,2876,St. Louis Community College at Forest Park,Biology,3.5,Angela Newmyer,4.1,34,75%,1,1,,1,3,,5,2,,1,,1,2,5,2,5,7,,3,7,1164619
+358,2876,St. Louis Community College at Forest Park,Psychology,2.9,Bruce Munson,3.3,33,75%,,1,,,5,3,6,,1,,3,,,,5,,1,,,2,570342
+359,2876,St. Louis Community College at Forest Park,English,2.7,Jeremy Dennis,3.8,33,38%,1,,,2,3,,3,5,2,,4,,,,,,,3,,3,787609
+360,2876,St. Louis Community College at Forest Park,Mathematics,3.4,Brian Carter,3.7,33,80%,5,,2,4,1,5,,2,,,1,,1,1,1,6,2,,,1,1351489
+361,2876,St. Louis Community College at Forest Park,Business Administration,2.6,Jeffrey Jones,5.0,31,100%,2,5,1,3,4,,2,4,,,3,5,,,,6,,1,,,605911
+362,2876,St. Louis Community College at Forest Park,Mathematics,3.2,Evelyn Corich,4.1,30,86%,2,1,,3,1,1,1,3,1,,1,4,,3,2,5,2,,,3,402949
+363,2876,St. Louis Community College at Forest Park,Accounting,2.9,David Juriga,4.0,30,N/A,,2,,3,3,2,1,2,,,,,1,1,1,1,1,,,2,618743
+364,2876,St. Louis Community College at Forest Park,Accounting,2.7,Aaron Reeves,4.5,30,100%,3,1,,1,1,,4,4,,,3,1,,1,1,3,3,,,,635303
+365,2876,St. Louis Community College at Forest Park,Mathematics,3.2,Seth Daugherty,3.8,30,N/A,,1,1,2,3,,,4,,,,,3,3,,,5,,1,5,1031849
+366,2877,St. Louis Community College at Meramec,Psychology,1.3,Terry Cooper,4.8,123,86%,4,16,,14,2,2,,2,3,,21,14,,,1,14,,,,,415972
+367,2877,St. Louis Community College at Meramec,History,3.1,Robert Lee,4.2,114,78%,,19,,1,3,,18,4,3,,5,3,3,2,1,5,4,1,,6,567849
+368,2877,St. Louis Community College at Meramec,Mathematics,2.7,Kelly Ballard,4.8,106,91%,3,13,2,13,4,4,,5,,,10,18,3,3,1,19,1,,3,,36922
+369,2877,St. Louis Community College at Meramec,Psychology,2.5,Vicki Ritts,4.7,105,86%,,15,,3,1,,5,3,1,,18,4,4,1,3,16,7,2,4,3,593817
+370,2877,St. Louis Community College at Meramec,Chemistry,2.6,Michael Hauser,4.8,105,93%,8,24,,13,4,,1,17,,2,14,6,,1,2,19,11,,,2,139215
+371,2877,St. Louis Community College at Meramec,Psychology,2.8,Sherry Lane,4.9,104,97%,15,33,,18,39,18,3,44,,,14,26,1,,7,45,8,1,1,,1910205
+372,2877,St. Louis Community College at Meramec,Political Science,2.6,John Messmer,4.5,103,81%,2,15,1,4,12,1,6,2,5,,24,8,6,,18,11,13,,1,6,209798
+373,2877,St. Louis Community College at Meramec,Accounting,1.9,Markus Ahrens,4.9,92,100%,3,3,,2,1,2,,4,,1,,2,2,1,4,3,1,,,,349170
+374,2877,St. Louis Community College at Meramec,Psychology,3.1,Sophia Pierroutsakos,4.3,90,57%,4,17,,14,4,,12,6,3,,3,13,6,2,1,3,7,1,1,7,555835
+375,2877,St. Louis Community College at Meramec,Psychology,3.2,Diane Pisacreta,3.9,88,63%,,8,,,4,4,3,,5,,2,4,5,,4,2,4,,4,5,299990
+376,2877,St. Louis Community College at Meramec,Mathematics,4.1,James Frost,1.9,85,26%,1,,,1,1,2,1,1,3,,3,,5,14,2,1,9,,3,21,327539
+377,2877,St. Louis Community College at Meramec,Chemistry,4.3,Vidyullata Waghulde,2.9,82,53%,4,2,,2,2,1,3,1,2,,1,1,,2,1,6,5,,6,11,404678
+378,2877,St. Louis Community College at Meramec,Humanities,3.1,Sophia Pressman,2.1,80,N/A,,,,,,1,1,,,,,,,1,,,,,,,161114
+379,2877,St. Louis Community College at Meramec,Biology,3.7,Jay Snaric,4.3,80,N/A,,4,,1,2,,,,,,,1,,,,4,1,,,2,436453
+380,2877,St. Louis Community College at Meramec,Economics,3.7,Steven Schamber,3.2,77,50%,2,1,,1,3,1,7,1,1,,4,,5,8,5,1,5,,4,8,585162
+381,2877,St. Louis Community College at Meramec,History,3.5,John Hughes,3.3,75,53%,,11,,,,,13,1,1,,6,1,13,1,3,3,12,,2,11,283681
+382,2877,St. Louis Community College at Meramec,History,3.1,Dirk Voss,4.1,75,81%,1,12,,,,2,10,1,,1,14,3,5,3,1,6,4,,3,4,209782
+383,2877,St. Louis Community College at Meramec,Music,2.5,Gary Gackstatter,4.5,75,93%,3,29,,9,4,5,,1,3,,17,26,5,,2,15,4,,,,1178015
+384,2877,St. Louis Community College at Meramec,Communication,1.8,Chris Smejkal,4.5,74,97%,4,9,,15,6,8,3,14,,10,13,15,1,,7,17,2,1,,1,533895
+385,2877,St. Louis Community College at Meramec,Communication,1.9,Dennis Dufer,4.8,73,100%,1,8,,6,11,2,,3,,2,3,2,1,,15,14,2,,,3,187209
+386,2879,Saint Paul College,English,2.6,Cynthia Pope,4.7,248,95%,23,43,1,62,51,3,17,171,1,12,33,50,,45,25,84,12,8,,20,2035680
+387,2879,Saint Paul College,Political Science,3.2,James Andresen,4.5,58,91%,3,5,,3,11,,5,23,2,,1,,,,17,6,,,,7,1143106
+388,2879,Saint Paul College,English,1.5,William Lund,4.6,52,79%,1,5,3,10,4,1,3,21,2,,10,7,,2,4,9,2,4,,1,1529111
+389,2879,Saint Paul College,Computer Science,4.1,Warren Sheaffer,4.2,46,78%,,,,1,6,5,,1,3,1,,2,1,1,1,3,3,,2,5,847758
+390,2879,Saint Paul College,Biology,2.9,Rahul Kane,4.8,46,N/A,,,,,,,,,,,,,,,,,,,,,1306542
+391,2879,Saint Paul College,Biology,3.3,Jim Gielissen,4.1,44,90%,1,8,,2,11,10,,10,,1,2,2,1,,3,5,8,,1,12,1490648
+392,2879,Saint Paul College,Philosophy,3.6,Elizabeth Arnold,3.7,41,57%,1,1,,1,2,,3,3,,,5,,2,2,3,2,1,,,3,1080921
+393,2879,Saint Paul College,English,4.6,Lori Stoltz,3.8,39,N/A,,,,3,2,,3,6,,,,,1,4,3,1,2,1,,7,1457941
+394,2879,Saint Paul College,Biology,3.2,Marcus Gabrawy,4.6,38,91%,,15,1,16,6,1,1,4,1,,13,2,2,1,2,14,1,,1,8,1869721
+395,2879,Saint Paul College,English,3.7,Mary Crispin,2.5,37,N/A,,,,1,1,,1,2,,,1,,1,6,1,,6,3,1,10,708039
+396,2879,Saint Paul College,Philosophy,2.7,Julie Haider,4.0,36,80%,,2,,3,3,1,3,7,,,3,6,1,4,3,3,3,3,,3,708042
+397,2879,Saint Paul College,Biology,3.5,Mariann Gabrawy,3.8,35,59%,2,1,,8,2,,2,1,,3,4,9,1,2,1,12,,3,2,7,1139418
+398,2879,Saint Paul College,Geography,2.8,Shannon Trego,4.1,34,92%,4,6,,7,4,,3,9,,,3,2,1,4,2,5,2,1,,7,1356624
+399,2879,Saint Paul College,History,3.1,Kurt Kortenhoff,4.1,33,73%,2,3,,2,3,,7,4,1,,1,3,2,3,3,5,2,,1,3,672961
+400,2879,Saint Paul College,English,3.0,Susan Taylor,3.6,32,86%,2,1,,1,2,,4,6,,,,,,3,1,,4,3,,4,491331
+401,2879,Saint Paul College,Economics,2.6,Peter Lawson,4.5,32,92%,2,3,,4,3,4,7,9,1,,1,2,,11,2,10,,1,1,,1515604
+402,2879,Saint Paul College,Psychology,2.2,Nora Gibbons,4.7,32,100%,,4,,1,10,8,6,9,1,,2,3,,,1,4,1,,1,1,835235
+403,2879,Saint Paul College,Mathematics,3.5,BA Su,2.8,31,43%,,,,1,2,1,,2,,,,,6,6,2,1,6,,1,6,708044
+404,2879,Saint Paul College,Mathematics,4.1,Sasha Goftarsh,2.3,29,43%,1,,,1,1,,,,,,1,,,8,2,,6,,1,11,1227818
+405,2879,Saint Paul College,English,2.9,Michael Leggs,4.3,28,94%,1,4,1,3,5,1,,11,1,1,12,,,,2,1,2,,,7,1466707
+406,2880,St. Petersburg College (all campuses),Philosophy,2.6,Nicholas Manias,4.6,625,97%,18,25,1,28,97,50,46,116,1,6,24,7,3,13,72,43,13,4,,21,230862
+407,2880,St. Petersburg College (all campuses),Science,2.4,Ross Brightman,4.8,348,100%,10,31,1,16,15,,1,12,3,,43,14,1,,7,34,11,,,3,111311
+408,2880,St. Petersburg College (all campuses),Political Science,4.1,Roy Slater,3.3,345,37%,2,8,15,1,6,,30,11,8,,1,1,10,4,4,6,12,4,12,45,183303
+409,2880,St. Petersburg College (all campuses),Mathematics,2.6,Manuel Gerakios,4.8,334,97%,21,33,,97,36,,1,91,3,,39,38,12,33,43,80,35,,1,3,637691
+410,2880,St. Petersburg College (all campuses),Mathematics,4.2,Don Drew,2.1,284,10%,1,,17,2,1,,2,,5,,2,,1,7,,1,32,,12,50,245230
+411,2880,St. Petersburg College (all campuses),Humanities,3.5,Patricia Matchette,3.3,227,40%,,1,,,2,,19,5,1,,,1,,6,12,,4,4,1,12,151136
+412,2880,St. Petersburg College (all campuses),Chemistry,2.6,Richard Musgrave,4.5,199,72%,3,3,,3,14,19,2,7,2,,,3,2,10,1,5,5,,7,14,754542
+413,2880,St. Petersburg College (all campuses),Mathematics,2.5,Tony Long,4.5,199,71%,6,12,3,21,7,7,2,10,5,,14,9,2,12,9,12,21,,8,12,391530
+414,2880,St. Petersburg College (all campuses),Communication,1.7,Tony Smith,4.9,198,96%,1,9,,8,8,5,1,15,1,1,22,5,6,,8,13,9,,1,2,484049
+415,2880,St. Petersburg College (all campuses),Science,3.8,Brian Brillinger,4.1,197,85%,3,4,13,5,7,3,11,4,,,8,,4,2,7,4,26,,1,21,266298
+416,2880,St. Petersburg College (all campuses),Psychology,2.1,Kim Molinaro,5.0,194,98%,5,27,,25,12,9,9,35,1,1,12,29,3,2,6,15,6,2,,1,243988
+417,2880,St. Petersburg College (all campuses),Humanities,1.7,Kimberly Felos,4.7,192,87%,2,12,,16,15,17,7,20,1,,7,16,8,1,6,5,3,,3,2,76049
+418,2880,St. Petersburg College (all campuses),Mathematics,2.6,Sohrab Bakhtyari,4.3,187,81%,3,2,,13,17,,2,4,4,,,1,5,16,6,5,22,,6,15,386745
+419,2880,St. Petersburg College (all campuses),Law,3.6,Deborah Eldridge,3.0,180,64%,3,2,,8,11,10,19,38,1,59,1,1,2,10,28,10,1,2,3,26,1044480
+420,2880,St. Petersburg College (all campuses),Science,4.0,Anita Naravane,3.8,179,94%,1,16,,5,14,25,5,19,1,,4,1,2,7,8,16,6,,4,11,284445
+421,2880,St. Petersburg College (all campuses),Science,3.8,Thomas Lancraft,3.5,176,N/A,,,,1,1,1,3,1,,,1,,1,3,,,3,,1,9,47396
+422,2880,St. Petersburg College (all campuses),Communication,1.9,Anthony Ballard,4.3,174,79%,,4,,6,4,2,2,10,1,7,25,2,3,1,8,11,1,,,3,94388
+423,2880,St. Petersburg College (all campuses),Science,2.5,Beverly Grundset,4.0,172,N/A,,1,,5,,3,,2,,,,,1,1,,4,2,,,,210768
+424,2880,St. Petersburg College (all campuses),Humanities,3.2,Mark Hunter,4.2,170,81%,1,17,1,,11,2,10,1,2,,13,5,2,,,3,3,1,1,4,142936
+425,2880,St. Petersburg College (all campuses),English,2.5,Julia Rawa,4.0,165,58%,1,4,,5,4,8,11,10,3,,2,4,2,,5,8,,2,,6,138919
+426,2881,St. Philip's College,Philosophy,1.9,Andrew Joseph Hill,4.9,191,100%,18,47,,48,64,1,16,52,10,2,27,29,1,,64,52,21,,,1,2015812
+427,2881,St. Philip's College,Biology,2.0,Roger Biduaka,4.6,124,100%,4,13,,9,3,8,1,8,,,21,13,2,1,2,18,3,,,,432457
+428,2881,St. Philip's College,Biology,2.1,Dorothy Wolf,4.6,121,N/A,,4,,9,11,24,3,18,1,1,27,13,3,,5,28,12,,,3,977872
+429,2881,St. Philip's College,Mathematics,3.2,Gloria Guerra,3.4,112,44%,2,3,,11,3,6,1,5,,,,3,5,6,3,4,9,3,,19,511354
+430,2881,St. Philip's College,History,1.4,Jonathan Thomas,4.8,102,100%,1,23,1,9,8,,1,3,6,,33,6,,,5,12,12,,,,1583143
+431,2881,St. Philip's College,Mathematics,1.6,Albert Guerra,4.8,84,100%,,10,,7,5,3,,4,,,11,,,,,7,6,,,,384797
+432,2881,St. Philip's College,Government,1.3,Micheal Dillard,4.7,76,100%,,5,2,7,1,1,1,4,,,13,1,,,6,9,,,,,575001
+433,2881,St. Philip's College,Government,1.8,Robert De Luna,4.2,75,97%,3,3,,7,10,17,13,4,7,,,2,,,1,3,1,,1,4,853800
+434,2881,St. Philip's College,History,2.6,Allen Hamilton,4.2,71,80%,1,,,3,10,5,19,4,3,,,1,,2,1,6,,,5,5,510559
+435,2881,St. Philip's College,English,1.8,Allen Hannay,4.7,66,100%,,,,3,5,,2,12,,,4,2,2,1,1,2,1,1,,2,604934
+436,2881,St. Philip's College,English,2.8,Kenneth Poff,4.4,65,100%,5,,,6,14,15,15,30,,,6,1,,2,1,1,1,,,1,587622
+437,2881,St. Philip's College,Philosophy,2.4,John Travis,3.7,63,N/A,,,,,,,,,,,,,,,,,,,,,468436
+438,2881,St. Philip's College,Biology,3.5,Alfred Williams,2.9,59,38%,,,,,2,8,,,1,,4,1,7,1,1,,10,,2,19,881047
+439,2881,St. Philip's College,Psychology,2.0,Shirley Bass-Wright,4.6,56,92%,,1,1,7,10,,16,7,,,,2,,5,1,3,1,,,5,684335
+440,2881,St. Philip's College,Psychology,2.0,Monique Johnson,4.8,56,97%,2,1,,7,31,4,10,14,6,,,7,1,,7,17,3,,,,1563590
+441,2881,St. Philip's College,Chemistry,3.7,Jeena Joseph,4.0,55,82%,5,1,,12,24,11,26,17,2,,1,10,7,2,14,2,8,,4,4,2134683
+442,2881,St. Philip's College,History,2.4,James Fitzgerald,3.6,53,N/A,,1,2,,1,1,2,,,,2,,2,,,1,1,,,3,384800
+443,2881,St. Philip's College,History,1.4,Jack Nawrocik,4.6,52,100%,1,,,1,8,,6,1,,,,,,1,,1,1,,,1,586977
+444,2881,St. Philip's College,Psychology,1.3,Lang Coleman,4.5,51,N/A,,,,,3,,2,,,,,,,1,,,,,,,457761
+445,2881,St. Philip's College,History,1.3,Jason Fabianke,4.8,51,100%,1,6,,3,10,2,3,4,,,,2,2,1,8,7,3,,,,767938
+446,2882,Stanly Community College,English,3.8,Claudia Gresham-Shelton,4.3,24,N/A,,,,,,,,1,,,,,,1,,1,,1,,2,316770
+447,2882,Stanly Community College,Psychology,2.1,Andell McCoy,4.5,20,N/A,,,,,,,,,,,,,,,,,,,,,214638
+448,2882,Stanly Community College,Mathematics,2.8,Brigette Myers,4.6,12,N/A,,,,,,,,1,,,,,,,,,,,,1,579209
+449,2882,Stanly Community College,Biology,4.2,Glynn Fowler,3.2,12,N/A,,,,2,,1,,1,,,,,,3,4,,,,3,1,660566
+450,2882,Stanly Community College,English,2.9,Myra Furr,4.2,11,N/A,,,,,,,,,,,,,,,,,,,,,214632
+451,2882,Stanly Community College,Biology,3.1,Michael Lowder,4.8,11,N/A,,1,,2,,2,,1,,,1,,,,,3,,,,,1127100
+452,2882,Stanly Community College,Languages,2.9,Patricia Horner,4.3,9,N/A,,,,,,,,,,,,,,,,,,,,,107688
+453,2882,Stanly Community College,Accounting,2.8,Kevin Misenheimer,3.4,9,N/A,,,,,1,,,,,,,,,1,,1,,,,,504375
+454,2882,Stanly Community College,Information Science,2.8,Trent Helms,3.6,9,N/A,,,,,,,,,,,,,,,,,,,,,866995
+455,2882,Stanly Community College,Political Science,3.0,Dennis Souther,3.8,8,N/A,,,,,,,,,,,,,,,,,,,,,579205
+456,2882,Stanly Community College,Nursing,3.3,Jan Almond,4.4,8,N/A,,,,,,,,,,,,,,,,,,,,,660578
+457,2882,Stanly Community College,Humanities,4.0,Ashley Lathe,3.0,7,N/A,,,,,,,,,,,,,,,,,,,,,197476
+458,2882,Stanly Community College,English,3.6,Ruth Goodwin,2.3,7,N/A,,,,,,,,,,,,,,,,,,,,,390778
+459,2882,Stanly Community College,Religion,3.0,Dan Wray,4.9,7,N/A,,,,,,,,,,,,,,,,,,,,,579207
+460,2882,Stanly Community College,Humanities,2.0,Scott Smith,4.2,7,N/A,,,,,,,,,,,,,,,,,,,,,651724
+461,2882,Stanly Community College,Nursing,3.0,Chassity Washburm,4.3,7,N/A,,,,,,,,,,,,,,,,,,,,,660575
+462,2882,Stanly Community College,Nursing,4.8,Wanda Huneycutt,1.4,6,N/A,,,,,,,,,,,,,,,,,,,,,660586
+463,2882,Stanly Community College,English,2.0,Adrienne Phillips,2.8,6,N/A,,,,,1,,1,,,,,,,,1,,,,,,1273944
+464,2882,Stanly Community College,Nursing,2.8,Amber Hatley,3.1,5,N/A,,,,,,,,,,,,,,,,,,,,,1246495
+465,2882,Stanly Community College,Psychology,3.0,Caroline Sawyer,4.1,5,N/A,,1,,,,,,1,,,1,,,,,,,,,,1693053
+466,2883,Stark State College,Biology,3.6,Annissa Langworthy,4.5,72,83%,4,12,1,9,1,,2,8,,,8,6,,,1,6,1,,2,5,1141132
+467,2883,Stark State College,Psychology,3.8,Marc Hostetler,4.0,49,44%,,5,,1,,1,3,,1,,8,2,3,,6,2,3,,6,7,123593
+468,2883,Stark State College,Biology,2.9,Kevin Ryan,4.3,46,71%,,7,,,,,2,4,,,13,3,4,,1,4,10,,,5,1561705
+469,2883,Stark State College,English,2.1,Shane Fliger,4.9,44,88%,1,1,,17,6,,,15,,,14,5,,2,8,1,15,4,,3,1705656
+470,2883,Stark State College,Psychology,3.0,Bryan Gerber,4.8,42,85%,,4,,6,3,1,2,6,,,1,8,1,1,4,11,4,,,2,1108431
+471,2883,Stark State College,Sociology,3.4,Martina Sharp-Grier,2.4,35,29%,,4,,1,1,14,6,,1,,2,1,3,3,3,,1,3,4,10,1458233
+472,2883,Stark State College,Biology,3.3,Caryl Tickner,4.7,33,100%,1,1,,3,2,,,5,,,3,2,,,,6,4,,,3,474511
+473,2883,Stark State College,English,4.3,Catherine Rock,2.9,30,N/A,,,,,,,1,,,,,,4,1,,,4,2,,7,613717
+474,2883,Stark State College,Science,4.3,Monica Miklo,3.5,30,38%,,1,,,,,3,,,,,,2,,,1,3,,3,7,1404280
+475,2883,Stark State College,Mathematics,3.4,Florian Haiduc,3.9,29,80%,1,1,,3,1,1,,5,,,1,1,5,7,1,3,6,,4,5,722396
+476,2883,Stark State College,Computer Science,3.1,Steve Morosko,3.4,26,N/A,,,,,,3,,,,,,,2,2,,,2,,,1,55254
+477,2883,Stark State College,Chemistry,2.2,Luca Preziati,4.8,26,N/A,1,4,,3,3,4,,3,,,,2,1,1,,2,2,,,,1516928
+478,2883,Stark State College,Biology,4.4,Morris Chaney III,3.0,25,N/A,,,,,2,,,1,1,,,,1,,,,3,,,3,851916
+479,2883,Stark State College,Biology,2.8,Michael Gruich,4.9,25,100%,1,3,,7,,1,1,,,,2,,1,,1,3,2,,1,3,1382640
+480,2883,Stark State College,Computer Science,4.2,James Barlak,2.9,24,N/A,,,,,,1,,3,,,,,3,3,,,,,,2,350838
+481,2883,Stark State College,Computer Science,4.0,Rich Hartmann,3.2,24,N/A,,,,,1,,,,,,,,2,2,,,3,,1,3,351311
+482,2883,Stark State College,Physics,4.0,Fred Jarka,2.8,24,N/A,,,,,,1,4,1,,,,,1,7,,,3,,1,4,644963
+483,2883,Stark State College,Sociology,2.8,Angela Adkins,4.5,23,100%,2,7,,5,1,4,1,3,,,3,3,1,,3,7,4,,,1,1929906
+484,2883,Stark State College,Chemistry,3.0,Noraida Lebron,4.1,22,86%,1,1,,1,1,5,1,2,,,,,,5,1,,2,,,5,1298629
+485,2883,Stark State College,Psychology,2.0,Nicole Cleland,4.8,22,100%,1,2,,2,5,5,2,2,,,,,,,,5,,,,,1194709
+486,2884,State Fair Community College,History,3.3,James Page,4.5,24,N/A,,1,,,,,,,,,2,,,,2,1,3,,,3,138095
+487,2884,State Fair Community College,History,2.7,Maryanna Townsend,3.5,24,N/A,,1,,3,,3,1,,,,,1,1,2,2,1,2,,,1,130256
+488,2884,State Fair Community College,English,3.5,Anne Homan,4.3,19,N/A,,,,,1,,,1,,,,1,1,,,,,,,1,130242
+489,2884,State Fair Community College,Science,2.9,Laroy Brandt,3.8,18,N/A,,,,,,,,,,,,,,,,,,,,,130269
+490,2884,State Fair Community College,Chemistry,3.0,Jack Hayes,3.7,18,67%,,,1,1,,,,1,,2,,,,4,7,2,4,,,1,787912
+491,2884,State Fair Community College,English,3.2,Lisa Adams,3.9,13,N/A,,,,1,,,1,2,,,,,,,1,,,,,1,130244
+492,2884,State Fair Community College,Psychology,2.9,Doug Strauss,4.2,13,N/A,,,,,,,,,,,,,,,,,,,,,130261
+493,2884,State Fair Community College,Biology,3.8,Brenda Dake,3.0,13,N/A,,,,,,,1,,,,,,,1,,,,,1,1,354712
+494,2884,State Fair Community College,Science,3.3,Cindy Harmon,4.8,13,N/A,,2,,4,4,2,,4,,,,,,,3,1,1,,,1,851362
+495,2884,State Fair Community College,English,3.8,Lisa Shoemaker,3.3,12,N/A,,,,,,,,,,,,,,,,,,,,,851364
+496,2884,State Fair Community College,Biology,4.1,Kevin Lawson,3.8,12,100%,,1,,,2,,2,2,,,4,,,,4,,7,,,1,1898203
+497,2884,State Fair Community College,English,3.0,Cathy Clements,3.7,12,N/A,,,,,,,1,,1,,,,,,,,2,1,,3,1097612
+498,2884,State Fair Community College,Communication,2.4,Eric Yazell,4.0,10,N/A,,,1,,1,,1,1,,,2,,,,,,,,,,391514
+499,2884,State Fair Community College,Mathematics,2.3,Rick McBride,3.6,10,N/A,,,,,,,,,,,,,,,,,1,,1,1,894170
+500,2884,State Fair Community College,Biology,3.7,Rhonda Edmunds,2.3,9,N/A,,,,1,1,,2,1,,,,,,2,,,,,,2,734870
+501,2884,State Fair Community College,Political Science,2.9,Michael W. Davis,3.8,9,86%,1,1,1,,,,5,,,,3,,4,1,3,,2,,1,3,1932151
+502,2884,State Fair Community College,Mathematics,3.1,Debbie Vaughan,4.3,8,N/A,,,,,,,,,,,,,,,,,,,,,130258
+503,2884,State Fair Community College,Computer Science,2.6,Becky Arbisi,3.3,8,N/A,,,,1,,,,,,,,,,,1,,,,,,130275
+504,2884,State Fair Community College,Business,1.4,Carol Schibi,4.9,8,N/A,,,,,,,,,,,,,,,,,,,,,390669
+505,2884,State Fair Community College,Theater,1.6,Tim Wells,4.5,8,N/A,,,,,,,1,1,,,,,,,,1,,,,,432150
+506,2885,Stautzenberger College,Business,3.0,Jason Bess,4.7,12,N/A,,,,1,1,,,1,,,1,1,,,,1,,,,,1042944
+507,2885,Stautzenberger College,Science,5.0,Dr. Beth Lorenson,3.8,3,N/A,,,,,,,,,,,,,,,,,,,,,1300978
+508,2885,Stautzenberger College,History,1.0,Tom Roka,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1463584
+509,2885,Stautzenberger College,Business,5.0,Patrica Henry,1.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1596834
+510,2885,Stautzenberger College,Biology,2.0,Erhardt Bell,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1690160
+511,2885,Stautzenberger College,Science,2.0,Sheryl Lewis,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1798166
+512,2885,Stautzenberger College,Communication,3.0,Mark McKee,4.5,1,N/A,,1,,,,,,,,,1,,,,,1,,,,,2031734
+513,2885,Stautzenberger College,Education,3.0,Keri Everly,4.0,1,N/A,,,,1,,,,,,,,,1,,,1,,,,,2436637
+514,2886,Stevens-Henager College,Computer Science,1.8,Chip Browne,4.8,31,N/A,,,,,,,,,,,,,,,,,,,,,1268201
+515,2886,Stevens-Henager College,Computer Science,2.7,Lynn Roy Thackeray,4.4,7,N/A,,,,,,1,,6,,,,,,3,4,,,,,,1970089
+516,2886,Stevens-Henager College,Design,3.5,Dallyn Zudel,4.8,2,N/A,,,,,,,,,,,,,,,,,,,,,1618222
+517,2886,Stevens-Henager College,Health Science,3.0,Todd Kane,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1459821
+518,2886,Stevens-Henager College,Health Science,3.0,Pete Keiley,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1563213
+519,2886,Stevens-Henager College,Computer Science,5.0,Bruce Embry,2.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1599669
+520,2886,Stevens-Henager College,Computer Science,4.0,Merrick Fonnesbeck,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1599675
+521,2888,Suffolk County Community College,Psychology,2.2,Mick Rooney,4.8,211,80%,1,12,,,5,13,2,8,,,7,18,2,,,18,13,,,5,956705
+522,2888,Suffolk County Community College,Science,3.6,Scott Mandia,3.3,202,44%,7,5,4,5,9,9,,9,,1,4,3,11,8,9,4,21,,4,41,663092
+523,2888,Suffolk County Community College,History,3.2,Stanley Alexander,2.8,193,37%,1,3,,,3,,5,1,12,,11,3,32,,6,6,22,2,6,31,157165
+524,2888,Suffolk County Community College,English,3.8,Mark Bourdeau,4.3,173,40%,1,,,1,2,,23,16,,,4,4,,2,1,6,9,7,,22,160513
+525,2888,Suffolk County Community College,Biology,3.4,Christopher Picken,4.5,159,74%,7,13,,12,15,8,4,10,1,,1,6,11,,1,13,11,,7,10,323522
+526,2888,Suffolk County Community College,Geography,3.0,Charles Yeager,4.7,139,91%,51,11,,18,17,45,20,17,,8,9,2,3,12,11,5,8,,3,11,2126469
+527,2888,Suffolk County Community College,Psychology,1.8,Thomas Coleman,4.8,138,98%,5,31,,10,6,1,,6,8,1,56,24,5,1,2,35,,,,1,898321
+528,2888,Suffolk County Community College,English,1.1,Jim Mattimore,4.9,134,N/A,,,,,,,,1,,,1,1,,,,,,,,,33439
+529,2888,Suffolk County Community College,Psychology,2.6,Julie Hanauer,4.3,132,67%,1,5,,10,6,5,6,14,1,1,,2,2,4,5,3,4,1,2,9,320373
+530,2888,Suffolk County Community College,Psychology,3.0,Michael Benhar,3.6,128,40%,1,3,,3,5,6,14,3,1,,3,1,,5,5,2,11,8,3,27,514664
+531,2888,Suffolk County Community College,Psychology,2.1,Joy Bolger,4.9,120,100%,,21,,10,3,,1,9,1,,4,11,,,10,23,4,,,2,1101104
+532,2888,Suffolk County Community College,Mathematics,4.1,Vera Hu-Hyneman,2.3,120,31%,3,1,1,5,2,3,4,3,4,3,,1,7,9,3,,14,3,2,22,335789
+533,2888,Suffolk County Community College,Social Science,3.6,Rita Sakitt,2.8,120,30%,1,,1,3,,7,11,4,,,,3,8,5,16,2,13,8,,13,119754
+534,2888,Suffolk County Community College,English,2.2,Daniel Linker,4.7,120,87%,,2,2,10,4,,5,11,1,,8,5,,2,2,7,1,2,,1,222871
+535,2888,Suffolk County Community College,Philosophy,3.2,Sandra Emmachild,3.6,117,50%,,4,,,1,6,8,2,1,,,3,3,,8,4,,,1,11,211076
+536,2888,Suffolk County Community College,English,2.2,Maria Kranidis,4.0,117,70%,1,9,,4,3,3,16,7,3,,10,9,1,3,10,3,3,,,10,1110017
+537,2888,Suffolk County Community College,English,2.5,Paul Agostino,4.0,116,100%,,2,,2,2,,,5,1,,8,,,1,8,3,2,,,2,198060
+538,2888,Suffolk County Community College,Communication,2.0,Dante Morelli,4.7,116,96%,1,7,,10,1,,,7,1,,27,14,,2,3,16,,,,,497993
+539,2888,Suffolk County Community College,Biology,2.4,Srinivas Pentyala,4.8,113,98%,7,54,,26,10,30,1,12,1,,15,30,1,,3,34,6,,,,570487
+540,2888,Suffolk County Community College,History,2.6,Denise Haggerty,4.3,113,41%,2,5,,9,4,6,18,8,,,,1,1,9,6,8,2,3,5,5,552501
+541,2889,SUNY Sullivan County Community College,Social Science,3.8,Tom Lambert,4.6,25,N/A,,1,,,,,,,,,,1,,,,1,,,,,75903
+542,2889,SUNY Sullivan County Community College,Mathematics,2.8,Dave Pollack,4.4,25,N/A,,,,,,,,,,,,,,,,,,,1,,186895
+543,2889,SUNY Sullivan County Community College,Graphic Arts,3.4,Tom Ambrosino,3.8,24,N/A,,,,,,,,,,,,,,,,,,,,,162805
+544,2889,SUNY Sullivan County Community College,Sociology,3.9,Thomas Lambert,4.8,19,N/A,,1,,,,,,,,,,1,,,,,,,,,695335
+545,2889,SUNY Sullivan County Community College,Science,3.1,Linda Armstrong,3.7,17,N/A,,,,,,,,,,,,,,,,,,,,,206534
+546,2889,SUNY Sullivan County Community College,English,3.5,Vern Lindquist,4.3,17,N/A,,,,,,,,,,,,,,,,,,,,,224943
+547,2889,SUNY Sullivan County Community College,English,3.2,Paul Reifenheiser,4.5,17,N/A,,1,,,,,,1,,,,,,,,1,,,,,502577
+548,2889,SUNY Sullivan County Community College,History,1.6,Anne Ruszkiewicz,3.7,16,N/A,,,,,,,,,,,,,,,,,,,,,497648
+549,2889,SUNY Sullivan County Community College,Computer Science,3.0,Rich McElrath,4.1,15,N/A,,,,,,,,,,,,,,,,,,,,,99613
+550,2889,SUNY Sullivan County Community College,Humanities,2.4,Tim Russell,4.2,15,N/A,,,,,,,,,,,,,,,,,,,,,397070
+551,2889,SUNY Sullivan County Community College,English,2.7,Lisa Caloro,4.2,15,N/A,,,,,,,,1,,,,1,,1,1,,,,,1,700878
+552,2889,SUNY Sullivan County Community College,Biology,3.3,Timothy Redman,4.6,15,N/A,1,3,,2,2,,,1,,,4,,,,,1,,,,,1042281
+553,2889,SUNY Sullivan County Community College,Communication,3.6,Scott Healy,3.9,14,N/A,,,,,,,,,,,,,,,,,,,,,159982
+554,2889,SUNY Sullivan County Community College,Psychology,3.1,Beverly Moore,4.4,14,N/A,,1,,1,1,1,,1,,,,1,,,,1,1,,1,,487646
+555,2889,SUNY Sullivan County Community College,Graphic Arts,3.1,L. Jack Agnew,4.3,14,N/A,,1,,,,,,,,,,,,,1,,,,,1,488398
+556,2889,SUNY Sullivan County Community College,English,4.2,Wayne Fulks,1.7,13,N/A,,,,,,,,,,,,,,,,,,,,,75905
+557,2889,SUNY Sullivan County Community College,Biology,2.7,Stephen Fleckenstein,3.6,11,N/A,,,,,,,,,,,,,,,,,,,,1,466909
+558,2889,SUNY Sullivan County Community College,Social Science,2.7,Thomas Schunk,3.9,11,N/A,,,,,,,,,1,,,1,1,,,2,,,,,487684
+559,2889,SUNY Sullivan County Community College,Computer Science,3.7,Cynthia Marcello,1.4,11,N/A,,,,,,,1,,,1,,,,1,,,2,,,3,990992
+560,2889,SUNY Sullivan County Community College,Science,3.3,Marie Christine Paupard,4.1,11,N/A,,,1,3,2,,,1,,,,1,1,,,,4,,,3,1601003
+561,2890,Surry Community College,English,4.0,Jonathon Thomas,4.1,36,67%,1,,,1,,,3,2,1,,2,1,,1,,1,1,2,,5,393443
+562,2890,Surry Community College,English,4.0,Darin Cozzens,2.7,33,38%,1,1,1,1,1,,,2,1,,,2,2,5,2,2,1,4,,9,455896
+563,2890,Surry Community College,English,4.3,Gregg Heitschmidt,3.1,30,57%,,2,,1,1,,,3,1,,1,5,3,2,3,1,6,,,18,1279941
+564,2890,Surry Community College,Mathematics,3.5,Susan Worth,2.9,27,N/A,1,,,,,,1,,,,1,2,,2,1,3,4,,,4,261889
+565,2890,Surry Community College,Computer Science,3.0,Tres Fowler,3.2,27,N/A,,,,,,,,,,,,,,,,,,,,1,449823
+566,2890,Surry Community College,History,1.8,Oz Prim,3.9,26,N/A,,,,,,,,,,,,,,,,1,,,,,429483
+567,2890,Surry Community College,History,3.2,Cory Stewart,4.0,25,75%,1,7,,,2,,4,3,,,5,1,2,2,2,6,4,,,4,1479203
+568,2890,Surry Community College,Art History,2.9,Danajean Mabry,4.7,23,100%,4,1,,6,3,2,,2,,,2,4,,,1,1,1,,,,429482
+569,2890,Surry Community College,English Education,2.8,Bradley Arrington,4.0,21,100%,,,,2,2,,,5,,,,1,4,,1,,,,,1,1149603
+570,2890,Surry Community College,Mathematics,2.7,Steve Marion,4.8,19,N/A,1,,,1,,,,,,,1,1,,,,1,,,,1,465108
+571,2890,Surry Community College,English,3.2,Kennette Lawrence,4.5,19,86%,4,1,,4,1,,1,1,,1,,3,,1,1,2,,,,,459524
+572,2890,Surry Community College,Computer Science,3.2,Kim White,3.6,18,100%,,,2,2,,1,3,4,,,1,,,,,5,,,1,,449822
+573,2890,Surry Community College,Biology,4.2,Michael Ayers,4.2,18,N/A,1,,,2,,,,3,,,,,,1,1,1,,,,2,725102
+574,2890,Surry Community College,Psychology,2.8,Walter Pritchard,4.1,17,80%,,,,,2,,1,2,,,4,1,1,,,3,2,,2,3,711313
+575,2890,Surry Community College,Sociology,1.8,Jan Gordon,3.0,17,43%,1,,,2,2,,,,1,,,,2,3,,,,3,,3,711315
+576,2890,Surry Community College,English,4.3,Rita Rogers,2.9,17,20%,,,,,,,7,2,1,,,,1,2,3,,,1,,9,1222206
+577,2890,Surry Community College,Chemistry,3.4,Robin Narehood,4.2,17,86%,3,,,2,,,1,3,,,,,,2,,1,2,,1,,991474
+578,2890,Surry Community College,Languages,2.5,Shannie Jessup,4.0,16,N/A,,,,,,,,,,,,,,,,,,,,,262195
+579,2890,Surry Community College,History,3.4,Harry Bralley,2.3,16,N/A,,,,,,,,,,,,,,,,,,,,,636422
+580,2890,Surry Community College,English,2.7,Kathleen Fowler,4.0,15,N/A,,1,,2,,,1,4,,,3,2,,2,1,,,1,,,483239
+581,2891,Sussex County Community College,English,2.5,Frank Ancona,4.8,79,100%,1,3,,3,1,,,11,1,,4,3,,,2,10,,1,,,74714
+582,2891,Sussex County Community College,Psychology,2.2,Richard Linden,4.9,72,100%,,11,,5,1,,1,2,,,18,6,,,,15,,,,,100482
+583,2891,Sussex County Community College,History,4.5,Paul Hughes,2.6,70,N/A,,,,,,,5,,1,,,,3,,,,3,,1,3,210584
+584,2891,Sussex County Community College,Psychology,2.1,Melanie Arpaio,4.7,59,100%,,3,,3,,,,3,,,5,6,,,2,5,,,,1,545933
+585,2891,Sussex County Community College,English,3.1,Bruce Crisman,4.1,57,87%,2,1,,13,3,,,8,,,7,8,1,,3,5,4,,,5,488358
+586,2891,Sussex County Community College,Sociology,2.8,Stacie Golin,4.2,56,63%,1,5,,3,4,1,2,5,1,,4,1,,,4,1,1,1,1,2,279689
+587,2891,Sussex County Community College,English,3.4,Bernard Bomba,2.8,56,N/A,,1,,,1,,3,5,,,,3,,,2,1,2,,,1,335918
+588,2891,Sussex County Community College,English,3.1,Rich Carpenter,3.1,42,36%,2,,,1,2,,1,3,2,,,,2,1,2,,6,1,,8,212307
+589,2891,Sussex County Community College,English,3.2,Priscilla Orr,3.0,40,50%,,,,1,1,1,4,2,,1,,,1,2,1,,1,4,,4,215561
+590,2891,Sussex County Community College,English,3.0,Mary Thompson,4.2,40,100%,,1,3,4,3,,2,4,,,,1,,,1,4,1,,,3,597854
+591,2891,Sussex County Community College,Anthropology,3.6,Anthony Balzano,3.9,39,85%,1,4,,1,1,1,7,1,,,2,3,,,4,3,3,1,1,11,133549
+592,2891,Sussex County Community College,Mathematics,3.0,Faith Dillon,2.9,34,N/A,,,,1,,,,,,,,,,,,1,1,,,,164903
+593,2891,Sussex County Community College,Mathematics,4.3,Barbara Glass,1.1,32,N/A,,,,,,,1,,,,,,1,1,,,,,,,208620
+594,2891,Sussex County Community College,Accounting,4.5,Barbara Bulford,2.8,31,63%,,,,1,,1,2,3,,,1,1,4,7,4,1,7,1,1,4,180059
+595,2891,Sussex County Community College,Mathematics,2.6,Bonnie Brooks,4.0,31,60%,,,,4,1,,,2,1,,,,1,1,1,5,2,,1,,553511
+596,2891,Sussex County Community College,Languages,1.9,Gary Mielo,4.8,30,N/A,,,,,,,,,,,,,,,,,,,,,169470
+597,2891,Sussex County Community College,Mathematics,2.2,Alice Williamson,5.0,30,N/A,,,,2,1,,,1,,,,,,,,1,,,,,699903
+598,2891,Sussex County Community College,Science,2.4,Peter Bilby,5.0,30,100%,2,,,5,3,6,,,1,,,,1,,,8,,,,,872264
+599,2891,Sussex County Community College,Chemistry,3.6,Michael Love,3.4,29,29%,,,,1,1,,1,,,,,,4,1,,2,5,,3,9,1106776
+600,2891,Sussex County Community College,Art History,2.2,Michael Hughes,4.5,28,N/A,,1,,2,,3,,1,,,,1,1,3,5,3,1,,,,1300099
+601,2892,Tacoma Community College,Psychology,3.2,Mark Brewer,4.5,324,94%,6,38,,9,30,,58,22,,,65,11,5,9,23,28,36,,6,11,1590127
+602,2892,Tacoma Community College,Psychology,3.1,Pamela Costa,4.3,151,86%,16,12,,35,36,12,27,44,1,1,1,22,,4,8,23,4,,5,10,458074
+603,2892,Tacoma Community College,History,4.1,Brian Duchin,3.4,121,38%,,7,,,2,,16,7,4,,2,1,16,6,8,5,12,6,,33,129197
+604,2892,Tacoma Community College,Mathematics,3.0,Jared Abwawo,3.8,111,61%,2,4,1,9,12,,2,8,10,1,1,5,5,5,3,12,18,1,8,18,739942
+605,2892,Tacoma Community College,History,3.8,Yi Li,2.5,109,13%,2,1,1,,,,17,6,6,,,2,13,4,4,2,5,1,1,26,419011
+606,2892,Tacoma Community College,Mathematics,4.1,Merideth Laflesh,2.3,106,6%,,,2,,1,10,3,,2,15,,,1,2,5,,10,1,2,28,603481
+607,2892,Tacoma Community College,History,3.3,Bernard Comeau,4.3,101,82%,1,22,,4,7,,27,3,1,,2,2,11,13,1,15,20,,4,22,672870
+608,2892,Tacoma Community College,Mathematics,2.8,Greg Ferencko,4.2,98,85%,4,11,1,6,6,3,1,9,3,,22,4,5,4,7,11,6,,5,10,661044
+609,2892,Tacoma Community College,English,4.0,Allen Braden,2.3,96,39%,1,,10,1,,,8,4,,,3,2,,2,4,,6,,2,8,497721
+610,2892,Tacoma Community College,English,3.9,Mary Chen-Johnson,3.3,85,31%,,,1,5,3,1,5,6,3,1,,4,1,5,6,1,6,6,3,15,548760
+611,2892,Tacoma Community College,English,3.3,Michael Huffman,3.0,80,39%,1,,,1,5,,15,12,4,3,,1,,7,6,2,2,4,,18,1034782
+612,2892,Tacoma Community College,English,2.5,Sedia Dennis,4.7,78,N/A,,,,,,,1,2,,,,,,2,,,,,,1,1225919
+613,2892,Tacoma Community College,Sociology,2.2,Demetrius Story,4.8,78,99%,9,4,1,33,5,19,4,17,,6,34,22,1,2,16,53,4,,,,1992318
+614,2892,Tacoma Community College,Chemistry,4.0,Mark Walker,3.5,73,42%,6,9,,9,2,,1,2,,1,5,2,4,3,2,4,14,1,6,29,1607609
+615,2892,Tacoma Community College,Chemistry,4.1,Bill Adams,3.7,71,59%,4,3,2,4,2,,2,4,1,,5,4,5,,1,6,16,,5,27,779322
+616,2892,Tacoma Community College,Sociology,2.2,Andrew Cho,4.6,70,94%,1,10,,3,4,9,4,3,1,,13,5,1,3,4,8,5,,,,624385
+617,2892,Tacoma Community College,Languages,3.3,Bruno Arzola,3.3,70,57%,4,2,,5,1,,4,1,1,,4,2,1,6,6,1,11,,1,7,825078
+618,2892,Tacoma Community College,Biology,4.0,Pattie Green,3.1,70,60%,5,4,1,6,,,8,5,,2,1,1,4,7,4,7,10,,5,20,1295475
+619,2892,Tacoma Community College,Anthropology,3.4,Linda Duchin,3.9,68,N/A,,5,10,,,1,2,3,1,,1,1,3,1,1,2,6,,,10,129202
+620,2892,Tacoma Community College,English,2.4,Mary Fox,4.5,67,94%,7,1,,11,3,2,,13,2,,1,3,,,4,10,,1,,2,637183
+621,2893,Taft College,Communication,2.7,Heather Silvis,4.8,105,95%,13,10,,11,25,39,3,39,,5,47,38,1,2,24,13,35,,,7,2412330
+622,2893,Taft College,Political Science,3.6,Harold Pease,2.6,53,N/A,1,2,,,,,6,,,,1,,3,1,1,,3,,1,8,380382
+623,2893,Taft College,Fine Arts,2.3,Sonja Swenson,3.0,49,N/A,,,,3,2,,5,4,,,,1,,,2,,,,,3,330890
+624,2893,Taft College,Mathematics,4.3,B Jean,2.9,48,33%,1,1,,,,,,1,,,,,,5,1,,5,,2,8,190822
+625,2893,Taft College,English,2.6,Geoff Dyer,4.3,31,100%,,5,,1,4,,3,10,,,3,,,2,2,1,1,2,,1,1113204
+626,2893,Taft College,English,2.7,John Eigenauer,4.5,30,N/A,,2,,5,,,2,6,,,4,,,,4,2,2,1,,,883417
+627,2893,Taft College,Mathematics,2.1,Diane Jones,4.8,28,100%,2,1,,4,8,2,,2,,,,,1,5,1,6,2,,,,387834
+628,2893,Taft College,Chemistry,3.1,Mike Mayfield,4.2,28,83%,1,2,,6,3,,1,1,,,2,1,1,1,2,6,4,,,2,667887
+629,2893,Taft College,Biology,3.6,Greg Golling,3.6,28,70%,,2,,,2,,3,2,,,3,,4,,2,5,9,,2,9,1231542
+630,2893,Taft College,History,3.2,Jennifer Altenhofel,3.8,25,69%,,4,,3,2,5,10,4,,4,1,5,1,5,4,2,1,3,,6,1595817
+631,2893,Taft College,Not Specified,2.8,Robin Polski,4.7,25,92%,2,3,,10,9,2,,12,1,1,8,3,,,2,5,1,,1,,1149808
+632,2893,Taft College,Science,2.9,Craig Johnson,4.6,23,N/A,,,,1,1,1,,,,,,,,,,2,,,,,380356
+633,2893,Taft College,History,3.6,Tina Mendoza,3.3,23,57%,1,2,,5,2,5,11,7,,1,1,1,,8,1,3,,9,1,7,2100560
+634,2893,Taft College,Criminal Justice,2.3,Michael Jiles,4.9,22,100%,5,4,,8,3,,,5,,1,6,10,,,6,11,,,,,2127823
+635,2893,Taft College,English,3.4,Sara Ann Wallace,3.2,21,50%,,,,5,2,,7,4,,1,,,,7,7,,6,5,1,7,1875785
+636,2893,Taft College,English,1.7,Gary Graupman,3.6,20,N/A,,,,,3,,,1,,,2,,,,4,2,2,,,,380373
+637,2893,Taft College,English,2.8,Kamala Carlson,4.3,20,N/A,,,,3,1,,2,4,,,,,,5,,,4,,,2,741580
+638,2893,Taft College,Psychology,2.3,Tori Furman,4.5,20,100%,1,2,,4,2,,,13,,,,10,,3,8,3,6,,,2,1770864
+639,2893,Taft College,Geology,3.6,James May,4.2,20,82%,2,2,,4,1,1,2,4,1,1,3,1,5,3,4,3,9,,1,8,1841513
+640,2894,Tallahassee Community College,Sociology,2.8,Jeff Liang,3.9,236,86%,,10,22,2,8,19,16,6,1,,17,4,1,6,12,3,29,1,1,21,167053
+641,2894,Tallahassee Community College,History,2.4,Melissa Soldani-Lemon,4.6,234,91%,4,34,,11,4,11,3,9,,,36,22,15,2,8,11,49,6,1,6,676115
+642,2894,Tallahassee Community College,English,3.5,Gareth Euridge,4.1,230,83%,10,6,3,2,25,,7,18,4,3,5,2,6,3,15,10,18,8,,27,808805
+643,2894,Tallahassee Community College,College Success,1.7,Tracey Stallworth,4.8,218,98%,5,15,5,37,10,3,2,30,,5,41,56,1,6,33,43,26,1,1,2,1617188
+644,2894,Tallahassee Community College,Mathematics,1.8,John Salak,4.9,210,96%,2,14,,16,12,3,,18,1,,28,11,,12,,13,2,,,1,275462
+645,2894,Tallahassee Community College,Psychology,3.9,Russell McGuff,2.8,200,20%,,3,1,2,1,3,18,1,3,,1,,16,5,5,,17,4,7,21,167043
+646,2894,Tallahassee Community College,Psychology,1.8,Shayn Lloyd,4.7,194,87%,1,37,,9,7,22,1,8,3,2,6,11,6,,3,16,17,,1,3,1262453
+647,2894,Tallahassee Community College,Mathematics,2.6,Douglas Windham,4.7,179,91%,3,18,3,6,4,1,,9,1,,13,10,3,7,3,13,28,,,6,322970
+648,2894,Tallahassee Community College,Economics,4.1,Stacie Sheffield,2.8,165,14%,,1,7,,1,4,16,1,,,,1,9,7,4,,15,,5,33,1153674
+649,2894,Tallahassee Community College,English,2.6,Bryan McLawhorn,4.5,156,92%,6,1,1,4,19,,3,23,,,5,,,6,5,8,17,5,,19,264574
+650,2894,Tallahassee Community College,Mathematics,1.6,Susan Wessner,4.9,152,100%,7,4,1,22,5,20,,16,,,29,11,,1,4,14,,,,,279690
+651,2894,Tallahassee Community College,Political Science,3.0,Stephen Powers,4.0,149,86%,4,6,,7,12,28,14,4,1,,4,2,6,9,4,7,3,4,1,2,296532
+652,2894,Tallahassee Community College,Biological Sciences,2.9,Robert Beregowitz,4.3,146,78%,4,6,,8,4,5,2,1,4,,,,5,2,2,7,11,,4,3,324473
+653,2894,Tallahassee Community College,English,1.7,Forster Agama,4.4,140,91%,4,2,,24,8,1,1,15,1,1,,4,1,,6,11,5,4,,5,1141288
+654,2894,Tallahassee Community College,Mathematics,1.7,Christopher McNally,4.9,137,100%,1,4,1,16,3,12,,14,,,5,5,,2,6,10,2,,,,491990
+655,2894,Tallahassee Community College,History,3.6,Don Barry,2.7,136,N/A,,1,,1,,,7,,,,4,,8,,,,3,,,10,244465
+656,2894,Tallahassee Community College,English,1.5,Greg Loyd,4.9,135,N/A,1,3,,9,3,,,16,,,11,4,,1,4,9,1,,,,1061097
+657,2894,Tallahassee Community College,Science,2.7,Wilbert Butler,2.8,135,41%,2,2,1,2,5,,13,5,3,4,,,2,13,16,3,5,1,1,7,384568
+658,2894,Tallahassee Community College,English,2.1,Donmetrie Clark,4.3,134,N/A,,2,,,1,1,1,5,,,3,,,,4,4,6,,,4,268268
+659,2894,Tallahassee Community College,Humanities,2.8,Kermit Harrison,3.9,134,44%,2,17,,4,,4,32,2,4,,11,16,11,5,15,6,27,,2,15,1108456
+660,2895,Taylor Business Institute,Medicine,2.7,Wesley Ozarowski,4.1,19,N/A,,,,,,,,,,,,,1,,,,1,,,1,361509
+661,2895,Taylor Business Institute,Languages,4.8,Dustin French,4.4,6,N/A,,,,,,,,,,,,,,,,1,1,,,1,1735879
+662,2895,Taylor Business Institute,English,1.0,Tim Miller,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1363005
+663,2895,Taylor Business Institute,Psychology,4.0,Michelle Burnside,4.0,1,N/A,,,,,,1,,,,,,,,,,1,1,,,,2237976
+664,2897,Technical Career Institutes,Computer Science,2.6,Roy Lau,4.2,39,N/A,2,3,,,,1,,1,,,,6,,,3,1,,,,,202631
+665,2897,Technical Career Institutes,Humanities,1.6,Robert Lubell,4.8,25,N/A,,,,,,,,,,,,,,,,,,,,,203227
+666,2897,Technical Career Institutes,Engineering,2.3,Michael Ferber,4.4,20,N/A,,2,2,1,1,,,,,,,,,,,,3,,,,393925
+667,2897,Technical Career Institutes,Computer Science,2.4,Silvio Reyes,4.5,18,100%,,3,,3,,,,2,,,4,2,,,1,6,1,,,,423455
+668,2897,Technical Career Institutes,Literature,3.1,Robert Fuhrmann,3.8,16,N/A,,,,,,,,,,,,,,,,,,,,,219187
+669,2897,Technical Career Institutes,Computer Science,4.1,Joel Almoradie,2.8,14,N/A,,,,,,,,,,,,,,,1,,1,,,1,304709
+670,2897,Technical Career Institutes,Design,2.1,Julia Hutchinson,4.5,14,N/A,,,,,,,,,,,,,,,,,,,,,367848
+671,2897,Technical Career Institutes,Computer Science,2.3,Rudy Defreitas,4.9,12,N/A,,,,,,,,,,,,,,,,,,,,,416184
+672,2897,Technical Career Institutes,Humanities,2.7,Elise Kiregean,3.3,11,N/A,,,,,,,,,,,,,,,,,,,,,367849
+673,2897,Technical Career Institutes,Mathematics,1.9,Ursula Grochowshi,4.9,11,N/A,,,,,,,,,,,,,,,,,,,,,508828
+674,2897,Technical Career Institutes,Computer Science,2.2,M Yasin,4.1,10,N/A,,,,,,,,,,,,,,,,,,,,,739717
+675,2897,Technical Career Institutes,Business,2.4,Leticia Hernandez,3.2,9,N/A,,,,,,,,,,,,,,,,,,,,,391473
+676,2897,Technical Career Institutes,Graphic Arts,1.4,Flores Jaxon,4.6,9,N/A,,,,,,,,,,,,,,,,,,,,,421676
+677,2897,Technical Career Institutes,Graphic Arts,1.9,Francisco Sabio,4.7,9,N/A,,,,,,,,,,,,,,,,,,,,,558147
+678,2897,Technical Career Institutes,Graphic Arts,3.4,Kim O'Brien,3.4,8,N/A,,,,,,,,,,,,,,,,,,,,,558054
+679,2897,Technical Career Institutes,Physics,2.9,Bert Pariser,4.1,7,N/A,,,,,,,,1,,,,1,,,,,,,,,392363
+680,2897,Technical Career Institutes,Business,2.7,Cyril Johnson,4.0,7,N/A,,,,,,,,,,,,,,,,,,,,,416162
+681,2898,Technical College of the Lowcountry,Science,4.6,Natavia Middleton,2.9,27,N/A,1,,,,,,,1,,1,,1,,,,,,,,2,1435755
+682,2898,Technical College of the Lowcountry,History,2.4,Greg Mauriocourt,4.8,24,N/A,1,2,,,5,2,2,5,,,,,1,,2,2,2,1,,,689653
+683,2898,Technical College of the Lowcountry,Psychology,2.6,Tom Mullins,4.1,24,88%,,1,7,,1,1,6,,,,6,,,,2,3,1,,,1,869002
+684,2898,Technical College of the Lowcountry,English,3.3,Shana Hirsch,3.1,24,80%,1,1,,2,1,1,2,3,,,,,,,,1,4,,,1,456553
+685,2898,Technical College of the Lowcountry,English,2.1,Russell Keevy,5.0,20,100%,1,3,,2,1,,2,3,,,5,2,,,,5,,,,,1519449
+686,2898,Technical College of the Lowcountry,Biology,2.7,Joseph Bailey,2.5,19,N/A,,,,,2,,,,,3,,,1,2,,2,,,,,1320510
+687,2898,Technical College of the Lowcountry,Psychology,1.7,Scott Reeder,4.8,17,N/A,,1,,,,,,,,,3,,,,,2,,,,,1643329
+688,2898,Technical College of the Lowcountry,History,2.1,Stephen Bacon,4.4,17,100%,,5,1,1,2,4,,5,,,1,1,,,,4,8,2,,,1778508
+689,2898,Technical College of the Lowcountry,Mathematics,2.8,Andrea West,4.3,15,71%,3,,,5,,,1,4,,,,,,5,,1,3,,1,1,1179914
+690,2898,Technical College of the Lowcountry,Communication,2.8,Joy Locke,4.8,14,100%,,1,,1,3,,,5,,,,,,1,3,1,6,,,2,1288694
+691,2898,Technical College of the Lowcountry,Mathematics,2.2,J Daniels,4.2,13,N/A,,,,,,2,,1,,,,,,,1,2,,,,,828150
+692,2898,Technical College of the Lowcountry,Languages,4.5,Rosemary Hunt,1.9,10,20%,1,,,,1,,1,,,,,,,3,,,1,,1,3,1251187
+693,2898,Technical College of the Lowcountry,Mathematics,2.6,Ronald Speaks,4.4,9,N/A,,,,,,,,,,,,,,,,,,,,,1071771
+694,2898,Technical College of the Lowcountry,Biology,3.2,Laurence Neely,4.4,9,N/A,,1,,,1,,1,1,,,,,1,2,,2,3,,1,1,1794941
+695,2898,Technical College of the Lowcountry,English,2.3,Heather Weiss,4.7,9,N/A,1,,,3,3,,,5,,,2,1,1,,1,1,,,,,1817697
+696,2898,Technical College of the Lowcountry,English,4.2,Iris Barbour,1.0,8,N/A,,,,,,,,,,,,,,4,,,1,1,,6,2254728
+697,2898,Technical College of the Lowcountry,Mathematics,2.9,Baltz Ray,3.9,7,N/A,,,,,1,,,,,,,,,1,2,,1,,,,711672
+698,2898,Technical College of the Lowcountry,Biology,4.3,Ashley Gess,3.8,7,N/A,,,,,,,,,,,,,,,,,,,,,1288674
+699,2898,Technical College of the Lowcountry,Mathematics,2.0,Shirley Johnston,4.4,7,N/A,,,,,,,,,,,,,,,,,,,,,1336162
+700,2898,Technical College of the Lowcountry,Biology,3.3,John Fakunding,2.2,7,N/A,,,,,,,,,,,,,,,,,,,,,1467102

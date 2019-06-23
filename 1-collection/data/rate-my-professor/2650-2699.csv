@@ -1,0 +1,494 @@
+,campus_id,campus_name,dept,difficulty,name,quality,rating_count,retake,tag_accessibleoutsideclass,tag_amazinglectures,tag_bewareofpopquizzes,tag_caring,tag_cleargradingcriteria,tag_extracredit,tag_getreadytoread,tag_givesgoodfeedback,tag_gradedbyfewthings,tag_groupprojects,tag_hilarious,tag_inspirational,tag_lectureheavy,tag_lotsofhomework,tag_participationmatters,tag_respected,tag_skipclassyouwon'tpass,tag_somanypapers,tag_testheavy,tag_toughgrader,tid
+0,2650,Pasco-Hernando State College (all campuses),Languages,2.1,Emmanuel Giannet,5.0,318,100%,5,7,,64,3,5,1,34,2,,16,38,1,,31,52,13,,,2,108077
+1,2650,Pasco-Hernando State College (all campuses),Psychology,2.1,K.T. Faison,4.7,144,91%,,9,,4,1,9,2,3,3,,14,5,1,,7,12,12,,,2,380367
+2,2650,Pasco-Hernando State College (all campuses),English,2.8,Ann Bunting,4.0,108,82%,6,,,10,7,,5,21,,,,,,6,3,2,1,2,,9,411668
+3,2650,Pasco-Hernando State College (all campuses),Health Science,3.5,Jennifer Wiatrowski,3.5,106,72%,7,7,3,7,6,2,7,9,1,1,2,,8,17,4,3,16,,9,12,725999
+4,2650,Pasco-Hernando State College (all campuses),Science,1.6,Guy McCann,4.9,104,100%,,15,,7,12,,,3,4,,26,5,2,,2,16,1,,,,1122517
+5,2650,Pasco-Hernando State College (all campuses),Mathematics,2.9,Maria Witherell,4.8,103,100%,4,5,,22,4,,,17,,,20,7,1,19,3,14,7,,,1,182750
+6,2650,Pasco-Hernando State College (all campuses),Philosophy,2.7,Larry Poller,4.7,96,100%,1,13,,6,10,2,5,15,2,,4,10,2,1,2,13,2,,1,2,827873
+7,2650,Pasco-Hernando State College (all campuses),Mathematics,2.0,Chandelle Reese,5.0,91,95%,4,1,,11,2,,1,11,,,7,7,,3,5,13,2,,,,1137667
+8,2650,Pasco-Hernando State College (all campuses),English,2.2,Barbara Booker,4.7,88,100%,,,,7,14,,,21,,,6,4,,4,1,9,1,,,2,515250
+9,2650,Pasco-Hernando State College (all campuses),Mathematics,2.3,Jason Wetherington,4.8,88,88%,3,4,,6,10,1,,9,2,,9,3,1,10,,6,4,,3,2,492318
+10,2650,Pasco-Hernando State College (all campuses),Humanities,1.7,Wendy Neeld,4.8,84,92%,2,36,,7,5,6,2,9,1,,22,10,8,9,5,10,6,2,1,1,1553165
+11,2650,Pasco-Hernando State College (all campuses),Mathematics,3.4,Michelle Beermann,3.0,82,39%,,,,4,3,4,1,3,2,,,,7,20,3,,12,1,2,12,1638917
+12,2650,Pasco-Hernando State College (all campuses),Psychology,2.0,Gary Oesch,4.5,82,89%,7,12,,8,6,10,3,11,1,,4,9,1,4,,10,3,,3,4,721183
+13,2650,Pasco-Hernando State College (all campuses),Humanities,1.8,Jenette Flow,4.9,81,100%,,8,,5,2,,,4,,,4,8,1,,1,15,2,,,3,232628
+14,2650,Pasco-Hernando State College (all campuses),Biology,3.7,Jean Adams,3.5,81,63%,1,1,1,,4,,6,3,4,,,,10,3,1,2,11,,4,15,460086
+15,2650,Pasco-Hernando State College (all campuses),English,4.2,Ben Rallo,3.6,80,N/A,,,,,2,1,4,5,,,,1,4,2,1,1,5,,,4,955971
+16,2650,Pasco-Hernando State College (all campuses),Communication,1.7,Ed Sweda,4.6,79,100%,,2,,5,5,4,2,14,1,,6,1,,2,14,12,2,,,,232627
+17,2650,Pasco-Hernando State College (all campuses),Mathematics,3.4,Sarah Fede,3.5,75,57%,4,2,,4,9,8,1,4,1,,,1,2,18,,6,5,,3,3,336385
+18,2650,Pasco-Hernando State College (all campuses),Business,3.5,Vincent Daviero,2.8,74,29%,,,,4,1,5,5,7,1,,,3,2,9,7,4,2,2,2,21,1139126
+19,2650,Pasco-Hernando State College (all campuses),Sociology,2.4,Maureen (Bridey) Collins,4.4,72,70%,,10,,6,3,,,9,3,10,4,6,2,1,6,7,10,,,2,654216
+20,2651,Passaic County Community College,Psychology,2.6,Edward R Mosley,4.4,158,90%,1,10,,3,5,4,23,5,,,13,8,4,,3,15,9,1,1,3,88790
+21,2651,Passaic County Community College,Economics,3.8,Martin Bookbinder,4.0,139,89%,3,12,,6,10,,7,8,,,4,4,1,,1,4,2,,,6,89101
+22,2651,Passaic County Community College,Communication,2.8,James Sanders,5.0,112,100%,25,22,,42,6,,7,46,,,13,64,,,19,80,3,,,2,2168240
+23,2651,Passaic County Community College,Philosophy,3.1,John Fruncillo,4.2,94,78%,5,33,14,17,7,,10,12,,,18,12,4,1,13,12,5,,4,22,1287664
+24,2651,Passaic County Community College,English As A Second Language,1.8,Sara Elabed-Tolosa,5.0,85,100%,4,7,,16,1,,4,8,,,1,13,,,,13,,,,,959280
+25,2651,Passaic County Community College,Computer Science,2.7,Eric Cameron,4.2,81,71%,2,6,,2,,,2,8,,,2,2,2,,,6,2,,4,4,252178
+26,2651,Passaic County Community College,English,2.2,Kelly Bender,4.7,80,100%,1,,,5,3,1,2,6,1,,4,5,,1,,7,2,,,1,957378
+27,2651,Passaic County Community College,Philosophy,2.4,Petar Drakulich,4.7,78,100%,,9,,2,2,,,4,2,,16,4,1,,2,10,1,,,,691647
+28,2651,Passaic County Community College,Chemistry,3.3,Fred Safarowic,3.7,70,54%,1,5,,1,6,2,3,3,,,,1,,1,,4,5,,4,9,257427
+29,2651,Passaic County Community College,Accounting,3.1,Khloud Kourani,5.0,67,100%,11,36,,33,8,1,,12,1,,8,22,3,5,4,26,16,,,,2092471
+30,2651,Passaic County Community College,Biology,3.1,Kala Mayur,4.0,66,93%,6,2,1,9,7,4,15,11,,,,1,2,6,6,8,4,,1,6,639727
+31,2651,Passaic County Community College,Biology,3.0,Marcin Baranowski,4.4,64,92%,3,7,,8,5,10,2,2,,,1,7,,1,3,4,4,,3,2,1002559
+32,2651,Passaic County Community College,English,3.0,Glenn Klopfenstein,3.7,64,71%,,2,,2,1,,3,6,1,,,,,1,2,3,,2,,2,160735
+33,2651,Passaic County Community College,Writing,2.2,Katiuska Esquiche,4.9,62,100%,,18,1,11,,1,4,10,,1,18,21,,2,17,28,3,1,,4,1610174
+34,2651,Passaic County Community College,History,4.3,Elliot Collins,2.8,60,44%,,,,,1,,13,1,1,,,,6,,,1,7,,1,14,345582
+35,2651,Passaic County Community College,English,2.0,Andrew Pawelczak,4.3,59,N/A,,7,,1,1,,1,7,1,,8,4,,1,4,7,2,,,,2211428
+36,2651,Passaic County Community College,English,1.8,Alan Mitnick,4.8,58,100%,,3,,4,1,1,2,6,1,,8,5,,2,3,7,,1,,,159528
+37,2651,Passaic County Community College,Chemistry,4.3,Edward Lesser,2.5,50,N/A,,,2,1,,,1,,,,,,,,1,,1,1,1,1,311409
+38,2651,Passaic County Community College,Human Services,1.6,Michael D'Arcangelo,4.5,49,100%,,5,,2,1,,,3,,,5,6,,,1,9,2,,,,140502
+39,2651,Passaic County Community College,Psychology,2.8,Metin Teke,3.6,49,92%,,1,,3,4,2,8,7,1,,,2,3,,4,6,2,,,,289304
+40,2653,Patrick Henry Community College,Psychology,2.2,Jo Ann Armstrong,2.9,18,N/A,,,,,,,1,1,,,,,,1,1,1,,,,,280038
+41,2653,Patrick Henry Community College,Mathematics,2.7,Jason Lachowitz,4.4,17,N/A,,1,,2,,,,2,,,3,,,,,2,,,,1,280042
+42,2653,Patrick Henry Community College,Biology,3.6,Francis Moore,2.7,13,N/A,,,,,,,,,,,,,1,,1,,1,,,1,693565
+43,2653,Patrick Henry Community College,Religion,3.4,Shawn McAvoy,4.2,10,60%,1,,1,,,,1,3,,,1,,,1,,,1,3,,2,1746816
+44,2653,Patrick Henry Community College,Fine Arts,2.8,Gerry Bannan,3.6,9,N/A,,,,,,,,,,,,,,,,,1,,,,704728
+45,2653,Patrick Henry Community College,Criminal Justice,2.4,Ronnie Wray,4.8,8,N/A,1,,,,,,,1,,,,,,,,1,,,,,1446573
+46,2653,Patrick Henry Community College,English,2.9,Phyllis Fleming,2.6,7,N/A,,1,,1,,,,1,,,2,,,,2,1,,,,,1030594
+47,2653,Patrick Henry Community College,Health Science,2.5,Sue Carol Carr,4.0,6,N/A,,,,,,,,,,,,,,,,,,,,,209546
+48,2653,Patrick Henry Community College,Nursing,4.3,Joe Gravely,3.7,6,N/A,,1,,,,,,,,,,1,,,,,1,,,,860852
+49,2653,Patrick Henry Community College,Mathematics,3.0,Nancy Phillips,3.0,5,N/A,,,,1,1,,,1,,,,,,,,1,,,,,1589855
+50,2653,Patrick Henry Community College,Not Specified,3.3,Terry Young,4.1,4,N/A,,,,,,,,,,,,,,,,,,,,,860855
+51,2653,Patrick Henry Community College,Communication,3.8,Karen Bryant,5.0,4,N/A,,,,,,,,,,,,,,,,,,,,,1250432
+52,2653,Patrick Henry Community College,Biology,3.5,Megan Tillery,2.4,4,N/A,,,,,,,,,,,,,,,,,,,,,1440211
+53,2653,Patrick Henry Community College,Nursing,3.2,Debbie Shelton,4.7,4,N/A,,1,,2,,,,1,,,,1,,,,1,,,,,1592558
+54,2653,Patrick Henry Community College,Mathematics,2.8,Kelly Proffitt,4.4,4,N/A,,,,1,,,1,,,,,,,,1,,,,,,1684474
+55,2653,Patrick Henry Community College,Mathematics,3.0,Mrs Norman,4.8,3,N/A,,,,,,,,,,,,,,,,,,,,,209552
+56,2653,Patrick Henry Community College,English,2.7,M Zollars,4.7,3,N/A,,,,,1,,,1,,,,,,,,1,,,,,710826
+57,2653,Patrick Henry Community College,Sociology,1.0,Susan Shearer,3.7,3,N/A,,,,,,,,,,,,,,,,,,,,,727577
+58,2653,Patrick Henry Community College,English,2.3,Angela Williams (Mize),4.7,3,N/A,,,,,,,,1,,,,,,,1,,,1,,,979905
+59,2654,Paul D. Camp Community College,History,2.7,Randolph Booth-Phar,2.8,10,N/A,,,,,1,,,1,,,,,,,,,,,,,147815
+60,2654,Paul D. Camp Community College,Biology,2.4,S Rabiu,2.9,7,N/A,,,,,,,,,,,,,,,,,,,,,509612
+61,2654,Paul D. Camp Community College,Accounting,3.3,Cinda Schmitt,3.1,7,N/A,,,,1,2,,,,,,,,,1,1,,,,,,1222960
+62,2654,Paul D. Camp Community College,Social Science,2.4,Ben Foust,4.5,5,N/A,,,,,,,,,,,,,,,,,,,,,629155
+63,2654,Paul D. Camp Community College,Sign Language,1.6,Jillian Overby,4.6,5,N/A,,,,,,,,,,,,,,,,,,,,,972928
+64,2654,Paul D. Camp Community College,Psychology,1.2,Jean Farmer,4.5,5,N/A,,,,1,,,,,,,,1,,,,1,,,,,1148898
+65,2654,Paul D. Camp Community College,Mathematics,3.6,Calvin Holt,3.4,5,N/A,,,,,,,,,,,,,,,,,,,,,1208278
+66,2654,Paul D. Camp Community College,Computer Science,1.8,Robert Tureman,4.8,4,N/A,,1,,2,,,,1,,,,,,1,,,,,,,147826
+67,2654,Paul D. Camp Community College,Business,2.0,David Lydick,2.8,4,N/A,,,,,,,,,,,,,,,,,,,,,393640
+68,2654,Paul D. Camp Community College,Health Science,2.3,Terry Bell,4.4,4,N/A,,,,,2,,1,,,,,,,1,,,,,,,1602340
+69,2654,Paul D. Camp Community College,English,3.3,Mary Ellen Gleason,3.8,4,N/A,,,,,,,2,2,,,,,,3,1,,,1,,,1861786
+70,2654,Paul D. Camp Community College,Physical Ed,1.0,Maggie Evans,5.0,3,N/A,,,,,,,,,,,,,,,,,,,,,738696
+71,2654,Paul D. Camp Community College,English,4.0,Beverly Mason,3.8,3,N/A,,,,,,,,,,,,,,,,,,,,,1217930
+72,2654,Paul D. Camp Community College,Computer Science,1.7,Renee Felts,4.3,3,N/A,,,,,,,,,,,,,,,,,,,,,1743318
+73,2654,Paul D. Camp Community College,Nursing,3.7,Courtney Evans,1.3,3,N/A,,,1,,,,1,,,,,,,,,,,,,1,2395288
+74,2654,Paul D. Camp Community College,English,2.5,Nancy Warren,3.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1565075
+75,2654,Paul D. Camp Community College,Mathematics,4.5,Heather Eckman,2.5,2,N/A,,,,,,,,,,,,,,2,1,,,,1,2,2079829
+76,2654,Paul D. Camp Community College,Nursing,4.5,Courtney Darden,1.0,2,N/A,,,,,,,,,,,,,,,,,,,,1,2390486
+77,2654,Paul D. Camp Community College,Economics,1.0,Teresa Lewis,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1208287
+78,2654,Paul D. Camp Community College,Mathematics,1.0,Elihu King,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1586744
+79,2655,Pearl River Community College,Biology,3.7,Melinda Miller,3.9,27,71%,1,,1,1,2,,3,1,,,,,7,3,5,2,3,,2,5,638940
+80,2655,Pearl River Community College,Biology,3.1,Emily Carlisle,4.0,23,80%,1,5,,5,2,,2,7,,,,2,2,8,6,6,1,,2,4,1321266
+81,2655,Pearl River Community College,History,3.4,James Walsh,4.3,14,N/A,,2,1,,,2,,,,,,1,2,,,1,3,,,,473244
+82,2655,Pearl River Community College,Languages,1.8,Robin Nix,4.7,14,100%,2,,,3,,3,1,1,1,,6,2,,,,2,,,,,916276
+83,2655,Pearl River Community College,Fine Arts,2.4,Charlene Null,3.5,13,N/A,,,,,,,,,,,,,,1,1,,,,,1,333700
+84,2655,Pearl River Community College,English,4.1,Dr. Eric Leatherwood,3.8,13,57%,,1,,,1,,,5,1,,1,,,2,,,1,1,,7,949228
+85,2655,Pearl River Community College,History,3.1,Steven Black,2.4,12,N/A,1,,,1,2,1,1,,,,,,,,,,,1,,,938030
+86,2655,Pearl River Community College,English,3.8,Justin Williamson,3.6,12,50%,,,,,1,,4,3,,,,,,1,,2,1,2,1,3,1655517
+87,2655,Pearl River Community College,History,3.8,Jason Ramshur,1.8,12,18%,,,,,,,6,,7,,,,9,,1,,3,,,3,1577535
+88,2655,Pearl River Community College,Psychology,3.2,Lisa Williams,2.9,9,N/A,,,,,,,,,2,,,,3,,,1,,1,,1,473247
+89,2655,Pearl River Community College,English,2.8,Jacob Havard,4.6,9,89%,,1,1,2,6,,,7,,,,1,,,,3,,,,,2172188
+90,2655,Pearl River Community College,History,2.8,Scott Kimball,4.7,8,N/A,,,,,,,,,,,,,,,,,,,,,473243
+91,2655,Pearl River Community College,Science,1.9,Stephanie Lee,4.6,8,N/A,,,,1,,,,,,,,,,,,1,,,,,999654
+92,2655,Pearl River Community College,Chemistry,4.4,Glenn Dale,4.3,8,N/A,,,,,,,,1,,,,,2,1,1,3,1,,1,2,1108764
+93,2655,Pearl River Community College,English,3.1,Deana Holifield,4.8,7,N/A,,,,,,,1,1,,,,,,,1,,,,,,720564
+94,2655,Pearl River Community College,Science,3.8,Nichole Watkins,4.3,7,86%,5,2,1,1,,,1,,,,1,2,,,1,1,3,,2,1,2229377
+95,2655,Pearl River Community College,Science,2.6,Chris Christen,4.8,7,100%,1,3,,2,1,1,,4,,,1,1,,,1,4,,,,,1931195
+96,2655,Pearl River Community College,English,1.6,Marjory Thrash,4.7,7,N/A,3,,,,1,1,,3,,,,,,1,,3,,,,,1905015
+97,2655,Pearl River Community College,History,4.0,Ryan Ruckel,2.9,7,57%,,1,,,2,,2,2,,,,,,4,,1,,7,2,,2255232
+98,2655,Pearl River Community College,English,2.2,Julie Ferguson,2.0,6,N/A,,,,,,,,,,,,,,,,,,,,,916278
+99,2656,Pellissippi State Community College,Mathematics,3.0,Jonathan Lamb,4.8,108,100%,7,7,,11,4,9,,9,,,8,7,,1,3,17,2,,,2,221247
+100,2656,Pellissippi State Community College,Mathematics,3.0,Dave Vinson,3.9,97,38%,,1,2,1,1,3,4,4,2,,6,,,5,5,1,5,,,9,695930
+101,2656,Pellissippi State Community College,History,3.4,"Ahmad ""Todd"" Yazdi",4.4,91,89%,,13,,2,5,,1,3,2,,1,4,11,2,10,6,14,1,,7,660949
+102,2656,Pellissippi State Community College,English,3.8,Margaret Jenkins,3.1,83,N/A,,1,2,,1,,2,4,,,3,2,,,1,,1,2,,5,260897
+103,2656,Pellissippi State Community College,Mathematics,2.8,Tony Crossland,4.5,71,100%,5,4,,8,1,,,8,1,,6,2,,7,2,1,4,,1,8,437179
+104,2656,Pellissippi State Community College,English,3.2,Trent Eades,4.1,71,89%,,5,,2,3,,11,8,1,,11,2,,,5,,1,,,8,953056
+105,2656,Pellissippi State Community College,Biology,3.9,Ron Bridges,3.9,69,77%,,1,1,1,2,1,1,3,,4,1,1,3,10,5,5,10,,,16,235162
+106,2656,Pellissippi State Community College,Chemistry,2.9,Jerry Burns,4.7,67,93%,1,6,1,8,9,6,,10,,,5,2,1,1,,17,6,,2,4,680589
+107,2656,Pellissippi State Community College,History,2.8,Jake Hamric,4.5,67,91%,1,13,,,2,1,2,3,1,1,9,4,2,,2,8,7,,1,2,946113
+108,2656,Pellissippi State Community College,Speech Communication,1.8,Victor Blocher,3.7,67,58%,1,,,4,1,1,,9,2,3,6,3,,,7,6,1,,,,537419
+109,2656,Pellissippi State Community College,Biology,3.6,Minoo Askari,3.8,60,71%,5,3,,11,1,,1,5,,,,4,4,3,,6,4,1,1,11,945938
+110,2656,Pellissippi State Community College,Chemistry,3.8,Stephanie Morris,2.4,59,32%,1,3,3,,3,3,1,2,,,,1,,6,2,1,11,,3,14,537427
+111,2656,Pellissippi State Community College,Biology,4.2,Morvaird Bejnood,2.8,59,50%,2,8,4,6,2,2,7,4,1,,4,,8,4,6,7,22,2,1,23,945944
+112,2656,Pellissippi State Community College,History,2.6,David Key,4.6,57,100%,,8,,3,4,1,,6,,,5,,3,,2,9,6,,1,4,457069
+113,2656,Pellissippi State Community College,English,2.8,Annie Gray,4.8,56,88%,1,4,,8,1,1,5,10,,,,5,1,1,5,5,1,,2,3,378077
+114,2656,Pellissippi State Community College,History,3.4,Toni McDaniel,4.3,55,67%,,1,,,1,2,8,4,,,,,,2,,1,,,1,5,221289
+115,2656,Pellissippi State Community College,English,2.8,Keith Norris,3.7,55,N/A,,2,,1,,,1,4,,,2,3,,1,,2,1,1,,2,427735
+116,2656,Pellissippi State Community College,English,2.5,Edward Francisco,4.8,55,100%,1,10,,5,,1,1,5,,,12,3,,,1,5,,,,,664064
+117,2656,Pellissippi State Community College,Biology,2.5,Susan McMahon,4.7,52,96%,11,9,,16,6,12,6,19,1,,,4,1,,2,7,8,,1,3,798607
+118,2656,Pellissippi State Community College,Biology,3.9,Linda Smith-Staton,3.9,48,85%,,2,,5,,7,2,7,,,9,3,3,,,1,5,,1,6,408137
+119,2657,Peninsula College,Psychology,3.9,William Spring,3.9,30,N/A,,,,,,,1,,,,,,2,,,1,1,,,1,125968
+120,2657,Peninsula College,Mathematics,3.7,Randy Anderson,3.4,27,43%,,2,,1,2,2,,2,1,,,,,,2,2,,,,1,198549
+121,2657,Peninsula College,Economics,3.5,Dan Underwood,3.7,26,N/A,,,,,,,1,1,,,1,1,1,,1,1,3,,,2,125965
+122,2657,Peninsula College,Biology,3.2,Brian Hauge,4.8,25,89%,2,3,,2,3,,,1,1,2,7,2,1,1,1,2,,,1,,775128
+123,2657,Peninsula College,Philosophy,4.1,Thomas Grimes,2.9,22,N/A,,,,,,,5,,3,1,,,1,1,1,1,2,1,,9,647390
+124,2657,Peninsula College,History,3.4,Michael Cassela-Blackburn,3.5,20,N/A,1,2,,,,,2,1,,,,,,,,,1,,,2,478228
+125,2657,Peninsula College,Political Science,2.3,Dan Stengel,4.0,19,N/A,,,,,,,,,,,,,,,,,,,,,198540
+126,2657,Peninsula College,English,3.8,Glynda Schaad,4.4,19,N/A,,,,,1,,,1,,,,,1,,,,,,,,715055
+127,2657,Peninsula College,Physics,4.5,Jeff Zirul,3.8,18,N/A,,,,,,,,,,,,,,,,,,,,,698791
+128,2657,Peninsula College,Anthropology,2.9,Jeff Mauger,3.7,16,N/A,,,,,,,,,,,,,,,,,,,,,198552
+129,2657,Peninsula College,Science,4.4,Karen Hart,2.6,16,N/A,,,,,1,,1,,,,,,1,,,,,,,2,519395
+130,2657,Peninsula College,English,3.3,Matt Teorey,4.3,16,86%,1,1,,6,1,,5,5,1,,,1,,,4,1,,1,,2,1092796
+131,2657,Peninsula College,English,3.3,Wes Cecil,3.8,14,N/A,,2,,,,,1,,,,2,1,,1,1,,,,,,866086
+132,2657,Peninsula College,Mathematics,3.8,Andrea Motyka,2.9,14,N/A,1,,,2,2,,,1,,,2,,,2,1,,1,,1,1,1402087
+133,2657,Peninsula College,Journalism,2.9,Rich Riski,3.7,13,N/A,,,,,,,,1,,,,,,,1,1,,,,,512456
+134,2657,Peninsula College,Psychology,3.8,Paul Mattson,4.3,13,86%,,5,,1,2,1,2,5,2,,5,,3,1,2,,3,,1,1,1906885
+135,2657,Peninsula College,English,3.3,Fred Thompson,3.3,12,N/A,,,,1,,,,1,,,,,,,1,,,,,,125964
+136,2657,Peninsula College,Music,1.8,Dennis Crabb,4.0,12,N/A,,,,,,,,1,,,,,,,,1,1,,,,198541
+137,2657,Peninsula College,English,2.4,Michael Mills,4.8,12,100%,2,,,2,1,,2,3,,,,1,,,1,2,,,,,1094631
+138,2657,Peninsula College,English,3.3,Deirdre Frank,3.7,12,N/A,1,,,2,1,,,5,,,,,1,2,2,1,1,,,1,1749227
+139,2671,Metropolitan Community College-Penn Valley,Biology,3.6,Mahmoud Bishr,2.9,74,32%,,1,7,2,5,5,6,2,3,,4,1,7,,3,2,6,,2,13,968187
+140,2671,Metropolitan Community College-Penn Valley,Biology,3.9,Steven Lewis,2.7,71,43%,2,3,,,1,4,4,1,1,,2,2,10,1,2,1,16,,4,17,837011
+141,2671,Metropolitan Community College-Penn Valley,Psychology,2.3,Cebra Sims,3.4,68,42%,,,1,4,2,11,9,4,2,15,,,3,9,4,1,,1,2,3,897620
+142,2671,Metropolitan Community College-Penn Valley,Communication,3.2,Kim Wilcox,3.5,65,54%,2,5,1,,7,,6,7,,1,4,1,,1,3,1,12,,,13,155308
+143,2671,Metropolitan Community College-Penn Valley,Biology,3.7,Gene Cota,4.0,56,85%,,8,,2,4,3,2,3,1,,7,2,3,,2,7,16,,4,6,201627
+144,2671,Metropolitan Community College-Penn Valley,English,3.6,Craig Bartholomaus,3.3,52,40%,,1,,3,4,,9,11,,,,1,,6,6,2,2,1,,4,225803
+145,2671,Metropolitan Community College-Penn Valley,Political Science,2.3,Deborah Scott,2.9,52,50%,,1,,1,2,3,5,2,1,3,2,,1,1,3,1,,2,,6,871747
+146,2671,Metropolitan Community College-Penn Valley,History,2.6,Lyle Gibson,4.3,49,88%,,2,,5,7,1,12,3,,,1,4,1,,2,3,1,2,,6,1055764
+147,2671,Metropolitan Community College-Penn Valley,Sociology,3.5,Dorether Welch,1.8,48,N/A,,1,,,,,1,,,,,,,,1,,,,,1,721988
+148,2671,Metropolitan Community College-Penn Valley,Mathematics,2.9,Alicia Valdivieso,4.8,48,90%,2,8,,10,7,2,,18,,,,7,2,4,2,5,4,,1,4,1598034
+149,2671,Metropolitan Community College-Penn Valley,Chemistry,3.5,Doug Martin,3.3,45,N/A,,3,,4,5,1,,1,,,,,2,,1,1,4,,,6,978952
+150,2671,Metropolitan Community College-Penn Valley,Biology,2.3,Terry Davin,4.4,44,62%,1,6,,2,3,1,,1,1,11,,1,2,,5,1,9,1,,3,683790
+151,2671,Metropolitan Community College-Penn Valley,Biology,2.4,A El-Sherif,4.0,43,N/A,,,,1,,,,,,,,1,,,,1,,,,,1161726
+152,2671,Metropolitan Community College-Penn Valley,History,2.3,Greg Sanford,4.5,41,100%,,1,,1,2,1,6,7,,3,1,,5,1,2,4,2,2,,3,650451
+153,2671,Metropolitan Community College-Penn Valley,Biology,4.5,Todd Bowdish,4.1,41,N/A,,,,,,,,,,,,,,,,,,,,,657398
+154,2671,Metropolitan Community College-Penn Valley,Biology,3.7,David Belt,3.0,38,N/A,,,,,,,1,,,,,,,,2,,2,,,,936679
+155,2671,Metropolitan Community College-Penn Valley,Mathematics,3.3,Greg Mitchell,4.3,37,N/A,1,,,1,1,,,,,,,,,,,2,4,,1,4,1024068
+156,2671,Metropolitan Community College-Penn Valley,Chemistry,3.2,Michael Sweetland,3.9,34,40%,1,,,3,1,,3,4,,,,,2,4,,4,2,,3,6,1059086
+157,2671,Metropolitan Community College-Penn Valley,Biology,3.4,Freddy Pacheco,3.5,33,22%,,,1,1,,3,1,1,1,,1,,2,,,1,6,,4,6,1046486
+158,2672,Pennco Tech,Health Science,5.0,Kristin Maguire,5.0,3,N/A,,,,,,,,,,,,,,,,,,,,,1250234
+159,2673,Pennsylvania Culinary Institute,Culinary Arts,2.8,Art Inzinga,4.4,6,N/A,,,,,,,,,,,,,,,,,,,,,664887
+160,2673,Pennsylvania Culinary Institute,Culinary Arts,3.8,Chef Hooker,3.8,6,N/A,,,,,,,,,,,,,,,,,,,,,666192
+161,2673,Pennsylvania Culinary Institute,Culinary Arts,2.6,Dominic Spatola,4.4,5,N/A,,,,,,,,,,,,,,,,,,,,,664877
+162,2673,Pennsylvania Culinary Institute,Management,4.0,Beth Ann Buck,3.0,4,N/A,,,,,,,,,,,,,,,,,,,,,703051
+163,2673,Pennsylvania Culinary Institute,Education,1.0,Paul Lenzi,5.0,3,N/A,,,,,,,,,,,,,,,,,,,,,813940
+164,2673,Pennsylvania Culinary Institute,Culinary Arts,3.5,Ray Wesolowski,4.8,2,N/A,,,,,,,,,,,,,,,,,,,,,710585
+165,2673,Pennsylvania Culinary Institute,Hospitality,1.0,James Mawhinney,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,658103
+166,2673,Pennsylvania Culinary Institute,Culinary Arts,1.0,J Price,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,727887
+167,2673,Pennsylvania Culinary Institute,Culinary Arts,4.0,Doug Schneider,4.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1132625
+168,2673,Pennsylvania Culinary Institute,Culinary Arts,3.0,Robert Sendal,1.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1837736
+169,2674,Pennsylvania Institute of Technology,Science,2.6,Gabriel Lorden,4.9,69,N/A,,3,,,,,,,,,2,3,,,,,1,,,,1400834
+170,2674,Pennsylvania Institute of Technology,Computer Science,3.6,Tim Beach,1.3,10,N/A,,,,,,,,,,,,,,,,,,,,,278428
+171,2674,Pennsylvania Institute of Technology,Engineering,2.1,Jerry Gambs,3.9,8,N/A,,,,,,,,1,,,,1,,,1,,,,,,684751
+172,2674,Pennsylvania Institute of Technology,English,2.1,Rachelle Chaykin,4.2,7,N/A,,,,,1,,,,,,,,1,,,1,,,,,1324948
+173,2674,Pennsylvania Institute of Technology,Design,3.2,Luwanna Dixon,5.0,6,N/A,,,,,,,,,,,,,,,,,,,,,739929
+174,2674,Pennsylvania Institute of Technology,Medicine,4.0,Susan Degirolamo,5.0,6,N/A,,,,,,,,,,,,,,,,,,,,,1023496
+175,2674,Pennsylvania Institute of Technology,History,2.8,Mark Pietuszka,3.9,5,N/A,,,,2,,,,1,,,,1,,,3,1,,,,,1672508
+176,2674,Pennsylvania Institute of Technology,Biology,3.7,Candace McCoy,3.3,3,N/A,1,,,1,,,,,,,1,1,,,,2,,,,,1839740
+177,2674,Pennsylvania Institute of Technology,Engineering,3.0,Gerard Gambs,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,688238
+178,2674,Pennsylvania Institute of Technology,English,3.0,Sally Burke,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1690966
+179,2674,Pennsylvania Institute of Technology,Business,5.0,Lisa Mayberry,1.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1839736
+180,2675,Pensacola State College,Mathematics,2.5,Greg Bloxom,4.5,295,86%,7,8,,10,13,11,1,10,4,,8,2,4,11,8,11,19,,4,3,442237
+181,2675,Pensacola State College,Mathematics,3.0,Jeremy Carr,3.1,160,60%,5,2,1,1,5,2,1,2,7,,2,,2,2,7,1,9,,4,13,151528
+182,2675,Pensacola State College,Mathematics,2.5,Jennifer Brahier,4.5,146,70%,6,1,,5,2,3,,6,10,,11,2,1,4,5,6,14,,4,4,426855
+183,2675,Pensacola State College,Biological Sciences,3.1,Rita Thrasher,4.8,139,100%,2,19,,9,8,17,1,12,,,20,5,1,1,4,7,12,,,3,841979
+184,2675,Pensacola State College,History,1.7,Brian Rucker,5.0,119,100%,1,23,,1,7,,,7,1,,22,4,5,,3,6,3,,,1,199407
+185,2675,Pensacola State College,Biological Sciences,2.4,William Renfroe,4.8,118,100%,,7,,7,4,9,,2,,,13,1,4,,1,2,3,,,,547466
+186,2675,Pensacola State College,Humanities,2.1,Charlie Schuler,4.8,106,93%,2,12,,4,,2,2,2,4,,3,5,4,,1,6,2,,,1,214023
+187,2675,Pensacola State College,Business,2.8,Rameca S Leary,5.0,105,100%,20,26,,40,18,,1,66,1,8,9,51,1,,16,39,3,,,,1950420
+188,2675,Pensacola State College,English,2.8,Ken McAferty,4.1,102,55%,1,1,3,3,1,,10,7,,,5,,3,,2,,2,,,5,151465
+189,2675,Pensacola State College,English,2.9,Todd Neuman,4.5,101,87%,,6,1,4,,,7,8,2,1,6,13,,3,17,6,7,1,,2,434345
+190,2675,Pensacola State College,History,3.8,Mike Gilbert,3.7,100,N/A,,1,,1,,,,2,,,,,3,,,,6,1,,5,151372
+191,2675,Pensacola State College,Humanities,1.7,Ron Atchison,4.6,98,N/A,,,,,,,,,,,,,,,,,,,,,194967
+192,2675,Pensacola State College,Mathematics,2.1,Chris Turner,4.7,97,N/A,1,1,,1,2,2,,2,1,,3,,,1,,,1,,,2,390148
+193,2675,Pensacola State College,English,2.2,Blaine Wall,4.7,97,100%,1,3,1,7,8,2,17,10,,1,3,1,,4,8,2,,1,,1,656758
+194,2675,Pensacola State College,Mathematics,2.8,Mary Benson,4.2,94,N/A,,,4,3,2,,,,,,2,,,5,1,3,3,,,5,204707
+195,2675,Pensacola State College,English,3.9,Keith Prendergast,3.2,93,N/A,,,,,,,,,,,,,,,,,1,1,,2,1346765
+196,2675,Pensacola State College,English,3.2,Brigette Robinson,3.2,88,29%,,,,,3,2,8,8,3,,,,4,,8,5,2,,,5,631168
+197,2675,Pensacola State College,Social Science,2.0,Lisa Sims,4.7,87,100%,1,6,,9,6,,5,15,1,,8,2,,1,5,4,1,,,3,273922
+198,2675,Pensacola State College,Mathematics,2.6,Lynn Cade,3.0,86,N/A,1,,,,1,3,1,,,,,,1,,1,,1,,,1,199612
+199,2675,Pensacola State College,English,2.8,Guangping Zeng,3.3,86,79%,,1,,3,,1,4,1,4,2,7,2,1,,4,3,2,,2,9,151470
+200,2676,Phillips Beth Israel School of Nursing,Mathematics,2.9,Meagan Hackford,3.3,16,56%,2,3,,2,1,,,6,1,,3,1,,,1,4,1,,,,2285093
+201,2676,Phillips Beth Israel School of Nursing,Nursing,2.9,Ellen Smith,4.7,10,N/A,,,,,,,,,,,,,,,,,,,,,1147789
+202,2676,Phillips Beth Israel School of Nursing,Nursing,4.2,Tina Heinz,2.2,9,N/A,,,,,,,,,,,,1,,,,1,,,,,1760870
+203,2676,Phillips Beth Israel School of Nursing,Nursing,3.1,Ann Marie Sailsman,5.0,8,N/A,,,,3,1,,,,,,,3,,,,4,,,,,1796695
+204,2676,Phillips Beth Israel School of Nursing,Nursing,1.8,Nelly Carlisle,4.8,6,N/A,,,,1,,,,,,,,1,,,,1,,,,,1044719
+205,2676,Phillips Beth Israel School of Nursing,Nursing,3.8,Zelda Suzan,1.8,6,N/A,,,,,,,,,,,,,3,,,,,,,4,1679788
+206,2676,Phillips Beth Israel School of Nursing,Nursing,3.0,Vanessa L Milne,4.9,6,N/A,,2,,1,2,,,2,,,,,,,,2,,,,,1766554
+207,2676,Phillips Beth Israel School of Nursing,Nursing,1.5,Carleen Graham,4.1,6,N/A,,,,2,,,,1,,,,1,,,,2,,,,1,1823667
+208,2676,Phillips Beth Israel School of Nursing,Nursing,2.8,Cecilia Sireci,3.6,5,N/A,,,,,,,,,,,,,,,,,,,,,1024472
+209,2676,Phillips Beth Israel School of Nursing,Nursing,3.0,Irene Rempel,2.4,5,N/A,,,,1,1,,,,,,,,,,3,,,,,,1908230
+210,2676,Phillips Beth Israel School of Nursing,Nursing,2.8,Lynne Rubenstein,4.3,4,N/A,,,,,,,,,,,,,,,,,,,,,1040489
+211,2676,Phillips Beth Israel School of Nursing,Nursing,2.0,Rose Otero,5.0,4,N/A,,,,1,,,,,,,,1,,,,1,,,,,1251215
+212,2676,Phillips Beth Israel School of Nursing,Health Science,4.3,Pamela Bonney,1.8,4,N/A,,,,,,,,1,,,,,,,1,,,,,,1770669
+213,2676,Phillips Beth Israel School of Nursing,Nursing,3.5,Nana Akua Balfour,4.8,4,N/A,1,,,,,,,2,,,,1,,,1,,,,,1,1770670
+214,2676,Phillips Beth Israel School of Nursing,Nursing,4.5,Jackie Baras,1.0,4,N/A,,,,,,,,,,,,,1,,,,,,,,1994956
+215,2676,Phillips Beth Israel School of Nursing,Nursing,3.7,Rebecca Martin,3.7,3,N/A,,,,,,,,,,,,,,,,,,,,,1147793
+216,2676,Phillips Beth Israel School of Nursing,Health Science,4.7,Margaret Reilly,4.5,3,N/A,,,,,,,,,,,,,,,,,,,,,1151520
+217,2676,Phillips Beth Israel School of Nursing,Nursing,2.3,Lorraine McGrath,4.8,3,N/A,,,,1,,,,,,,,,,,,1,,,,,1724683
+218,2676,Phillips Beth Israel School of Nursing,Nursing,3.7,Carmen Feliciano,4.5,3,N/A,1,1,,1,,,,1,,,1,2,,,,2,,,,,1770665
+219,2677,Phoenix College,Mathematics,2.9,Marcia Corby,4.9,120,99%,49,12,,68,18,16,,58,,,10,28,,13,19,38,4,1,1,2,1924242
+220,2677,Phoenix College,Biology,2.6,Robin Cotter,4.9,108,96%,3,22,,13,2,1,2,17,,3,5,11,1,9,7,15,6,2,3,2,734221
+221,2677,Phoenix College,Geology,1.8,Joe Drosendahl,4.8,94,100%,6,10,,14,8,19,,4,1,,23,5,3,,2,6,5,,2,,1675913
+222,2677,Phoenix College,Mathematics,2.3,Tim Bryan,4.4,87,69%,4,5,,,5,4,,4,4,1,3,2,5,2,,7,2,,2,1,204380
+223,2677,Phoenix College,Mathematics,2.7,James Sousa,4.9,84,98%,7,22,1,18,15,8,,24,,,,14,,12,2,19,1,,1,1,484414
+224,2677,Phoenix College,Chemistry,3.4,Eddie Ong,3.7,83,72%,,5,,3,,10,1,2,2,,4,3,7,1,,3,11,,5,8,256751
+225,2677,Phoenix College,Biology,4.1,James Sinner,3.9,76,60%,2,,6,2,,,2,2,1,,6,,9,2,,5,9,1,7,14,1118915
+226,2677,Phoenix College,Mathematics,2.7,Jennifer Carrillo,4.9,71,94%,18,18,2,15,24,2,,29,,4,7,11,,8,23,20,18,,1,2,2314870
+227,2677,Phoenix College,English,1.9,Amalia Gheorghita,4.9,65,100%,1,2,,17,6,1,,17,,,,7,,,8,10,,,,,1743745
+228,2677,Phoenix College,Biology,2.3,Mark Rosati,4.8,65,100%,1,18,2,8,7,6,2,9,,,10,,2,,2,12,5,,1,,745267
+229,2677,Phoenix College,Biology,3.0,John Schampel,4.3,63,57%,1,10,,2,1,1,5,1,1,,5,9,6,4,,5,5,1,6,4,1051119
+230,2677,Phoenix College,Biology,3.0,Amy Bell,4.7,63,89%,6,12,3,5,10,,,11,1,,2,3,4,1,3,11,16,,4,5,1147983
+231,2677,Phoenix College,Business,2.0,Nick Rouse,5.0,63,100%,5,5,,14,3,4,,7,,,11,3,,,1,13,,,,,1011050
+232,2677,Phoenix College,Chemistry,2.9,Quinn Thacker,4.5,60,94%,5,2,,10,1,10,2,5,,,3,4,,6,8,8,3,,,1,868435
+233,2677,Phoenix College,English,3.8,Hershman John,2.3,60,20%,1,,,1,1,,3,4,1,2,,1,5,10,6,2,10,15,,21,1671048
+234,2677,Phoenix College,Criminal Justice,2.2,Rick Wilson,5.0,59,100%,1,4,2,5,10,,3,14,3,,27,4,,4,12,20,4,1,1,,204396
+235,2677,Phoenix College,Biology,3.9,Patty Finkenstadt,4.0,52,22%,,2,,,1,,4,2,,,,,4,6,1,1,,,2,6,1097461
+236,2677,Phoenix College,Biology,2.6,Anil Kapoor,4.8,51,94%,6,16,2,16,3,10,,6,,1,22,7,,1,4,12,1,,1,1,1875288
+237,2677,Phoenix College,English,1.8,Eric Berge,4.8,50,100%,,5,1,12,,,1,19,,,15,12,,,1,13,2,,,3,1533014
+238,2677,Phoenix College,English,2.6,David Pineda,4.6,49,80%,1,,,3,4,1,3,7,1,,,1,,5,2,3,1,1,,2,378091
+239,2678,Piedmont Technical College,English,2.4,Spiros Papleacos,4.5,73,100%,1,3,,2,3,,2,9,,,2,2,,,2,4,,,,,821215
+240,2678,Piedmont Technical College,Biology,4.1,Dale Smoak,3.3,29,43%,,,2,1,,1,4,,,,,,1,1,1,,5,,,3,368349
+241,2678,Piedmont Technical College,Accounting,2.8,Scott Barker,5.0,29,N/A,,,,,,,,,,,,,,,,,,,,,1092561
+242,2678,Piedmont Technical College,Business,3.4,Joe Bowers,3.3,18,N/A,,,,,,,,1,,,,,,,,1,,,,,826143
+243,2678,Piedmont Technical College,Music,1.4,Ashley King,4.5,17,N/A,,,,,,,,,,,,,,,,,,,,,1799992
+244,2678,Piedmont Technical College,Biology,2.6,Leigh Ann Theofanous,4.8,15,N/A,,,,1,,,,,,,,1,,,,2,,,,,470987
+245,2678,Piedmont Technical College,Biology,3.5,David Henry,3.4,14,80%,1,1,,2,,1,,,1,,2,,3,1,3,,3,,2,2,1639098
+246,2678,Piedmont Technical College,Humanities,2.0,Jose Sanquintin,4.5,12,100%,1,1,,3,1,,,,,,4,3,,,1,4,,,,,870615
+247,2678,Piedmont Technical College,Biology,2.9,Brad Griggs,5.0,12,N/A,,2,,2,,,,,,,,,,,,3,,,,1,1162322
+248,2678,Piedmont Technical College,Biology,4.3,Pamela Jackson,2.0,12,N/A,,1,4,,,,3,,,,,,1,,,,3,,2,2,1737227
+249,2678,Piedmont Technical College,Mathematics,3.1,Fernando Rincon,3.4,11,N/A,,,,,,,,,,,,,,,,,,,,,470999
+250,2678,Piedmont Technical College,Mathematics,2.9,Stephen Burrus,4.8,11,100%,1,4,,1,3,,,5,,,1,2,,1,1,,5,1,,1,1811480
+251,2678,Piedmont Technical College,Psychology,2.6,Heather Ferguson,4.5,10,N/A,,,,,,,,,,,,,,,,,,,,,728243
+252,2678,Piedmont Technical College,Biology,2.8,Mark Renwick,4.6,9,N/A,,1,,1,,1,1,1,,,,,,,,2,,,,1,861521
+253,2678,Piedmont Technical College,Mathematics,1.7,Wendy Sargent,3.8,9,N/A,,,,,,,,,,,,,,,,,,,,,865608
+254,2678,Piedmont Technical College,English,3.0,Margaret Wanning,4.8,9,N/A,,,,1,,1,,1,,,1,,,,,,,1,,,1163002
+255,2678,Piedmont Technical College,Biology,4.0,Stacy Turner,2.9,9,N/A,,,,,,,,,,,,,,,,,,,,,1250290
+256,2678,Piedmont Technical College,Economics,2.9,Daniel Morvey,2.7,9,N/A,,,,,,,3,1,,,3,,3,1,,,2,,,,1479287
+257,2678,Piedmont Technical College,History,4.2,Mary Westall,2.7,9,N/A,,1,,,1,,,,,,1,,,,,,1,,,2,1606948
+258,2678,Piedmont Technical College,Chemistry,3.6,Tim Peterson,3.6,8,N/A,,,,,,,,,,,,,,,,,,,,,229968
+259,2679,Piedmont Virginia Community College,Sociology,2.6,Kim Hoosier,4.8,67,83%,1,10,,1,3,3,2,7,,,4,3,1,1,5,10,1,,,3,614408
+260,2679,Piedmont Virginia Community College,Biology,3.5,David Moyer,4.6,51,83%,,2,,2,,,1,1,,,2,,,,5,6,3,,,1,190770
+261,2679,Piedmont Virginia Community College,Economics,3.0,Mamood Moghimzadeh,4.0,50,N/A,,,,1,,1,,,1,,4,2,,,4,1,6,,1,2,125995
+262,2679,Piedmont Virginia Community College,History,2.5,Sam Pincus,4.8,48,N/A,,1,,,,,,,,,,,,,,,,,,,117991
+263,2679,Piedmont Virginia Community College,Computer Science,2.4,David Duvall-Early,2.7,46,N/A,1,,,,1,1,2,,1,1,1,,2,3,3,,1,,,1,760105
+264,2679,Piedmont Virginia Community College,Mathematics,3.7,Diane Valade,3.5,38,67%,2,1,1,2,,,,5,,2,,,1,7,,2,2,,1,10,392152
+265,2679,Piedmont Virginia Community College,Languages,3.0,Kit Decker,4.5,36,N/A,,2,,2,,,,1,,1,4,,,4,2,4,1,,,3,119554
+266,2679,Piedmont Virginia Community College,Science,2.4,Patricia Franklin,3.1,36,N/A,,,,,,,,,,,,,,,,,,,,,119556
+267,2679,Piedmont Virginia Community College,Science,3.8,John Walsh,4.3,34,N/A,3,2,,3,2,1,,3,,,,1,,,,4,1,,,,138742
+268,2679,Piedmont Virginia Community College,English,2.7,Jessica Kingsley,4.2,34,86%,3,3,,9,2,,4,9,,1,,2,,4,3,3,1,,,,532593
+269,2679,Piedmont Virginia Community College,English,3.8,Nicole Oechslin,2.4,34,23%,2,,,2,1,3,3,5,,,1,1,,4,1,1,1,,,3,1707427
+270,2679,Piedmont Virginia Community College,Psychology,3.3,Michael Rahilly,3.1,34,57%,2,3,,3,4,1,8,6,3,13,2,1,5,2,8,3,2,1,4,12,1931463
+271,2679,Piedmont Virginia Community College,Science,2.7,Lloyd Willis,4.1,33,N/A,,,,,,,,,,,,,,,,,,,,,119717
+272,2679,Piedmont Virginia Community College,English,3.1,Tom Hyder,3.3,33,67%,1,,1,2,1,1,2,1,,,,1,,1,,1,3,2,,5,281452
+273,2679,Piedmont Virginia Community College,Mathematics,2.9,Jon Hexter,4.7,31,N/A,,1,,1,1,,,,,,,1,,,,1,,,,,117986
+274,2679,Piedmont Virginia Community College,History,3.9,Colum Leckey,3.5,31,N/A,1,4,,2,,1,2,2,,,,1,,,2,1,1,1,,6,1026466
+275,2679,Piedmont Virginia Community College,Philosophy,3.4,Marietta McCarty,2.9,30,N/A,,,,,,,,,,,,,,,,,,,,,228565
+276,2679,Piedmont Virginia Community College,English,2.6,Justin Wert,3.8,28,56%,1,2,,2,3,,6,2,,,2,4,4,1,,4,,1,,,1202677
+277,2679,Piedmont Virginia Community College,History,3.6,Jennifer Tomas,3.7,28,46%,,6,,1,2,,13,6,,,1,1,2,11,5,4,,2,3,6,2157459
+278,2679,Piedmont Virginia Community College,Chemistry,3.1,Frances Rees,3.8,28,63%,2,,,4,1,1,1,4,,,1,1,6,2,,2,1,,1,1,756252
+279,2680,Pierce College,Psychology,2.9,Mark Brewer,4.7,153,92%,,3,1,14,37,2,44,33,,1,17,3,3,15,22,9,11,,2,8,1711406
+280,2680,Pierce College,History,1.4,Chris Vanneson,4.4,150,87%,,16,,2,12,10,,3,5,,6,10,14,,,22,5,,,,417674
+281,2680,Pierce College,Biology,3.3,Robert Johnson,3.6,134,61%,2,5,,12,7,1,31,25,2,,1,7,5,5,7,6,4,1,6,19,355577
+282,2680,Pierce College,History,2.2,John Simpson,4.8,131,100%,,29,,4,3,4,3,2,3,,16,9,9,,4,22,10,,,1,17010
+283,2680,Pierce College,Mathematics,2.1,Tom McCollow,4.8,123,87%,,26,1,11,13,2,,8,2,,37,10,3,10,5,27,14,,,1,1463623
+284,2680,Pierce College,English,4.3,Ann Salak,1.9,105,18%,,,1,3,6,1,35,6,3,10,,1,9,17,30,,7,7,1,56,919762
+285,2680,Pierce College,Chemistry,4.2,Don Woods,2.8,100,48%,3,,2,1,3,11,,1,,,4,1,11,10,9,2,22,1,12,34,955894
+286,2680,Pierce College,Psychology,3.3,Leon Khalsa,3.8,94,73%,1,1,,2,3,4,16,12,1,,3,3,1,14,14,3,4,5,3,9,678993
+287,2680,Pierce College,Mathematics,4.0,Larry Wiseman,2.8,80,14%,1,,,6,1,5,5,3,2,2,3,1,3,9,5,2,4,1,,2,362269
+288,2680,Pierce College,English,2.0,Corrina Wycoff,4.8,77,100%,1,2,,12,16,,6,14,1,,6,2,,,5,5,,,,,501876
+289,2680,Pierce College,Anthropology,3.8,Katherine Keith,3.3,75,65%,,6,,,2,1,24,3,,1,4,2,2,11,14,1,17,,1,16,710621
+290,2680,Pierce College,English,3.2,Beth Stevens,3.8,72,71%,1,2,3,5,3,3,13,19,,,1,8,1,9,15,3,2,,,5,973415
+291,2680,Pierce College,Psychology,2.9,Jo Anne Geron,4.2,69,85%,2,12,1,6,6,1,10,5,2,,,6,,4,,4,4,,,2,679394
+292,2680,Pierce College,English,4.1,Duncan McClinton,3.2,69,44%,1,3,,,1,,18,5,4,,1,1,4,7,1,3,1,7,,24,690587
+293,2680,Pierce College,Chemistry,2.2,Megan Hess,4.9,68,93%,4,6,,12,5,13,,7,,,,1,1,1,,5,2,,,,131030
+294,2680,Pierce College,Psychology,3.0,Tom Link,3.5,67,71%,1,5,,3,3,2,9,11,,,6,1,1,6,8,6,2,2,1,9,656121
+295,2680,Pierce College,Economics,2.3,Blake Sorem,4.0,64,84%,3,4,,2,11,11,3,6,1,,2,1,1,2,3,1,1,,1,4,251265
+296,2680,Pierce College,Mathematics,3.2,Tony Granata,3.8,61,85%,2,4,1,6,3,1,,6,3,,5,,,1,2,8,5,,,5,672690
+297,2680,Pierce College,Economics,4.1,Tom Phelps,3.0,61,82%,2,4,1,4,6,1,1,5,3,,3,,6,3,4,3,13,,4,20,467414
+298,2680,Pierce College,Sociology,2.3,Daniel Suh,4.4,61,95%,6,12,,6,9,,3,6,3,3,30,8,8,3,20,15,6,,1,10,1959964
+299,2681,Pikes Peak Community College,Biology,4.5,Albert Threlfall,3.7,102,77%,1,21,,2,7,,1,2,2,,2,2,1,1,3,12,26,,6,21,264503
+300,2681,Pikes Peak Community College,Biology,4.3,Ernesto Hernandez,2.2,87,19%,1,4,5,,2,,12,1,19,1,,,17,,1,2,28,,22,30,358016
+301,2681,Pikes Peak Community College,History,2.8,Carrie Spencer,4.7,74,95%,7,11,3,14,11,6,2,35,,14,,5,3,6,28,3,1,,,3,1135018
+302,2681,Pikes Peak Community College,English,3.8,Eric Stephenson,4.4,68,77%,3,3,,4,3,,2,12,6,,4,6,1,,2,3,2,4,,14,661911
+303,2681,Pikes Peak Community College,Business,2.3,Dennis Natali,4.9,63,100%,3,18,,10,21,2,3,14,,1,16,12,,3,4,20,6,,,,1303622
+304,2681,Pikes Peak Community College,Communication,2.2,Debra Buenting,4.6,62,100%,,9,,11,4,3,7,23,,5,16,30,2,,21,20,11,,,,1871237
+305,2681,Pikes Peak Community College,Communication,3.0,Todd Waters,4.7,61,100%,13,15,,15,19,,2,35,,3,9,17,,2,14,16,6,1,,4,2109923
+306,2681,Pikes Peak Community College,History,4.5,Glenn Rohlfing,2.3,61,62%,5,,,,1,1,17,6,,2,2,1,5,5,4,1,3,16,,20,1355798
+307,2681,Pikes Peak Community College,Biology,3.7,Bob Henderson,4.4,59,67%,,5,,1,4,,1,,,,,1,4,,3,6,17,,4,9,146189
+308,2681,Pikes Peak Community College,Mathematics,2.8,Michael Parcha,4.7,58,93%,1,4,,5,,,,4,,,11,3,,8,6,7,4,,1,,546794
+309,2681,Pikes Peak Community College,Sociology,3.5,Gloria Nikolai,3.8,58,69%,2,4,,4,1,2,12,3,1,,,3,2,1,14,2,6,8,,15,871070
+310,2681,Pikes Peak Community College,Biology,4.3,Robert McMullen,3.5,50,60%,2,1,,1,7,1,4,1,1,,1,2,3,,,4,10,,4,11,226488
+311,2681,Pikes Peak Community College,Biology,3.6,Peter Falldorf,4.2,49,81%,2,4,,9,8,,6,7,1,,2,,5,,1,6,16,,1,11,1431171
+312,2681,Pikes Peak Community College,Mathematics,4.4,Holly Ashton,2.6,48,33%,1,,1,3,,,,1,,,,,3,18,3,,3,,8,21,408583
+313,2681,Pikes Peak Community College,English,3.3,Jenna Benson,4.4,45,91%,8,4,,5,3,6,4,33,,8,3,2,,,13,6,12,,,14,1967195
+314,2681,Pikes Peak Community College,Psychology,3.8,Stefanie Bell,1.9,43,N/A,,,,1,,,3,1,,1,,,1,3,2,,,3,1,4,478310
+315,2681,Pikes Peak Community College,English,3.1,Cheryl Ray,4.5,41,87%,1,1,,7,7,2,2,16,,,7,6,1,5,6,3,5,6,,2,1460424
+316,2681,Pikes Peak Community College,Geology,2.1,Mark Izold,4.4,40,100%,,5,,7,,2,,2,,1,10,3,,,6,2,2,,,1,666662
+317,2681,Pikes Peak Community College,English,3.2,Megan Olsen,4.7,40,91%,1,10,2,4,5,,2,18,,3,12,6,,2,19,11,5,,,2,1995469
+318,2681,Pikes Peak Community College,Philosophy,3.1,Daniel Shaw,4.0,39,88%,,1,2,2,,6,4,1,,,2,1,2,,6,1,3,,,4,1003114
+319,2682,Pima Community College,Writing,2.9,Patrick Pitts,4.3,281,88%,2,26,,18,41,1,17,60,2,5,67,14,24,53,16,32,26,22,,46,1639335
+320,2682,Pima Community College,Economics,2.8,Amy Cramer,4.7,124,100%,1,7,,7,2,10,,4,,9,2,6,1,1,14,11,5,,,,803881
+321,2682,Pima Community College,Writing,2.6,Jon Bell,4.7,113,100%,4,7,1,4,,3,1,16,,,17,9,1,1,5,5,2,,,1,210518
+322,2682,Pima Community College,Biology,2.0,Steven Mackie,4.8,109,100%,6,10,,13,15,17,,10,,4,13,2,10,1,4,8,3,1,2,2,288604
+323,2682,Pima Community College,Mathematics,3.0,Ana Jimenez,4.5,109,92%,7,1,,15,5,1,,13,1,,3,8,,12,7,1,10,,,4,431604
+324,2682,Pima Community College,History,2.2,Randy Munsen,4.8,108,86%,,23,4,12,3,17,5,8,2,,13,7,5,,,13,6,,1,,730016
+325,2682,Pima Community College,Mathematics,3.5,Luis Leon,4.3,105,74%,6,12,7,12,5,3,,10,3,2,12,5,1,9,3,24,20,,11,22,674247
+326,2682,Pima Community College,English,3.2,Sarah O'Hara,3.8,104,60%,2,3,,10,4,12,9,21,,,1,5,,6,6,3,,2,,17,90854
+327,2682,Pima Community College,Psychology,1.5,Wade Lueck,4.8,99,100%,,22,2,3,19,11,6,7,1,,31,20,,10,8,18,1,1,,1,1629758
+328,2682,Pima Community College,Biology,2.7,Hema Bandaranayake,4.5,95,97%,7,13,1,29,13,3,1,21,1,,37,10,1,,5,15,9,,1,8,1337512
+329,2682,Pima Community College,Chemistry,2.6,Scott Cowell,4.5,94,87%,3,10,,10,4,3,2,5,4,,22,7,2,1,7,8,2,,1,,858207
+330,2682,Pima Community College,Biology,3.6,Hernan Aubert,4.5,94,96%,2,13,2,5,4,,,6,,,15,2,3,,3,9,31,,2,21,703734
+331,2682,Pima Community College,Biology,3.7,Mays Imad,4.3,93,100%,8,4,,11,1,3,4,1,,1,5,14,8,4,10,21,1,2,,8,1454719
+332,2682,Pima Community College,History,2.8,Margarita Youngo,2.2,83,19%,1,3,,3,2,,10,2,11,,2,,7,,,1,7,4,3,14,318992
+333,2682,Pima Community College,Mathematics,3.5,Yvonne Sandoval,3.0,79,73%,2,1,2,4,3,3,3,2,1,,,,3,20,2,,6,1,7,6,564642
+334,2682,Pima Community College,Mathematics,3.5,Ed Smith,2.7,77,52%,,1,1,4,4,,2,5,,2,2,4,,7,6,8,4,1,6,7,729400
+335,2682,Pima Community College,Biology,3.3,Tom McDonald,4.8,77,94%,1,11,9,3,3,3,1,3,,,15,1,2,5,,5,6,,1,6,995079
+336,2682,Pima Community College,Mathematics,2.9,Julie Tarr,3.9,76,64%,,2,,5,2,5,1,8,1,,5,1,2,9,1,6,8,,3,8,533636
+337,2682,Pima Community College,Music,1.3,Matt Rinaldi,4.9,76,100%,1,19,2,11,6,3,,3,6,,27,14,,,2,11,3,1,,,738834
+338,2682,Pima Community College,Biology,4.2,Julia Fiello,4.2,75,79%,6,13,1,3,3,3,1,8,2,,1,2,3,7,1,7,15,1,12,11,738018
+339,2683,Pine Technical College,English,2.9,Chris York,4.4,9,N/A,,,,,,,,,,,,,,,,,,,,,1092763
+340,2683,Pine Technical College,Biology,3.0,Alexis Grinde,4.8,8,N/A,,2,,1,,,,2,,,,1,,,,,,,,,1477011
+341,2683,Pine Technical College,Nursing,4.0,Kristen Madigan,4.1,8,N/A,,2,,,1,,1,1,,,,1,,,,,,,,,1633180
+342,2683,Pine Technical College,Nursing,2.6,Elayne Beehler,2.7,7,20%,1,,,1,,,,2,,,,1,,4,,,,,3,3,1477015
+343,2683,Pine Technical College,Biology,2.8,Eric Jensen,4.1,6,N/A,,1,,1,,,1,1,,1,,,,,,1,2,,,,1604329
+344,2683,Pine Technical College,Nursing,3.2,Dione Thoma,3.8,6,67%,1,,,3,,,2,1,1,,2,3,,,,1,,,1,,1477009
+345,2683,Pine Technical College,Business,3.0,Julie Shores,2.0,4,N/A,,,,,,,,,,,,,,,,,,,,,1312032
+346,2683,Pine Technical College,Languages,2.3,Kathy Krier,4.8,3,N/A,,,,1,,,,,,,1,,,,,1,,,,,939016
+347,2683,Pine Technical College,Education,2.3,Janice Hofschulte,5.0,3,N/A,,,,,,,,,,,,,,,,,,,,,1149428
+348,2683,Pine Technical College,Communication,1.3,Phil Darg,4.3,3,N/A,,,,,,,,,,,,,,,,,,,,,1445895
+349,2683,Pine Technical College,Nursing,2.3,Louisa Krueger,4.0,3,N/A,,,,,,,,1,,,,,,1,,1,,,,,1477030
+350,2683,Pine Technical College,Computer Science,1.0,Tony Mueller,5.0,3,N/A,,,,,,,,,,,,,,,,,,,,,1820086
+351,2683,Pine Technical College,Writing,3.5,Ann Boldt,4.0,2,N/A,,,,,,,1,1,,,,,,,,,,1,,,1476996
+352,2683,Pine Technical College,Education,3.0,Melissa Felland,3.0,2,N/A,,,,1,,,,1,,1,,,,1,,,,,,,2153142
+353,2683,Pine Technical College,Ethnic Studies,4.0,Larry Hendry,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1477002
+354,2683,Pine Technical College,Mathematics,3.0,Stacy Jurgens,4.0,1,N/A,,,,,,,,,,,,,,1,,,1,,,,1477007
+355,2683,Pine Technical College,Nursing,4.0,Pamela Munkberg,5.0,1,N/A,,,,,,,1,,,,,,,1,,,1,,,,1477010
+356,2683,Pine Technical College,Biology,2.0,Joy Zasadny,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1477014
+357,2683,Pine Technical College,Nursing,1.0,Cheryl Slattengren,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1477016
+358,2683,Pine Technical College,Computer Science,1.0,Stephen Cody,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1820082
+359,2684,Pioneer Pacific College,Business,2.0,Don Moutos,4.0,12,N/A,,,,,,,,,,,,,,,,,,,,,235120
+360,2684,Pioneer Pacific College,Education,1.2,Chris Butler,4.8,6,N/A,,,,,,,,,,,,,,,,,,,,,813341
+361,2684,Pioneer Pacific College,Criminal Justice,2.6,Duane Fletchall,3.5,5,N/A,,,,,,,,,,,,,,,,,,,,,1215844
+362,2684,Pioneer Pacific College,Health Science,3.7,Linne Linder,2.3,3,N/A,,,,,,,,,,,,,,,,,,,,,1027190
+363,2684,Pioneer Pacific College,Business,2.3,Carin Dykzeul,1.5,3,N/A,,,,,,,,,,,,,,,,,,,,,1188138
+364,2684,Pioneer Pacific College,Business,4.0,Mary Moody,2.0,3,N/A,,,,,,,,,,,,,1,1,,,,,,1,1194903
+365,2684,Pioneer Pacific College,Medicine,3.5,Jennifer Schilling,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1290138
+366,2684,Pioneer Pacific College,English,3.0,Ramon Guel,4.0,2,N/A,,,,,,,1,,,,,,,,1,,1,,,,1851389
+367,2684,Pioneer Pacific College,Computer Science,5.0,Zane Smith,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1252209
+368,2684,Pioneer Pacific College,Information Science,2.0,Brett Gorley,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1870157
+369,2684,Pioneer Pacific College,Nursing,5.0,Rhoda Collier,1.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1879532
+370,2684,Pioneer Pacific College,Medicine,2.0,Lori Johnson,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1898696
+371,2684,Pioneer Pacific College,Nursing,4.0,James Vinson,5.0,1,N/A,,,,1,,,,1,,,,,,,,1,,,,,2394429
+372,2685,Pitt Community College,Languages,3.6,Maximiliano A Cuevas,3.9,124,83%,10,2,3,3,7,63,6,19,,,20,4,2,61,65,23,31,4,3,13,1779138
+373,2685,Pitt Community College,Psychology,4.6,Shirley Kuhn,2.4,74,N/A,,,,,1,,9,1,,,,,9,2,1,1,3,,,12,437789
+374,2685,Pitt Community College,Biology,3.2,Sarah Hollis-Mervin,4.6,67,100%,,15,,13,7,,4,10,,,3,12,1,,1,6,11,,,1,1799518
+375,2685,Pitt Community College,Biology,3.8,Tammy Atchison,3.6,63,N/A,,,2,,1,,2,1,,,,,2,,2,,3,,,1,209912
+376,2685,Pitt Community College,English,2.3,Allison Flowers,4.8,63,100%,3,3,,12,3,1,3,17,,,15,6,,,4,19,4,,,,1306527
+377,2685,Pitt Community College,Biology,2.8,Kerri Augustino,4.9,54,100%,9,23,1,21,3,1,,12,,,28,16,2,1,5,16,11,,,,1936032
+378,2685,Pitt Community College,History,3.5,Charles Saunders,4.3,53,N/A,,1,,,1,,,,,,,,,,,,1,,,,62395
+379,2685,Pitt Community College,Automotive Technology,3.9,Walter Underwood,4.3,47,N/A,,,,,,,,,,,,,,,,,,,,,764725
+380,2685,Pitt Community College,Psychology,3.9,Tom Marsh,3.7,46,N/A,,,,,,,,,,,,,,,,,,,,,195046
+381,2685,Pitt Community College,Sociology,3.6,James Gordon Blake,2.5,40,17%,,,5,3,,,1,,,,,1,3,,1,,,,2,,209910
+382,2685,Pitt Community College,Biology,3.8,Joseph Moss,4.5,40,94%,4,11,,9,2,1,4,12,,,22,1,2,3,8,7,19,,4,6,1830408
+383,2685,Pitt Community College,Biology,4.0,Russell Clift,3.2,39,N/A,,,1,2,1,,2,1,,,2,,4,,3,2,6,,2,4,1044262
+384,2685,Pitt Community College,Science,3.5,Jaysen Arno,4.9,39,88%,,3,1,4,,1,1,1,,,4,1,2,,,2,3,,,,1313022
+385,2685,Pitt Community College,English,3.1,Cathy Reynolds,3.7,36,N/A,,,,1,2,,,3,,,,,,,2,,2,1,,2,654333
+386,2685,Pitt Community College,Psychology,3.0,Sadie Oates,3.7,35,67%,,,,2,2,,2,1,,,,1,,1,2,2,,1,1,3,266082
+387,2685,Pitt Community College,Sociology,4.3,Vic James,2.8,35,N/A,,,,,,,2,,,,,,1,,,,,,,1,428781
+388,2685,Pitt Community College,Health Science,1.4,Don King,4.8,35,100%,1,1,,9,1,,,4,,,8,9,,,,6,3,,,,794150
+389,2685,Pitt Community College,English,1.8,Andy Sugg,3.4,33,N/A,,,,,,,,,,,,,,,,,,,,,391629
+390,2685,Pitt Community College,Physical Ed,2.8,Jeffrey Ramey,3.7,32,60%,,,,1,1,,5,,,1,1,,2,6,1,,,,1,,513845
+391,2687,Pittsburgh Institute of Mortuary Science,Chemistry,3.7,Estelle Hagedorn,3.3,18,N/A,,1,,,,,,,,,2,,1,,,1,4,1,1,,99690
+392,2687,Pittsburgh Institute of Mortuary Science,Law,4.5,George Entenmann,3.3,12,N/A,,,,,2,,1,,,,1,,,1,1,2,2,,1,2,720228
+393,2687,Pittsburgh Institute of Mortuary Science,Communication,2.6,Barry Lease,4.6,11,N/A,2,2,,3,,,,,,,,1,1,,1,2,,,,,1097137
+394,2687,Pittsburgh Institute of Mortuary Science,Humanities,3.4,Roger Walker,4.3,7,N/A,,,,,,,,,,,,,,,,,,,,,687877
+395,2687,Pittsburgh Institute of Mortuary Science,Social Science,2.0,Joseph Marsaglia,4.8,3,N/A,,,,,,,,,,,1,1,,,,1,,,,,1588808
+396,2687,Pittsburgh Institute of Mortuary Science,Philosophy,2.3,Beth Ziance,2.7,3,N/A,,,,,,,,,,,,,,,,,,,,,2289557
+397,2687,Pittsburgh Institute of Mortuary Science,Management,3.0,Pat McGowan,4.0,2,N/A,,,,1,,,,,,,,,,,,1,,,,,2049592
+398,2688,Pittsburgh Technical Institute - North Fayette,Computer Science,2.6,Chuck Eltringham,4.5,34,N/A,,,,2,,,,2,,,1,,,2,1,,2,,,1,313083
+399,2688,Pittsburgh Technical Institute - North Fayette,Graphic Arts,2.4,Tim Ankeny,4.6,25,N/A,,,,1,,,,1,,,,,,,,2,,,,,670190
+400,2688,Pittsburgh Technical Institute - North Fayette,Business,1.6,Michael Curran,5.0,22,N/A,,,,,,,,,,,,,,,,,,,,,602805
+401,2688,Pittsburgh Technical Institute - North Fayette,Computer Science,2.9,Michael Russell,3.4,21,N/A,,,,,,,,,,,,1,1,,,,1,,,,313071
+402,2688,Pittsburgh Technical Institute - North Fayette,Computer Science,2.4,Dave Kingston,3.5,18,N/A,,,,1,,,,1,,,,,,,,1,,,,,313082
+403,2688,Pittsburgh Technical Institute - North Fayette,Design,3.0,Sarah Davis,3.4,17,N/A,,,,,,,,,,,,,,,,,,,,,584113
+404,2688,Pittsburgh Technical Institute - North Fayette,Engineering,1.8,Dennis McNeill,4.8,13,N/A,,1,,,1,,,2,,,1,2,,1,,3,1,,,,612232
+405,2688,Pittsburgh Technical Institute - North Fayette,Computer Science,3.8,Chaz Feller,4.5,13,N/A,1,2,,,,,,3,,1,,,,,,,2,,,3,993022
+406,2688,Pittsburgh Technical Institute - North Fayette,Computer Science,2.8,Maggie Buck,3.9,12,N/A,,,,1,,,,1,,,,,,,,1,,,,,677061
+407,2688,Pittsburgh Technical Institute - North Fayette,Graphic Arts,1.8,George Silvaney,4.8,11,N/A,,,,,,,,,,,,,,,,,,,,,20632
+408,2688,Pittsburgh Technical Institute - North Fayette,English,2.7,Jessica Cooper,4.5,11,100%,,2,,3,1,,1,5,,1,1,2,,,4,2,,,,,1602932
+409,2688,Pittsburgh Technical Institute - North Fayette,Computer Science,3.2,James Madine,4.3,10,N/A,1,,,,,,,1,,,,1,,,,,,,,,735151
+410,2688,Pittsburgh Technical Institute - North Fayette,Computer Science,3.0,Ed Jaquay,3.4,10,N/A,,,,,,,,,,,,,,,,,,,,,807554
+411,2688,Pittsburgh Technical Institute - North Fayette,Marketing,2.6,April Talotta,4.9,8,N/A,,,,,,,,,,,,,,,,,,,,,662318
+412,2688,Pittsburgh Technical Institute - North Fayette,Graphic Arts,2.1,Rich Haas,4.0,8,N/A,,,,,,,,,,,,,,,,,,,,,670185
+413,2688,Pittsburgh Technical Institute - North Fayette,English,2.4,Wendy McDivitt,4.6,8,N/A,,1,,,,,,,,,1,,,,,1,,,,,823729
+414,2688,Pittsburgh Technical Institute - North Fayette,Graphic Arts,2.0,Lori Tudor,4.3,7,N/A,,,,,,,,,,,,,,,,,,,,,721979
+415,2688,Pittsburgh Technical Institute - North Fayette,Medicine,2.3,Michael Dorich,5.0,6,N/A,,,,,,,,,,,,,,,,,,,,,547306
+416,2688,Pittsburgh Technical Institute - North Fayette,Hospitality,2.0,John Nagy,4.5,6,N/A,,,,,,,,,,,,,,1,,1,1,,,,666221
+417,2688,Pittsburgh Technical Institute - North Fayette,English,3.3,Dan Kirk,3.9,6,N/A,,,,,,,,1,,,1,,,1,1,,1,,,1,993029
+418,2691,Platt College: Aurora,Nursing,4.4,Jean Schroeder,1.9,5,N/A,,,,,,,,,,1,,,,,,,,,,1,1828355
+419,2691,Platt College: Aurora,Nursing,4.0,Laurie Kohring,5.0,3,N/A,,,,2,,,1,,,,,,,1,,1,1,,,,1837430
+420,2691,Platt College: Aurora,Anthropology,2.0,Patricia Simpson,2.8,2,N/A,,,,,,,,,,,,,,,,,,,,,1127978
+421,2691,Platt College: Aurora,Nursing,3.5,Jody Yemen,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1828332
+422,2691,Platt College: Aurora,Nursing,3.5,Susan Miovech,2.8,2,N/A,,,,,,,,,,,,,,,,,,,,,1837421
+423,2691,Platt College: Aurora,Communication,4.0,Seth Thomas,4.0,2,N/A,,,,,,,,,,,,1,,,1,,,,,1,1837424
+424,2691,Platt College: Aurora,Nursing,2.0,Steve Keiser,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1837419
+425,2691,Platt College: Aurora,Nursing,4.0,Candy Graber,4.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1837426
+426,2691,Platt College: Aurora,Biology,5.0,Lorella Luezas,2.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1837427
+427,2691,Platt College: Aurora,Chemistry,4.0,Sarah Shulda,2.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1837428
+428,2691,Platt College: Aurora,Nursing,3.0,Fran Ricker,1.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1914036
+429,2692,Fremont College,Health Science,2.1,Dr. Avrina K Ririe,4.6,46,N/A,1,9,,9,6,11,8,33,,,2,11,3,10,17,6,2,,,5,1923564
+430,2692,Fremont College,Education,3.0,Iowayna Pena,5.0,3,N/A,,,,,,,,,,,,,,,,,,,,,1211649
+431,2692,Fremont College,Law,2.0,Mark Rebernik,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1832850
+432,2692,Fremont College,Law,2.0,Golden Thrower,3.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1835719
+433,2692,Fremont College,Law,4.0,Lisa Meier,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1294412
+434,2693,Platt College: Los Angeles,Law,3.8,David Morfin,4.8,29,N/A,,1,,1,,,,1,,,,1,,,,2,,,,,1038846
+435,2693,Platt College: Los Angeles,Not Specified,2.9,Scott Greene,4.0,7,N/A,,,,,,,,,,,,,,,1,,,,,,627320
+436,2693,Platt College: Los Angeles,Design,2.7,Teod Tomlinson,4.8,7,N/A,,,,,,,,,,,,,,,,,,,,,627321
+437,2693,Platt College: Los Angeles,Computer Science,3.7,Stephen Collins,5.0,3,N/A,,,,,,,,,,,,,,,,,,,,,1150276
+438,2693,Platt College: Los Angeles,Criminal Justice,3.0,Rafael R Sanchez,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1830800
+439,2693,Platt College: Los Angeles,Engineering,5.0,Edward Ussery,1.0,1,N/A,,,,,,,,,,,,,,,,,,,,,2373437
+440,2693,Platt College: Los Angeles,Physics,5.0,Layal Lebdeh,1.0,1,N/A,,,,,,,,,,,,,,,1,,,,1,1,2413089
+441,2695,Platt College: Ontario,Psychology,4.3,F. Christopher Williams,4.7,3,N/A,,,,,,,,,,,,,,,,,,,,,727460
+442,2695,Platt College: Ontario,Business,1.7,W. Denis Nurmela,3.3,3,N/A,,,,,,,,,,,,,,,,,,,,,1737564
+443,2695,Platt College: Ontario,Mathematics,2.5,Randall Maynes,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,662068
+444,2695,Platt College: Ontario,Psychology,1.0,Cassandra Tran,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,668685
+445,2695,Platt College: Ontario,Visual Communication Design,3.0,Stephen Collins,1.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1150278
+446,2695,Platt College: Ontario,Visual Communication Design,4.0,John Ledell,5.0,1,N/A,,,,1,,,,,,,,1,,,,,,,,,1549975
+447,2695,Platt College: Ontario,Medicine,4.0,Sanaa Mustaffa,5.0,1,N/A,,1,,,,,,1,,,,1,,,,,,,,,2456999
+448,2695,Platt College: Ontario,Health Science,4.0,Jorge Diaz,5.0,1,N/A,,,,1,,,,,,,,,,,,1,,,,1,2457004
+449,2696,Platt College: San Diego,Design,3.2,Fred Winton,4.4,46,N/A,,,,,,,,,,,,,,,,,,,,,464120
+450,2696,Platt College: San Diego,Graphic Arts,2.3,Jim Doody,4.0,12,N/A,,,,,,1,,1,,,,,,,1,,,,,,717492
+451,2696,Platt College: San Diego,Communication,2.0,Mike Smith,4.5,8,N/A,,,,1,,,,,,,1,1,,,,,,,,,449844
+452,2696,Platt College: San Diego,Graphic Arts,2.6,Ed Boretz,4.7,8,N/A,,,,,,,,,,,,,,,,,,,,,717491
+453,2696,Platt College: San Diego,Not Specified,1.8,ED Kane,3.5,5,N/A,,,,1,,,,,,,1,,1,,,,,,,,668179
+454,2696,Platt College: San Diego,Computer Science,3.6,Malon Meredith,3.7,5,N/A,,,,,,,,,,,,,,,,,,,,,695379
+455,2696,Platt College: San Diego,Media Arts,4.0,Steve Schultz,3.8,2,N/A,,,,,,,,,,,,,,,,,,,,,1024584
+456,2696,Platt College: San Diego,Media Arts,2.0,Otto Lai,3.8,2,N/A,,,,,,,,,,,,,,,,,,,,,1245572
+457,2696,Platt College: San Diego,Computer Science,5.0,Tiziana D'Agostino,1.5,2,N/A,,,,,,,,,,,,,,,,,,,,,1701824
+458,2696,Platt College: San Diego,Media Arts,2.5,Terry Warner,5.0,2,N/A,,,,,,,,1,,,,1,,,,1,,,,,1712051
+459,2696,Platt College: San Diego,Graphic Arts,1.5,Mark Escobar,1.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1894725
+460,2696,Platt College: San Diego,Graphic Arts,2.0,David Bittorf,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1463200
+461,2696,Platt College: San Diego,Media Arts,5.0,Melissa Cabral,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1688481
+462,2697,Plaza College,Computer Science,4.2,Evelyn Huxtable,4.2,14,100%,5,1,,4,1,1,,3,,,1,4,,,3,,,2,,,1383927
+463,2697,Plaza College,English,2.1,Jonathon Howle,5.0,8,N/A,1,2,,1,,,,,,,,,,,1,,,,,,1176494
+464,2697,Plaza College,Psychology,2.0,Dina Carcara-Cirigliano,4.4,7,N/A,,,,1,1,,,1,,,2,1,,,1,2,,,,,1101188
+465,2697,Plaza College,English,2.0,Gregory Lecakes,2.6,5,N/A,,,,,,,,,,,,,,,,,,,,,1307587
+466,2697,Plaza College,English,2.7,Margret Welsh,4.8,3,N/A,,,,,,,,,,,,,,,,,,,,,1026485
+467,2697,Plaza College,Management,3.0,Marisa Fordunski,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,966514
+468,2697,Plaza College,English,2.5,Erin Donovan,3.0,2,N/A,,,,,,,,1,,,1,,,,1,,,,,,1016282
+469,2697,Plaza College,Information Science,1.5,Edward Purificati,4.8,2,N/A,,,,,,,,,,,,,,,,,,,,,1225048
+470,2697,Plaza College,Information Science,3.5,Madeline Lebron,3.8,2,N/A,,,,,,,,,,,,,,,,,,,,,1229771
+471,2697,Plaza College,English,5.0,Christopher Hartley,3.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1166239
+472,2697,Plaza College,Medicine,5.0,Darryl Anderson,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1403006
+473,2699,Porterville College,Communication,2.9,Jonathan Hernandez,5.0,88,100%,9,40,,21,59,2,,11,,,31,49,,,7,28,1,,,4,2168991
+474,2699,Porterville College,Psychology,3.6,Vira Lozano,2.7,61,22%,,3,3,,,1,15,,1,,1,2,4,1,7,1,7,,7,19,17469
+475,2699,Porterville College,Mathematics,2.0,Miguel Ruelas,4.7,51,93%,1,4,,3,6,,,4,,,6,1,3,3,2,6,2,,,2,169005
+476,2699,Porterville College,History,1.7,David Bezayiff,4.7,43,N/A,,,,,,,,,,,,,,,,,,,,,17550
+477,2699,Porterville College,Mathematics,2.1,Stewart Hathaway,4.7,42,100%,3,8,,11,6,1,,11,,1,1,5,1,2,1,7,1,,,2,701558
+478,2699,Porterville College,Political Science,3.1,Jeff Keele,3.8,42,N/A,,,2,,,,,1,,,,,1,,,1,3,,1,,17467
+479,2699,Porterville College,English,2.2,Kathryn Benander,4.7,37,90%,4,2,,11,3,1,4,12,1,,,3,3,,,5,,1,,1,73640
+480,2699,Porterville College,Philosophy,2.3,Andrew Messchaert,4.2,36,N/A,,1,,,,,,,,,2,1,,,,1,,,,,17548
+481,2699,Porterville College,Mathematics,3.6,J Gervasi,4.5,35,N/A,,1,,,,,,,,,1,,,,,,1,,,,16322
+482,2699,Porterville College,History,2.4,Rebecca Baird,4.7,35,94%,1,10,5,4,5,8,4,7,,,7,8,,1,5,8,2,,,1,1837324
+483,2699,Porterville College,Social Science,2.9,Karen Bishop,3.8,34,67%,1,,,1,3,,3,3,,,,1,,1,1,2,,1,,1,17369
+484,2699,Porterville College,Mathematics,3.3,Terry Crewse,2.9,33,N/A,1,,,1,,,2,1,1,,1,,6,5,1,,5,,1,6,658677
+485,2699,Porterville College,English,2.5,Ted Wise,4.5,33,N/A,,2,,2,1,,1,4,,,2,2,,,2,1,,,,1,17372
+486,2699,Porterville College,Anthropology,3.7,Robert Simpkins,3.6,31,65%,3,3,,2,2,3,8,3,1,,,2,11,,3,2,9,,4,11,1807763
+487,2699,Porterville College,English,3.2,Alisa Lieberman,3.4,29,59%,4,,,1,5,4,8,13,,,,2,,8,5,3,2,5,,10,1938860
+488,2699,Porterville College,Agriculture,2.3,Craig Britton,4.6,25,100%,2,2,1,2,2,1,,2,,1,10,2,3,,1,3,1,,,1,44046
+489,2699,Porterville College,Mathematics,2.3,Cindy Pummill,3.8,25,71%,,,,,5,2,,2,,,,2,,,6,2,,,,1,315524
+490,2699,Porterville College,English,3.4,Nicole Celaya,2.6,25,17%,,,1,,2,,6,1,,1,,,1,8,,,11,6,,12,1151485
+491,2699,Porterville College,Anthropology,2.0,Richard Osborne,4.8,24,N/A,,,,,,,,,,,,,,,,,,,,,17549
+492,2699,Porterville College,English,2.9,Melissa Black,3.9,24,100%,1,,,1,1,2,1,3,,,,1,1,2,1,,1,,,3,623899

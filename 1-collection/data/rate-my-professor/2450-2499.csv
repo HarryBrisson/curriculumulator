@@ -1,0 +1,754 @@
+,campus_id,campus_name,dept,difficulty,name,quality,rating_count,retake,tag_accessibleoutsideclass,tag_amazinglectures,tag_bewareofpopquizzes,tag_caring,tag_cleargradingcriteria,tag_extracredit,tag_getreadytoread,tag_givesgoodfeedback,tag_gradedbyfewthings,tag_groupprojects,tag_hilarious,tag_inspirational,tag_lectureheavy,tag_lotsofhomework,tag_participationmatters,tag_respected,tag_skipclassyouwon'tpass,tag_somanypapers,tag_testheavy,tag_toughgrader,tid
+0,2451,Mid-State Technical College,Communication,2.0,Connie Hurlbut,3.4,8,N/A,,,,,,,,,,,,,,,,,,,,,342429
+1,2451,Mid-State Technical College,English,3.4,Megan Sokolowski,2.0,8,14%,,,,,2,1,1,1,,2,,,1,2,1,,2,2,,1,1563136
+2,2451,Mid-State Technical College,Computer Science,3.0,Gaul Volker,4.9,7,N/A,,,,,1,,,,,,,,,1,,,,,,1,131359
+3,2451,Mid-State Technical College,Biology,3.7,John Anderson,3.7,7,N/A,,1,,,,,,,,,,,,,,,,,,1,908031
+4,2451,Mid-State Technical College,Psychology,2.8,Deborah Krause,4.8,6,N/A,1,1,,4,3,,,1,,,1,,,,1,1,2,,,,908022
+5,2451,Mid-State Technical College,Criminal Justice,4.4,Mike Bessette,3.9,5,N/A,,1,,,,,,,,1,,,,,,1,1,1,,1,1339128
+6,2451,Mid-State Technical College,Biology,3.4,James Brown,5.0,5,N/A,,,,,,,,,,,,,,,,,,,,,1443016
+7,2451,Mid-State Technical College,Business,3.8,Jon Steele,5.0,4,N/A,,,,,,,,,,,,,,,,,,,,,1138119
+8,2451,Mid-State Technical College,Health Science,4.0,Ann Roser,5.0,3,N/A,,1,,,,,,2,,,1,1,,,,,,,,,1412301
+9,2451,Mid-State Technical College,Communication,4.3,Callie Tomczyk,5.0,3,N/A,,,,,,,,,,,,,,,,,,,,,1608965
+10,2451,Mid-State Technical College,Criminal Justice,4.0,Jascor Barb,4.5,2,N/A,,,,,,,1,,,,,,,,,1,,,,1,695258
+11,2451,Mid-State Technical College,Economics,2.0,Brian Bartel,4.3,2,N/A,,,,,,,,,,,,,,,,,,,,,1279253
+12,2451,Mid-State Technical College,Science,4.0,Donika Rakacolli,4.3,2,N/A,,,,2,,,,2,,,,1,,1,,,,,,,1754122
+13,2451,Mid-State Technical College,Health Science,4.0,Megan Blount,4.5,2,N/A,1,,,1,1,,,1,,,1,,,,,,,,1,,2387460
+14,2451,Mid-State Technical College,Engineering,2.0,Mark Ptak,2.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1503593
+15,2451,Mid-State Technical College,Nursing,4.0,Debra Krings,2.5,1,N/A,,,,,,,,,,,,,,,,,,,,1,1696214
+16,2451,Mid-State Technical College,Social Science,2.0,Laura Prince,5.0,1,N/A,,1,,,,,,1,,,1,,,,,,,,,,2266919
+17,2451,Mid-State Technical College,Computer Science,1.0,Amanda Van Slooten,5.0,1,N/A,,,,,,,,1,,,,,,,,,,,,,2324465
+18,2451,Mid-State Technical College,Criminal Justice,4.0,Courtney Kostuchowski,2.0,1,N/A,,,,,,,,,,1,,,,1,,,,,,1,2415124
+19,2451,Mid-State Technical College,English,4.0,Jill Quinn,3.0,1,N/A,,,,,1,,,1,,,,,,1,,,,,,,2446907
+20,2452,Middle Georgia State University (all campuses),Political Science,3.6,James Decker,4.0,105,53%,,3,9,,3,,13,1,,,6,1,10,1,,,15,,1,13,461650
+21,2452,Middle Georgia State University (all campuses),Mathematics,2.9,Barry Monk,4.7,87,100%,2,5,,8,6,3,,6,5,,5,,,2,1,9,,,1,,316668
+22,2452,Middle Georgia State University (all campuses),History,3.0,Andrew Manis,3.7,85,46%,,,6,,1,,7,2,1,,2,1,2,,5,3,3,,3,1,310628
+23,2452,Middle Georgia State University (all campuses),History,2.5,Matt Jennings,4.7,85,100%,1,6,,1,2,5,11,8,2,,1,,1,,12,4,,,,3,1075987
+24,2452,Middle Georgia State University (all campuses),Mathematics,2.5,John Trimboli,4.5,78,N/A,,,,,1,,,,,,,1,,,1,1,1,,,4,221244
+25,2452,Middle Georgia State University (all campuses),Mathematics,4.1,Mary Wolfe,1.6,74,22%,,,,,2,,,,2,,,,3,3,2,,3,,4,5,223335
+26,2452,Middle Georgia State University (all campuses),English,2.0,James Sisson,4.9,74,91%,2,,1,6,2,,13,17,,,15,3,,1,16,8,3,,,1,1035921
+27,2452,Middle Georgia State University (all campuses),Biology,3.3,Jeffrey Mohr,4.5,73,N/A,,11,17,4,3,16,5,7,,,3,7,1,1,6,7,12,,,8,1619043
+28,2452,Middle Georgia State University (all campuses),History,3.8,Stephen Taylor,3.3,72,N/A,,,1,,,,7,,,,,,1,2,4,,,1,2,6,198871
+29,2452,Middle Georgia State University (all campuses),History,3.8,Robert Burnham,3.0,72,38%,,1,,,,,1,3,,,,,8,,,,5,4,1,5,366578
+30,2452,Middle Georgia State University (all campuses),Social Science,1.7,Walter Robitzsch,4.5,72,100%,1,2,,6,5,1,3,1,,,5,3,2,,1,6,,,1,,372437
+31,2452,Middle Georgia State University (all campuses),English,2.0,Judith Schmitt,4.4,72,79%,5,,,4,4,,5,11,,,,,3,,2,2,6,5,,4,405204
+32,2452,Middle Georgia State University (all campuses),Computer Science,2.3,Tina Ashford,4.4,70,N/A,1,,,6,5,,1,2,,,1,,,,5,7,,,,,129390
+33,2452,Middle Georgia State University (all campuses),Political Science,2.7,Julie Lester,3.7,68,64%,4,3,1,3,6,2,10,5,4,1,,,4,,2,,1,1,1,7,1036076
+34,2452,Middle Georgia State University (all campuses),Economics,2.6,Greg George,3.8,65,100%,,3,,,2,5,,1,1,,6,1,2,,,1,,,,,374261
+35,2452,Middle Georgia State University (all campuses),Mathematics,2.1,Valerie Beaman-Hackle,4.9,63,100%,3,3,,5,1,,,8,,,,1,,4,1,4,4,,,1,434620
+36,2452,Middle Georgia State University (all campuses),Psychology,2.6,Charles Cliett,4.1,61,N/A,,,,,,,,,,,,,,,,,,,,,152918
+37,2452,Middle Georgia State University (all campuses),Biology,4.1,Jeffrey Burne,3.3,61,N/A,,,1,,,,5,1,,,1,,1,,,1,3,,1,5,229869
+38,2452,Middle Georgia State University (all campuses),Political Science,2.4,Dan Guerrant,4.0,61,88%,,2,,,3,,3,1,1,,7,,2,2,9,2,4,,1,5,509332
+39,2452,Middle Georgia State University (all campuses),History,2.8,Matthew Zimmerman,4.3,61,N/A,,,,,1,,1,,,,,,,,,,,,,1,1041144
+40,2453,Middlesex Community College,History,2.2,Victor Triay,4.5,62,100%,,1,,,4,,5,2,2,,,2,2,,3,,2,,1,2,84492
+41,2453,Middlesex Community College,Sociology,3.4,John Ambenge,2.1,56,13%,,,1,,,,2,,3,,1,,4,1,5,,,,1,5,333147
+42,2453,Middlesex Community College,Mathematics,2.4,Jennifer Clark,4.8,56,N/A,,,,,,,,,,,,,,,,,,,,,1450946
+43,2453,Middlesex Community College,Biology,4.0,Judy Wallace,4.1,45,64%,3,4,1,1,3,,5,,,,,2,4,1,2,4,1,,7,3,437944
+44,2453,Middlesex Community College,Psychology,4.0,Greg Horne,2.4,44,N/A,,,,1,,,,1,,,,,,,,,,,,,45874
+45,2453,Middlesex Community College,Languages,2.6,Angelo Glaviano,4.0,42,71%,10,2,,4,7,,1,9,5,,4,2,,5,3,6,,,2,4,398795
+46,2453,Middlesex Community College,Psychology,1.8,Pat Sawyer,4.7,37,N/A,,,,,,,,,,,,,,,,,,,,,251042
+47,2453,Middlesex Community College,English,2.4,Terence McNulty,4.8,36,100%,,,2,1,4,1,1,8,,1,3,1,,1,4,3,1,,,,1172536
+48,2453,Middlesex Community College,Chemistry,2.6,Kimberly Thomas,4.8,34,92%,2,9,,8,4,4,,7,2,,4,2,,2,1,5,1,,1,2,1190810
+49,2453,Middlesex Community College,Chemistry,3.3,James Quinlan,3.9,33,82%,3,1,5,8,2,1,1,2,,,8,,2,1,1,1,6,,1,,1320810
+50,2453,Middlesex Community College,Mathematics,3.4,Sarah Leone,3.8,32,N/A,1,1,,3,1,,,4,,,,,,2,,2,,,,2,779134
+51,2453,Middlesex Community College,English,3.6,Christine Ruggerio,2.9,31,67%,1,,,2,3,1,,6,,2,1,1,,1,3,2,,,,1,625808
+52,2453,Middlesex Community College,Social Science,2.5,Judith Felton,4.3,25,N/A,,,,1,,1,1,,,1,,2,2,,3,1,1,,,1,311280
+53,2453,Middlesex Community College,Biology,3.4,Patrick Bryan,3.8,25,63%,,2,,1,4,1,6,1,,,,,3,2,,1,5,1,4,7,561025
+54,2453,Middlesex Community College,Biology,3.7,James Markham,4.1,25,N/A,,3,,,1,,,,,,,3,2,,,2,4,,2,3,623809
+55,2453,Middlesex Community College,Humanities,2.9,John Shafer,4.2,23,100%,3,,,1,9,,2,5,1,,1,1,,,6,2,1,,,1,815218
+56,2453,Middlesex Community College,English,3.3,Adam Floridia,4.6,22,88%,2,3,,4,3,,2,11,,,3,2,,,1,3,2,,,5,1783188
+57,2453,Middlesex Community College,Mathematics,4.3,Seok Sagong,2.5,20,N/A,,,,,,,,,,,,,,,,,,,,,727825
+58,2453,Middlesex Community College,English,2.8,Donna Bontatibus,4.1,19,86%,2,,,4,2,,,7,1,,1,2,,,1,3,1,,,,602319
+59,2453,Middlesex Community College,English,4.3,Joan Donati,1.7,19,N/A,,,,,,,,,,,,,,,1,,,1,,1,840849
+60,2454,Middlesex Community College,Psychology,1.9,Paul Gibbons,4.7,73,94%,,12,,5,5,20,1,5,,,4,6,2,1,2,7,,,3,,160529
+61,2454,Middlesex Community College,History,2.8,Danijela Jackson,4.8,62,100%,,11,,20,5,,3,15,,1,,10,,,10,10,,,,1,1751330
+62,2454,Middlesex Community College,Business,2.2,Elizabeth Hastings,4.8,52,94%,3,,,9,9,2,1,14,,,,4,,1,4,4,,,,1,348528
+63,2454,Middlesex Community College,Education,4.4,Claire Kamasaki,2.3,46,18%,1,,5,1,2,,5,4,,1,1,,2,7,,1,5,6,,15,621649
+64,2454,Middlesex Community College,Business,3.3,James Dottin,2.6,44,33%,,,,,3,2,1,1,,1,,,6,12,5,,3,1,4,7,1068820
+65,2454,Middlesex Community College,Philosophy,3.5,Carlos Brocatto,4.1,38,78%,2,6,,9,2,13,14,5,1,3,10,4,5,3,4,3,6,3,,3,1964722
+66,2454,Middlesex Community College,Biology,1.4,Mariluci Bladon,4.8,37,100%,,8,,2,,5,,4,,,5,7,,,2,7,,,,,959647
+67,2454,Middlesex Community College,English,3.6,Jill Keller,3.8,36,42%,1,,2,1,2,,9,3,,,,,1,6,2,,9,1,1,11,359819
+68,2454,Middlesex Community College,Computer Science,1.9,John Femia,4.5,36,100%,,3,,9,3,1,1,5,,1,3,5,,,4,9,,,,,549123
+69,2454,Middlesex Community College,Anatomy,3.3,Effegenia Liakos,4.2,33,N/A,,2,,2,2,1,5,,,,,,,,,6,3,,3,1,549113
+70,2454,Middlesex Community College,Mathematics,4.0,Glenn Johnson,2.9,28,57%,1,2,,2,1,1,,2,,,3,,,1,,1,3,,1,7,300310
+71,2454,Middlesex Community College,Chemistry,2.6,Paul Patev,4.8,28,100%,,2,,,3,4,,2,,,,1,,,1,4,,,,1,619782
+72,2454,Middlesex Community College,Criminal Justice,3.1,Peyton Paxson,3.9,28,83%,,,,,2,,4,2,,,3,1,2,1,3,,1,,2,4,123134
+73,2454,Middlesex Community College,Accounting,3.0,Barbara Noonan,2.4,28,29%,1,1,,2,1,,,,1,1,1,1,,1,2,,2,,2,4,1141385
+74,2454,Middlesex Community College,English,3.1,Daisy Carlsen,4.5,27,88%,,,,4,3,,5,10,1,,4,5,,1,4,5,4,3,,,1724738
+75,2454,Middlesex Community College,Mathematics,2.6,Linda Dart-Kathios,4.0,25,N/A,1,,,2,3,1,,,,,,,1,2,1,,4,,2,4,549131
+76,2454,Middlesex Community College,English,3.7,Christoper Commodore,2.2,24,11%,,,,,,,,1,1,,,,3,5,,,5,5,,9,1221277
+77,2454,Middlesex Community College,Anthropology,2.5,Binnur Ercem,4.1,23,86%,,,,,3,,1,1,,,,,,3,6,1,,,,1,809020
+78,2454,Middlesex Community College,English,3.2,Joseph Nardoni,3.8,23,43%,,,,1,,,2,2,,,1,3,1,4,5,1,,3,,,549132
+79,2454,Middlesex Community College,Health Science,3.9,Ivetta Dinbergs,3.5,23,20%,,1,,,1,,,,1,,,,1,3,,1,4,,3,4,601697
+80,2455,Midland College,History,2.7,Todd Houck,4.3,41,86%,1,8,,1,7,,4,7,2,,7,4,2,1,3,5,2,1,,4,288821
+81,2455,Midland College,English,3.2,Pamela Howell,1.8,39,25%,2,,,1,1,,3,,1,,,1,,4,3,,1,2,,11,1005457
+82,2455,Midland College,Sociology,2.7,Jay Schwarz,4.3,36,92%,5,15,,8,7,5,,13,2,,16,6,1,,2,14,2,1,,,2413472
+83,2455,Midland College,Mathematics,2.5,Mike Dixon,5.0,29,100%,1,3,,2,2,,,4,1,,5,1,,,1,4,4,,,1,352976
+84,2455,Midland College,Psychology,2.4,Andrea Zabel,4.5,25,N/A,1,,,2,1,2,,3,,,3,,,1,2,,,,,,91670
+85,2455,Midland College,English,4.0,William Feeler,2.8,24,33%,1,,,,2,1,3,2,,,,,,3,,,,5,1,3,1132576
+86,2455,Midland College,Political Science,3.1,Terry Gilmour,3.0,21,20%,,1,,,,,,1,,,1,,1,4,,2,,1,2,4,338974
+87,2455,Midland College,Biology,4.2,Marlana Mertens,3.4,21,50%,3,,2,1,,2,3,2,,,,,2,2,1,,7,,1,5,1395516
+88,2455,Midland College,Biology,3.7,Tomas Hernandez,3.4,20,N/A,,,1,1,,,2,1,,,2,1,,,,1,3,,1,3,338975
+89,2455,Midland College,Biology,3.5,Paul Mangum,4.1,19,100%,,1,,2,2,1,1,5,,,3,,1,,,2,3,,,2,428236
+90,2455,Midland College,English,3.4,Glenda Lindsey-Hicks,3.2,19,N/A,,,,1,1,,1,1,2,,,2,,,1,,,2,1,4,720286
+91,2455,Midland College,Mathematics,3.3,Warren Tervooren,3.8,19,63%,,1,,2,1,,,1,1,,2,,,8,2,2,10,,1,1,844545
+92,2455,Midland College,Biology,2.0,Daniel Elias,3.5,19,20%,,,,3,2,3,,1,,,,,3,,,1,1,,2,,1005862
+93,2455,Midland College,History,2.6,Frank Delao,4.3,19,N/A,,2,,,2,,2,5,,,1,,,1,,3,1,2,,2,1631428
+94,2455,Midland College,Mathematics,3.3,Sonia Ford,4.3,18,N/A,1,1,,3,2,1,,3,,,,,,3,1,,,,,1,287036
+95,2455,Midland College,English,4.1,Glenda Hicks,2.5,18,N/A,,,,,,,2,,,,,1,1,,,,,1,,3,723784
+96,2455,Midland College,Political Science,3.0,Lee Almaguer,2.9,18,N/A,,1,,,,,,,,,1,,1,,,,1,,,2,1304564
+97,2455,Midland College,Economics,3.5,Omar Belazi,3.0,18,40%,1,,,,5,2,8,,1,,,,,,1,,1,,1,4,626642
+98,2455,Midland College,Accounting,3.0,Dale Westfall,4.8,18,100%,3,3,1,2,3,1,,6,,,1,,3,,,6,5,,,1,360045
+99,2455,Midland College,Biology,3.9,Claudia Hinds,4.1,17,N/A,,,,,,,,,,,,,,,,,,,,,339520
+100,2456,Midlands Technical College,Mathematics,1.4,Mike Salais,4.8,154,88%,,6,,5,7,25,,8,5,,12,2,,7,2,13,,,2,,155498
+101,2456,Midlands Technical College,Mathematics,4.8,Wanda Anderson,1.7,126,N/A,,,8,,,,1,,6,,,,1,1,2,,18,,5,31,171533
+102,2456,Midlands Technical College,Biology,4.2,David Corey,1.7,119,7%,,,1,1,1,,13,,3,,,,12,,,,8,,4,19,357629
+103,2456,Midlands Technical College,Social Science,2.0,Wesley Abercrombie,4.5,98,100%,3,5,,3,5,3,1,5,3,,11,1,5,,1,4,1,,,,49543
+104,2456,Midlands Technical College,Biology,3.6,Perry Carter,3.3,96,61%,1,5,,4,6,3,21,,6,,6,,17,2,,5,15,,13,14,564271
+105,2456,Midlands Technical College,Political Science,3.5,Shickre Sabbagha,3.6,95,75%,,,9,,3,3,3,1,,,,,,3,,,6,2,,8,230095
+106,2456,Midlands Technical College,Psychology,3.8,Eileen Price,2.7,93,50%,1,1,,,1,7,5,2,3,,,1,1,2,9,1,5,1,3,13,361082
+107,2456,Midlands Technical College,Psychology,2.8,Lloyd Pilkington,4.5,90,100%,,6,,,3,1,5,4,,,2,5,,,2,6,1,,2,,49545
+108,2456,Midlands Technical College,Mathematics,3.4,Jason Wetzel,3.3,85,58%,2,,1,1,11,1,1,6,1,,,,1,8,3,,9,,5,13,237364
+109,2456,Midlands Technical College,Psychology,1.8,David Cox,4.8,84,100%,1,18,1,7,2,1,,2,1,4,23,7,,,1,11,6,,1,,86568
+110,2456,Midlands Technical College,History,3.0,Scott Turnage,4.3,82,N/A,,,,,3,1,2,,,,,1,,,3,1,1,,,2,86567
+111,2456,Midlands Technical College,English,4.3,Katherine Gilbert,2.3,82,N/A,,,10,,2,,6,1,,,,,1,6,6,,6,8,,15,448204
+112,2456,Midlands Technical College,Mathematics,4.1,Rose Jenkins,2.2,82,22%,1,1,,2,1,1,4,1,,2,,,2,8,,,5,1,,9,507096
+113,2456,Midlands Technical College,Social Science,3.0,Brian Grabbatin,4.2,81,71%,2,4,4,3,1,2,5,7,,3,,,4,8,3,3,7,3,4,6,1644229
+114,2456,Midlands Technical College,English,3.1,Ryan Spillman,4.4,81,78%,6,5,1,21,6,1,6,44,,1,15,13,4,12,10,9,9,15,,6,1782435
+115,2456,Midlands Technical College,Health Science,3.6,Robert Knight,2.6,78,19%,,1,,,4,,14,1,5,,,,14,12,2,1,9,,15,16,309262
+116,2456,Midlands Technical College,Biology,2.2,Jenais Means,4.9,76,100%,3,7,,17,7,,,14,1,,27,4,,,5,18,10,,,1,1439508
+117,2456,Midlands Technical College,Psychology,1.9,Holly Beard,4.8,76,90%,1,13,,9,12,11,,15,,,3,3,2,3,16,10,4,,1,1,994545
+118,2456,Midlands Technical College,Mathematics,3.3,Douglas Culler,3.0,70,33%,,1,17,1,7,1,1,,,2,,,,18,3,1,5,,3,3,414124
+119,2456,Midlands Technical College,English,3.3,Tonya Roper,2.6,66,N/A,,,,,,,,,,,,,,,,,,,,,151267
+120,2457,Midstate College,Humanities,2.1,Julie Curless,4.9,15,N/A,,1,,,,,,3,,,,3,,,,1,,,,,409795
+121,2457,Midstate College,Economics,2.5,Alan Paredes,4.5,13,N/A,,,,,,,,,,,,,,,,,,,,,357384
+122,2457,Midstate College,English,2.8,Steve Bortolotti,4.6,12,N/A,,,,1,,,,1,,,,1,,,,,,,,,281237
+123,2457,Midstate College,Computer Science,3.1,Maria Uskova,2.9,9,N/A,,,,,,,,,,,,1,,1,1,,1,,,,378321
+124,2457,Midstate College,Health Science,3.0,Joanna Holly,4.9,8,N/A,,,,,,,,,,,,,,,,,,,,,372081
+125,2457,Midstate College,Writing,3.8,Lonna Nauman,2.5,5,N/A,,,,,,,,,,,,,,,,,,,,,274500
+126,2457,Midstate College,Law,4.4,Cynthia Volk,5.0,5,N/A,,,,,,,,,,,,,,,,,,,,,564998
+127,2457,Midstate College,Business,2.5,Jim Stokes,3.1,4,N/A,,,,,,,,,,,,,,,,,,,,,323302
+128,2457,Midstate College,Humanities,1.7,Lynn Hiesel,2.7,3,N/A,,,,,,,,,,,,,,,,,,,,,1607045
+129,2457,Midstate College,Computer Science,1.3,Van Ackerman,3.7,3,N/A,,,,,,,,,,,,,,,,,,,,,1716709
+130,2457,Midstate College,Business,3.3,Nick J Fowler,4.3,3,N/A,,1,,,,1,,2,,,,1,,1,,,,,,,1838964
+131,2457,Midstate College,Accounting,3.5,Bob Rachowicz,1.8,2,N/A,,,,,,,,,,,,,,,,,,,,,795848
+132,2457,Midstate College,Accounting,3.0,Kassandra McElhiney,4.0,2,N/A,,,,,,,,,,,,,,,,,,,,,877515
+133,2457,Midstate College,Mathematics,2.5,Sara Leigh,4.5,2,N/A,,,,,,,,,,,,1,,1,,,1,,,,1629365
+134,2457,Midstate College,Business,5.0,Bruce White,2.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1373361
+135,2457,Midstate College,Computer Science,3.0,Brian Hughes,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1672972
+136,2457,Midstate College,Mathematics,2.0,Erin Copple,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1741200
+137,2457,Midstate College,Court Reporting,2.0,Teresa Ozuna,1.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1825237
+138,2457,Midstate College,Accounting,1.0,Angel AC Chatterton,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1913781
+139,2457,Midstate College,Business,1.0,Dan McAvoy,4.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1913782
+140,2458,Mildred Elley,Psychology,3.3,Richard Darling,5.0,6,100%,,4,1,2,,,,2,,,2,2,,,3,2,,,,,2253430
+141,2458,Mildred Elley,Nursing,2.2,Beata Reshetar,4.9,5,N/A,,,,,,,,,,,,,,,,,,,,,1615477
+142,2458,Mildred Elley,Medicine,1.3,Cindy Harms,4.8,4,N/A,,,,,,,,,,,,,,,,,,,,,541689
+143,2458,Mildred Elley,Business,4.3,Isaiah Bennett,2.8,3,N/A,,,,,,,,,,,,,,,,,,,,,788199
+144,2458,Mildred Elley,Business,1.7,Marcia Mayper,4.8,3,N/A,,,,,,,,,,,,,,,,,,,,,1652559
+145,2458,Mildred Elley,Communication,3.0,Crista Leigh Collins Wunsch,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1739352
+146,2458,Mildred Elley,Nursing,3.0,Katherine Huber,1.0,2,N/A,,,,,,,,,,,,,,2,,,,,,,2489160
+147,2459,Miles Community College,English,3.0,George Dickie,4.2,11,N/A,,,,,,,,,,,,,,1,1,1,,,,,702424
+148,2459,Miles Community College,Psychology,4.2,Michael Durnam,2.3,6,N/A,,,,,,,,,,,,,,,,,,,,2,1156345
+149,2459,Miles Community College,Speech Communication,2.5,Garth Sleight,5.0,4,N/A,,,,,,,,,,,,,,,,,,,,,754008
+150,2459,Miles Community College,Nursing,5.0,Katrina Luther,3.0,2,N/A,,,,,,,1,,,,,,,1,,,1,,,,2020669
+151,2459,Miles Community College,Mathematics,3.5,Stan Taylor,2.5,2,N/A,,,,,1,,,,,,,,,,,1,,,1,,2071111
+152,2459,Miles Community College,Mathematics,3.0,Mike Hardy,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,2020671
+153,2459,Miles Community College,Fine Arts,1.0,Donna Faber,5.0,1,N/A,,,,1,,,,,,,,,,,,,,,,,2107355
+154,2459,Miles Community College,History,3.0,Daniel Ferris,2.0,1,N/A,,,,,,,,,1,,,,,,,,1,,,1,2242917
+155,2459,Miles Community College,Sociology,3.0,Doug Gaskill,5.0,1,N/A,,1,,,,,,1,,,,,,,,1,,,,,2242919
+156,2460,Miller-Motte Technical College,Engineering,3.3,Christina Lancaster,5.0,3,N/A,,,,1,,,,,,,1,1,,,,,,,,,1604505
+157,2460,Miller-Motte Technical College,Information Science,1.0,Christopher Watson,5.0,2,N/A,,,,,,,,,,,1,,,,,1,,,,,1879509
+158,2460,Miller-Motte Technical College,Business,5.0,Roy Buck,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1549447
+159,2460,Miller-Motte Technical College,English,4.0,Jose Medina,5.0,1,N/A,,,,,,,,1,,,,,,,1,1,,,,,1812646
+160,2461,Miller-Motte Technical College,Medicine,2.6,Glenn Grady,4.8,9,N/A,,,,,,,,,,,,,,,,,,,,,393619
+161,2461,Miller-Motte Technical College,English,2.7,Rhonda Limoges,4.6,6,N/A,,,,,,,1,,,,,,,,1,,,,,1,943914
+162,2461,Miller-Motte Technical College,Criminal Justice,1.4,Paul Mediratta,4.9,5,N/A,,,,,,,,,,,,,,,,,,,,,1732025
+163,2461,Miller-Motte Technical College,Accounting,4.0,Michael Wilson,4.6,4,N/A,,,,,,,,,,,,,,,,,,,,,733909
+164,2461,Miller-Motte Technical College,Computer Science,3.0,Bruce Livesay,4.7,3,N/A,,,,,,,,,,,,,,,,,,,,,713116
+165,2461,Miller-Motte Technical College,Psychology,4.5,Agnes Browne,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1584847
+166,2461,Miller-Motte Technical College,Not Specified,3.0,Angela Reynolds,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1631235
+167,2461,Miller-Motte Technical College,English,2.0,Emily Fancy,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1799001
+168,2461,Miller-Motte Technical College,Computer Science,3.0,Leonard Ciaccio,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1917974
+169,2461,Miller-Motte Technical College,Business,2.0,Jason Cellio,4.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1970281
+170,2462,Milwaukee Area Technical College,Economics,2.2,Adam Wickersham,4.8,119,100%,3,24,,15,21,12,,27,,1,21,14,4,2,9,20,9,,,1,1885387
+171,2462,Milwaukee Area Technical College,Natural Science,2.9,Freddie Arocho-Perez,5.0,80,100%,2,8,,32,4,,,2,3,,11,16,5,,15,16,22,1,2,1,1184429
+172,2462,Milwaukee Area Technical College,Languages,2.8,Ronald Gest,4.2,70,96%,1,4,,21,6,6,4,16,3,4,7,5,,11,41,21,15,,,6,1822641
+173,2462,Milwaukee Area Technical College,Business,2.5,Jay Lorino,4.5,60,100%,2,10,1,7,21,1,2,28,1,2,3,11,1,7,15,25,2,,1,2,2018740
+174,2462,Milwaukee Area Technical College,Psychology,2.7,Clement Magner,3.4,50,95%,,9,,16,4,5,3,8,2,,,5,,2,8,8,,,,,642681
+175,2462,Milwaukee Area Technical College,Psychology,3.0,Marcia Tipton,4.0,43,71%,,1,,3,,,,1,3,1,2,2,,,1,2,,,2,,1123061
+176,2462,Milwaukee Area Technical College,Chemistry,2.8,Brenda Wingard-Haynes,4.5,42,100%,,9,,4,4,1,,4,,,10,8,3,,3,13,5,,,3,1104925
+177,2462,Milwaukee Area Technical College,Natural Sciences,4.3,Geoffrey Lee,2.3,36,50%,,3,,1,,6,3,,,,,2,14,,,2,11,,2,15,1461459
+178,2462,Milwaukee Area Technical College,Mathematics,2.0,Mike Lafratta,5.0,35,100%,,5,,7,,,,6,,,6,7,2,3,4,11,3,,,1,612429
+179,2462,Milwaukee Area Technical College,Science,3.6,Lisa Conley,4.1,35,N/A,,3,,3,1,,1,5,,,1,,,5,,1,4,,1,6,616081
+180,2462,Milwaukee Area Technical College,Economics,2.6,Mohammad Kasraian,4.5,35,100%,1,4,,4,1,,,1,1,,7,2,,,1,3,3,,,,642678
+181,2462,Milwaukee Area Technical College,Mathematics,2.7,Rich Northouse,4.4,35,N/A,,,,,,,,,,,,,,,,,,,,,1580190
+182,2462,Milwaukee Area Technical College,Mathematics,2.0,Cindy Nichols,4.5,35,N/A,,,,1,1,,,,,,1,,,,2,2,2,,,1,1584256
+183,2462,Milwaukee Area Technical College,Natural Sciences,3.3,Jason Kindschi,4.6,35,78%,1,6,,6,4,,1,3,,,7,4,,1,3,4,8,,2,4,1656260
+184,2462,Milwaukee Area Technical College,Nursing,3.3,Derek Watson,4.5,34,100%,6,,,10,12,,,19,,2,13,10,,,10,12,,,,,2284484
+185,2462,Milwaukee Area Technical College,Natural Sciences,2.3,Elaine M. Cholka,4.9,34,91%,2,7,,6,5,2,,9,,,1,6,,2,,12,8,,1,,1635304
+186,2462,Milwaukee Area Technical College,Chemistry,3.4,Shalita Giannini,3.5,32,58%,1,4,,4,3,1,,3,,,1,1,1,3,4,1,12,,,19,973648
+187,2462,Milwaukee Area Technical College,Science,3.4,Christine Ryan,3.7,32,86%,2,3,2,9,7,4,3,1,,,,2,8,3,2,2,8,,3,4,1164271
+188,2462,Milwaukee Area Technical College,Sociology,3.1,J. Cody Hunnicutt,3.8,31,69%,1,6,,2,3,,1,4,,1,3,,4,4,2,,3,2,2,3,924579
+189,2462,Milwaukee Area Technical College,History,3.3,Kate Erickson,3.9,29,78%,1,6,,2,5,,8,,1,,,2,7,,,,1,,2,8,2037740
+190,2463,Mineral Area College,History,2.3,Marc Drye,4.3,27,N/A,,1,,1,2,,,1,,,3,,,,,1,1,,,,230939
+191,2463,Mineral Area College,Science,3.4,Nathan Calkins,4.6,17,100%,1,,,5,1,5,,2,,,,,,4,4,1,4,,,1,1648207
+192,2463,Mineral Area College,Mathematics,1.7,Bill Richardson,4.8,15,N/A,1,,,2,1,,,1,,,7,,,2,,4,,,,,737005
+193,2463,Mineral Area College,Biology,3.5,Rhonda Gamble,3.5,13,N/A,1,,,,1,,,,,,1,1,,,,3,,,,,189092
+194,2463,Mineral Area College,English,3.9,David Cravens,3.1,13,N/A,1,,,,4,1,1,3,1,,,5,2,2,2,,4,,,4,1842183
+195,2463,Mineral Area College,Biology,3.8,Nancy Petersen,3.6,11,N/A,,,,,,1,1,1,,,,,,,,,1,,,3,864518
+196,2463,Mineral Area College,Psychology,2.1,Fred Nute,3.5,10,N/A,,1,1,,1,1,,,,,1,,,,1,,,,,,466989
+197,2463,Mineral Area College,Fine Arts,3.5,Jim Wilson,3.8,10,N/A,,1,,,,,,,,,1,1,,,,,,,,,714843
+198,2463,Mineral Area College,Criminal Justice,2.7,Chris Schmitt,3.6,9,N/A,,,,,,,,,,,,,,,,,,,,,675773
+199,2463,Mineral Area College,Chemistry,4.1,Margaret Williams,3.8,9,N/A,,,,2,,,,,,,,,,1,,1,,,,1,1148834
+200,2463,Mineral Area College,Mathematics,3.3,Tabatha Crites,4.1,9,N/A,,,,3,,,,2,,,1,,1,2,,1,1,,,1,1657469
+201,2463,Mineral Area College,English,3.2,Emily Murdock,3.8,9,N/A,,,,2,1,,,4,,,3,,,,1,,,,,,1760676
+202,2463,Mineral Area College,Mathematics,3.4,Kathy Hawn,3.6,8,N/A,,,,,2,,,2,,,,,,2,2,,3,,,2,1621202
+203,2463,Mineral Area College,Communication,2.7,Tony Gans,4.1,7,N/A,,,,,,,,,,,,,,,,,,,,,685549
+204,2463,Mineral Area College,Psychology,3.0,Charles Cole,3.6,7,N/A,,,,,,,,,,,,,1,1,,,1,,,2,737000
+205,2463,Mineral Area College,English,2.6,Pamela Jaycox,4.2,7,N/A,,,,2,1,,1,2,,,1,,,,,2,,,,,1834769
+206,2463,Mineral Area College,Business,2.6,Stephanie Campbell,4.0,7,100%,,1,1,1,1,1,,,2,,,,1,2,3,,3,,,1,1925060
+207,2463,Mineral Area College,Mathematics,3.0,Kristen Williams,5.0,7,100%,,1,,4,,,,3,,,6,1,,,,3,,,,,2289619
+208,2463,Mineral Area College,Communication,1.7,Tammy Roberts,4.3,6,N/A,,,,1,,1,,1,,,,,,,,,,,,,230936
+209,2463,Mineral Area College,Biology,2.7,Jenny Gunn,4.3,6,N/A,,,,,,,,,,,,,,,,,,,,,466751
+210,2464,Minneapolis Business College,Graphic Arts,3.6,Nichole Throndsen,5.0,12,N/A,,2,,1,1,,,3,,,,3,,,,1,1,,,1,1741363
+211,2464,Minneapolis Business College,Communication,3.3,Mark Stewart,4.2,12,N/A,,,,1,,,,1,,,,,,,1,,,,,,474104
+212,2464,Minneapolis Business College,Communication,1.2,Tom Stoltz,3.7,11,N/A,,,,,,,,,,,,,,,,,,,,,477019
+213,2464,Minneapolis Business College,Business,2.0,Denise Hershkind,4.7,5,N/A,,,,,,,,,,,,,,,,,,,,,477013
+214,2464,Minneapolis Business College,Medicine,1.4,Amanda Niebur,4.7,5,N/A,,,,,,,,,,,,,,,,,,,,,1213436
+215,2464,Minneapolis Business College,Medicine,1.0,Karen Zeigler,3.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1307093
+216,2464,Minneapolis Business College,Computer Science,2.0,Benjamin Barone,4.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1326239
+217,2464,Minneapolis Business College,Communication,3.0,Molly Montgomery,5.0,1,N/A,,,,1,,,,1,,,,,,,,1,,,,,1943065
+218,2464,Minneapolis Business College,Accounting,3.0,Chris Strand,2.0,1,N/A,,,,,,,,,,,,,,,,,,,,,2489843
+219,2465,Minneapolis Community and Technical College,Psychology,3.3,Troy Dvorak,4.3,131,93%,1,8,,1,5,3,3,3,,,5,4,3,1,4,9,6,,,1,727370
+220,2465,Minneapolis Community and Technical College,Geography,2.1,Jerry Kramer,4.8,131,100%,1,7,1,20,9,2,1,5,2,,10,22,,,2,18,2,,2,,457426
+221,2465,Minneapolis Community and Technical College,Biology,3.6,Mitch Albers,3.3,102,50%,1,,1,1,5,7,17,3,2,,,1,3,7,2,1,2,,5,14,482837
+222,2465,Minneapolis Community and Technical College,Biology,2.2,Mesfin Negia,4.3,97,38%,,2,6,3,5,1,6,1,1,5,2,6,1,7,4,7,8,,4,7,1515569
+223,2465,Minneapolis Community and Technical College,Anthropology,2.9,Alan Saltzman,2.0,79,N/A,,,,,,,1,,,1,,,,,,,,,,,317766
+224,2465,Minneapolis Community and Technical College,Science,3.0,Parke Kunkle,4.5,76,N/A,,2,,3,,,1,1,,,7,8,,2,1,5,,,,3,98533
+225,2465,Minneapolis Community and Technical College,Humanities,2.0,John Plomondon,4.7,74,100%,,6,,7,2,1,4,6,1,3,7,9,6,,3,9,,,,,749790
+226,2465,Minneapolis Community and Technical College,Mathematics,3.0,Scott Storla,4.4,73,93%,4,6,1,5,4,1,1,4,,,3,11,,4,3,5,3,,,2,258372
+227,2465,Minneapolis Community and Technical College,Mathematics,3.5,Haile Haile,3.4,73,56%,2,1,,4,2,1,,2,3,,5,2,3,,1,4,4,,4,10,505001
+228,2465,Minneapolis Community and Technical College,Religion,2.2,Nadia Mohamed,4.3,72,88%,7,7,1,15,6,1,8,11,3,9,3,17,2,,16,28,1,2,,1,1547734
+229,2465,Minneapolis Community and Technical College,Philosophy,3.1,Matthew Palombo,4.1,69,76%,2,10,,4,6,1,5,10,,,2,12,8,1,1,7,6,1,,4,1924372
+230,2465,Minneapolis Community and Technical College,Chemistry,3.9,Kirk Boraas,4.4,67,78%,3,9,2,3,3,,5,5,,,3,3,1,3,,11,9,,4,9,728241
+231,2465,Minneapolis Community and Technical College,Biology,3.6,Renu Kumar,2.4,65,52%,2,8,4,6,2,,9,6,1,2,,2,3,4,13,1,8,,2,18,1509364
+232,2465,Minneapolis Community and Technical College,Economics,1.4,Paul Mascotti,4.0,64,N/A,,,,,,,,,,,,,,,,,,,,,258379
+233,2465,Minneapolis Community and Technical College,Biology,3.8,Cheryl Neudauer,3.3,64,65%,2,2,,1,4,,8,7,,,,3,,4,4,7,3,,4,12,962640
+234,2465,Minneapolis Community and Technical College,Mathematics,4.0,ED Seifert,3.6,64,75%,2,,,3,2,,2,1,2,,,1,,4,,2,3,,6,11,576287
+235,2465,Minneapolis Community and Technical College,Biology,3.4,Nicole Watson,4.3,63,90%,,8,,5,8,,4,8,,,2,5,5,3,3,7,6,,4,5,702963
+236,2465,Minneapolis Community and Technical College,Biology,3.6,Abraham Middeldorp,3.2,62,70%,,1,,,,,6,3,,,2,2,3,3,,1,3,,,6,482843
+237,2465,Minneapolis Community and Technical College,Mathematics,3.0,Donn Sandell,3.5,62,88%,,2,,1,4,,,3,,,2,,,4,2,2,8,,,6,952941
+238,2465,Minneapolis Community and Technical College,History,2.5,Peter Mortenson,4.5,60,92%,2,7,,2,8,,6,6,1,,,1,2,1,1,6,4,1,,,892159
+239,2466,Globe University Minnesota School of Business,Nursing,3.3,Ellen Eichten,3.1,20,N/A,,,,,,,,,,,,,,,,,,,,,1142123
+240,2466,Globe University Minnesota School of Business,Nursing,4.2,Raney Linck,3.8,6,N/A,,,,1,,,,,,,1,,,1,,,,,,,1422988
+241,2466,Globe University Minnesota School of Business,Nursing,3.4,Kendra Saal,4.7,5,N/A,,,,,,,,1,,,,1,,,,1,,,,,1412385
+242,2466,Globe University Minnesota School of Business,Business,3.5,Rosalie Bjorkman,2.5,4,N/A,,,,,,,,,1,2,,,,2,,,,,,1,1198225
+243,2466,Globe University Minnesota School of Business,Business,4.2,Sarah Foslien,3.6,4,N/A,,,,,1,,,1,,,,,,,,1,,,,,1198232
+244,2466,Globe University Minnesota School of Business,Science,2.3,Patsy Parker,3.8,3,N/A,,,,,,,,,,,,,,,,,,,,,974894
+245,2466,Globe University Minnesota School of Business,Computer Science,3.0,Denise Erickson,4.0,2,N/A,,,,,,,,,,,,,,,,,,,,,993247
+246,2466,Globe University Minnesota School of Business,Business,4.0,Kay Green,2.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1308515
+247,2466,Globe University Minnesota School of Business,Business,2.0,Heather Thomton-Stockman,4.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1308517
+248,2466,Globe University Minnesota School of Business,Business,3.5,Gordon Whitehead,3.3,2,N/A,,,,,,,,,,,,,,,,,,,,,1308519
+249,2466,Globe University Minnesota School of Business,Computer Science,3.0,Scott Howell,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1425775
+250,2466,Globe University Minnesota School of Business,Mathematics,3.5,Daniel Roddin,4.8,2,N/A,,,,,,,,1,,,,,,,,1,,,,,1727108
+251,2466,Globe University Minnesota School of Business,Health Science,3.0,Rosemary Lablanc,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1365566
+252,2466,Globe University Minnesota School of Business,Nursing,3.0,Susan Huehn,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1631720
+253,2466,Globe University Minnesota School of Business,Medicine,4.0,Lindsay Deslauriers,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1718655
+254,2467,Globe University Minnesota School of Business,Business,3.3,Joy Des Marais,3.0,3,N/A,,,,,,,,,,,,,,,,,,,,,1182477
+255,2467,Globe University Minnesota School of Business,Accounting,5.0,Beverly Kile,1.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1855796
+256,2467,Globe University Minnesota School of Business,Graphic Arts,4.0,Scott Kuntz,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,701795
+257,2467,Globe University Minnesota School of Business,Business,4.0,Craig Johnson,3.0,1,N/A,,1,,,1,,,1,,,,,,,,,,,,,2165993
+258,2468,Minnesota State College - Southeast Technical,Biology,3.7,Roger Skugrud,3.2,14,N/A,,,,,,,,,,,,,,,,,,,,,541628
+259,2468,Minnesota State College - Southeast Technical,English,3.4,Robert Stuber,1.8,13,N/A,,,,,,,,1,,,,,,2,2,,1,1,,1,1500826
+260,2468,Minnesota State College - Southeast Technical,Mathematics,2.7,Nate Emerson,4.9,12,N/A,,,,1,,,,,,,1,,,,,1,,,,,1493714
+261,2468,Minnesota State College - Southeast Technical,Music,1.6,David Echelard,4.5,10,N/A,,,,,,,1,1,,,,,,,1,,,,,,441416
+262,2468,Minnesota State College - Southeast Technical,Biology,2.5,Elizabeth Micheel,4.1,10,N/A,,2,,,1,1,,2,,,,1,,,,2,,,,1,1810801
+263,2468,Minnesota State College - Southeast Technical,Computer Science,3.0,Steve Rudnik,3.2,9,N/A,,,,,,,1,,,,,,,,,,,,1,1,192838
+264,2468,Minnesota State College - Southeast Technical,Accounting,3.1,Jillain Halverson,3.9,9,N/A,,,,,,,,,,,,,,,,,,,,,733962
+265,2468,Minnesota State College - Southeast Technical,Mathematics,1.5,Alice Zimmer,4.8,8,N/A,1,,,2,,,,,2,,,,,,,1,,,,,751603
+266,2468,Minnesota State College - Southeast Technical,Engineering,1.4,Paul Sorenson,4.5,8,N/A,,,,,,,,,,,2,,,,,,,,,,1324411
+267,2468,Minnesota State College - Southeast Technical,Nursing,4.0,Marty Knauer,2.9,7,N/A,,,,,,,1,,,,,,1,,,,,,,3,1508412
+268,2468,Minnesota State College - Southeast Technical,Management,2.6,Terry Greene,4.9,5,N/A,,,,1,,1,,,,,,,1,,,,,,,,348754
+269,2468,Minnesota State College - Southeast Technical,English,3.2,Mike Larson,4.5,5,N/A,,,,1,,,2,,,,,,1,,,,,,,1,836149
+270,2468,Minnesota State College - Southeast Technical,Psychology,2.0,Angel Mytas,4.7,5,N/A,,,,1,,,1,,,,,,,,1,,,,,,1519596
+271,2468,Minnesota State College - Southeast Technical,Nursing,3.5,Maria Conrad,2.8,4,N/A,,,,,,,,,,,,,,,,,,,,,1508410
+272,2468,Minnesota State College - Southeast Technical,Nursing,4.0,Cheryl Casperson,4.3,4,N/A,,1,,,,,,1,,,,,,,,,,,,1,1617140
+273,2468,Minnesota State College - Southeast Technical,History,2.5,Christopher Stout,5.0,4,N/A,,1,,1,,,1,1,,,,,1,,,1,,,,,1752727
+274,2468,Minnesota State College - Southeast Technical,Nursing,2.0,Kathleen (Katie) Maschka,4.1,4,N/A,,,,,,,1,1,,,,,,,,,1,,,,744988
+275,2468,Minnesota State College - Southeast Technical,Accounting,2.7,Terri Fritz,4.0,3,N/A,,,,,,,,,,,,1,,1,,,1,,,,514234
+276,2469,Dakota College at Bottineau,English,3.4,Mike Porter,4.4,15,N/A,,,,2,1,1,2,3,,,1,1,,,1,1,,,,1,403183
+277,2469,Dakota College at Bottineau,Business,2.4,Russ Gagnon,4.7,12,100%,1,4,,4,,,,5,,,2,4,,,3,2,5,,,,1585609
+278,2469,Dakota College at Bottineau,History,3.7,Steve Sathre,4.0,10,N/A,,,,,,,,,,,,,,,,,,,,,958077
+279,2469,Dakota College at Bottineau,English,3.8,Gary Albrightson,2.8,9,N/A,,,,,,,,,,,,,,,,,,,,,725611
+280,2469,Dakota College at Bottineau,Mathematics,3.0,Betty Rehfuss,2.8,4,N/A,,,,,,,,,,,,,,,,,,,,,725606
+281,2469,Dakota College at Bottineau,Economics,2.0,Donald Thompson,4.8,4,N/A,,,,,,,,1,,,,,,,1,1,,,,,725610
+282,2469,Dakota College at Bottineau,Health Science,3.8,Larry Brooks,2.3,4,N/A,,,,,,,,,,,,,,,,,,,,,823903
+283,2469,Dakota College at Bottineau,Marketing,3.0,Keri Keith,5.0,4,N/A,,1,,,1,,,,,,2,,,,,2,,,,,1416393
+284,2469,Dakota College at Bottineau,Biology,2.5,Chuck Lura,4.0,4,N/A,,,1,,,,,1,,,,1,1,,,2,,,1,,1416407
+285,2469,Dakota College at Bottineau,English,1.8,John Hansen,4.2,4,N/A,,,,1,3,,2,,,,,,,1,,,,2,,,1913214
+286,2469,Dakota College at Bottineau,Mathematics,1.7,Scott Johnson,4.5,3,N/A,,,,1,,,,,,,,,,,,1,,,,,1416408
+287,2469,Dakota College at Bottineau,Agriculture,2.5,Bob Underwood,5.0,2,N/A,,,,2,,,,,,,,,,,1,2,,,,,1416398
+288,2469,Dakota College at Bottineau,Psychology,3.5,Lexi Kavasnicka-gates,5.0,2,N/A,,1,,1,,,,2,,,1,1,,,1,2,,,,,2051467
+289,2469,Dakota College at Bottineau,Nursing,5.0,Sandra Sund,2.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1714916
+290,2469,Dakota College at Bottineau,Mathematics,4.0,Harmony Richman,2.0,1,N/A,,,,,,,,,,,,,,1,,,,,,1,1881391
+291,2469,Dakota College at Bottineau,Science,2.0,Eden McLeod,5.0,1,N/A,,,,,1,,,1,,,,,,,,,,,,,2333792
+292,2469,Dakota College at Bottineau,English,3.0,Damon Schneider,3.0,1,N/A,,,,,,,,1,,,,,,,1,,,1,,,2379127
+293,2469,Dakota College at Bottineau,Health Science,3.0,Katie Kauffman,5.0,1,N/A,,,,,,,,1,,,,,,,1,,,,,,2469042
+294,2470,MiraCosta College (all),Communication,2.1,Eric Robertson,4.8,337,96%,23,15,,57,42,5,3,108,2,5,24,40,,16,35,57,10,1,,5,1495590
+295,2470,MiraCosta College (all),History,2.9,Lisa M. Lane,4.3,309,94%,4,35,,15,51,7,21,56,1,,,10,2,11,32,11,4,1,,9,358610
+296,2470,MiraCosta College (all),Philosophy,3.2,Isabel Luengo,3.8,282,88%,13,13,,24,34,72,49,84,,,,13,5,20,37,23,20,4,6,23,37580
+297,2470,MiraCosta College (all),Mathematics,3.9,Mohammed Rajah,3.4,227,50%,1,,1,1,6,1,,2,4,,3,3,5,6,3,3,29,,1,27,37105
+298,2470,MiraCosta College (all),Music,3.1,Christy Coobatis,4.3,226,92%,,8,1,13,5,,2,9,1,2,2,18,7,4,12,21,20,,,2,167169
+299,2470,MiraCosta College (all),Mathematics,2.2,Mark Laurel,4.2,218,54%,5,11,2,9,12,6,3,11,5,2,14,7,5,15,5,11,28,1,5,9,687553
+300,2470,MiraCosta College (all),Sociology,2.1,Bruce Hoskins,4.4,214,91%,2,10,,9,7,13,2,9,,6,23,20,9,4,7,16,4,3,1,6,458566
+301,2470,MiraCosta College (all),Philosophy,1.8,Ananda Spike,4.7,197,N/A,,4,,2,2,6,2,1,,,,13,1,2,5,2,3,,,,1233581
+302,2470,MiraCosta College (all),Political Science,3.5,John Phillips,4.6,195,83%,,25,,6,7,12,8,9,,,4,7,7,7,7,4,9,,4,7,472186
+303,2470,MiraCosta College (all),Mathematics,2.8,Brent Pickett,4.3,190,65%,2,2,,18,5,2,3,11,9,,10,7,,8,6,11,15,,2,6,153705
+304,2470,MiraCosta College (all),Anthropology,3.9,Lynne Miller,4.8,180,100%,2,26,,9,2,6,4,18,2,,1,10,2,5,15,14,9,8,,8,225649
+305,2470,MiraCosta College (all),History,3.4,Arturo Arevalos,2.9,172,63%,,3,,1,5,5,7,5,,,1,,3,2,4,,,2,,7,167162
+306,2470,MiraCosta College (all),English,3.6,Jose Jara,2.7,158,44%,2,9,4,9,,2,18,10,6,1,10,10,8,12,7,3,18,15,,37,239288
+307,2470,MiraCosta College (all),Health,2.6,Mary Jo Preti,4.2,157,N/A,,,,,,,,,,,,,,,,,,,,,803004
+308,2470,MiraCosta College (all),Psychology,2.8,Wendy Curtiss,3.7,146,85%,1,7,,4,7,,3,3,1,1,9,,7,1,1,3,3,,2,3,167164
+309,2470,MiraCosta College (all),Psychology,2.7,Steve Eso,3.9,141,83%,1,12,2,7,6,1,9,11,3,2,19,3,5,3,6,8,2,,1,7,469634
+310,2470,MiraCosta College (all),Mathematics,3.4,David Bonds,4.1,139,59%,9,1,,7,3,3,1,8,,,2,1,2,24,2,2,7,1,8,17,218662
+311,2470,MiraCosta College (all),Sociology,2.7,Thao Ha,4.3,134,65%,2,13,,10,3,3,3,2,1,,4,10,2,3,7,7,2,2,,5,1001489
+312,2470,MiraCosta College (all),Mathematics,2.9,Lemee Nakamura,4.7,133,93%,2,3,,10,3,5,,7,,,4,6,,6,1,5,6,,3,4,467113
+313,2470,MiraCosta College (all),Communication,2.7,Sam Arenivar,4.6,130,76%,1,9,,2,16,3,2,9,1,,1,3,,4,7,4,2,2,,1,637381
+314,2471,Wade College,Marketing,3.6,John Conte,4.3,9,N/A,,1,,,,,,1,,,,1,,,,2,1,,,,1393029
+315,2471,Wade College,Law,3.6,Harry Davors,2.8,5,N/A,,,,,,,,,,,,,1,,,,1,,1,,670161
+316,2471,Wade College,Mathematics,3.0,Sun Young Ahn,4.6,5,100%,1,,,3,4,,,4,,,,,,,1,1,1,,,,2181491
+317,2471,Wade College,Design,2.5,Jason Reynaga,3.3,2,N/A,,,,,,,,,,,,,,,,,,,,,1300151
+318,2471,Wade College,Psychology,1.0,Mitzi Morris,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1300152
+319,2471,Wade College,Fine Arts,1.0,Cynthia Hawkins,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1300153
+320,2471,Wade College,Fine Arts,3.0,Laura Chapuis,5.0,1,N/A,1,,,1,,,,1,,,,,,,,,,,,,1529841
+321,2471,Wade College,Computer Science,2.0,Danny Rix,4.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1599818
+322,2471,Wade College,Design,4.0,Rusty Bell,4.0,1,N/A,,,,,,,,1,,,,,,,,1,1,,,,2167062
+323,2473,Mississippi Delta Community College,Biology,4.0,Debbie Gantz,4.2,3,N/A,,,,,,,,,,,,,,,,,,,,,587131
+324,2473,Mississippi Delta Community College,Art History,3.0,Nancy Stone Streett,4.2,3,N/A,,,,,,,,,,,,,,,,,,,,,1157510
+325,2473,Mississippi Delta Community College,Psychology,2.7,Barbara Artman,4.8,3,N/A,,,1,,,,,,,,,,,,1,,1,,,,1271042
+326,2473,Mississippi Delta Community College,Psychology,2.0,Jacquelyn Moore,2.3,2,N/A,,,,,,,,,,,,,,,1,1,1,,,,1628406
+327,2473,Mississippi Delta Community College,Fine Arts,1.0,Jim Seale,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1563203
+328,2473,Mississippi Delta Community College,English,3.0,Renee Moore,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1563207
+329,2473,Mississippi Delta Community College,Biology,3.0,Margret Smith,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1563212
+330,2473,Mississippi Delta Community College,Biology,5.0,Lisa Fike,1.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1608853
+331,2473,Mississippi Delta Community College,Biology,3.0,Lisa Lloyd,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1680494
+332,2473,Mississippi Delta Community College,Computer Science,3.0,Carol Walden,3.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1680502
+333,2473,Mississippi Delta Community College,English,1.0,Tracy Craddock,4.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1680505
+334,2473,Mississippi Delta Community College,Psychology,4.0,Terry Moore,1.0,1,N/A,,,,,,,,,,,,,,1,,,,1,,,1680508
+335,2473,Mississippi Delta Community College,Sociology,3.0,Robin Toler,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1695440
+336,2474,Missouri College,Science,2.0,Heather Lane,4.8,4,N/A,,,,,,,,,,,,,,,,,,,,,866796
+337,2474,Missouri College,Music,3.0,Jessica Riggins,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1830914
+338,2475,Mitchell Community College,History,3.1,Kristl Kelley,3.6,83,41%,2,,1,5,4,2,13,19,5,1,2,,,9,20,4,4,3,2,22,1652990
+339,2475,Mitchell Community College,Psychology,1.8,Ryan Cannon,4.9,47,100%,4,3,,5,6,7,,5,,,5,2,3,,2,13,,,,,794036
+340,2475,Mitchell Community College,English,3.8,David Moss,4.0,42,74%,1,4,,1,6,2,,12,1,,11,,,,1,1,9,7,,14,1099904
+341,2475,Mitchell Community College,Biology,3.9,Parks Collins,4.5,39,100%,3,4,1,,9,,5,15,,6,5,2,,,6,15,5,,,6,1644190
+342,2475,Mitchell Community College,Communication,1.6,Rita Taggert,4.8,38,100%,2,2,,14,6,,,18,,1,2,5,,,3,9,2,,,,520970
+343,2475,Mitchell Community College,History,3.3,Stephen Herman,2.5,34,N/A,,,,,,,3,1,,,1,,2,2,1,,2,2,,4,284512
+344,2475,Mitchell Community College,Social Science,3.0,Jennifer Williams-Cannon,4.9,29,N/A,,,,2,2,,3,4,1,,,1,,,1,3,,,,1,1257911
+345,2475,Mitchell Community College,Chemistry,3.1,Emily Goins,4.5,28,90%,3,5,,7,3,2,1,4,,,5,2,,1,,7,3,,,1,359808
+346,2475,Mitchell Community College,Business,2.2,Mark Smalley,4.6,28,N/A,,1,,,1,1,,1,,,1,1,,,,,,,,,927190
+347,2475,Mitchell Community College,Psychology,1.9,Andrea Carnaggio Fukami,4.8,28,100%,3,4,,7,4,10,,4,,,,2,3,,1,11,,,1,,1759584
+348,2475,Mitchell Community College,Computer Science,3.8,Ronna Stroud,2.8,27,N/A,,,,5,1,,5,1,,3,,,2,3,8,,3,2,,5,1559332
+349,2475,Mitchell Community College,English,3.0,Benjamin Pressley,4.2,27,57%,1,1,1,,1,1,2,4,,,5,,1,4,1,4,3,4,,8,1644934
+350,2475,Mitchell Community College,Economics,3.1,Phillip Holleran,4.8,27,83%,2,,,,2,2,,14,,,2,3,1,5,3,10,5,,,4,1741326
+351,2475,Mitchell Community College,Chemistry,4.0,Kenya R Goldsberry,4.0,27,100%,10,2,,6,10,,2,5,1,2,2,,1,5,1,2,7,,,1,1839785
+352,2475,Mitchell Community College,Business,4.4,Gloria Rembert,1.4,26,17%,,,,,,,,,,,,,,3,,,,,4,5,1281708
+353,2475,Mitchell Community College,Biology,4.4,Aspen Chang,3.0,25,50%,1,,,,1,,6,1,,2,,,2,7,1,,2,,1,5,662256
+354,2475,Mitchell Community College,Economics,3.9,Paul Prochaska,3.7,24,73%,,2,,3,2,1,7,6,1,,,,2,,5,6,10,,3,9,1898285
+355,2475,Mitchell Community College,Sociology,2.3,Rex Beulin,4.0,23,N/A,,,,,,,,,,,,,,,,,,,,,204728
+356,2475,Mitchell Community College,English,2.9,Lisa Ausburn,4.7,23,100%,9,,,10,9,1,1,20,1,,,6,,1,6,3,1,,,,2411351
+357,2475,Mitchell Community College,Languages,3.1,Eddie Garcia,4.5,22,80%,1,1,,2,1,,1,1,,,,,,2,,,1,,,1,284499
+358,2476,Mitchell Technical Institute,English,3.7,Karen Clark,3.7,3,N/A,,,,,,,,,,,,,,,,,,,,,740008
+359,2476,Mitchell Technical Institute,Computer Science,2.7,Deb Giblin,4.7,3,N/A,,,,,,,,,,,,,,,,,,,,,740014
+360,2476,Mitchell Technical Institute,Computer Information Systems,2.7,Jen Schumacher,2.0,3,N/A,,,,,,,,,,,,,,,,,,,,,1668595
+361,2476,Mitchell Technical Institute,Mathematics,2.0,Jean Starr,3.5,2,N/A,,,,,,,,,,,,,,,,,,,,,740002
+362,2476,Mitchell Technical Institute,Communication Studies,2.0,Jim Grace,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1841081
+363,2476,Mitchell Technical Institute,Electronics,5.0,Josh Renken,1.0,1,N/A,,,,,,,,,,,,,,,,,,,,,2375073
+364,2476,Mitchell Technical Institute,Construction,4.0,Jed Schoenfelder,5.0,1,N/A,,,,,,,,,,,,1,,,,,,,,,2407820
+365,2476,Mitchell Technical Institute,Communication,4.0,Sarah Ellis,5.0,1,N/A,,,,,,1,,1,,,,1,,,,,,,,,2437515
+366,2477,Moberly Area Community College,Philosophy,3.1,George Mummert,3.5,19,N/A,,,,,,,1,1,,,,1,,,2,,,,,1,415628
+367,2477,Moberly Area Community College,Psychology,1.9,Shane Weseloh,4.9,18,100%,,4,,,5,,,6,,,6,3,,,1,3,,,,,1399051
+368,2477,Moberly Area Community College,English,2.8,Michael Barrett,4.4,16,N/A,1,,,,,,2,3,,,,2,,,,1,,,,,526183
+369,2477,Moberly Area Community College,Biology,3.2,Brad Brockmeier,4.4,13,80%,1,1,,,,,,2,1,,3,,,,2,2,2,,1,1,811521
+370,2477,Moberly Area Community College,Mathematics,2.5,Angela Walker,4.5,12,N/A,1,,,6,1,,,5,,,,1,,3,2,3,,,,,1692390
+371,2477,Moberly Area Community College,Mathematics,3.5,N. Ketchum,2.2,11,N/A,,,1,,,,,,,,,,,,,,,,1,2,213668
+372,2477,Moberly Area Community College,Geography,3.4,Laird Okie,4.3,8,N/A,,,,,,,,,,,,,,,,,,,,,21259
+373,2477,Moberly Area Community College,Biology,3.5,Suzanne Martin,1.6,8,N/A,,,,,,,,,,,,,,,,,,,,,220607
+374,2477,Moberly Area Community College,History,3.0,Kristine Zauke,2.6,8,N/A,,,,,,,2,,,,,,,,,,,1,1,,526217
+375,2477,Moberly Area Community College,Business,2.3,William King,4.8,8,100%,,,,7,,,,2,,,,4,,1,2,8,,,,,2039773
+376,2477,Moberly Area Community College,Computer Science,2.1,Greg Pauley,3.0,7,N/A,,,,,,,,,,,,,,,1,,,,1,1,21257
+377,2477,Moberly Area Community College,English,3.1,Dustin Pascoe,4.1,7,N/A,,1,,,,,,1,,,1,,,,,1,,1,,1,415620
+378,2477,Moberly Area Community College,Sociology,2.6,Matt Crist,4.7,7,N/A,,,,,,,,,,,,,,,,,,,,,510288
+379,2477,Moberly Area Community College,History,2.4,Mary Ann Fitzwilson,4.8,7,N/A,,,,,,,,,,,,,,,,,,,,,526199
+380,2477,Moberly Area Community College,English,1.8,C. Imgarten,4.3,6,N/A,,,,1,1,,,1,,,,,,,,,,,,,213672
+381,2477,Moberly Area Community College,English,1.8,Robert Williams,4.7,6,N/A,,,,,1,,,1,,,1,,,,,,,,,,770451
+382,2477,Moberly Area Community College,English,3.2,Jill MacKey,4.0,6,N/A,,,,,,,,1,,,1,,,,,,,,,1,794577
+383,2477,Moberly Area Community College,Literature,3.4,Tarasa Gardner,4.0,5,N/A,,,,2,3,,1,2,,,,,,,,,,,,,1412393
+384,2477,Moberly Area Community College,Mathematics,3.8,Lonnie Garrison,3.7,5,N/A,,,,,,,,1,,,,,,1,,,2,,,2,1477260
+385,2477,Moberly Area Community College,Science,3.6,Dan Meininger,1.9,5,N/A,,,,,,,1,,1,,,,1,,,,,,2,1,770452
+386,2478,Kaplan College (was Maric College),Health Science,3.1,Greg Gitens,4.7,7,N/A,,,,,,,,,,,,,,,,,,,,,1095316
+387,2478,Kaplan College (was Maric College),Health Science,2.0,James McKeehan,5.0,2,N/A,,,,,,,,1,,,,1,,,,1,,,,,1182351
+388,2478,Kaplan College (was Maric College),Health Science,4.0,Sam Misrahi,2.8,2,N/A,,,,,,,,,,,,,,,,,,,,,1188553
+389,2478,Kaplan College (was Maric College),Medicine,4.0,Manuel Graceiux,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1738316
+390,2479,Modesto Junior College,History,2.7,William Newell,4.5,277,91%,1,61,,2,7,,10,7,3,,38,19,26,,3,36,70,,9,8,141464
+391,2479,Modesto Junior College,History,4.1,Eva Mo,2.3,242,20%,4,3,22,2,1,,31,3,5,1,,7,25,26,7,1,14,8,4,33,131591
+392,2479,Modesto Junior College,Mathematics,2.6,Kamran Payvar,4.0,228,85%,3,25,2,7,3,26,,6,6,4,39,7,5,23,15,29,40,1,2,9,374898
+393,2479,Modesto Junior College,Psychology,2.0,Shelly Fichtenkort,4.8,193,100%,3,28,,19,25,,10,16,2,,11,4,3,1,18,16,17,,1,,314963
+394,2479,Modesto Junior College,Geography,4.0,Cecelia Hudelson-Putnam,2.8,179,31%,1,4,1,4,5,5,27,16,,1,1,3,9,9,7,1,7,7,4,44,221041
+395,2479,Modesto Junior College,Anthropology,3.1,James Todd,4.4,164,N/A,,7,,2,1,1,5,2,,,6,5,,,1,3,,,,,868476
+396,2479,Modesto Junior College,History,2.3,Al Smith,3.5,158,70%,1,16,,8,1,5,3,3,5,,10,6,6,2,11,13,2,,,5,1562481
+397,2479,Modesto Junior College,Biology,2.4,Dennis Gervin,4.8,151,98%,5,24,3,55,48,5,4,74,2,2,21,18,22,2,7,43,32,1,9,5,1897420
+398,2479,Modesto Junior College,Chemistry,4.0,Joseph Caddell,3.4,146,43%,10,2,,11,13,3,14,7,10,1,,,4,10,5,9,21,,22,16,647299
+399,2479,Modesto Junior College,Not Specified,2.1,Kurt Olson,4.5,137,93%,20,20,,19,29,26,14,19,7,,13,15,8,5,6,16,1,,,3,519448
+400,2479,Modesto Junior College,Mathematics,4.1,Jacqueline Faris,2.8,136,28%,1,,,,3,,3,3,2,,,3,6,12,1,1,26,,4,30,344541
+401,2479,Modesto Junior College,English,2.6,Jenny Netto,3.8,135,68%,2,4,,6,12,1,11,11,4,1,16,1,1,17,4,4,8,5,1,19,363893
+402,2479,Modesto Junior College,English,3.8,Jim Beggs,3.4,133,65%,1,1,2,9,,,16,16,,,4,,,4,8,4,9,7,,23,143707
+403,2479,Modesto Junior College,Psychology,2.4,Becky Ganes,4.5,132,79%,,8,,8,1,5,7,5,,1,3,3,1,6,7,5,2,,2,2,98020
+404,2479,Modesto Junior College,Biology,2.8,Derek Madden,4.8,132,98%,,11,1,29,13,2,2,9,5,,4,11,7,,14,24,9,,9,2,584304
+405,2479,Modesto Junior College,Psychology,2.1,Bobby Hutchison,4.0,130,90%,1,7,,21,20,2,7,8,10,,18,5,3,1,7,7,,,,1,1145579
+406,2479,Modesto Junior College,Art,2.4,Deborah Barr-Brayman,4.3,128,92%,2,6,2,17,33,17,13,37,1,,1,16,,5,31,19,7,,,4,768382
+407,2479,Modesto Junior College,English,3.2,Theron Westrope,4.0,127,82%,4,2,,9,11,,4,22,2,1,6,3,,1,3,8,2,3,,13,234712
+408,2479,Modesto Junior College,History,3.7,Curtis Martin,2.8,127,73%,1,2,,4,3,3,13,4,,1,1,,,5,2,1,1,3,,11,135123
+409,2479,Modesto Junior College,Humanities,1.8,Chad Redwing,4.8,126,94%,5,19,,10,6,9,5,3,3,6,27,19,4,4,9,7,5,1,,1,740520
+410,2480,Mohave Community College,Mathematics,3.2,Clark Brown,4.4,13,N/A,,,,1,1,,1,1,1,,,,,3,1,,2,,,1,772023
+411,2480,Mohave Community College,English,3.4,John Hansen,4.8,13,100%,,1,,1,2,,4,6,,,1,1,2,4,,,1,2,,1,1878353
+412,2480,Mohave Community College,Biology,3.3,Cesar Fuentes,4.1,10,N/A,,1,1,2,,,,1,,,4,4,,,,2,2,,,1,1696001
+413,2480,Mohave Community College,Computer Science,2.3,Andra Goldberg,4.9,9,N/A,,,,2,1,1,,1,,,1,,,,,,,,,,777072
+414,2480,Mohave Community College,Chemistry,2.6,Farah Farah,4.2,7,N/A,,,,1,,,,,,,,,1,1,,,,,,,1359869
+415,2480,Mohave Community College,Computer Science,2.4,Robert Anderson,4.0,5,N/A,,,,,,,,,,,,,,,,,,,,,882089
+416,2480,Mohave Community College,Business,2.8,Candace Hofstader,4.3,4,N/A,,,,,,,1,,,,,,,,1,1,,,,,772015
+417,2480,Mohave Community College,Sociology,3.8,Stephanie Johnson,2.9,4,N/A,,,,,,,,,,,,,,,,,,,,,1260519
+418,2480,Mohave Community College,English,2.5,John Kitts,4.8,4,N/A,,,,,1,,,1,,,,,,,,1,,,,,1423635
+419,2480,Mohave Community College,Biology,3.5,Scott Peat,4.6,4,N/A,,,,,,,,,,,,,,,,,,,,,1579711
+420,2480,Mohave Community College,Not Specified,5.0,Ariel Hammon,1.1,4,N/A,,,,,,,,,,,,,,,,,,,,,1813297
+421,2480,Mohave Community College,Engineering,3.7,Russell Cox,1.2,4,N/A,,,,,,,,,,2,,,1,2,,,,,,,1808712
+422,2480,Mohave Community College,Computer Science,2.0,Theresa McKee,3.3,3,N/A,,,,,,,,,,,,,,,,,,,,,772018
+423,2480,Mohave Community College,Computer Science,1.7,Stephen Warren Smart,4.8,3,N/A,,1,,1,,,,1,,,,1,,,2,3,1,,,,1929240
+424,2480,Mohave Community College,Science,3.0,Melissa Ha,5.0,3,N/A,,1,,2,,,,3,,,,,1,,1,1,,,,,2085398
+425,2480,Mohave Community College,Biology,2.0,Katrina Caporaletti,2.3,3,N/A,1,,,,,1,,,1,,,,1,,,,,,,1,2159900
+426,2480,Mohave Community College,Nursing,3.0,Paula McNichols,1.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1153065
+427,2480,Mohave Community College,Biology,4.5,Angelyn Sills,4.3,2,N/A,,,,,1,,,,,,,,,,1,,,,,,1454816
+428,2480,Mohave Community College,Computer Science,1.5,William Merkel,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1557335
+429,2480,Mohave Community College,Languages,3.0,Donald Shelton,4.3,2,N/A,,,,1,,,,1,,,,1,,,,,,,,,1677256
+430,2481,Mohawk Valley Community College,Psychology,1.9,Nivia Cavic,4.8,67,95%,2,15,,9,1,4,1,3,,6,4,22,,,11,18,8,,,,1883273
+431,2481,Mohawk Valley Community College,Psychology,3.3,Robert Christman,2.5,60,22%,,1,,,,,1,,5,,,,7,,2,1,,,3,5,482283
+432,2481,Mohawk Valley Community College,Psychology,1.7,Jonathan Meeter,4.6,52,N/A,,2,,3,,1,1,2,,,6,2,2,,,3,,,,2,482280
+433,2481,Mohawk Valley Community College,Sociology,2.4,Diana Ayers-Darling,4.2,49,71%,1,1,1,3,1,1,1,3,,,2,,,1,2,5,1,1,1,,617220
+434,2481,Mohawk Valley Community College,Social Science,1.4,Sarah Coleman,4.5,45,100%,1,2,,1,,,,1,1,,4,2,1,,1,4,,,,,283543
+435,2481,Mohawk Valley Community College,Business,3.4,Barbara Scantlebury,1.9,45,N/A,,,,,,,,,,,,,1,,1,,3,,1,9,363405
+436,2481,Mohawk Valley Community College,Mathematics,2.3,Thomas Schink,4.8,40,89%,4,3,,6,,,,2,2,,10,1,1,2,,4,,,1,,166430
+437,2481,Mohawk Valley Community College,Humanities,3.2,Alina Mildred Treis,3.8,35,67%,,,,,,,4,3,1,,,,,1,3,1,,2,,3,586030
+438,2481,Mohawk Valley Community College,Business,3.0,Justin Wilcox,3.5,35,33%,,1,,,,,1,1,,,,2,,3,1,1,,4,,4,595876
+439,2481,Mohawk Valley Community College,Social Science,1.9,William Zogby,3.7,34,N/A,1,2,,,1,,1,,1,,,,3,,,1,2,1,1,2,144775
+440,2481,Mohawk Valley Community College,Mathematics,2.9,Russ Penner,3.0,33,80%,2,,,2,1,4,,1,,,,3,1,1,,,1,,,2,144781
+441,2481,Mohawk Valley Community College,Mathematics,4.2,Gary Kulis,3.3,29,60%,,,,1,,,,1,1,,2,,,,,,1,,1,4,297616
+442,2481,Mohawk Valley Community College,Biology,3.3,Richard Thomas,4.0,29,N/A,,1,,1,,,2,1,,,1,,2,2,,,3,,,1,374925
+443,2481,Mohawk Valley Community College,Mathematics,3.4,John Swistak,2.5,29,N/A,,,,1,,3,3,1,,2,,,2,1,1,,1,1,,2,846468
+444,2481,Mohawk Valley Community College,Fine Arts,3.7,Jerome Lalonde,4.0,29,86%,,1,,5,,1,,4,2,,8,4,2,1,5,5,,,,1,671801
+445,2481,Mohawk Valley Community College,English,3.4,Rosemary Mink,2.8,28,N/A,,,,,,,2,,,5,,,2,,1,,7,1,,8,589852
+446,2481,Mohawk Valley Community College,Business,2.2,Robert Huyck,4.5,28,100%,1,3,,5,2,1,,4,,,7,4,,1,2,9,,,,1,1109011
+447,2481,Mohawk Valley Community College,English,2.2,Brandon Shaw,5.0,28,100%,,9,,7,,2,3,8,,1,6,8,,1,6,7,1,,,,1656521
+448,2481,Mohawk Valley Community College,Psychology,2.3,John Pawloski,4.2,27,N/A,,2,,2,,,1,,,,3,,2,,,3,1,2,,1,50738
+449,2481,Mohawk Valley Community College,Business,3.7,Debora boyce,3.1,27,N/A,,,,,,,,,,,,,,,,,,,,,575173
+450,2482,Monroe College,Computer Science,1.7,Tom Marx,4.8,38,N/A,,1,,3,1,1,1,3,,,7,2,,,2,4,2,,,,814009
+451,2482,Monroe College,Accounting,2.8,Andres Gonzalez,4.8,31,100%,7,9,1,5,5,3,1,15,1,,4,12,,1,6,15,4,,,,2455216
+452,2482,Monroe College,Psychology,3.0,Kaneez Naseem,4.5,28,100%,,3,,9,,3,,1,,1,,3,,,,8,1,,,1,743012
+453,2482,Monroe College,Psychology,2.8,John White,4.9,26,N/A,,9,,3,3,,3,4,,,,6,,2,11,9,,2,,4,1424225
+454,2482,Monroe College,Nursing,4.2,Rondine Douglas,2.3,25,N/A,,1,,1,1,,2,2,,,,,,,1,2,,,,1,1305987
+455,2482,Monroe College,Hospitality,2.4,Maurice Greene,3.7,22,N/A,,,,2,,,1,1,,,1,,,,,2,,,,,412194
+456,2482,Monroe College,Sociology,2.3,Geoffrey Smith,4.8,22,100%,,6,,3,,1,,2,1,,8,7,,,2,2,3,,,,1328075
+457,2482,Monroe College,Mathematics,1.3,Taoufik Ennoure,5.0,21,N/A,,1,,1,,,,,,,,,,1,,2,1,,,,1101929
+458,2482,Monroe College,Law,3.2,Ramon Perez,4.7,20,100%,2,2,,,,,5,1,,,,2,,3,1,1,1,,,,412206
+459,2482,Monroe College,Criminal Justice,1.8,Augustine Aloia,4.9,20,N/A,2,,,1,,,1,3,,,1,,,,,,,,,1,743019
+460,2482,Monroe College,English,2.1,Susan Yaeger,3.9,19,N/A,,,,,,,,,,,,,,,,,,,,,412212
+461,2482,Monroe College,Accounting,2.7,Anthony Abongwa,4.4,18,N/A,,,,,,,,,,,,,,,,,,,,,447419
+462,2482,Monroe College,Criminal Justice,2.0,Diana Dykes,5.0,18,100%,1,2,,2,1,,1,2,,,,4,,,1,4,1,,,2,1416533
+463,2482,Monroe College,Mathematics,2.1,Mas-Oud Sheiba,4.7,17,N/A,,,,,,,,,,,,,,,,,,,,,447416
+464,2482,Monroe College,Finance,3.5,Abdou Cissokho,3.5,17,N/A,1,,,,,1,,1,,,,,,,,,,,,,753788
+465,2482,Monroe College,Mathematics,2.0,Che Woods,4.9,17,N/A,,,,1,,,,,,,,1,,,,1,,,,,1149631
+466,2482,Monroe College,Psychology,3.1,James Young,3.8,17,50%,2,2,,1,2,,3,1,,1,3,5,1,2,1,2,2,2,1,4,1250952
+467,2482,Monroe College,Criminal Justice,2.4,George Chin,4.8,17,100%,,5,,,1,,,4,,,3,2,,,2,5,,,,1,1254073
+468,2482,Monroe College,Sociology,1.9,Jefferey Smith,4.3,16,N/A,,,,,,,,,,,,,,,,,,,,,447424
+469,2482,Monroe College,Computer Science,2.5,Abdelkebir Kmir,4.1,16,N/A,,2,,1,,,,,,,,,,1,,1,,,,,634017
+470,2483,Monroe County Community College,Communication,2.2,Mark Bergmooser,4.7,60,100%,1,2,,1,2,5,,7,,3,4,7,,,5,7,6,,,,191030
+471,2483,Monroe County Community College,English,3.8,Carrie Nartker,3.5,53,33%,,,,4,,,3,1,,,1,2,,2,2,4,4,2,,7,1054340
+472,2483,Monroe County Community College,English,2.0,Ian Dixon,4.7,51,95%,4,4,1,16,5,,5,31,2,2,14,8,,3,12,18,7,4,,,1931823
+473,2483,Monroe County Community College,Anthropology,1.9,Ken Mohney,4.8,49,100%,2,8,,2,8,3,2,6,2,2,9,2,2,,3,3,,,1,,617572
+474,2483,Monroe County Community College,Psychology,2.4,Patrick Wise,4.4,46,89%,2,4,,1,6,5,3,3,1,,4,1,2,3,2,5,,,,1,1928987
+475,2483,Monroe County Community College,Political Science,2.7,Joanna Sabo,4.7,45,100%,,4,,,1,1,,2,1,,1,1,1,,1,5,2,,,,1097329
+476,2483,Monroe County Community College,History,3.7,Edmund La Clair,3.0,45,50%,6,4,,1,1,,13,8,1,,3,2,3,2,1,2,2,7,,15,1427620
+477,2483,Monroe County Community College,Political Science,3.1,Lillian Ames,3.0,42,N/A,,,,,,,,,,,,,3,,,,2,,,3,340605
+478,2483,Monroe County Community College,English,3.4,Joellen Locher,2.7,42,30%,,,,,1,2,,3,,5,,,3,,3,,2,1,1,8,179213
+479,2483,Monroe County Community College,Biology,3.6,Tracy Rayl,3.5,40,50%,,3,,2,5,4,2,1,,,,2,10,2,,,16,,3,5,1266752
+480,2483,Monroe County Community College,Chemistry,2.9,Laurie Bean,4.0,39,N/A,,,,1,,,2,,1,,,,5,1,,,4,,3,3,185942
+481,2483,Monroe County Community College,Mathematics,3.6,James Vallade,4.2,38,57%,,1,,2,1,,,,,,,,2,7,,,2,,4,6,998237
+482,2483,Monroe County Community College,Mathematics,3.1,Kathy Shepherd,3.8,38,80%,2,1,,4,2,,,3,,,2,2,1,3,1,3,4,,3,,567646
+483,2483,Monroe County Community College,Accounting,3.6,Scott Wang,3.5,35,N/A,1,,,,1,,,1,,,,,,,,1,2,,,,698498
+484,2483,Monroe County Community College,Economics,3.6,Wendy Wysocki,3.5,34,100%,,1,,1,3,,1,3,,,,,,4,1,,2,,1,1,112561
+485,2483,Monroe County Community College,English,2.3,Terry Telfer,4.4,34,N/A,,,,3,,,,5,1,,,,,1,2,4,,,,,337894
+486,2483,Monroe County Community College,Psychology,1.8,Patty Eason,4.9,34,N/A,,,,,,,,,,,,,,,,,,,,,433884
+487,2483,Monroe County Community College,English,4.3,Timothy Dillon,2.9,33,N/A,,,,,,,,2,,,,1,1,2,,2,2,,,2,191033
+488,2483,Monroe County Community College,History,3.7,Jim Devries,2.9,32,N/A,,,,,1,,,,,,,,,,,,,,,,363241
+489,2484,Montgomery College - Germantown Campus,History,2.8,Joseph Thompson,4.3,173,100%,4,10,,4,3,1,2,2,1,,14,2,3,1,1,1,,1,,1,256578
+490,2484,Montgomery College - Germantown Campus,Political Science,2.4,Kurt Borkman,4.9,158,100%,1,19,,4,3,,2,8,2,,20,12,1,,4,13,2,1,,2,124043
+491,2484,Montgomery College - Germantown Campus,Psychology,3.2,Denise Dewhurst,4.6,138,88%,14,2,,19,10,,14,31,1,,,4,,,24,5,3,,,4,325573
+492,2484,Montgomery College - Germantown Campus,Chemistry,3.5,Susan Bontems,3.6,122,33%,1,1,,1,1,2,9,1,,,1,,,9,4,2,13,1,2,17,453461
+493,2484,Montgomery College - Germantown Campus,English,1.7,Sharon Anthony,4.9,115,100%,2,4,,10,2,7,2,22,,,3,10,,,1,5,1,1,,,373300
+494,2484,Montgomery College - Germantown Campus,English,3.1,Gary Coley,2.7,108,22%,,3,,,8,2,4,1,1,9,4,1,1,4,5,,6,2,1,3,218931
+495,2484,Montgomery College - Germantown Campus,Psychology,3.0,Melissa McCeney,3.8,100,84%,,8,,3,4,5,2,4,4,,10,6,4,2,3,5,4,,1,5,840965
+496,2484,Montgomery College - Germantown Campus,Humanities,3.2,Bruce Madariaga,4.1,98,100%,1,5,5,2,1,,12,3,,4,,5,,1,2,5,5,,,7,425826
+497,2484,Montgomery College - Germantown Campus,Mathematics,3.0,Gail South,3.9,95,42%,1,1,,2,3,6,,5,1,,,1,3,11,4,2,10,,2,6,811664
+498,2484,Montgomery College - Germantown Campus,Communication,3.3,Aaron Johnson,3.6,86,42%,3,9,,,15,,3,6,,,9,1,18,,1,6,36,4,4,25,1482416
+499,2484,Montgomery College - Germantown Campus,English,2.0,Chester Pryor,3.7,83,40%,3,2,,4,2,,8,,,,3,2,,9,1,3,2,7,,1,401478
+500,2484,Montgomery College - Germantown Campus,Chemistry,3.8,Don Newlin,3.6,82,56%,1,,,3,1,,3,1,,1,1,,,9,1,3,4,,1,11,542391
+501,2484,Montgomery College - Germantown Campus,English,3.1,Abby Spero,3.7,75,88%,7,2,,9,5,3,1,11,1,,,,1,6,3,1,3,1,,4,426765
+502,2484,Montgomery College - Germantown Campus,Accounting,3.0,Sherry Mirbod,3.9,74,74%,4,8,,7,2,,12,3,,,,2,2,11,4,5,9,,4,10,472800
+503,2484,Montgomery College - Germantown Campus,English,2.9,John Hare,3.0,74,57%,4,,,11,7,1,3,5,4,,10,1,12,1,1,8,1,5,,5,600665
+504,2484,Montgomery College - Germantown Campus,English,2.9,Bryant Davis,4.0,71,38%,1,,,1,1,,,2,1,,7,1,,,1,4,1,1,,11,584687
+505,2484,Montgomery College - Germantown Campus,Biology,2.8,Alessandra Sagasti,4.2,68,100%,1,2,,3,4,,,,,,3,1,1,1,1,1,5,,1,2,403764
+506,2484,Montgomery College - Germantown Campus,Mathematics,2.1,Charles Osborne,4.1,66,N/A,,,,,,,,,,,,,,,,,,,,,729961
+507,2484,Montgomery College - Germantown Campus,Business,2.5,Steve South,4.3,66,76%,,8,,1,7,7,,7,,,8,4,4,,3,9,11,1,6,8,767583
+508,2484,Montgomery College - Germantown Campus,History,3.5,Kelly Rudin,3.7,66,43%,3,2,,,,4,8,4,,3,1,1,2,8,3,,1,2,,1,518841
+509,2485,Montgomery College: Rockville Campus,English & Reading,3.0,Kamala Edwards,3.6,303,65%,8,32,,63,21,9,12,10,2,,20,82,7,19,16,53,13,17,,32,507825
+510,2485,Montgomery College: Rockville Campus,Political Science,3.7,Aram Hessami,3.6,188,77%,3,27,1,1,3,11,49,11,12,,9,10,27,,6,17,18,2,3,39,451787
+511,2485,Montgomery College: Rockville Campus,Political Science,2.9,Gregory Sember,4.7,186,85%,1,27,,7,2,23,5,7,3,,39,9,3,1,18,14,6,1,,21,1181391
+512,2485,Montgomery College: Rockville Campus,Mathematics,3.6,Alexander Bathula,2.7,183,60%,15,1,,8,20,48,10,14,11,,20,2,8,16,8,10,32,,8,40,565803
+513,2485,Montgomery College: Rockville Campus,Mathematics,2.7,Farajollah Katiraie,4.7,181,95%,3,10,,20,3,15,,8,,,16,14,,4,1,27,4,,,2,560597
+514,2485,Montgomery College: Rockville Campus,Accounting,4.4,Richard Lenet,3.0,174,30%,2,,,2,1,,10,2,,,,,2,7,1,,4,,3,13,453009
+515,2485,Montgomery College: Rockville Campus,History,2.9,John Riedl,4.8,164,97%,2,26,,1,8,6,12,7,,,14,16,9,13,10,9,14,2,,3,933156
+516,2485,Montgomery College: Rockville Campus,Communication,3.1,Nader Chaaban,3.4,162,56%,,2,,6,2,1,11,10,,9,2,3,,1,5,3,1,2,2,8,215044
+517,2485,Montgomery College: Rockville Campus,Psychology,2.3,Donald Palmer,4.3,150,92%,1,23,,3,3,1,6,,3,,28,10,1,,9,9,3,,,2,44088
+518,2485,Montgomery College: Rockville Campus,Accounting,3.3,Michael Gurevitz,4.5,145,91%,4,7,,2,3,,7,3,,,1,1,1,4,,3,6,,3,5,1016300
+519,2485,Montgomery College: Rockville Campus,Mathematics,3.0,Maria Aronne,4.3,140,80%,2,5,2,12,6,1,2,11,,1,7,2,,23,1,7,16,3,2,10,541564
+520,2485,Montgomery College: Rockville Campus,Sociology,1.9,Leszek Sibilski,4.8,129,98%,,21,6,18,5,1,13,36,2,13,19,52,3,,76,35,11,,,4,1791939
+521,2485,Montgomery College: Rockville Campus,Biology,2.7,Dorelle Engel,4.5,126,82%,8,4,12,15,6,32,8,17,,,4,10,2,7,2,7,9,,3,14,796874
+522,2485,Montgomery College: Rockville Campus,Music,2.1,Christian Ward Harris,4.6,125,86%,3,14,,10,8,1,,2,1,,12,7,5,,5,7,24,,2,11,879534
+523,2485,Montgomery College: Rockville Campus,Biology,3.1,Ishrat Rahman,4.1,124,72%,5,6,1,11,10,4,9,7,2,,,5,5,,1,8,9,,3,10,1141451
+524,2485,Montgomery College: Rockville Campus,Biology,2.8,Shawn Lester,4.3,120,84%,,6,,5,14,7,2,2,,,3,,2,,3,5,7,,,6,154666
+525,2485,Montgomery College: Rockville Campus,Biology,3.4,Aubrey Smith,3.8,119,41%,,10,,2,2,3,9,,,4,17,3,5,6,2,6,14,,5,29,1065933
+526,2485,Montgomery College: Rockville Campus,Mathematics,2.2,Franklin Gavilanez,4.5,116,90%,3,3,1,16,3,16,,7,1,,14,7,5,6,5,11,6,,,3,1087151
+527,2485,Montgomery College: Rockville Campus,Psychology,2.8,Eric Benjamin,4.1,113,N/A,,,1,,,,,,,,,,,,,,1,,,1,493571
+528,2485,Montgomery College: Rockville Campus,Business,1.4,John Foster,4.6,111,N/A,,,,1,1,,,1,,,,,,,1,,,,,,244304
+529,2486,Montgomery College: Takoma Park/Silver Spring Campus,Mathematics,1.5,Gladys Okugbeni,4.8,107,100%,1,12,,51,10,,1,45,,,8,32,,4,8,27,4,,,,1499193
+530,2486,Montgomery College: Takoma Park/Silver Spring Campus,English,2.3,Tymofey Wowk,4.7,104,85%,2,3,,5,3,,,8,,,3,12,,1,4,6,1,,,3,1130623
+531,2486,Montgomery College: Takoma Park/Silver Spring Campus,Psychology,2.6,Andrew Herst,3.8,102,71%,1,8,2,6,7,9,13,4,2,,3,2,9,3,1,4,1,,4,6,1385470
+532,2486,Montgomery College: Takoma Park/Silver Spring Campus,Chemistry,3.4,Adel Halli,4.0,82,82%,1,1,,3,1,15,1,2,,,8,1,2,2,6,2,5,,1,2,589905
+533,2486,Montgomery College: Takoma Park/Silver Spring Campus,Mathematics,3.5,Amit Trehan,2.7,81,67%,6,1,1,3,2,3,5,8,1,,1,3,2,12,3,4,3,,2,5,943718
+534,2486,Montgomery College: Takoma Park/Silver Spring Campus,Mathematics,3.0,Stephen Kcenich,3.3,69,48%,3,,,1,1,2,,3,1,,5,1,,6,,,5,,3,2,920608
+535,2486,Montgomery College: Takoma Park/Silver Spring Campus,Mathematics,2.7,Kevin Johnson,4.4,66,100%,,3,2,5,2,,,3,,,,2,,3,1,7,10,,1,2,1012256
+536,2486,Montgomery College: Takoma Park/Silver Spring Campus,Biology,2.4,Jeff Chyatte,4.8,66,100%,1,13,,9,3,1,1,12,1,,11,8,,1,1,4,1,,,,756768
+537,2486,Montgomery College: Takoma Park/Silver Spring Campus,English,4.0,Joseph Couch,3.0,65,30%,1,,,2,1,,2,1,,,1,1,1,6,5,3,2,2,1,16,560769
+538,2486,Montgomery College: Takoma Park/Silver Spring Campus,Mathematics,3.5,James Schwanebeck,2.9,61,27%,,1,1,1,,,2,,3,,2,,2,2,1,1,10,,6,14,787676
+539,2486,Montgomery College: Takoma Park/Silver Spring Campus,English,3.0,Michael Leblanc,4.7,61,93%,4,2,3,10,6,2,9,23,,1,,2,,2,10,5,,,,5,1508505
+540,2486,Montgomery College: Takoma Park/Silver Spring Campus,Mathematics,1.7,Mazen Zarrouk,4.8,57,91%,6,9,,14,6,8,,3,1,,1,8,1,4,,10,3,1,,1,1533856
+541,2486,Montgomery College: Takoma Park/Silver Spring Campus,Biology,3.6,Nidhi Verma,2.8,55,36%,,,,3,2,,8,2,,,1,1,6,2,1,1,5,1,6,9,868880
+542,2486,Montgomery College: Takoma Park/Silver Spring Campus,English,3.4,Keith Elphick,4.3,54,76%,4,6,,8,9,3,1,30,,1,3,7,5,3,6,16,12,8,,7,1926136
+543,2486,Montgomery College: Takoma Park/Silver Spring Campus,History,2.1,Karl Smith,4.6,54,100%,2,3,1,4,1,1,2,3,,,4,4,,,,,,,,,621727
+544,2486,Montgomery College: Takoma Park/Silver Spring Campus,Accounting,2.8,James Baisey,4.4,52,N/A,,,,1,2,1,5,2,,,,,2,2,2,4,3,,,1,562834
+545,2486,Montgomery College: Takoma Park/Silver Spring Campus,Philosophy,1.9,Daniel Jenkins,4.8,49,89%,3,8,,1,4,,5,4,2,,6,,5,2,5,8,2,,,1,1457913
+546,2486,Montgomery College: Takoma Park/Silver Spring Campus,Biology,3.5,Nelson Bennett,3.4,49,N/A,,2,,,1,,1,,1,,,1,2,3,,1,4,,1,3,766016
+547,2486,Montgomery College: Takoma Park/Silver Spring Campus,Languages,2.7,Maria-Elvira Escudero-Alie,3.5,49,92%,7,3,,9,1,9,1,12,,,2,8,2,13,12,5,1,,,,1230982
+548,2486,Montgomery College: Takoma Park/Silver Spring Campus,Biology,2.3,Padmavathi Tangirala,4.5,48,80%,2,7,4,7,1,3,3,4,,,,3,3,8,1,4,5,1,1,,1527646
+549,2487,Montgomery Community College,Psychology,3.0,Robert Nelson,4.4,10,N/A,,2,,,1,,,,1,,1,,,,,1,,,,,439685
+550,2487,Montgomery Community College,History,3.8,William Maher,4.2,5,N/A,,,,,,,,,,,,,,,,,,,,,112781
+551,2487,Montgomery Community College,History,3.6,Debby Douglas,4.8,5,N/A,1,1,,3,2,,1,1,,,,1,1,,,1,,,,,1979869
+552,2487,Montgomery Community College,English,3.2,Ree Young,3.3,4,N/A,,,,,,,,,,,,,1,,,,,,,,1250178
+553,2487,Montgomery Community College,Religion,1.0,Glenn Hancock,4.3,3,N/A,,,,,,,,,,,,,,,,,,,,,698812
+554,2487,Montgomery Community College,English,1.0,Mark Brumley,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1000452
+555,2487,Montgomery Community College,Biology,3.5,Rebekah Bunting,5.0,2,N/A,2,,,,,1,,,,1,1,,,,,,,,,,2286570
+556,2487,Montgomery Community College,English,2.0,Sandra Britt,2.5,2,N/A,,,,,1,,,,,,,,,,,,,,,,2391710
+557,2487,Montgomery Community College,Nursing,5.0,Lynn Hancock,2.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1607528
+558,2487,Montgomery Community College,Mathematics,4.0,David Klass,5.0,1,N/A,,,,,,,,,,,1,1,,,,,,,,1,2357167
+559,2488,Montgomery County Community College (all),Psychology,3.3,Steven Baron,3.3,171,81%,5,18,,5,12,13,,15,2,1,9,8,4,6,14,11,8,3,,8,421150
+560,2488,Montgomery County Community College (all),Mathematics,4.4,Richard Kern,2.4,154,16%,2,1,2,,1,1,4,3,2,,1,,2,22,5,,16,1,11,39,319798
+561,2488,Montgomery County Community College (all),Mathematics,2.2,Emenike Ukazim,4.3,136,88%,,3,,8,5,4,2,3,,1,15,8,2,1,7,9,2,,2,5,144421
+562,2488,Montgomery County Community College (all),English,4.1,Don Block,3.7,128,73%,1,3,,4,2,,,8,,,8,1,,1,3,2,12,4,,17,356607
+563,2488,Montgomery County Community College (all),Sociology,2.7,Mustafa Saatci,3.2,126,61%,,7,,1,2,,2,,10,,8,1,7,2,3,1,9,,,5,5023
+564,2488,Montgomery County Community College (all),Psychology,1.4,Cory Bank,4.5,111,88%,1,2,,5,8,,2,3,4,,,4,,1,9,8,,,,,363018
+565,2488,Montgomery County Community College (all),Computer Science,4.2,Patricia Rahmlow,2.0,110,12%,,,,2,5,,9,1,,,,,,16,7,,4,1,,23,144450
+566,2488,Montgomery County Community College (all),English,4.1,Eugene Gorsky,1.5,94,7%,,,2,1,,1,14,,2,1,,,14,4,,,12,11,,14,348781
+567,2488,Montgomery County Community College (all),Mathematics,2.8,Brandon Klarman,3.9,94,79%,4,5,,11,9,3,,4,3,,3,2,3,18,5,6,14,,8,3,1125969
+568,2488,Montgomery County Community College (all),History,1.6,Henry Sandberg,4.8,91,94%,2,34,,13,5,3,,7,2,,48,6,11,,5,21,10,,4,6,744594
+569,2488,Montgomery County Community College (all),Political Science,3.7,Jodi Empol,3.3,89,50%,3,2,,1,2,,19,3,5,,4,,5,3,1,2,12,7,3,20,731129
+570,2488,Montgomery County Community College (all),Mathematics,2.0,James Muscatell,4.8,88,100%,3,6,,7,7,7,,18,,,9,1,,2,5,16,7,,,,923477
+571,2488,Montgomery County Community College (all),Mathematics,3.0,Gary Winchester,3.7,83,42%,1,,2,5,1,,3,,2,,2,,,9,1,,5,,2,14,1189180
+572,2488,Montgomery County Community College (all),Psychology,2.0,Marla Sturm,3.9,81,71%,,4,,2,8,3,3,2,3,1,13,2,,1,2,10,2,1,,1,285092
+573,2488,Montgomery County Community College (all),Mathematics,3.8,Paul Winterbottom,2.3,80,17%,,1,,,4,4,8,1,3,,,,10,9,2,2,21,1,5,19,417339
+574,2488,Montgomery County Community College (all),Mathematics,3.7,Rosaline Siu,2.5,79,7%,1,,,1,1,,1,,,,,,5,5,,,9,2,4,15,577652
+575,2488,Montgomery County Community College (all),Sociology,1.7,Lee Wood,4.9,79,90%,1,,,5,3,,6,11,2,,1,2,,,4,7,1,,,,277442
+576,2488,Montgomery County Community College (all),Philosophy,4.0,Ben Armstrong,2.6,78,N/A,,,,,1,,13,,1,,,,3,8,,,5,1,3,19,328194
+577,2488,Montgomery County Community College (all),Biology,3.6,David Whalen,4.1,74,78%,4,6,,2,14,,6,5,,,,,13,,1,8,16,,13,8,1105436
+578,2488,Montgomery County Community College (all),History,3.8,Stephen Blumm,3.3,70,N/A,,,,,2,2,4,3,,,,1,3,1,2,,2,,,3,410340
+579,2489,Moraine Park Technical College,Chemistry,2.7,Greg Zimmer,4.8,12,N/A,,,,,,,,,,,,,,,,,,,,,366894
+580,2489,Moraine Park Technical College,Health Science,2.2,Kelly Schoeller,4.8,11,N/A,,2,,2,1,,,1,,,1,2,,,2,,2,,1,,916924
+581,2489,Moraine Park Technical College,Computer Science,3.0,Tammy Freund,3.3,9,N/A,1,,,1,1,,,,,,,,,,,,,,,,728639
+582,2489,Moraine Park Technical College,Sociology,3.8,Rafel Okonkwar,3.6,8,N/A,,,,,,,,,,,,,,,,,,,,,291203
+583,2489,Moraine Park Technical College,Communication,2.6,Alice Iaquinta,4.7,8,N/A,,,,,,,,,,,,,,,,,,,,,710359
+584,2489,Moraine Park Technical College,Computer Science,2.6,Stephanie Murre-Wolf,4.9,7,N/A,,,,,1,,,1,,,,,,,,1,,,,,647082
+585,2489,Moraine Park Technical College,Economics,4.1,Joe Halter,1.9,7,N/A,,,,,,,1,1,,,,,1,2,,,,2,,1,710351
+586,2489,Moraine Park Technical College,Graphic Arts,4.1,Michael Kniess,5.0,7,N/A,,1,,,,,,,,,,1,,,,1,,,,,1128001
+587,2489,Moraine Park Technical College,Communication,1.8,Rob Heyerman,4.7,6,N/A,,,,,,,,,,,,,,,,,,,,,535569
+588,2489,Moraine Park Technical College,Health Science,3.2,Ken Carnahan,4.2,5,N/A,,,1,,,,,,,,,,,,,,1,,,1,645453
+589,2489,Moraine Park Technical College,Biology,3.6,Ryan Paruch,3.5,5,N/A,,2,,,1,,,,,,1,,2,,,2,1,,1,2,993445
+590,2489,Moraine Park Technical College,Sociology,3.6,Ronald Campopiano,3.4,5,N/A,,2,,,,,1,2,,1,1,1,,,1,,,,,1,1548397
+591,2489,Moraine Park Technical College,English,4.3,Orville Moore,3.1,4,N/A,,,,,,,,,,,,,,,,,,,,,1001085
+592,2489,Moraine Park Technical College,Computer Science,2.8,Dominic Garofalo,4.9,4,N/A,,,,,,,,,,,,,,,,,,,,,1128000
+593,2489,Moraine Park Technical College,Health Science,4.0,Bruce Forciea,4.0,4,N/A,,1,,,1,1,,,,,1,,,,1,,,,,1,1401557
+594,2489,Moraine Park Technical College,Health Science,2.3,John Gloede,4.5,4,N/A,,,1,,,,,1,,,1,1,,,2,,,,,,1657911
+595,2489,Moraine Park Technical College,Computer Science,2.0,Jeffrey Sonnleitner,4.3,3,N/A,,1,,,,,,1,,,,,,,1,2,,,,,1271137
+596,2489,Moraine Park Technical College,Not Specified,1.0,Fred Rice,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1178455
+597,2489,Moraine Park Technical College,Engineering,2.5,Kim Olson,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1193106
+598,2489,Moraine Park Technical College,Psychology,2.0,Ann Mielke,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1353458
+599,2490,Moraine Valley Community College,Computer Science,2.6,Larry Langellier,4.7,334,96%,36,11,,35,60,7,30,106,,1,,4,17,54,13,61,13,1,1,10,777154
+600,2490,Moraine Valley Community College,Communication,2.1,Mike Shannon,4.5,256,92%,3,5,,19,26,15,1,27,3,,58,14,,3,7,31,7,,,12,563803
+601,2490,Moraine Valley Community College,Communication,4.2,Michael McGuire,2.2,194,27%,1,,,2,2,1,34,9,,18,,1,4,23,5,1,20,39,1,31,505183
+602,2490,Moraine Valley Community College,Humanities,2.6,Victoria Neubeck-O'Connor,4.8,182,92%,2,14,,10,14,11,27,10,1,,15,3,11,3,5,27,6,,3,10,1063535
+603,2490,Moraine Valley Community College,Communication,3.3,Ann Shillinglaw,4.0,178,76%,2,2,,11,5,,17,39,,,,8,1,7,27,48,32,2,1,20,2172901
+604,2490,Moraine Valley Community College,Philosophy,1.4,Richard Wolf,4.9,175,N/A,,,,,,,,,,,1,,,,,1,,,,,604868
+605,2490,Moraine Valley Community College,Chemistry,3.0,Ewa Fredette,4.0,164,81%,3,6,1,19,5,10,4,16,2,1,1,5,8,4,7,23,20,1,9,18,574521
+606,2490,Moraine Valley Community College,Psychology,2.0,N Shizas,4.8,163,100%,1,35,,32,15,6,6,24,,2,19,9,,4,7,21,1,,,1,767234
+607,2490,Moraine Valley Community College,Humanities,2.8,Sean Doyle,4.0,161,88%,2,7,2,9,15,6,8,7,,1,6,1,12,8,3,6,8,8,1,14,393952
+608,2490,Moraine Valley Community College,Communication,3.1,Shelita Shaw,2.8,156,29%,,5,,2,6,,4,2,2,3,2,5,4,5,32,2,30,3,1,9,1067261
+609,2490,Moraine Valley Community College,Biology,3.6,Layla Khatib,3.3,146,35%,3,4,,4,1,3,7,6,,,,2,12,19,3,3,10,1,15,26,607302
+610,2490,Moraine Valley Community College,Communication,2.8,Eric Devillez,4.5,145,89%,8,2,,10,4,,4,32,2,1,8,11,,,10,14,6,3,,15,254160
+611,2490,Moraine Valley Community College,Biology,3.9,Nick Hackett,3.3,139,74%,,1,,2,4,8,3,6,,1,12,,1,7,5,4,13,,3,21,435989
+612,2490,Moraine Valley Community College,Chemistry,3.5,Jeannine Christensen,4.6,139,81%,2,6,3,13,3,2,3,9,2,,13,8,4,3,3,12,9,,10,6,253731
+613,2490,Moraine Valley Community College,Sociology,1.8,Ricky Cobb,4.7,137,91%,1,13,,6,5,3,5,4,1,,22,6,,,6,14,4,,,6,309091
+614,2490,Moraine Valley Community College,Biology,2.6,Michelle Zurawski,4.8,134,95%,3,3,,8,9,8,,10,,,2,4,1,5,,6,8,,,1,402632
+615,2490,Moraine Valley Community College,Biology,3.9,Sarah Bales,3.0,133,36%,1,2,2,2,1,2,14,2,,,1,,16,6,1,3,13,,7,33,459932
+616,2490,Moraine Valley Community College,Psychology,2.7,Ron Czub,4.3,130,56%,2,12,1,11,3,9,9,2,9,2,16,7,5,,2,10,6,,3,10,626141
+617,2490,Moraine Valley Community College,Mathematics,4.0,Elena Garant,2.2,127,40%,1,1,4,2,5,1,1,2,1,,,,6,,2,1,19,4,5,13,134465
+618,2490,Moraine Valley Community College,Chemistry,2.6,Dana Campbell,4.0,125,55%,1,5,,3,2,4,4,3,2,,16,2,4,,4,3,13,,2,6,539444
+619,2491,Morgan Community College,Psychology,1.0,Littlefield Corliss,2.0,2,N/A,,,,,,,,,,,,,,,,,,,,,631598
+620,2491,Morgan Community College,English,1.0,Thomas Greg,2.0,1,N/A,,,,,,,,,,,,,,,,,,,,,686865
+621,2491,Morgan Community College,Humanities,2.0,Rachel Kellum,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1306946
+622,2491,Morgan Community College,English,3.0,Ruth Tryon,4.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1379619
+623,2491,Morgan Community College,Communication,1.0,Dan Marler,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1847289
+624,2491,Morgan Community College,History,3.0,Jennifer Newman,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1981254
+625,2491,Morgan Community College,Nursing,4.0,Cathy Kleiver,4.0,1,N/A,,,,,,,,,,,,,,,,,,,,,2017007
+626,2491,Morgan Community College,Nursing,4.0,Lee Green,4.0,1,N/A,,,,,,,,,,,,,,,,,,,,,2017009
+627,2491,Morgan Community College,Nursing,5.0,Kim Ewertz,3.0,1,N/A,,,,,,,,,,,,,,,,,,,,,2017011
+628,2491,Morgan Community College,Nursing,4.0,Jennifer Thistle,4.0,1,N/A,,,,,,,,,,,,,,,,,,,,,2017012
+629,2491,Morgan Community College,Nursing,4.0,Joy Bryant,3.5,1,N/A,,,,,,,,,,,,,,,,,,,,,2017013
+630,2491,Morgan Community College,Philosophy,3.0,Andrew Hayes,4.0,1,N/A,,1,,,,,,1,,,1,,,,,,,,,,2426054
+631,2492,Morrison Institute of Technology,Mathematics,1.5,Vicki Slaymaker,5.0,6,N/A,,,,,,,,,,,,,,,,,,,,,398304
+632,2492,Morrison Institute of Technology,Computer Science,3.0,Robert Cox,4.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1332396
+633,2493,Morton College,Business,2.7,Brian Gilligan,4.7,102,97%,8,15,1,14,19,45,,28,1,11,3,11,5,6,13,32,4,,2,2,1527447
+634,2493,Morton College,English,4.2,Karolis Zukauskas,2.8,96,41%,5,6,,1,4,1,14,14,3,,2,6,3,6,5,3,8,4,1,35,693293
+635,2493,Morton College,Sociology,3.2,Benjamin Drury,4.7,93,90%,6,30,,15,5,13,4,15,,6,31,14,1,34,16,20,6,7,,7,1958441
+636,2493,Morton College,History,3.8,M. Kasprowicz,2.6,89,15%,3,5,11,,5,,6,4,12,4,1,,28,15,4,4,,34,7,39,680997
+637,2493,Morton College,Psychology,2.0,Robert Schmitt,3.9,69,80%,1,5,,1,3,5,5,2,1,,6,4,4,2,4,4,1,,1,1,286759
+638,2493,Morton College,Psychology,2.4,R. Wood,4.5,65,94%,2,10,,4,2,,,9,,,7,5,,1,9,11,2,,,1,286754
+639,2493,Morton College,Communication,2.3,Steve Ginley,4.7,65,83%,4,4,7,7,2,2,2,17,,1,8,7,1,5,3,9,5,,,5,80455
+640,2493,Morton College,Science,1.9,Craig Casey,4.5,59,100%,1,7,,10,4,,,4,,1,9,2,1,,1,7,5,,,2,678430
+641,2493,Morton College,Mathematics,1.7,Robert Casey,4.8,58,100%,1,3,,4,6,,,1,4,1,10,3,,,,5,,,,,84777
+642,2493,Morton College,Mathematics,2.3,Elizabeth Paez,4.5,45,92%,3,6,1,14,4,,,12,,,,2,,8,,5,7,,,,899529
+643,2493,Morton College,Mathematics,2.3,David Labno,4.6,42,96%,13,10,,20,3,2,,13,1,,13,6,1,1,,9,6,,1,,1953259
+644,2493,Morton College,Philosophy,2.9,Maura Abrahamson,3.8,37,77%,,1,,1,5,2,2,5,3,,,1,2,2,7,3,4,,,6,695060
+645,2493,Morton College,Speech,2.3,Michael Nedza,4.7,35,88%,1,6,1,1,7,12,2,8,1,,3,3,,2,3,2,4,1,,1,985029
+646,2493,Morton College,History,2.7,Kenton Gatyas,3.8,34,60%,2,3,,,2,2,8,1,8,,,1,4,2,,1,2,,6,3,710958
+647,2493,Morton College,Mathematics,3.9,Carlos Dominguez,2.5,33,25%,,,,,2,,1,,2,,2,,4,8,1,,7,,1,9,1071005
+648,2493,Morton College,Anatomy,3.7,Dennis Pearson,4.6,32,100%,5,7,1,6,2,1,3,5,,,1,8,3,,7,7,8,,,5,1744524
+649,2493,Morton College,English,2.3,Michele Mohr,4.2,30,60%,,2,,5,3,,3,11,1,,,2,,2,3,6,1,2,,5,1034097
+650,2493,Morton College,English,3.6,John Baffa,3.5,29,N/A,,,,1,3,,3,3,,,1,,1,,1,,3,2,,14,358236
+651,2493,Morton College,Geology,1.8,Bradley Sleeth,5.0,29,100%,2,10,1,6,2,1,,4,,2,16,5,3,,,9,2,,,,1777989
+652,2493,Morton College,English,4.4,J Druska,2.3,28,33%,,,,,,,,1,,1,2,,1,,,1,7,1,,7,360355
+653,2494,Motlow State Community College,Educational Technology,2.9,Billy Hix,4.9,177,N/A,,2,,5,,,,1,,,,2,,,,4,2,,,,237670
+654,2494,Motlow State Community College,Biology,3.2,Cheri Gregory,4.4,83,80%,1,,,4,2,,4,5,,,,1,,,1,,3,,1,6,307213
+655,2494,Motlow State Community College,Communication,3.4,Phyllis Adams,1.6,52,N/A,,1,,1,,,,1,,,,1,,,1,1,,,,1,262003
+656,2494,Motlow State Community College,History,3.1,Donald Cheatham,3.6,42,N/A,,,,,,,,,,,,,,,,,,,,,227920
+657,2494,Motlow State Community College,Psychology,2.8,Stephen Guerin,4.6,40,100%,,,,4,6,,10,11,,,,3,1,,1,4,1,1,,1,493751
+658,2494,Motlow State Community College,History,2.8,John Selman,4.4,37,100%,,4,,,5,,12,5,,,5,,,3,1,2,3,8,,1,58726
+659,2494,Motlow State Community College,Mathematics,3.4,Sandra Arman,3.5,36,57%,,1,,,1,9,1,,,,3,,,3,2,,2,,2,4,262023
+660,2494,Motlow State Community College,Biology,4.1,Gregg Garrison,3.6,35,N/A,,,,1,,2,,1,1,,1,,,,2,1,1,,1,1,643542
+661,2494,Motlow State Community College,Mathematics,3.2,Elaine Robinson,4.5,34,N/A,1,,,3,,,,2,1,,2,,,,,2,2,,,,476159
+662,2494,Motlow State Community College,Mathematics,1.9,Margia Keel,4.8,28,N/A,,1,,2,2,1,,2,1,,,,,1,,1,,,,,58725
+663,2494,Motlow State Community College,Languages,2.4,Hal Werlein,3.0,26,N/A,,,,,,,,,,,,,,,,,,,,,58727
+664,2494,Motlow State Community College,Communication,2.8,Cherri Williams,4.4,26,N/A,,,1,1,1,2,,5,,,,,,,1,3,3,,,1,227934
+665,2494,Motlow State Community College,Mathematics,3.1,Steve Smotherman,4.5,26,100%,2,3,,5,1,1,,3,,,1,,3,4,,2,4,,,6,261909
+666,2494,Motlow State Community College,History,3.8,Scott Cook,4.8,26,N/A,,8,,1,,,,3,1,,,,1,,,7,4,,,3,898345
+667,2494,Motlow State Community College,English,3.5,Annette Hale,2.7,25,N/A,,,,,1,,1,1,,,,,,1,,,,,,1,58724
+668,2494,Motlow State Community College,English,2.7,Jan Jennings,3.6,25,N/A,,,2,,,,1,2,,,,1,,,1,,1,,,2,85901
+669,2494,Motlow State Community College,Science,2.6,Linda Harris-Young,4.7,25,N/A,,4,,1,,,,1,,,3,1,,,,2,,,,,86332
+670,2494,Motlow State Community College,English,2.9,Wes Spratlin,4.3,25,67%,2,,,3,,,1,5,,,,,,,2,,,1,1,1,262011
+671,2494,Motlow State Community College,English,3.7,Stuart Bloodworth,4.1,25,N/A,,,1,,,,,2,,,1,,,,,,1,,,2,381157
+672,2494,Motlow State Community College,Mathematics,2.6,Leslie Wurst,3.8,25,57%,,,,5,1,1,,3,4,,6,1,1,4,,3,3,,4,5,403446
+673,2495,Mt. Hood Community College,Mathematics,2.8,Jon Spindor,4.7,127,97%,10,3,,17,6,1,,12,1,1,34,6,,12,6,12,10,,1,15,675117
+674,2495,Mt. Hood Community College,Mathematics,2.9,Dave Favreault,4.6,112,96%,10,2,,14,5,,,14,,,24,6,,7,8,10,5,,1,5,532939
+675,2495,Mt. Hood Community College,English,4.5,Celia Carlson,1.6,112,N/A,,,2,,,,4,,1,,1,,3,10,6,,13,2,,23,397192
+676,2495,Mt. Hood Community College,Science,3.7,Jack Brook,3.3,106,63%,7,3,,2,5,15,12,9,2,,7,,7,14,2,2,4,4,11,25,22799
+677,2495,Mt. Hood Community College,Mathematics,3.4,Michael McAfee,2.9,103,44%,3,1,1,7,7,2,1,8,3,,2,,,21,7,2,10,5,,18,263781
+678,2495,Mt. Hood Community College,Criminal Justice,3.1,Jason Jones,4.6,102,99%,9,19,,19,38,16,13,41,,,3,15,3,9,50,29,2,1,1,7,1853605
+679,2495,Mt. Hood Community College,Biology,3.4,Valory Thatcher,4.8,101,92%,4,23,,13,3,5,4,11,,,6,19,3,2,1,19,6,,2,3,856886
+680,2495,Mt. Hood Community College,Psychology,1.7,Stephanie Cram,4.8,99,100%,,14,,4,4,8,1,3,1,,1,4,5,,1,7,1,,,2,99680
+681,2495,Mt. Hood Community College,Philosophy,2.5,Chris Jackson,4.4,97,63%,,3,7,,2,,8,1,,1,9,3,1,1,3,3,1,,1,7,259757
+682,2495,Mt. Hood Community College,Sociology,2.0,Colin Gilmore,4.7,94,92%,,10,,2,8,1,9,2,4,,16,12,4,1,9,19,9,,,3,1416111
+683,2495,Mt. Hood Community College,Chemistry,3.4,Michael Russell,4.6,93,96%,5,10,,19,8,14,2,8,,,11,11,1,4,1,12,6,,,7,197947
+684,2495,Mt. Hood Community College,Communication,2.0,Jennifer Ethridge,4.5,90,98%,4,21,,24,5,7,1,11,,8,33,21,1,1,16,7,10,1,,,702676
+685,2495,Mt. Hood Community College,Writing,2.3,Andy Gurevich,4.3,88,92%,2,7,,2,2,7,8,20,1,,13,20,4,2,8,15,,1,,1,630782
+686,2495,Mt. Hood Community College,Chemistry,3.4,Joyce Sherpa,4.5,82,71%,3,4,,2,4,11,,10,,,1,3,4,16,2,7,14,,4,6,310984
+687,2495,Mt. Hood Community College,Mathematics,2.4,Robert Hauss,4.4,77,83%,4,1,,17,,3,,6,,,16,2,,2,7,6,,,,2,1015610
+688,2495,Mt. Hood Community College,Biology,3.6,Laird Sheldahl,4.3,77,63%,2,7,,2,6,7,3,6,2,,5,,14,7,2,7,10,,4,14,1292852
+689,2495,Mt. Hood Community College,Psychology,3.6,Nancy Olson,2.6,76,27%,1,1,,,3,2,10,,2,,1,,5,4,1,1,1,4,5,5,685205
+690,2495,Mt. Hood Community College,Mathematics,2.8,Seth Eikrem,4.2,75,65%,6,3,2,4,6,,4,11,1,,2,1,1,16,11,5,7,1,3,12,962340
+691,2495,Mt. Hood Community College,Mathematics,3.9,Kari Rothi,2.6,73,37%,4,,1,8,,3,2,10,1,,,2,8,28,7,2,21,,6,25,819000
+692,2495,Mt. Hood Community College,Chemistry,2.8,Bernadette Harnish,4.8,73,100%,8,4,,18,4,6,,11,,,,4,2,1,,10,3,,,,770373
+693,2497,Mt. San Jacinto College (all campuses),Anatomy & Physiology,2.9,Hatem Abdalla,4.4,244,92%,3,10,6,27,35,92,23,29,4,12,13,3,61,18,26,22,42,4,9,5,1450586
+694,2497,Mt. San Jacinto College (all campuses),Psychology,2.2,Richard Kandus,4.8,226,95%,5,34,,29,3,6,24,19,4,3,17,24,2,,10,27,4,,2,5,124798
+695,2497,Mt. San Jacinto College (all campuses),Psychology,2.4,John Bryan,4.5,208,N/A,,,,,,,,,,,,,,,,,,,,,580613
+696,2497,Mt. San Jacinto College (all campuses),Psychology,3.1,Maria Lopez,2.3,183,33%,2,6,2,5,2,5,18,3,10,,5,15,13,6,9,7,10,4,5,26,191450
+697,2497,Mt. San Jacinto College (all campuses),Political Science,4.2,Willie Hamilton,2.5,182,21%,,,,,2,15,18,2,1,,,,8,19,4,,10,4,4,29,158014
+698,2497,Mt. San Jacinto College (all campuses),Mathematics,4.4,Bob Avila,2.5,177,N/A,,1,,1,3,,,,,,3,1,1,2,,1,11,,,15,619272
+699,2497,Mt. San Jacinto College (all campuses),Communication,3.7,Michael Fleming,3.5,158,49%,5,14,,11,1,,7,21,5,15,1,14,13,3,26,3,22,5,5,50,462597
+700,2497,Mt. San Jacinto College (all campuses),Mathematics,2.0,Fadi Nasr,4.9,152,97%,6,21,,25,12,10,,11,3,,8,5,,1,1,30,6,,,,627747
+701,2497,Mt. San Jacinto College (all campuses),Mathematics,2.2,Mike Beckham,4.8,142,85%,3,5,,8,10,,1,11,2,,9,5,2,3,1,17,6,,4,,597030
+702,2497,Mt. San Jacinto College (all campuses),Business,2.5,Nancy Johnson,4.5,139,97%,1,2,,5,37,4,19,44,1,,,1,,18,25,10,4,,,9,629231
+703,2497,Mt. San Jacinto College (all campuses),Computer Science,1.7,Ann Mahrenholz,5.0,134,N/A,,1,,,,1,,,,,,1,,,,2,,,,,1582052
+704,2497,Mt. San Jacinto College (all campuses),Political Science,2.5,Brian Bates,4.9,117,100%,2,35,,45,18,8,6,13,,1,26,36,,,11,38,23,,,3,997294
+705,2497,Mt. San Jacinto College (all campuses),Mathematics,3.4,Shahla Razavi,3.5,110,N/A,2,,1,2,1,,,3,,,1,1,1,5,2,,5,,1,7,462608
+706,2497,Mt. San Jacinto College (all campuses),Philosophy,2.6,T Donovan,4.7,107,100%,3,5,,4,2,2,8,7,1,,5,3,3,,7,7,9,,1,2,239008
+707,2497,Mt. San Jacinto College (all campuses),Biology,2.0,Roy Mason,4.7,105,92%,1,,,3,3,7,3,5,1,,3,1,1,9,1,3,2,,1,1,201629
+708,2497,Mt. San Jacinto College (all campuses),History,1.6,Fred Standley,4.8,102,97%,1,13,,20,10,2,1,6,5,,8,8,7,,5,9,4,1,,,843557
+709,2497,Mt. San Jacinto College (all campuses),Psychology,2.0,Gillian Patton,4.0,102,83%,8,2,,25,10,3,7,12,7,5,8,5,5,2,16,10,8,1,2,4,1464612
+710,2497,Mt. San Jacinto College (all campuses),Criminal Justice,1.8,William Farrar,5.0,102,100%,13,74,,12,9,13,,51,1,,46,40,,,4,29,,,,,2104631
+711,2497,Mt. San Jacinto College (all campuses),Biology,2.7,Ryan Henderson,4.9,94,100%,5,,,16,19,12,27,63,,,,13,,7,21,16,,,2,4,1745382
+712,2497,Mt. San Jacinto College (all campuses),Chemistry,4.0,Farrah Firtha,3.2,90,64%,6,,11,3,3,4,19,1,4,,,,8,7,14,1,29,,11,18,1036320
+713,2498,Mount Wachusett Community College,Psychology,1.7,Stuart Shuman,4.8,69,100%,,5,,2,1,,,2,,,8,5,,,3,8,,,3,,754574
+714,2498,Mount Wachusett Community College,Psychology,2.7,Sheila Murphy,4.1,51,40%,2,1,,2,1,2,1,3,2,,,1,1,1,,5,,1,1,8,181000
+715,2498,Mount Wachusett Community College,Mathematics,2.5,Festus Kiprono,3.7,48,62%,,4,1,4,3,2,,7,,,3,4,2,5,5,4,4,,,3,1526835
+716,2498,Mount Wachusett Community College,Accounting,3.6,Linda Bolduc,3.1,44,54%,3,1,,2,5,,4,2,,1,,1,,4,2,3,6,,4,9,301970
+717,2498,Mount Wachusett Community College,Chemistry,3.1,Phuong-Son Nguyen,4.8,43,97%,6,7,1,21,3,1,,8,,3,29,3,,1,2,18,3,,,2,2084541
+718,2498,Mount Wachusett Community College,English,2.8,Susan Goldstein,3.9,37,67%,1,1,,1,3,1,6,7,,,2,2,,,5,1,,2,,3,471005
+719,2498,Mount Wachusett Community College,Mathematics,3.5,Kenneth Takvorian,3.1,37,N/A,1,,,,2,,,4,,,1,,,8,1,,1,,1,2,146711
+720,2498,Mount Wachusett Community College,Philosophy,1.9,Dan Soucy,4.9,37,100%,,3,,9,,,1,3,4,,9,7,1,,5,10,,,,,1774522
+721,2498,Mount Wachusett Community College,English,4.0,Lori Donahue,2.9,34,33%,,1,,1,,,4,2,,,,1,,5,,2,5,6,,8,69016
+722,2498,Mount Wachusett Community College,Biology,3.4,Jaime Vallejos,4.5,30,N/A,,,,2,1,,,1,,,,,,,,,,,,1,1544326
+723,2498,Mount Wachusett Community College,Social Work,1.9,Candace Shivers,3.5,29,73%,1,2,,1,,2,,,2,,2,,,1,1,3,,3,,1,653912
+724,2498,Mount Wachusett Community College,Criminal Justice,4.1,Oliver Hooper,1.6,28,N/A,,,,,,,,,,,,,2,,,,,,2,2,144005
+725,2498,Mount Wachusett Community College,Psychology,2.1,Ray Coleman,3.7,28,N/A,,,,1,,,,3,,,,1,,,,,,,,,146732
+726,2498,Mount Wachusett Community College,Criminal Justice,3.9,Bonnie Toothaker,2.7,28,N/A,1,,,,,,,1,,,,,,,,1,,,,,301956
+727,2498,Mount Wachusett Community College,Business,2.3,John Reilly,4.7,28,N/A,,1,,1,,,,,1,,4,1,,,,3,,,,1,613825
+728,2498,Mount Wachusett Community College,English,2.4,Michelle Valois,4.0,27,60%,,,,,2,1,5,3,,,2,1,,2,2,1,1,1,,1,541002
+729,2498,Mount Wachusett Community College,Political Science,3.4,William Welch,3.9,26,N/A,,1,,,1,,,,3,,3,1,5,,,,1,,,2,355065
+730,2498,Mount Wachusett Community College,Theater,2.9,Gail Steele,3.9,26,N/A,,,,,3,,,2,,,,,1,,1,,,,,3,146726
+731,2498,Mount Wachusett Community College,Computer Science,1.8,Susan Taylor,4.5,25,N/A,,,,2,4,,,1,,,,,1,2,2,,,,,,419208
+732,2498,Mount Wachusett Community College,English,3.3,Susan Blake,4.0,23,100%,,,,1,,,4,4,,,,,1,1,,2,,,,2,359358
+733,2499,Mountain Empire Community College,Information Technology,2.2,Nasser Maksoud,4.6,51,N/A,,2,,1,,,,1,,1,,,,,,1,,,,,1604741
+734,2499,Mountain Empire Community College,History,2.3,Mike Strouth,4.7,26,N/A,,2,,,,,,1,,,3,,,,,2,,,,,559173
+735,2499,Mountain Empire Community College,History,2.5,Kyle Scanlan,4.5,25,N/A,1,,,,2,,5,2,,,2,,,1,3,3,,,,1,759676
+736,2499,Mountain Empire Community College,Biology,4.3,Carol Burkart,2.8,20,N/A,,1,,1,,,3,,,1,,,2,2,1,1,2,,,3,874473
+737,2499,Mountain Empire Community College,Mathematics,3.1,Chris Allgyer,3.4,15,N/A,,,1,1,1,1,,,,,,,,2,2,1,,,1,1,874450
+738,2499,Mountain Empire Community College,Biology,4.5,Jim Strength,2.7,12,N/A,,,,,,,,,,,,,,,,1,1,,,,874475
+739,2499,Mountain Empire Community College,Biology,3.4,Tony Russo,3.0,11,N/A,,,,,,,,2,,1,,,,,2,1,4,,,5,874726
+740,2499,Mountain Empire Community College,Art History,3.8,Alice Harrington,3.6,11,N/A,,,,,,,,,,,,,,,,,1,,,1,874731
+741,2499,Mountain Empire Community College,English,3.8,Pat Brown,4.2,10,N/A,,,,,,,,,,,,,,,,,,,,,401610
+742,2499,Mountain Empire Community College,Mathematics,4.1,Will Galliher,3.0,10,N/A,,,,,,,,,,,,,,,,,,,,,874454
+743,2499,Mountain Empire Community College,Mathematics,4.8,Gary Jessee,1.3,10,N/A,,,,,,,,,,,,,,,,,,,,,874725
+744,2499,Mountain Empire Community College,English,3.5,Brandi Martinez,3.2,10,N/A,,1,,,,,3,4,,,,,,3,1,,2,,,5,1898001
+745,2499,Mountain Empire Community College,English,2.5,Derek Whisman,4.4,10,83%,3,1,,2,,,,7,1,,3,2,,,1,1,1,1,,1,1680354
+746,2499,Mountain Empire Community College,Sociology,2.1,Ken Tucker,4.3,10,N/A,,,,1,,,,1,,2,,2,,,2,2,,,,,991074
+747,2499,Mountain Empire Community College,Computer Science,1.1,Nick Edwards,4.9,8,N/A,,,,,,,,,,,,,,,,,,,,,622867
+748,2499,Mountain Empire Community College,Computer Science,1.4,Terri Lane,4.0,8,N/A,,,,1,,1,,1,,,1,,,,1,,,,,,622870
+749,2499,Mountain Empire Community College,English,1.9,James (jim) Burns,4.9,8,N/A,,,,,,,,,,,,,,,,,,,,,742017
+750,2499,Mountain Empire Community College,English,2.0,Tami Penley,3.9,8,N/A,,,,,,,,,,,,,,,,,,,,,874444
+751,2499,Mountain Empire Community College,Speech,2.4,Joel Bailey,4.3,8,N/A,,,,2,,,,,,,1,2,,,1,,,,,,874452
+752,2499,Mountain Empire Community College,Chemistry,4.6,Jozsef Hunek,1.9,8,N/A,,,,,,,,,,,,,,,,,,,,,874470

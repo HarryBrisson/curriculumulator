@@ -1,0 +1,623 @@
+,campus_id,campus_name,dept,difficulty,name,quality,rating_count,retake,tag_accessibleoutsideclass,tag_amazinglectures,tag_bewareofpopquizzes,tag_caring,tag_cleargradingcriteria,tag_extracredit,tag_getreadytoread,tag_givesgoodfeedback,tag_gradedbyfewthings,tag_groupprojects,tag_hilarious,tag_inspirational,tag_lectureheavy,tag_lotsofhomework,tag_participationmatters,tag_respected,tag_skipclassyouwon'tpass,tag_somanypapers,tag_testheavy,tag_toughgrader,tid
+0,2250,ITT Technical Institute: Norwood,Computer Science,2.8,Barry Cole,4.9,5,N/A,,,,,,,,,,,,,,,,,,,,,454566
+1,2250,ITT Technical Institute: Norwood,Business,2.0,Justin C Hawkins,5.0,1,N/A,,,,,,,,,,,1,,,,,1,,,,,1910953
+2,2251,ITT Technical Institute: Omaha,Computer Science,2.2,Larry Johnson,4.8,6,N/A,,,,,,,,,,,,,,,,,,,,,766749
+3,2251,ITT Technical Institute: Omaha,Graphic Arts,2.8,Bethany Buyer,3.4,5,N/A,,,,,,,,,,,,,,,,,,,,,415563
+4,2251,ITT Technical Institute: Omaha,Computer Science,3.5,Subroto Sengupta,4.3,2,N/A,,,,,,,,1,,,,1,,,,1,,,,,1324868
+5,2252,ITT Technical Institute: Pittsburgh,Architecture,3.3,Jim Yamber,4.3,7,N/A,,,,,,,,,,,,,,,,,,,,,63534
+6,2252,ITT Technical Institute: Pittsburgh,English,2.3,Nina Padolf,3.7,3,N/A,,,,,,,,,,,,,,,,,,,,,1014677
+7,2252,ITT Technical Institute: Pittsburgh,Computer Science,3.5,Stan Jedrus,4.5,2,N/A,,,,,,,,,,,,,,,,,,,,,711908
+8,2252,ITT Technical Institute: Pittsburgh,Information Science,3.0,Kyle Fulton,4.5,2,N/A,,,,1,1,,,1,,,,,,,1,,,,,,2043596
+9,2252,ITT Technical Institute: Pittsburgh,Communication,4.0,Jon Hall,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1612176
+10,2252,ITT Technical Institute: Pittsburgh,Mathematics,2.0,Garret Wassermann,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1749139
+11,2252,ITT Technical Institute: Pittsburgh,Computer Science,1.0,Harvey Rumbaugh,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1903951
+12,2253,ITT Technical Institute: Richardson,Computer Science,3.0,Scott Johnson,4.5,2,N/A,,1,,,1,,,1,,,,,,1,1,,,,,,2059885
+13,2253,ITT Technical Institute: Richardson,Computer Science,5.0,Jay Francis,2.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1711534
+14,2253,ITT Technical Institute: Richardson,English,1.0,John L Fritz,5.0,1,N/A,,,,,,,,,,,1,,1,,1,,,,,,2041970
+15,2253,ITT Technical Institute: Richardson,Computer Science,3.0,Joel Bryant,5.0,1,N/A,,1,,1,,,,,,,,,,,1,,,,,,2154211
+16,2254,ITT Technical Institute: Richmond,Engineering,2.0,Bowlin Thompson,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1052434
+17,2255,ITT Technical Institute: San Antonio,Computer Science,3.4,Hector Perez,4.1,5,N/A,,1,,1,,,,1,,,,,,,,,,,,,878649
+18,2255,ITT Technical Institute: San Antonio,Humanities,4.7,David Acosta,3.7,3,N/A,,,,,,,,,,,,,,,,,,,,,1350668
+19,2255,ITT Technical Institute: San Antonio,Computer Science,3.0,Fred Price,4.8,2,N/A,,,,,,,,,,,,,,,,,,,,,977948
+20,2255,ITT Technical Institute: San Antonio,English,3.0,Carol Koller,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1350682
+21,2255,ITT Technical Institute: San Antonio,Mathematics,3.0,Bruce MacDonald,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1367490
+22,2255,ITT Technical Institute: San Antonio,Writing,1.0,Andy Carr,1.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1652327
+23,2255,ITT Technical Institute: San Antonio,Computer Science,1.0,john aguilar,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1985111
+24,2255,ITT Technical Institute: San Antonio,Engineering,4.0,Aaron Travieso,5.0,1,N/A,,1,,1,,,,,,,,,,,,1,,,,,2160042
+25,2257,ITT Technical Institute: Spokane,Mathematics,2.0,Gene Hammacher,3.3,2,N/A,,,,,,,,,,,,,,,,,,,,,891077
+26,2257,ITT Technical Institute: Spokane,Criminal Justice,2.0,Anne Orsi,3.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1542129
+27,2258,ITT Technical Institute: St. Rose,Graphic Arts,2.0,Jason Wong,4.7,3,N/A,,,,,,,,,,,,,,,,,,,,,875647
+28,2259,ITT Technical Institute: Strongsville,Mathematics,3.0,Anastasios Nalmpantis,5.0,11,N/A,,,,,1,,,,,,,,,,,1,,,,,266868
+29,2259,ITT Technical Institute: Strongsville,Information Science,3.3,Dana Blouin,4.8,3,N/A,,,,,,,,,,,,,,,,,,,,,1809065
+30,2259,ITT Technical Institute: Strongsville,Computer Science,1.0,Matt Maniscalco,1.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1311268
+31,2259,ITT Technical Institute: Strongsville,English,1.0,Jeff Mongold,5.0,1,N/A,,,,,,,,1,,,,1,,,,1,,,,,2063385
+32,2261,ITT Technical Institute: Troy,Computer Science,3.1,Scott Parr,3.2,24,N/A,,,,,,,,,,,,,,,,,,,,,259284
+33,2261,ITT Technical Institute: Troy,Engineering,2.5,Robert Fugate,4.2,17,N/A,,1,,,,,,,,,1,,,,,,,,,,259288
+34,2261,ITT Technical Institute: Troy,Criminal Justice,2.3,John Burek,4.7,7,N/A,,,,,,,,,,,,,,,,,,,,,577813
+35,2261,ITT Technical Institute: Troy,Computer Science,3.5,Mr. Viselli,3.3,6,N/A,,,,1,,1,,,,,,,,,,1,,,,,525636
+36,2261,ITT Technical Institute: Troy,Engineering,1.7,Tony Bazzi,4.7,6,N/A,,1,,,,,,2,,,2,1,,,3,1,1,,,,1917411
+37,2261,ITT Technical Institute: Troy,Graphic Arts,1.7,Brad St Pierre,5.0,3,N/A,,,,,,,,,,,,,,,,,,,,,176999
+38,2261,ITT Technical Institute: Troy,English,3.0,Jennifer Behl,3.5,3,N/A,,,,,,,,,,,,,,,,,,,,,1033021
+39,2261,ITT Technical Institute: Troy,Computer Science,2.5,Khodr Kamel El Dakrouni,4.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1459687
+40,2261,ITT Technical Institute: Troy,Ethnic Studies,1.0,Derek Williams,1.0,1,N/A,,,,,,,,,,,,,,,,,,,,,540054
+41,2261,ITT Technical Institute: Troy,English,3.0,Heather Ann Schmidt,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1457933
+42,2261,ITT Technical Institute: Troy,Business,2.0,Colt Stacer,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1913753
+43,2262,ITT Technical Institute: Tucson,Not Specified,1.5,Benjamin Godowski,5.0,4,N/A,,,,,,,,,,,,,,,,,,,,,841022
+44,2262,ITT Technical Institute: Tucson,Computer Science,2.7,Thomas Chappell,3.0,3,N/A,,,,1,,,,1,,,1,,,1,,,1,,,,1195332
+45,2262,ITT Technical Institute: Tucson,Architecture,1.3,Saba Alsafar,5.0,3,N/A,,,,,,,,,,,,,,,,,,,,,1505104
+46,2262,ITT Technical Institute: Tucson,Physics,2.7,David H Menke,3.6,3,N/A,,1,,,,,,1,,,,,,,,1,,,,,1905379
+47,2262,ITT Technical Institute: Tucson,Criminal Justice,3.0,Albert Bettilyon,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1630287
+48,2262,ITT Technical Institute: Tucson,Computer Science,1.0,Manuel Durazo,2.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1962174
+49,2263,ITT Technical Institute: Youngstown,Computer Science,1.7,Richard Rococi,4.7,23,N/A,,,,,,,,,,,,,,,,,,,,,703550
+50,2263,ITT Technical Institute: Youngstown,Information Science,3.1,David Smith,2.7,14,N/A,,,,,,,,,,,,,,,,,,,,,709482
+51,2263,ITT Technical Institute: Youngstown,Computer Science,3.4,Julia Ferguson,3.7,5,N/A,,,,,,,,,,,,,,,,,,,,,729925
+52,2263,ITT Technical Institute: Youngstown,Business,3.0,John Russell,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1417159
+53,2263,ITT Technical Institute: Youngstown,Criminal Justice,3.0,James Lautenbacher,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1649719
+54,2263,ITT Technical Institute: Youngstown,English,2.0,Mary A Anderson,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1903401
+55,2264,Ivy Tech Community College: Indianapolis,Anatomy,4.2,John Reinken,2.4,40,N/A,,,,,3,,2,1,1,1,3,,4,1,,1,4,1,1,2,946486
+56,2264,Ivy Tech Community College: Indianapolis,English,2.7,Rachel M Barrett Knight,4.9,36,100%,6,5,,17,5,,1,23,,1,7,10,,,3,11,,1,1,,1915415
+57,2264,Ivy Tech Community College: Indianapolis,Mathematics,1.7,Gwendolyn Graper,5.0,34,100%,1,,,10,4,,,11,,,,,,2,1,8,,,,1,1768042
+58,2264,Ivy Tech Community College: Indianapolis,Biology,2.5,James Baumgartner,4.7,33,60%,,2,,1,,2,,2,,,,,1,,2,8,7,,2,1,651008
+59,2264,Ivy Tech Community College: Indianapolis,Political Science,2.3,John Payne,4.7,33,89%,9,3,,9,9,,5,12,,,1,3,,1,2,5,,2,,2,1621528
+60,2264,Ivy Tech Community College: Indianapolis,Sociology,3.1,Simin Shirzadi,2.8,32,38%,,,,1,2,1,1,4,1,,1,1,,2,2,1,1,1,2,,647266
+61,2264,Ivy Tech Community College: Indianapolis,Business,3.3,Margret Baumer,2.7,32,N/A,,,,,,,,,,,,,,3,,,1,1,,3,650564
+62,2264,Ivy Tech Community College: Indianapolis,Anatomy,3.8,Stephen Noe,3.2,29,38%,,1,,,4,,1,1,2,,1,,3,,1,,9,,4,6,716607
+63,2264,Ivy Tech Community College: Indianapolis,Anatomy,4.2,Bonnie Young,2.5,29,33%,1,1,,,2,,4,,2,,,,5,,1,2,6,,1,6,1088627
+64,2264,Ivy Tech Community College: Indianapolis,Biology,4.2,Scott Racine,2.7,28,46%,,2,,1,,,5,2,,,4,2,3,5,3,1,7,1,2,13,1574722
+65,2264,Ivy Tech Community College: Indianapolis,English,2.6,Mike Wilson,4.8,28,100%,2,,,1,3,,,5,,,4,,,,3,1,,,,1,658701
+66,2264,Ivy Tech Community College: Indianapolis,Psychology,2.5,Bob Dunkle,4.2,27,N/A,,1,,2,2,,1,2,,,2,2,1,,5,2,2,,,,147661
+67,2264,Ivy Tech Community College: Indianapolis,Strategies For Success,1.9,Kier L Colon,4.6,26,N/A,,,,,,,,,,,,,,,,,,,,,1810473
+68,2264,Ivy Tech Community College: Indianapolis,Mathematics,3.0,Melinda Fox,4.6,25,100%,4,3,,5,,,,5,,,,4,,3,,4,3,,,,706835
+69,2264,Ivy Tech Community College: Indianapolis,Philosophy,2.8,Michael Painter,4.3,25,N/A,,3,,2,1,,2,,,1,1,4,,,4,1,1,,,,799043
+70,2264,Ivy Tech Community College: Indianapolis,Philosophy,3.3,Eric Lecher,4.1,25,88%,5,8,,2,2,,3,10,2,1,4,1,4,,14,6,2,,,6,2169471
+71,2264,Ivy Tech Community College: Indianapolis,Psychology,3.5,Cynthia Rickert,2.4,24,11%,,2,1,1,,,3,2,,,,2,3,4,1,1,,1,3,10,1458166
+72,2264,Ivy Tech Community College: Indianapolis,Communication,3.3,Justin Guild,3.4,24,14%,1,,,,7,,1,4,,,2,2,2,1,8,,6,1,,8,1743394
+73,2264,Ivy Tech Community College: Indianapolis,Mathematics,2.6,Elvis Netterville,4.4,22,86%,2,1,,2,1,,,1,,,2,,,3,4,1,,1,1,1,694067
+74,2264,Ivy Tech Community College: Indianapolis,Biology,3.1,Albert Rubenstein,4.0,22,80%,1,1,,,,,1,,1,,2,2,3,,1,4,2,,2,3,1307898
+75,2265,Ivy Tech Community College: Columbus,Psychology,4.2,Pamela Vincent,3.0,20,29%,1,,,,,,4,1,,,,,1,1,2,,2,,,8,728619
+76,2265,Ivy Tech Community College: Columbus,Political Science,2.6,Helen Colosimo,3.9,14,N/A,,,,2,1,,1,2,,,,1,,1,2,,,,,2,1605046
+77,2265,Ivy Tech Community College: Columbus,English,3.1,Jim Taylor,4.7,13,N/A,,,,,,,,,,,,,,,,,,,,,1263331
+78,2265,Ivy Tech Community College: Columbus,Psychology,2.3,Richard Lamborn,4.9,13,100%,2,,,4,2,4,,2,,,,1,,1,,1,,,,,1525774
+79,2265,Ivy Tech Community College: Columbus,English,3.4,Joyce Morris,1.3,11,N/A,,,,,,,,,,,,,,,,,,1,,1,1219593
+80,2265,Ivy Tech Community College: Columbus,Science,3.7,Anthony Gaudin,3.3,11,20%,,,1,1,,2,,1,,,,,,,,,2,,1,1,1395236
+81,2265,Ivy Tech Community College: Columbus,English,4.1,Erin Lehman,3.4,11,N/A,1,,,2,1,,2,4,1,,,1,,,1,,1,3,,4,1561978
+82,2265,Ivy Tech Community College: Columbus,Communication,2.7,Phillip Martinez,4.6,9,N/A,,2,,,,,,,,,1,2,,,,1,1,,,,727926
+83,2265,Ivy Tech Community College: Columbus,English,3.1,Patrick Nevins,4.0,9,N/A,,,,,1,,2,2,,,,,,1,,1,,1,,,1584538
+84,2265,Ivy Tech Community College: Columbus,English,2.9,Maribeth Anderson,3.9,8,N/A,,,,,,,,,,,,,,,,,,,,,719899
+85,2265,Ivy Tech Community College: Columbus,Criminal Justice,3.6,Karen McPherson,3.4,8,80%,1,1,,,,,,4,,,,,,2,3,2,1,2,,2,1696009
+86,2265,Ivy Tech Community College: Columbus,Biology,3.9,Jocelyn Ramos,3.0,8,N/A,,,,2,1,1,,1,,,1,,1,,,,3,,,,1673534
+87,2265,Ivy Tech Community College: Columbus,Graphic Arts,3.9,Don Nissen,4.1,7,N/A,,,,,,,,,,,,,,,,,,,,,137579
+88,2265,Ivy Tech Community College: Columbus,Communication,2.8,Jeffrey Lawrence,3.7,7,60%,1,1,,,1,,,1,,,1,,,,2,2,3,,,1,1669861
+89,2265,Ivy Tech Community College: Columbus,Health Science,3.3,Teresa Harden,2.6,6,N/A,,,,,,,,,,,,,,,,,,,,,339625
+90,2265,Ivy Tech Community College: Columbus,English,1.8,Chanda Dehart,5.0,6,N/A,,,,1,,,,1,,,,,,,,1,,,,,1716647
+91,2265,Ivy Tech Community College: Columbus,Mathematics,3.0,Joeseph Dosterglick,3.3,6,N/A,,1,,,,,,1,,,,2,,,,2,,,,,1771358
+92,2265,Ivy Tech Community College: Columbus,History,2.8,Aaron W Miller,4.2,6,80%,,1,,3,2,,,2,,,,1,,,1,2,,2,,1,2011257
+93,2265,Ivy Tech Community College: Columbus,English,3.2,Elisabeth Hegmann,4.8,6,N/A,1,,,2,1,1,,3,,,,1,,1,,1,,1,,,1611901
+94,2265,Ivy Tech Community College: Columbus,Chemistry,4.2,James Hermanson,2.8,5,N/A,,,,,,,1,,,,,,,,,,1,,,1,1258487
+95,2266,Ivy Tech Community College: Muncie,English,3.8,Sean Smith,3.0,21,N/A,,,,,,,7,2,,7,2,,,8,3,1,3,7,,13,670039
+96,2266,Ivy Tech Community College: Muncie,Psychology,2.6,Autumn McNichols,4.7,16,83%,,8,,6,1,,,4,,,4,6,3,1,3,2,,1,,,1841497
+97,2266,Ivy Tech Community College: Muncie,Sociology,1.7,Elke Grogg,4.8,14,N/A,1,1,,3,,,,2,,,4,4,1,,1,1,,,,,604102
+98,2266,Ivy Tech Community College: Muncie,Science,2.4,John Washburn,4.3,13,83%,,6,,3,1,,,3,,,,3,,,,,5,,,1,1531768
+99,2266,Ivy Tech Community College: Muncie,English,1.5,Jeff Meyers,4.9,12,N/A,,,,,,,,1,,,,,,,,,,,,,284912
+100,2266,Ivy Tech Community College: Muncie,Biology,4.2,Lorraine Reese,2.3,11,N/A,1,,,,,,1,,,,,,1,1,,,5,,1,4,1756031
+101,2266,Ivy Tech Community College: Muncie,English,2.1,Stephanie Webster,5.0,10,N/A,,,,4,1,2,,,,,2,,,,1,1,,1,,,955784
+102,2266,Ivy Tech Community College: Muncie,Mathematics,2.4,Robert Gray,4.8,7,N/A,,,,1,1,1,,,,,,,,,,,,,,,284999
+103,2266,Ivy Tech Community College: Muncie,English,2.4,Jeremy Adams,4.2,7,N/A,,,,,,,,,,,,,,,,,,,,,864090
+104,2266,Ivy Tech Community College: Muncie,English,1.9,Karen Hiday,4.4,7,N/A,,,,,,,,,,,,,,,,,,,,,934310
+105,2266,Ivy Tech Community College: Muncie,Health Science,3.7,Marilyn Bradley,1.5,7,20%,,,,2,,1,2,,,,,,,,1,,1,,,1,1862940
+106,2266,Ivy Tech Community College: Muncie,Geography,1.6,Jennifer (jenny) Wyatt,4.2,7,N/A,,,,1,2,,1,,,,,1,,,1,,,,,,1463548
+107,2266,Ivy Tech Community College: Muncie,Humanities,4.2,Alan Alder,2.6,6,N/A,,,,,,,,,,,,,,4,2,,,2,,2,1678608
+108,2266,Ivy Tech Community College: Muncie,Mathematics,3.2,Michael Wedgeworth,2.5,5,N/A,1,,,,1,,,1,,,1,,,1,,,1,,,,1543819
+109,2266,Ivy Tech Community College: Muncie,Medical Terminology,3.4,Marleen Miller,2.8,5,60%,,,,,,,,2,,2,,,1,1,3,,3,,,3,2196894
+110,2266,Ivy Tech Community College: Muncie,Health Science,4.2,Jennifer Lynn Richter,3.4,5,60%,1,,,,3,2,,,,,,,4,1,,,2,,,1,2307661
+111,2266,Ivy Tech Community College: Muncie,Health Science,3.8,Mark Wise,4.1,4,N/A,,,,2,,,,,,1,,,,,1,,,,,1,710799
+112,2266,Ivy Tech Community College: Muncie,Mathematics,2.3,Mark Mays,4.0,4,N/A,,,,,,,,,,,,,,,,,,,,,720376
+113,2266,Ivy Tech Community College: Muncie,Mathematics,3.3,Larry Reynolds,4.8,4,N/A,,,,,,,,,,,,,,,,,,,,,955782
+114,2266,Ivy Tech Community College: Muncie,Hospitality,1.8,Gabriel Saxon,4.6,4,N/A,,,,,,,,,,,,,,,,,,,,,1107208
+115,2267,Ivy Tech Community College: Kokomo,Psychology,2.3,Joseph M Kowalow,4.8,198,99%,13,70,,20,23,8,1,45,9,,87,34,6,,56,58,59,,,,1813022
+116,2267,Ivy Tech Community College: Kokomo,Biology,3.1,Tammy Greene,5.0,17,100%,1,6,,6,1,,1,2,,2,3,1,1,,1,8,4,,,,2113891
+117,2267,Ivy Tech Community College: Kokomo,Computer Science,3.3,Tanya Pierce,3.7,11,N/A,,,,,,,,,,,,,,1,1,,1,,,,151408
+118,2267,Ivy Tech Community College: Kokomo,English,3.4,Tom Ghering,2.5,10,N/A,,,,,,,,,,,,,,,,,,,,,694018
+119,2267,Ivy Tech Community College: Kokomo,English,3.4,Kate McConnell,4.7,9,N/A,,,,,,,,,,,,,,,,,,,,,1473263
+120,2267,Ivy Tech Community College: Kokomo,Science,3.0,Christine Haviland,5.0,9,100%,1,6,,6,2,2,,1,,,1,3,,,,5,,,,,2159130
+121,2267,Ivy Tech Community College: Kokomo,Mathematics,2.7,Alan Kunkle,3.5,8,N/A,,,,,,,,,,,,,,,,,1,,,,371082
+122,2267,Ivy Tech Community College: Kokomo,English,2.7,Samantha Ventura,5.0,7,N/A,,2,,2,1,,,3,,,1,3,,,,2,,1,,,1917372
+123,2267,Ivy Tech Community College: Kokomo,Biology,3.5,Dennis G Brunk,2.6,6,20%,,,,,2,,2,,,,,,5,,,,1,,2,1,2043471
+124,2267,Ivy Tech Community College: Kokomo,Nursing,4.8,Crystal Jones,2.2,5,20%,,,,1,,,1,1,1,,,1,1,,,,2,,1,3,2231460
+125,2267,Ivy Tech Community College: Kokomo,Communication,3.0,Kim King,5.0,4,N/A,,,,,,,,,,,,,,,,,,,,,151402
+126,2267,Ivy Tech Community College: Kokomo,Science,4.5,Imrana Hamdi,1.1,4,N/A,,,,,,,,,,,,,1,,,,2,,,2,1282604
+127,2267,Ivy Tech Community College: Kokomo,English,2.5,Cody Mullins,4.5,4,N/A,,1,,,1,,,2,,1,1,2,,,,,,1,,,1521881
+128,2267,Ivy Tech Community College: Kokomo,Biology,3.5,Erin Riggle,3.5,4,N/A,1,1,1,1,,,,,,,,,,,,,3,,3,2,1878878
+129,2267,Ivy Tech Community College: Kokomo,Communication,2.2,Allison Toren,4.8,4,N/A,,2,,,,,,3,,1,1,1,,,1,,,,,,2120226
+130,2267,Ivy Tech Community College: Kokomo,Psychology,2.7,Sally Vyain,5.0,3,N/A,,,,,,,,,,,,,,,,,,,,,694030
+131,2267,Ivy Tech Community College: Kokomo,Computer Science,1.7,Christina Andreas,3.3,3,N/A,,,,,,,,,,,,,,,,,,,,,736661
+132,2267,Ivy Tech Community College: Kokomo,Mathematics,1.3,Kate Goodnight,4.3,3,N/A,,,,,,,,,,,,,,,,,,,,,1664794
+133,2267,Ivy Tech Community College: Kokomo,Biology,3.7,Erin Larrabee,2.5,3,N/A,,,,,1,,,,,,,,1,1,,,2,,,1,1878877
+134,2267,Ivy Tech Community College: Kokomo,Science,3.0,Leo Studach,4.5,3,N/A,,,,1,1,,,2,,,1,,1,,,2,,,,,1906926
+135,2268,Ivy Tech Community College: Lafayette,Science,2.8,Aloke Bera,4.4,74,N/A,,,,2,3,,,1,,1,,,1,,2,,,,,1,1522881
+136,2268,Ivy Tech Community College: Lafayette,Mathematics,4.2,Bill Mercier,1.8,32,N/A,,,3,,,,4,,,,,,2,5,,,,,,7,439714
+137,2268,Ivy Tech Community College: Lafayette,Biology,4.0,Alka Mishra,3.0,20,N/A,,,,4,3,,,2,,,,,1,,,,1,,,1,823100
+138,2268,Ivy Tech Community College: Lafayette,Mathematics,3.1,Derek Moffitt,4.4,20,100%,2,1,,2,3,1,,4,,,1,1,,,1,2,1,,,,1452305
+139,2268,Ivy Tech Community College: Lafayette,English,4.1,Darrin Madis,2.9,18,N/A,,,,,,,,,,,,,,,,,,,,,439707
+140,2268,Ivy Tech Community College: Lafayette,Philosophy,3.8,Alon Kantor,4.5,16,N/A,,,,,,,,,,,,,,,,,,,,,780328
+141,2268,Ivy Tech Community College: Lafayette,English,3.4,Troy Hickman,4.8,16,N/A,,,,1,,,,,,,1,,,,,,,,,,1159575
+142,2268,Ivy Tech Community College: Lafayette,Communication,2.9,Roger Priest,2.8,15,N/A,,,,,,1,,,,,,,,,1,,,,,,957261
+143,2268,Ivy Tech Community College: Lafayette,Mathematics,2.6,Gary Netherton,4.2,15,83%,3,,,3,2,3,1,,,,2,,,,,1,,,,,1716484
+144,2268,Ivy Tech Community College: Lafayette,Psychology,2.5,Stanley Alexander,3.0,13,N/A,,1,,1,,,1,1,,,,,1,,,,1,,,,914898
+145,2268,Ivy Tech Community College: Lafayette,Computer Science,2.7,Chad Cree,4.7,12,N/A,,,,,,,,,,,,,,,,,,,,,456432
+146,2268,Ivy Tech Community College: Lafayette,General Studies,3.3,Janet Brodsky,4.8,11,N/A,,1,,1,,,1,1,,,,,,,,,,,,,446245
+147,2268,Ivy Tech Community College: Lafayette,Psychology,2.6,Colin William,4.9,11,N/A,,2,,2,2,,,,,,2,,,,,1,4,,,,704392
+148,2268,Ivy Tech Community College: Lafayette,Sociology,3.2,Rodney McDanel,2.0,11,N/A,,,1,,,,1,,,,,,,,,,,,,1,782071
+149,2268,Ivy Tech Community College: Lafayette,Social Work,4.0,Joyce Micon,3.7,11,N/A,,,1,,,,,2,,1,,,,1,,,3,,,4,1152682
+150,2268,Ivy Tech Community College: Lafayette,Communication,3.3,Jacob Isaacs,3.0,10,N/A,,,,,,,,,,,,,,,,,,,,,684297
+151,2268,Ivy Tech Community College: Lafayette,Languages,3.1,Heidi Herron-Johnson,4.6,9,N/A,,,,,1,,,2,,,,1,,,1,1,,,,,439711
+152,2268,Ivy Tech Community College: Lafayette,Psychology,2.9,Nancy Voorhees,3.2,9,N/A,,,,,,,,,,,,,,,,,,,,,782074
+153,2268,Ivy Tech Community College: Lafayette,Mathematics,2.1,Victor Lasic,4.9,8,N/A,,1,,1,2,,,1,,,,,,,,1,,,,,1806502
+154,2268,Ivy Tech Community College: Lafayette,Science,5.0,Torian Williams,2.6,8,N/A,,,,,,,1,,1,,,,1,,,,,,,1,1238144
+155,2269,Ivy Tech Community College: South Bend,English,3.7,Don Winter,5.0,39,100%,1,2,,11,2,,,7,,,1,15,,,,16,,1,,2,1301120
+156,2269,Ivy Tech Community College: South Bend,English,2.4,John Comeau,3.8,12,N/A,,,,,,,,,,,,,,,,,,,,,152808
+157,2269,Ivy Tech Community College: South Bend,Health Science,3.4,Rosario Murdie,3.7,11,N/A,1,1,,2,1,2,3,1,,,,,3,,1,2,2,,,2,1752428
+158,2269,Ivy Tech Community College: South Bend,Nursing,3.5,Melody Campbell,4.5,11,N/A,1,,6,3,,,1,4,,,2,,,,,3,1,,,4,1885017
+159,2269,Ivy Tech Community College: South Bend,Psychology,3.3,M Lutz,3.7,10,N/A,1,1,,1,,,,,,,,,,,,,,,,,329411
+160,2269,Ivy Tech Community College: South Bend,Health Science,3.5,David Gray,4.4,10,N/A,,3,,2,,,,,,,1,1,,,1,,1,,,,1194187
+161,2269,Ivy Tech Community College: South Bend,Health Science,3.0,Charles Rufuku,4.4,9,N/A,,,,,,,,,,,,,,,,,,,,,192225
+162,2269,Ivy Tech Community College: South Bend,Nursing,3.7,Penny Robison,4.3,9,N/A,,,6,1,,,,7,,,,3,,,1,5,2,,,1,1925462
+163,2269,Ivy Tech Community College: South Bend,Mathematics,4.1,Daniel Ledsome,2.9,8,N/A,,,,,,,1,,,,,,,,,,,,,1,155476
+164,2269,Ivy Tech Community College: South Bend,Psychology,3.1,Todd Heim,3.5,8,N/A,,,,,,,,,,,,,,,,,,,,,155480
+165,2269,Ivy Tech Community College: South Bend,Chemistry,2.8,Jamielle Jojo,4.5,8,N/A,,,,,1,,2,2,,,,,,,1,,,,,1,1326189
+166,2269,Ivy Tech Community College: South Bend,Psychology,2.7,Brad Mitchell,4.5,8,N/A,,2,,,,,,,,,,1,,,1,1,,,,,1413471
+167,2269,Ivy Tech Community College: South Bend,English,1.3,Claire Roof,3.6,7,N/A,,,,1,,,1,,,,,,,,,,,1,,,1251506
+168,2269,Ivy Tech Community College: South Bend,Communication,3.1,Julie Allee,3.6,7,N/A,,,1,,,1,,1,,,,,,,,,,,,1,1312345
+169,2269,Ivy Tech Community College: South Bend,English,3.8,John Miller,4.2,6,N/A,1,,,,,,,1,,,,,,,,,1,,,,150966
+170,2269,Ivy Tech Community College: South Bend,Graphic Arts,4.2,Angela Boembeke,1.2,6,N/A,,,,,,,,,,,,,,,,,,,,1,400143
+171,2269,Ivy Tech Community College: South Bend,Graphic Arts,3.5,Andrew Bell,3.7,6,N/A,,,,,1,,,1,,,,1,,,,,,,,,1283768
+172,2269,Ivy Tech Community College: South Bend,Mathematics,2.2,John Treacy,4.0,6,N/A,,,,,,,,1,,,,,1,2,1,2,2,,,1,1516042
+173,2269,Ivy Tech Community College: South Bend,Mathematics,4.2,Morag Fulton,3.4,6,N/A,2,,,2,,1,1,1,,,,,,3,,,1,,1,4,1897338
+174,2269,Ivy Tech Community College: South Bend,Psychology,2.5,Christopher Fardulis,4.5,6,100%,,3,,3,,2,,1,,,,,,,,3,,,,,1899467
+175,2270,Ivy Tech Community College: Fort Wayne,Business,2.2,James Tolbert,4.5,94,91%,7,8,,6,13,3,5,22,3,5,6,7,9,5,19,18,5,1,1,1,1378491
+176,2270,Ivy Tech Community College: Fort Wayne,English,3.5,Lynne Ostergren,3.7,53,N/A,,,,,,,,1,,,,,,,,,,,,1,1772296
+177,2270,Ivy Tech Community College: Fort Wayne,Biology,2.8,Amy Shank,4.2,23,N/A,,,,,,,,1,,,,1,,,,1,,,,,504872
+178,2270,Ivy Tech Community College: Fort Wayne,Health Science,3.5,Mikal Moga,4.5,17,100%,,,,1,,1,1,1,,,2,1,2,,,4,5,,1,1,1612121
+179,2270,Ivy Tech Community College: Fort Wayne,Sociology,2.4,Dan Hall,4.4,16,80%,1,1,,1,,1,1,1,,,1,3,2,,5,4,1,,,1,703898
+180,2270,Ivy Tech Community College: Fort Wayne,Health Science,2.2,Mary E. (beth) Gilmore,4.8,16,N/A,,,,,,,,,,,,,,,,,,,,,1708502
+181,2270,Ivy Tech Community College: Fort Wayne,English,4.2,B Royce,2.2,13,N/A,,,,,2,,,1,,,1,,,1,2,,,2,,5,695884
+182,2270,Ivy Tech Community College: Fort Wayne,English,2.7,Kevin Smith,4.9,13,100%,,,,1,1,1,,9,,,5,2,,,1,5,2,,,,1701796
+183,2270,Ivy Tech Community College: Fort Wayne,Communication,3.1,Tonia Pankop,2.7,12,25%,1,,,,3,,2,2,,,,,,3,4,,2,,,4,1969489
+184,2270,Ivy Tech Community College: Fort Wayne,Nursing,3.2,Holly Jackson,4.6,12,90%,2,3,,,2,6,,2,,,9,,,,,4,5,,,,2138720
+185,2270,Ivy Tech Community College: Fort Wayne,Welding,3.1,Brian Barnes,4.7,11,N/A,,,,,,,,1,,,2,,,,2,4,1,,,,1689648
+186,2270,Ivy Tech Community College: Fort Wayne,Science,3.7,James Slater,4.2,10,N/A,,,,,,,,,,,,,,,,,,,,,389058
+187,2270,Ivy Tech Community College: Fort Wayne,Health Science,3.9,Laura Steele,3.2,10,N/A,,1,,1,,,1,,,,,,,1,,,1,,,2,674576
+188,2270,Ivy Tech Community College: Fort Wayne,Humanities,2.5,Ruth Davis,4.5,10,N/A,,1,,1,1,,,2,,,,,,,,,,,,,708524
+189,2270,Ivy Tech Community College: Fort Wayne,Mathematics,3.3,Karen Jones,3.6,10,N/A,,,,1,,,,,,,,,,,1,,,,,,1139952
+190,2270,Ivy Tech Community College: Fort Wayne,Communication,1.8,Donna Ditton,4.8,10,N/A,,1,,,,,,,,,,1,,,1,,,,,,1270759
+191,2270,Ivy Tech Community College: Fort Wayne,Computer Science,3.2,Barry Sullens,3.8,10,50%,1,1,,1,2,,,1,,,3,3,3,2,,,,,,2,1298859
+192,2270,Ivy Tech Community College: Fort Wayne,Communication,2.8,Gail Ruble-Crawford,4.5,9,N/A,,,,,,,,,,,,,,,,,,,,,746145
+193,2270,Ivy Tech Community College: Fort Wayne,Business,3.2,Steven Stauffer,5.0,9,N/A,,,,,,,,,,,,,,,,,,,,,1288905
+194,2270,Ivy Tech Community College: Fort Wayne,English,4.3,Emily Ford,2.2,9,N/A,,,,,2,,1,3,,,,,,,1,,1,5,,4,1624480
+195,2271,Ivy Tech Community College: Northwest,Physics,2.9,Galib Varese,4.8,26,100%,5,,,11,11,1,,21,,,,5,,1,3,6,,,1,,1973355
+196,2271,Ivy Tech Community College: Northwest,Communication,3.4,Shalando R. Jones,4.7,23,100%,1,6,,7,1,,,14,,1,2,10,,1,3,13,1,,,,2298645
+197,2271,Ivy Tech Community College: Northwest,English,3.5,Jared Riddle,4.0,14,N/A,,2,,,,,,2,1,,1,1,1,,,1,1,,,,466181
+198,2271,Ivy Tech Community College: Northwest,English,3.9,Tolu Idowu,1.9,14,N/A,,1,,,,,,,,,,,,2,1,1,,,,3,943689
+199,2271,Ivy Tech Community College: Northwest,Criminal Justice,3.4,Larry Dickens,4.7,14,100%,,,,9,,,,6,,,,1,,,10,1,,,,7,2087048
+200,2271,Ivy Tech Community College: Northwest,Medicine,4.6,Laura Rosillo,4.4,11,N/A,,,,1,,,,,,,,1,,,,1,,,,,469852
+201,2271,Ivy Tech Community College: Northwest,Science,3.1,Matthew Courtney,3.4,10,N/A,,,,,,,1,,,,,1,1,,,,,1,,,961926
+202,2271,Ivy Tech Community College: Northwest,Communication,2.9,Lee Lavery,4.8,10,N/A,,1,,,,1,,2,,,,1,,,2,1,,,,,1567677
+203,2271,Ivy Tech Community College: Northwest,Psychology,3.3,Deb Stipp,4.0,9,N/A,,,,,,,1,,,,,1,1,,2,1,,,1,1,463140
+204,2271,Ivy Tech Community College: Northwest,Computer Science,3.6,Gina Rue,2.7,9,N/A,1,,,1,,2,,,,1,,,,1,,,,,,,497943
+205,2271,Ivy Tech Community College: Northwest,Mathematics,3.2,Paul Kamber,4.8,9,N/A,,,,3,2,,,4,,,2,,1,,,1,,,,,1774383
+206,2271,Ivy Tech Community College: Northwest,Mathematics,3.4,Toni Joseski,3.5,8,N/A,,,,,,,,,,,,,,,,,,,,,1041333
+207,2271,Ivy Tech Community College: Northwest,Health Science,4.3,Danita Harris,2.2,7,N/A,,,,,,,1,,,,,,,,,,1,,,1,392213
+208,2271,Ivy Tech Community College: Northwest,Science,2.7,David Merrill,4.9,7,N/A,,,,,,,,,,,,,,,,,,,,,949189
+209,2271,Ivy Tech Community College: Northwest,Health Science,4.0,Cire Lazaroski,4.6,7,N/A,,1,,,,,,,,,,,,,,,1,,,,1144453
+210,2271,Ivy Tech Community College: Northwest,Psychology,2.4,Darrell Franklin,4.9,7,N/A,,,,2,1,1,,2,,1,1,1,,,,,,,,,1681550
+211,2271,Ivy Tech Community College: Northwest,Health Science,4.0,Jose Mas,4.3,6,N/A,,,,,,,,,,,,,,,,,,,,,965421
+212,2271,Ivy Tech Community College: Northwest,Mathematics,3.0,Jerry Tauber,4.8,6,100%,2,,,1,1,2,,3,,,2,2,,,,2,,,,,1826871
+213,2271,Ivy Tech Community College: Northwest,Social Science,3.6,Milan Andrejevich,4.0,5,N/A,,,,,1,,,1,,,1,,,,,,,,,,732024
+214,2271,Ivy Tech Community College: Northwest,Mathematics,2.0,Deborah Alspaugh,5.0,5,N/A,,,,,,,,,,,,,,,,,,,,,866275
+215,2273,Ivy Tech Community College: Madison,Philosophy,3.1,Christopher Hammons,3.9,16,N/A,1,,,,,,3,,,,,,,1,,,,2,,2,672949
+216,2273,Ivy Tech Community College: Madison,English,4.3,Cathy Carolus,4.0,14,N/A,,,,,,,,1,,,1,,,,3,,,1,,3,672907
+217,2273,Ivy Tech Community College: Madison,English,2.4,Troy Alvey,4.6,11,100%,1,2,,1,1,,3,4,,,1,,2,,,,,,,1,1641748
+218,2273,Ivy Tech Community College: Madison,Science,3.0,Scott Raschulte,3.8,10,N/A,,,,,,,,,,,,,,,,,,,,,672968
+219,2273,Ivy Tech Community College: Madison,Computer Science,3.1,Paul Dadosky,3.6,8,N/A,,,,1,,,,,,,,,,,,,,,,,337819
+220,2273,Ivy Tech Community College: Madison,Nursing,3.0,Dennis Pruett,5.0,8,N/A,2,,,2,,,,,,,,6,,,,5,,,,,1914787
+221,2273,Ivy Tech Community College: Madison,Psychology,3.4,Rebecca Rahschulte,5.0,7,N/A,,1,,1,1,,,1,,,1,1,,,,,,,,,1352475
+222,2273,Ivy Tech Community College: Madison,Science,2.7,Shyra Tedesco,4.2,7,N/A,,,,1,1,,1,1,,,,,,3,1,2,,,,3,1823428
+223,2273,Ivy Tech Community College: Madison,History,2.8,Keith Alexander,4.7,6,N/A,,1,,,,,,,,,,,,,,,,,,,1450915
+224,2273,Ivy Tech Community College: Madison,Mathematics,3.0,Floyd Miller,5.0,5,N/A,,,,,,,,,,,,,,,,,,,,,1573132
+225,2273,Ivy Tech Community College: Madison,Not Specified,1.8,Donna Wheeler,3.1,4,N/A,,,,,,,,,,,,,,,,,,,,,1584283
+226,2273,Ivy Tech Community College: Madison,Writing,2.3,Dustin Robinson,4.6,4,N/A,,,,,,,,,,,,,,,,,,,,,1688188
+227,2273,Ivy Tech Community College: Madison,Nursing,4.5,Laurie Dorsey,3.5,2,N/A,,,,,,,,,,,,,,,,,,,,,1021359
+228,2273,Ivy Tech Community College: Madison,History,3.0,William E. Hagedorn,4.3,2,N/A,,,,,,,,,,,,,,,,,,,,,1168990
+229,2273,Ivy Tech Community College: Madison,Psychology,3.5,Andrea Golden,2.8,2,N/A,,,,,,,,,,,,,,,,,,,,,1280154
+230,2273,Ivy Tech Community College: Madison,Communication,1.5,Beth McIlvain,4.5,2,N/A,,,,,,,,1,,,,,,,,1,1,,,,1438234
+231,2273,Ivy Tech Community College: Madison,Business,2.5,Samer Koudsia,4.5,2,N/A,,,,1,,,,,,,,,,,1,1,,,,,1462260
+232,2273,Ivy Tech Community College: Madison,Communication,2.5,Amanda Harsin,4.5,2,N/A,,,,,,,,,,,,,,,,,,,,,1707666
+233,2273,Ivy Tech Community College: Madison,Philosophy,2.0,Julie Van Laar,4.5,2,N/A,,1,,,,,,,,,,,,,1,,,,,,1966511
+234,2273,Ivy Tech Community College: Madison,English,3.0,Stacey Fitzpatrick,5.0,2,N/A,1,,,2,1,,,1,,,,,,1,,,,,,,2069969
+235,2274,Ivy Tech Community College: Evansville,Communication,2.5,Scott O'Daniel,4.8,40,100%,1,3,,4,,,1,2,,,4,4,,1,,2,,,,,179520
+236,2274,Ivy Tech Community College: Evansville,Computer Science,3.8,Lonnie Clifton,1.9,21,N/A,,,,,,,,,,,,,,,,,,,,,1094248
+237,2274,Ivy Tech Community College: Evansville,Mathematics,1.8,Donna Krampe,4.9,18,N/A,,,,3,1,,,2,,,,,,2,1,,1,,,1,660691
+238,2274,Ivy Tech Community College: Evansville,Psychology,2.4,Don Shull,4.2,18,N/A,,,,1,,,,1,,,2,2,,,,2,,,,,703905
+239,2274,Ivy Tech Community College: Evansville,Psychology,2.3,Dan Dickman,4.5,18,N/A,1,2,,2,,,1,6,,,1,1,,,1,2,,1,,1,1330692
+240,2274,Ivy Tech Community College: Evansville,Mathematics,3.6,Matt Dillman,3.6,17,N/A,,,,,,,,,,,,,,,,,,,,,538198
+241,2274,Ivy Tech Community College: Evansville,Communication,2.3,Natalie Morgan,4.5,17,100%,,1,,5,,,1,4,,,2,4,,,2,3,,,,1,1595018
+242,2274,Ivy Tech Community College: Evansville,Mathematics,4.0,Brian Mcneely,3.0,16,67%,4,,,2,1,,,1,,,,,4,7,,1,5,,2,,1262821
+243,2274,Ivy Tech Community College: Evansville,English,2.6,Nancy Grammer,4.8,15,N/A,1,,,1,,,,,,,,,,,,1,,,,,329766
+244,2274,Ivy Tech Community College: Evansville,Mathematics,1.8,Jan Weiss,4.7,14,100%,1,,,5,2,,,1,,,,1,,1,,1,,,,,135035
+245,2274,Ivy Tech Community College: Evansville,Science,3.1,Antonina Ries,4.5,14,N/A,,,,5,,,,,,,3,3,,,,1,,,,,223250
+246,2274,Ivy Tech Community College: Evansville,Health Science,3.2,Pamela Puckett,3.0,14,N/A,,1,,,,,1,,,,,,1,,1,,,,,1,1286969
+247,2274,Ivy Tech Community College: Evansville,English,2.6,Justin Helfrich,3.4,14,N/A,,,,,,,3,4,,2,1,1,,1,,1,,3,,2,1595028
+248,2274,Ivy Tech Community College: Evansville,English,2.6,Amber Braden,4.4,13,92%,3,4,,7,2,,,6,,,1,,,2,2,4,2,3,,3,2040195
+249,2274,Ivy Tech Community College: Evansville,Mathematics,2.2,Tom Savage,4.4,12,N/A,,,,1,,,,2,,,1,1,,2,1,1,,,,,1107971
+250,2274,Ivy Tech Community College: Evansville,English,2.5,Chris Lamb,3.7,12,40%,,,,2,,1,,4,1,,,2,,1,2,2,,2,,,1262818
+251,2274,Ivy Tech Community College: Evansville,Nursing,3.5,Michael Walls,4.5,12,100%,1,4,,1,1,2,,,,,1,1,3,,1,2,5,,,2,1704103
+252,2274,Ivy Tech Community College: Evansville,English,1.8,John Wells,4.4,10,N/A,,,,,,,,,,,,,,,,,,,,,399483
+253,2274,Ivy Tech Community College: Evansville,English,2.6,Carole Chapman,3.7,10,N/A,,,,,,,,,,,,,,,,,,,,,790166
+254,2274,Ivy Tech Community College: Evansville,Not Specified,3.7,Greg Warren,2.4,9,N/A,,,,,,,,,,,,,,,,,,,,,167904
+255,2275,Ivy Tech Community College: Terre Haute,English,3.0,Crystal Sullivan,4.8,28,N/A,1,1,,1,,2,,1,,,,,,,1,1,1,,,,1067934
+256,2275,Ivy Tech Community College: Terre Haute,Science,3.1,Janee Gambill,4.9,22,100%,2,2,,5,3,6,,3,,,,2,,1,2,5,,,,2,1533345
+257,2275,Ivy Tech Community College: Terre Haute,Psychology,1.8,Robin Burke,4.8,19,N/A,,1,,2,2,2,2,1,,,1,,,1,3,2,,,,,1422733
+258,2275,Ivy Tech Community College: Terre Haute,English,3.3,Lucinda Ligget,3.5,18,N/A,,,,2,1,,3,2,,,,,,2,1,1,,2,,2,932943
+259,2275,Ivy Tech Community College: Terre Haute,Sociology,2.5,Scott Powell,5.0,17,N/A,1,3,,,1,,,,,,,,,,1,2,,,,,1418569
+260,2275,Ivy Tech Community College: Terre Haute,Sociology,2.5,Scott Greenwell,4.7,15,N/A,,,,,,,,,,,,,,,,,,,,,607722
+261,2275,Ivy Tech Community College: Terre Haute,Not Specified,2.6,Libby Maher,3.2,10,N/A,,,,,1,,1,,,,,,1,1,,,,,,1,724064
+262,2275,Ivy Tech Community College: Terre Haute,Communication,3.1,Neil Singleton,2.6,9,N/A,,,,,1,,,1,1,,,,1,,,,1,,,2,469002
+263,2275,Ivy Tech Community College: Terre Haute,Psychology,2.3,Cathy Alsman,3.2,9,N/A,,,,,,,,,,,,,,,,,,,,,791139
+264,2275,Ivy Tech Community College: Terre Haute,Criminal Justice,2.6,Jim Archer,4.8,9,N/A,,,,1,2,,,2,,,,2,,,1,5,1,,,,1707823
+265,2275,Ivy Tech Community College: Terre Haute,Biology,3.1,Ruth Torres,3.6,9,67%,2,1,,5,1,1,2,1,,,3,1,,,2,,2,,,,1985069
+266,2275,Ivy Tech Community College: Terre Haute,Medicine,2.9,Barbara Eichhorst,4.6,9,100%,4,1,,2,1,1,1,4,,,,1,,1,1,3,,,,1,980565
+267,2275,Ivy Tech Community College: Terre Haute,Graphic Arts,2.4,Casey Chaney,4.1,8,N/A,,,,,,,,,,,,,,,,,,,,,603576
+268,2275,Ivy Tech Community College: Terre Haute,Political Science,2.3,Leslie King,3.3,8,N/A,,,,,,,,,,,,,,,,,,,,,607691
+269,2275,Ivy Tech Community College: Terre Haute,Art History,4.4,Wanda Wilkey,2.1,8,N/A,,,,,1,,,1,,,,,,,1,,,,,,1474368
+270,2275,Ivy Tech Community College: Terre Haute,English,1.8,Andrew Behrmann,4.8,8,N/A,,,,1,1,,,3,,,2,,,,,,,,,,1656810
+271,2275,Ivy Tech Community College: Terre Haute,Communication,3.9,Toni L Shields,3.5,8,N/A,1,,,,,1,,2,,,1,1,,,2,1,,,,,1832650
+272,2275,Ivy Tech Community College: Terre Haute,Mathematics,3.1,Carrie McCammon,4.8,7,N/A,1,,,,1,,,1,,,,,,,,,,,,,564619
+273,2275,Ivy Tech Community College: Terre Haute,Business,4.3,Bonnie Bolinger,3.5,7,N/A,,,,,,,,,,,,,,1,1,,1,,,2,866420
+274,2275,Ivy Tech Community College: Terre Haute,Mathematics,3.4,Ryan Grossman,3.7,7,N/A,,,,3,,1,,3,,,,,,1,1,,2,,,1,1514678
+275,2276,Ivy Tech Community College: Richmond,Communication,3.0,Charles Gidney,4.2,7,N/A,,,,,1,,,,1,,,,,1,,,,,,,1284666
+276,2276,Ivy Tech Community College: Richmond,English,2.5,Kimberly Greene,3.5,6,N/A,,,,,,,,,,,,,,,,,,,,,583519
+277,2276,Ivy Tech Community College: Richmond,Mathematics,4.6,Stephen Orzel,1.7,5,N/A,,,,,,,,,,,,,1,,,,,,,2,1471043
+278,2276,Ivy Tech Community College: Richmond,Not Specified,4.0,Jerry Larson,2.5,3,N/A,,,,,,,,,,,,,,,,,,,,,1121497
+279,2276,Ivy Tech Community College: Richmond,Engineering,2.3,Mary Candace Humphries,4.5,3,N/A,,,,,,,,,,,,,,,,,,,,,1469146
+280,2276,Ivy Tech Community College: Richmond,Biology,2.0,Terry St. John,5.0,3,N/A,,,,,1,,,,,,,,,1,,1,,,,,1507862
+281,2276,Ivy Tech Community College: Richmond,Biology,3.7,Jeanne Ferguson,4.3,3,N/A,,,,,,,,,,,,,,,,,,,,,1670690
+282,2276,Ivy Tech Community College: Richmond,English,1.0,Jessica Marshall,5.0,3,N/A,,,,,,,,,,,,,,,,,,,,,1734787
+283,2276,Ivy Tech Community College: Richmond,Engineering,2.5,Jeff Cook,4.5,2,N/A,,,,,,,,,,,,,,,,,,,,,1121498
+284,2276,Ivy Tech Community College: Richmond,Engineering,2.0,Mike Helms,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1466078
+285,2276,Ivy Tech Community College: Richmond,Mathematics,4.0,Wes Tobin,4.0,2,N/A,1,,,,1,,,,,,,,,,,,,,,,1670695
+286,2276,Ivy Tech Community College: Richmond,Liberal Arts & Sciences,3.5,Jessika O Griffin,2.8,2,N/A,,,,1,,,,,,,1,,,,,,,,,,1770553
+287,2276,Ivy Tech Community College: Richmond,Health Science,2.0,Brian Olsen,5.0,2,N/A,,,,,,,,1,,,1,,,,,,,,,,1833760
+288,2276,Ivy Tech Community College: Richmond,Business,3.5,William E Sherwood,4.5,2,N/A,,,,,,,,1,,,,,,,,1,,,1,,1845307
+289,2276,Ivy Tech Community College: Richmond,Psychology,4.0,John-Morgan Coffey,5.0,2,N/A,,1,,,,,,1,,,1,1,,,1,,,,,,2311624
+290,2276,Ivy Tech Community College: Richmond,Biology,4.0,Stephanie Lee,4.5,2,N/A,,,,1,1,1,,1,,,,,,,,2,,,,,2362310
+291,2276,Ivy Tech Community College: Richmond,Business,3.0,Jennifer Toler,5.0,2,N/A,,,,1,1,,,2,,,,,,,1,1,,,,,2403297
+292,2276,Ivy Tech Community College: Richmond,Biology,3.5,Gretchen Baumle,4.5,2,N/A,1,2,,,,,,,,1,1,1,,,,,,,,,2447691
+293,2276,Ivy Tech Community College: Richmond,English,3.0,Emily Gard,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1050175
+294,2276,Ivy Tech Community College: Richmond,Architecture,4.0,Ramona Cook,1.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1121630
+295,2277,J. F. Drake State Technical College,Nursing,3.6,Thuy Lam,3.0,19,N/A,,,,2,,,1,2,,,,3,1,1,,3,,,,,232716
+296,2277,J. F. Drake State Technical College,English,2.6,Ed Forbes,4.5,9,N/A,,,,,,,,,,,,,,,,,,,,,716150
+297,2277,J. F. Drake State Technical College,Culinary Arts,2.6,Prema Monteiro,2.3,9,N/A,,,,,,,,,,,,,,,,,,,,,1426557
+298,2277,J. F. Drake State Technical College,Nursing,4.3,Mattie Davis,2.5,9,N/A,,,,,,,,1,,,,,,1,,,,,,2,1426565
+299,2277,J. F. Drake State Technical College,Nursing,4.2,Deborah Milling,2.6,8,N/A,,,,1,,,,1,,,2,1,,1,,2,,1,,,1104101
+300,2277,J. F. Drake State Technical College,Nursing,4.0,Alice Raymond,2.3,6,N/A,,,,,,,,,,,,,,,,,,,,,232715
+301,2277,J. F. Drake State Technical College,Computer Science,3.2,Deloris Smothers,2.7,5,N/A,,,,,,,,,,,,,,,,,,,,,716152
+302,2277,J. F. Drake State Technical College,Not Specified,3.0,Scotty McLaughlin,4.1,4,N/A,,,,,,,,,,,,,,,,,,,,,841972
+303,2277,J. F. Drake State Technical College,Nursing,3.5,Vicki Green,4.3,4,N/A,,,1,,,,2,2,,,,1,,,1,,,,,3,1907002
+304,2277,J. F. Drake State Technical College,Nursing,4.7,Doris Hinton,3.2,3,N/A,,,,,,,,,,,,,,,,,,,,,1556255
+305,2277,J. F. Drake State Technical College,Biology,3.7,Khalid Holmes,5.0,3,N/A,1,,,2,,,,1,,,,1,,,1,,2,,,,2117750
+306,2277,J. F. Drake State Technical College,Business,3.5,Gwendelyn Pope,3.8,2,N/A,,,,,,,,,,,,,,,,,,,,,703927
+307,2277,J. F. Drake State Technical College,Biology,5.0,Khalilah Burton,1.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1556252
+308,2277,J. F. Drake State Technical College,Mathematics,5.0,Joyce Rentz,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1409095
+309,2277,J. F. Drake State Technical College,Mathematics,3.0,Issac Hines,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1907001
+310,2277,J. F. Drake State Technical College,Nursing,4.0,Vickie Green,5.0,1,N/A,,1,,1,,,,1,,,,,,,,,,,,,2211746
+311,2278,J. Sargeant Reynolds Community College,English,3.2,Joshua Watson,4.4,347,89%,60,11,1,27,107,50,69,196,6,5,31,33,2,53,48,69,7,36,,37,1389135
+312,2278,J. Sargeant Reynolds Community College,Mathematics,1.6,Pamela Lamb,4.9,129,94%,3,7,,14,13,34,,6,8,,1,2,2,2,3,19,19,,2,,325302
+313,2278,J. Sargeant Reynolds Community College,Psychology,2.9,Douglas Gava,4.3,120,56%,,14,,,4,,5,2,,,8,7,6,3,2,7,10,,2,7,412624
+314,2278,J. Sargeant Reynolds Community College,History,3.6,Jason Sampson,4.0,99,90%,3,15,,6,26,28,35,35,,1,30,3,7,17,22,16,4,10,3,13,1926724
+315,2278,J. Sargeant Reynolds Community College,Sociology,2.4,Gayle D'Andrea,4.5,84,64%,1,,,4,4,5,6,11,,2,,1,,,5,4,1,2,,4,212867
+316,2278,J. Sargeant Reynolds Community College,Mathematics,4.0,Michele Snell,2.8,80,33%,1,,,2,1,,,3,,3,1,2,,6,1,,3,,1,10,889526
+317,2278,J. Sargeant Reynolds Community College,Mathematics,1.9,Chris Fulakis,4.3,73,95%,5,4,,7,12,11,,5,1,,1,1,1,,,2,6,,1,,518286
+318,2278,J. Sargeant Reynolds Community College,English,1.7,Rob Gehman,4.8,71,100%,,4,,4,1,2,1,11,1,,14,6,,1,4,3,,1,,,490095
+319,2278,J. Sargeant Reynolds Community College,English,2.3,Jason Lira,4.4,71,92%,,4,5,,3,,18,7,3,1,12,1,1,1,11,6,1,1,,2,774700
+320,2278,J. Sargeant Reynolds Community College,Mathematics,3.8,Patricia Weisbrod,3.8,66,74%,6,3,,6,4,,,6,,,,,1,6,2,2,14,,5,11,647511
+321,2278,J. Sargeant Reynolds Community College,Languages,2.3,Jane Wallace,3.7,65,83%,2,5,,14,4,4,,11,,3,5,11,1,1,9,4,3,,1,,631432
+322,2278,J. Sargeant Reynolds Community College,Mathematics,2.3,Bernadette Kocyba,4.4,64,N/A,1,,,7,3,6,,1,,,1,,1,1,,1,3,,,,281755
+323,2278,J. Sargeant Reynolds Community College,History,3.6,John J Amoroso,2.9,64,44%,3,13,,3,5,7,1,6,,,8,5,4,4,5,13,16,1,,13,1999498
+324,2278,J. Sargeant Reynolds Community College,Languages,3.7,Carlos Ossandon,3.1,64,50%,,,,4,,,,4,,,2,2,5,10,8,2,8,,7,13,103986
+325,2278,J. Sargeant Reynolds Community College,Business,3.3,Chris Osuanah,2.6,63,50%,,,,,1,2,5,1,2,1,,,1,2,5,,1,,3,2,824036
+326,2278,J. Sargeant Reynolds Community College,Biology,3.9,Bryan Rhodes,4.2,61,88%,2,11,,7,1,,1,2,5,,20,1,2,,2,1,10,,1,8,1542310
+327,2278,J. Sargeant Reynolds Community College,Mathematics,3.5,James Wolfle,3.6,61,60%,2,3,10,3,5,,,6,1,3,,3,1,8,3,3,7,1,7,17,1563433
+328,2278,J. Sargeant Reynolds Community College,English,2.9,Jane Rosecrans,3.9,61,69%,1,,,,5,,9,7,,,,,,9,3,2,1,9,,5,296529
+329,2278,J. Sargeant Reynolds Community College,Psychology,1.8,Michael Cline,2.6,60,N/A,,1,,5,1,6,3,,,,4,2,8,,1,1,,,,,296526
+330,2278,J. Sargeant Reynolds Community College,Mathematics,2.2,Kimberly Hasley,4.7,60,87%,6,6,,11,4,3,,8,,,3,,,5,2,9,5,,1,1,838313
+331,2279,Jackson State Community College,Physical Education,2.5,Lisa Barker Rojas,5.0,76,100%,3,,,8,4,8,,7,,1,,2,,,,4,,,1,,1701028
+332,2279,Jackson State Community College,English,3.3,Powell Franklin,4.3,56,73%,1,,,2,1,,10,7,,,4,1,,,4,3,,6,,3,580864
+333,2279,Jackson State Community College,History,4.0,Lawrence Gunderson,3.0,56,30%,,,,,,1,5,1,,,1,1,6,2,,1,6,3,3,13,155206
+334,2279,Jackson State Community College,English,3.6,James Mayo,3.5,52,44%,,,,,,,2,3,,,4,,,2,1,2,1,4,,5,580875
+335,2279,Jackson State Community College,Biology,3.4,John Koons,3.9,46,73%,,5,,1,,2,1,1,,,11,,6,,,5,7,,2,2,460273
+336,2279,Jackson State Community College,Biology,2.8,Claude Bailey,4.6,33,100%,3,5,,,2,1,,,,,3,3,1,,,3,2,,2,1,709364
+337,2279,Jackson State Community College,Biology,2.3,Andrew Combs,4.8,33,100%,1,7,5,4,1,9,,1,,,8,1,,,1,7,5,,,,1286489
+338,2279,Jackson State Community College,English,3.2,Dr. Kelley,3.1,31,N/A,,,,,,,1,,1,,1,1,,2,,1,2,5,,6,508969
+339,2279,Jackson State Community College,Psychology,2.4,Bob Raines,4.8,31,100%,,4,,6,,4,1,,,,2,5,,,2,4,1,,,,660677
+340,2279,Jackson State Community College,Mathematics,1.7,Barbara Manley,4.8,30,100%,2,3,,10,2,5,,2,,,2,2,,,,4,,,,,220433
+341,2279,Jackson State Community College,Political Science,3.9,Bill Fry,2.8,30,N/A,,,,,,1,3,,,,1,,1,2,1,,1,,1,2,349893
+342,2279,Jackson State Community College,Communication,1.9,Kimberly Warren-Cox,5.0,29,100%,1,,,6,1,2,1,4,,,1,3,,,,2,2,,,1,220438
+343,2279,Jackson State Community College,Psychology,3.9,Gary Brummer,3.0,28,50%,,1,,,,1,2,2,1,,,,2,1,1,2,2,,2,3,69486
+344,2279,Jackson State Community College,Writing,3.9,Mark Walls,3.4,27,63%,,,,2,,,,5,,,,1,1,1,,2,,2,,7,463882
+345,2279,Jackson State Community College,Psychology,1.4,Scott Woods,4.8,26,100%,1,3,,4,2,1,2,6,,,3,1,,,1,3,,,,,582458
+346,2279,Jackson State Community College,Computer Science,1.2,Lisa Matlock,4.9,25,N/A,,,,2,1,,,,,,,,,,,1,,,,,203933
+347,2279,Jackson State Community College,Mathematics,3.0,Jim Borkowski,3.2,24,N/A,1,,,1,,,,,,,,1,,,,,,,,,637697
+348,2279,Jackson State Community College,English,3.8,Jerry Gilbert,3.6,24,N/A,,,,,,,1,2,,,2,1,,,1,1,,,,,721226
+349,2279,Jackson State Community College,Mathematics,3.3,Justin Curtis,4.1,24,92%,12,1,,8,6,2,,5,,,,1,3,10,2,3,5,,1,,2174815
+350,2279,Jackson State Community College,Chemistry,4.0,Karen Carey,3.0,23,N/A,,,,,,1,,,,,,,,2,,,1,,1,2,463874
+351,2280,Jacksonville College,History,3.2,Mike Alberts,4.8,19,N/A,,1,,,,,,,,,1,,,,,,,,,,808401
+352,2280,Jacksonville College,Social Science,4.0,Amy Glenn,4.8,5,N/A,,,,,,,,,,,,,,,,,,,,,1692134
+353,2280,Jacksonville College,Biology,3.0,Tina Lane,2.8,5,60%,,,,,1,,,1,,2,,,,3,1,,,,1,,2104906
+354,2280,Jacksonville College,History,3.0,Patricia Richey,4.0,4,N/A,1,,,,,1,1,2,,,,1,,1,,2,1,1,,,2035048
+355,2280,Jacksonville College,History,3.0,Brett Eckles,5.0,2,N/A,1,,,,,,,2,,,1,2,,,,,,,,,2318243
+356,2280,Jacksonville College,English,2.0,Marolyn Welch,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1860793
+357,2280,Jacksonville College,Mathematics,2.0,Larry Richmond,4.0,1,N/A,,,,1,,,,1,,,,,,,,1,,,,,2132557
+358,2280,Jacksonville College,English,2.0,Jan Modisette,3.0,1,N/A,,,,,,,,,,,,,,1,,,1,,,1,2151000
+359,2282,James Sprunt Community College,English,3.3,Mary Ann Simmons,3.8,17,N/A,1,,,,,,1,1,,,,1,,,,,1,,,1,545874
+360,2282,James Sprunt Community College,Psychology,1.2,Steven Hendrix,4.7,15,N/A,,,,,,,,,,,,,,,,,,,,,120713
+361,2282,James Sprunt Community College,Mathematics,2.2,Robin English,5.0,6,N/A,,,,,,,,,,,,,,,,1,,,,,176615
+362,2282,James Sprunt Community College,Mathematics,3.3,Jia Feng,3.9,6,N/A,,2,,,,1,,,,,3,,,3,,,2,,,1,1651532
+363,2282,James Sprunt Community College,Mathematics,3.8,Rachael Lapoint,2.1,5,N/A,,,,,,,,,,,,,,,,,,,,,234356
+364,2282,James Sprunt Community College,Biology,3.8,Nick Bhattacharya,3.4,5,N/A,,1,,,,,3,1,,,,,2,,1,,,,,1,1833887
+365,2282,James Sprunt Community College,Education,1.3,Larry Huggins,4.9,4,N/A,,,,,,,,,,,,1,,,,,,,,,1319630
+366,2282,James Sprunt Community College,Psychology,2.8,Lindsay Maitland,4.8,4,N/A,,3,,,1,1,,,,,,2,,,1,1,,,,,2160948
+367,2282,James Sprunt Community College,Fine Arts,3.7,James Thomas,2.0,4,N/A,,,,,,,,1,,,,,,4,,1,,1,1,3,2243057
+368,2282,James Sprunt Community College,English,2.7,April Kennedy,2.5,3,N/A,,,,,,,,,,,,,,,,,,,,,1053640
+369,2282,James Sprunt Community College,History,5.0,Andy Cavenaugh,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1440650
+370,2282,James Sprunt Community College,Languages,4.0,Maria Roberez,1.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1669787
+371,2282,James Sprunt Community College,Fine Arts,3.0,James Merritt,5.0,1,N/A,,1,,,,,,1,,,,,,,,1,,,,,2243260
+372,2283,Jamestown Business College,Sociology,3.6,Sara Zink,3.4,5,N/A,,,,1,,,,2,,,2,1,,,,2,,,,2,858250
+373,2284,Jamestown Community College,Sociology,2.5,John Hearn,4.2,38,N/A,,2,,,1,,2,,,,3,2,1,,,1,,,,,330405
+374,2284,Jamestown Community College,Anthropology,2.4,Shannon Bessette,4.5,32,N/A,,3,,1,,,,1,,,2,4,,,,5,,,,,381646
+375,2284,Jamestown Community College,English,3.7,Dale Yerpe,3.3,29,N/A,,,,,,,2,,,,,,,,1,,,,,2,167981
+376,2284,Jamestown Community College,Mathematics,4.3,Dan Rabb,2.7,27,N/A,1,,2,2,1,,,2,,,2,,,4,1,,5,,1,4,1181262
+377,2284,Jamestown Community College,History,3.2,Jon O'Brian,3.6,25,N/A,,1,,,,,3,1,,1,,,2,,,,1,1,,3,348183
+378,2284,Jamestown Community College,English,4.2,Charlotte Martines-Cappelini,2.6,24,N/A,1,,,,1,,4,,,,1,,,,,,2,3,,7,164626
+379,2284,Jamestown Community College,Fine Arts,3.6,Yu Kanazawa,3.9,23,N/A,1,1,,,,,,,,,,1,,,,,,,,,550108
+380,2284,Jamestown Community College,English,3.8,Gael Grossman,3.4,22,N/A,,,,,1,,1,1,,,1,,,,2,,,,,,354068
+381,2284,Jamestown Community College,Biotechnology,3.6,Jaqueline Crisman,4.0,21,N/A,1,1,,,,,,,,,,1,1,1,2,1,1,,,2,1188010
+382,2284,Jamestown Community College,Languages,3.4,Laura Anderson,3.3,20,N/A,2,1,,1,,,2,1,,,,,,2,1,1,,,,,740827
+383,2284,Jamestown Community College,Computer Science,3.5,Fran Marsh,3.3,18,N/A,,,,,,,,,,,,,,1,1,,,,,1,166886
+384,2284,Jamestown Community College,Economics,2.8,Martha Zenns,4.4,18,N/A,,,1,2,1,,,1,1,,1,,1,,1,5,1,,,1,227619
+385,2284,Jamestown Community College,Mathematics,3.1,Stephanie Zwyghuizen,3.8,18,N/A,,,,2,1,,,1,,,,,,1,,1,1,,,1,381681
+386,2284,Jamestown Community College,Psychology,3.0,Frank Corapi,3.7,17,50%,1,2,,1,2,,,,1,,2,2,,,,,1,,3,2,867486
+387,2284,Jamestown Community College,Computer Science,1.9,Jeff Davis,4.5,16,N/A,1,,,,,,,1,,,,1,,,,2,,,,,166231
+388,2284,Jamestown Community College,History,3.9,Gregory Edwards,3.1,16,N/A,,2,,1,,,1,,,,,,1,,,,3,1,,,500897
+389,2284,Jamestown Community College,Political Science,3.2,Julie Musial,3.7,15,N/A,,,,,,,,,,,,,,,,,,,,,166224
+390,2284,Jamestown Community College,Accounting,1.7,Bill Lasher,3.8,15,N/A,,,,,,,,,,,1,,,1,,,1,,,,227616
+391,2284,Jamestown Community College,Psychology,3.1,Tom Filsinger,3.7,15,N/A,,,,,,,,,,,,,,,,,,,,,723347
+392,2284,Jamestown Community College,Physical Ed,3.2,Aimee Brunelle,4.6,15,N/A,2,,,,,,,1,,,2,,,,,,1,,,,760692
+393,2285,Jefferson College,History,4.0,Scott Holzer,4.5,78,92%,,7,,1,,,6,2,2,,9,4,1,,,4,10,,3,9,120056
+394,2285,Jefferson College,Communication,3.7,Rebecca Ellison,2.6,60,29%,,,1,3,3,3,4,7,,1,4,1,1,6,9,,7,3,,17,233302
+395,2285,Jefferson College,Biology,4.3,Deborah Allen,2.5,46,N/A,,,,,,,3,3,1,,,,2,1,1,1,3,,1,8,736727
+396,2285,Jefferson College,Mathematics,2.9,Linda Hoppe,3.6,42,78%,2,2,2,4,1,,,2,,,,1,,5,3,,6,,1,6,347395
+397,2285,Jefferson College,Chemistry,2.9,Sean Birke,3.8,41,83%,5,4,,8,5,,,1,1,1,1,1,4,,,3,6,,,,643172
+398,2285,Jefferson College,Education,4.6,Kenneth Boning,2.9,36,54%,,,,,6,1,1,7,,,,,1,10,,1,9,,,15,1188714
+399,2285,Jefferson College,English,4.0,Andrea St. John,2.9,29,83%,,,,1,2,,6,3,,,,,1,1,2,1,,,1,6,420457
+400,2285,Jefferson College,Chemistry,3.6,Wesley Whitfield,2.9,29,50%,,,,1,,,3,1,1,,5,1,3,1,,1,5,,3,4,1306480
+401,2285,Jefferson College,Biology,3.5,Melissa Curfman- Falvey,2.6,28,N/A,,,3,,,1,,,,,,2,1,3,3,,7,,,7,479403
+402,2285,Jefferson College,Mathematics,2.4,Skyler Ross,4.8,27,91%,,3,,6,2,1,,3,2,,7,1,,,1,7,,,1,,845364
+403,2285,Jefferson College,Science,3.5,Dora Mitchell,3.8,26,83%,1,2,,1,,,,1,,1,1,,2,1,,3,1,1,1,1,378052
+404,2285,Jefferson College,English,4.2,John Pleimann,1.8,25,50%,,1,1,,2,,7,1,1,,,,1,2,1,,1,1,,4,655723
+405,2285,Jefferson College,Mathematics,2.6,Mulavana Johny,4.0,25,60%,2,1,,2,,,,,1,,,,,3,,3,3,,,3,950826
+406,2285,Jefferson College,Psychology,4.3,Leslie Buck,2.7,25,40%,2,2,,,,,9,1,,,,,2,11,1,,4,4,,15,1702771
+407,2285,Jefferson College,English,4.2,Christopher Otto,1.9,25,25%,,,1,1,,,2,2,,1,1,1,1,2,2,1,1,2,,11,1793165
+408,2285,Jefferson College,History,3.0,Lisa Hollander,3.3,23,N/A,1,1,,1,2,2,3,4,,,,,,1,1,2,1,,,,420460
+409,2285,Jefferson College,Biology,2.1,Patricia McDaniel,4.8,23,N/A,,5,,1,1,4,,2,1,,,1,,,2,1,3,,,,844201
+410,2285,Jefferson College,Mathematics,3.7,Diane Marquart,1.6,22,14%,,,1,1,3,,1,2,,,,,1,8,,,3,,,7,1636665
+411,2285,Jefferson College,Biology,4.0,Bruce Carr,3.6,22,60%,3,,,3,2,,7,1,2,,2,3,4,2,1,5,4,,4,5,1746817
+412,2285,Jefferson College,Science,3.1,Tom Schuessler,3.2,21,N/A,,,,,,,,,,,,,,,,,,,,1,187093
+413,2286,Eastern Gateway Community College,Communication,3.3,Carlos Mayo Perlaza,5.0,35,100%,6,,,17,2,,,31,,,,20,,1,12,15,,,1,,2372372
+414,2286,Eastern Gateway Community College,English,1.8,Darrell Lawrence,4.8,26,100%,2,2,,3,,,,6,,,2,3,,,,2,,,,,149592
+415,2286,Eastern Gateway Community College,Sociology,3.8,Anton Salinski,3.8,20,N/A,,,,,,,,,,,,,,,,,,,,,130085
+416,2286,Eastern Gateway Community College,English,4.0,Gloria Wimberley,4.8,20,90%,1,6,,6,3,,2,4,,,3,3,1,,3,3,,,,,1841769
+417,2286,Eastern Gateway Community College,Humanities,3.1,Joe Brom,3.7,18,N/A,,,,,,,,1,,,,,,,,,1,,,,203094
+418,2286,Eastern Gateway Community College,Psychology,2.9,John Romanek,4.7,15,N/A,,2,,,,,,,,,1,,,,,2,,,,,149578
+419,2286,Eastern Gateway Community College,Biology,3.9,Stephanie Vance,3.9,15,N/A,,,,,,,,,,,,,,,1,,,,,,164537
+420,2286,Eastern Gateway Community College,Communications,3.2,Shirley Fisher,3.7,12,N/A,1,,,,,,1,2,,,,,,,,,,,,,203081
+421,2286,Eastern Gateway Community College,Psychology,2.6,Dan Reznicak,3.1,11,N/A,,,,,,,,,,,,,,,,,,,,,163176
+422,2286,Eastern Gateway Community College,Sociology,3.5,Andrew Rochus,4.6,11,N/A,,,,,,,,1,,,,,,,1,1,,,,,651958
+423,2286,Eastern Gateway Community College,Computer Science,3.4,Gretchen McGuire,3.0,10,N/A,,,,,,,,,,,,,,,,,,,,,193875
+424,2286,Eastern Gateway Community College,Criminal Justice,2.5,Latricia Kyle,3.8,10,70%,3,,,3,4,,,2,,,,1,,,4,4,,,1,2,2242164
+425,2286,Eastern Gateway Community College,Biology,2.9,Hamid Nawaz,5.0,10,100%,1,5,,2,1,1,,4,,2,1,1,,,,7,,,,,1794833
+426,2286,Eastern Gateway Community College,Business,1.9,Tom Dulaney,4.9,9,N/A,,,,,,,,,,,,,,,,,,,,,201030
+427,2286,Eastern Gateway Community College,History,2.6,Brent Carney,4.0,9,N/A,,,,,1,,3,,,,,,,2,,2,,1,,1,1185423
+428,2286,Eastern Gateway Community College,Business,2.0,Ken Knox,4.8,8,N/A,,2,,,1,,,1,,,3,,,,,1,,,,,1014691
+429,2286,Eastern Gateway Community College,English,1.9,Erin Lesnansky,3.9,8,N/A,,,,,,,,,,,,,,,,,,,,,1188124
+430,2286,Eastern Gateway Community College,Psychology,3.4,Jessica Fortune,4.7,8,100%,1,,,4,3,,1,4,,,,2,,,5,4,,,,,2208599
+431,2286,Eastern Gateway Community College,Education,4.4,J.C. Romero,4.6,5,100%,1,,,1,,,,4,,,,,,,1,,,1,,1,2287252
+432,2286,Eastern Gateway Community College,Criminal Justice,3.4,Brian DeCando,5.0,5,100%,1,,,,5,,,4,,,,2,,,2,,,,,,2276225
+433,2287,Jefferson Community and Technical College (all campuses),Psychology,2.7,Andrea Cartwright,4.8,82,100%,2,7,,5,8,13,6,4,,,6,3,1,2,5,5,,,,,1280773
+434,2287,Jefferson Community and Technical College (all campuses),English,2.8,Lee Ann Dickerson,4.8,63,N/A,,4,,13,5,,,25,,,10,11,,3,7,12,1,2,,1,1809979
+435,2287,Jefferson Community and Technical College (all campuses),Sociology,2.7,Leonard Thomas,4.8,53,96%,15,15,3,24,4,7,4,3,,,13,14,,6,8,21,3,,1,2,1896952
+436,2287,Jefferson Community and Technical College (all campuses),Psychology,2.9,Byron Himmelheber,4.5,40,N/A,,4,,,1,1,,1,,,7,1,,,1,6,,,,1,1129160
+437,2287,Jefferson Community and Technical College (all campuses),English,3.5,Jill Adams,4.2,40,76%,3,7,,4,3,2,3,12,1,1,1,11,1,3,6,5,,2,,3,910468
+438,2287,Jefferson Community and Technical College (all campuses),Biology,3.9,Amy Sprinkle,2.5,38,15%,,,,2,,,3,2,1,,,,5,1,,,6,,4,9,323078
+439,2287,Jefferson Community and Technical College (all campuses),English,3.5,Mark Johnson,3.5,37,N/A,,1,,1,1,,2,3,,,,1,,,3,,1,2,,4,152656
+440,2287,Jefferson Community and Technical College (all campuses),Communication,1.7,Patrick Ecker,4.5,37,100%,1,1,,6,4,,,6,,2,6,1,,,,3,,,,,575323
+441,2287,Jefferson Community and Technical College (all campuses),Biology,4.5,Kathryn Lowrey,1.5,33,9%,,,,,,,6,,,1,,,,7,1,,3,,5,11,1226391
+442,2287,Jefferson Community and Technical College (all campuses),Communication,2.0,Ronn Norfleet,3.9,33,67%,1,5,,1,4,1,1,2,1,,3,2,1,3,,3,7,,,3,866047
+443,2287,Jefferson Community and Technical College (all campuses),History,4.0,Melissa Payne,3.8,32,86%,,13,,1,,,5,14,,,,,3,7,4,,,2,,10,1628058
+444,2287,Jefferson Community and Technical College (all campuses),Mathematics,3.0,Jeff Friend,4.0,31,N/A,,,,2,4,2,,,,,2,1,,3,,2,3,,,1,317572
+445,2287,Jefferson Community and Technical College (all campuses),History,4.5,James Baughman,3.3,31,N/A,,5,,,,,2,2,1,,3,3,5,,,1,7,,,10,933835
+446,2287,Jefferson Community and Technical College (all campuses),English,4.0,Richard Hanson,3.0,31,40%,1,,,,1,,3,3,,,,,,11,2,,,6,,7,272790
+447,2287,Jefferson Community and Technical College (all campuses),Business,4.2,Helen Davis,2.5,31,43%,,,5,2,3,,6,,4,2,1,,1,1,,1,8,,4,3,68487
+448,2287,Jefferson Community and Technical College (all campuses),Psychology,2.9,Dan Ash,4.7,29,N/A,1,7,,2,1,1,,1,,,6,5,,,1,3,1,,,,1429360
+449,2287,Jefferson Community and Technical College (all campuses),Mathematics,2.6,Melanie Boswell,4.5,28,86%,3,3,,4,2,1,,3,,,,,,2,3,1,2,,,,252796
+450,2287,Jefferson Community and Technical College (all campuses),Biology,4.1,Rob Mattingly,4.6,28,73%,1,4,,5,2,,,1,,,1,8,2,1,2,6,7,,,,1201044
+451,2287,Jefferson Community and Technical College (all campuses),Psychology,3.2,Byron Tharpe,3.1,27,N/A,,1,,,1,1,2,,,,,,2,2,,,,,2,,354502
+452,2287,Jefferson Community and Technical College (all campuses),English,3.9,Betty Weldon,2.3,26,N/A,,,,1,,,,1,,1,,,,3,,,,2,,,178083
+453,2288,Jefferson Community College,History,2.4,Ron Palmer,4.8,40,100%,3,5,,1,3,,1,4,,,6,1,,,,5,5,,,,650945
+454,2288,Jefferson Community College,English,3.9,Josh Dickinson,2.4,32,10%,,,,,,,7,1,,,,,1,8,2,,3,6,,9,404613
+455,2288,Jefferson Community College,Chemistry,3.2,John Penrose,4.5,32,N/A,1,2,,6,4,7,1,1,,,,1,,1,,3,1,,,1,776885
+456,2288,Jefferson Community College,Chemistry,4.4,Mike Babcock,2.2,31,N/A,,,,,,,,,,,,,,,,,,,,1,836472
+457,2288,Jefferson Community College,Mathematics,2.6,Joel Lalone,4.3,29,80%,,1,,,1,3,,2,,2,4,,,,,3,,,,,404418
+458,2288,Jefferson Community College,History,4.0,Ingrid Overacker,3.1,26,N/A,,1,,,,,1,,,,,,,1,,,,,,,300846
+459,2288,Jefferson Community College,English,2.4,Tim Bristol,3.6,26,N/A,1,1,2,9,1,,1,1,,2,2,1,,,4,,9,,,1,1837832
+460,2288,Jefferson Community College,Business,2.9,Kathryn Brownell,3.8,25,N/A,,,1,1,1,,,1,,,,,,2,,,1,,1,2,246520
+461,2288,Jefferson Community College,Chemistry,3.4,Venkat Chebolu,3.5,23,N/A,,,,1,,,1,,,,1,,,2,,,2,,,5,160816
+462,2288,Jefferson Community College,Sociology,2.5,Peter Boenning,4.3,22,80%,,5,,,,,2,,1,,4,2,,,,1,1,,,,731605
+463,2288,Jefferson Community College,Criminal Justice,1.7,P. Alteri,4.8,21,N/A,1,1,,1,1,1,,,,,2,1,,,,1,1,,,,414483
+464,2288,Jefferson Community College,Biology,3.3,Todd Vincent,4.8,20,100%,2,3,,5,,,,4,,,3,,1,,,4,5,,,,808692
+465,2288,Jefferson Community College,Science,4.4,Monica Leclerc,3.0,19,N/A,,1,,1,,2,2,2,,,,,,2,,,,,,3,370448
+466,2288,Jefferson Community College,Psychology,2.3,Lynn Sprott,4.5,18,N/A,,1,,3,1,3,,3,,,1,4,1,,2,2,,,,,737716
+467,2288,Jefferson Community College,Mathematics,3.4,Heather O'Brien,3.3,18,N/A,,,,3,,,,1,,1,,,,3,1,,2,,,3,800191
+468,2288,Jefferson Community College,Biology,3.3,Gerald Zoanetti,3.6,17,N/A,1,,,,,,2,,,,3,,1,2,1,,3,,,4,450208
+469,2288,Jefferson Community College,English,3.6,Joanna Chranzowski,3.5,17,N/A,,,,,,,1,1,,1,,,,,2,,,,,2,464422
+470,2288,Jefferson Community College,Mathematics,2.7,Mike White,4.4,16,N/A,,,,2,,1,,2,,,,,,2,,,,,,1,144952
+471,2288,Jefferson Community College,English,3.5,Cindy Ross,2.7,16,N/A,,,,,,,,,,,,,,,,,,,,,154998
+472,2288,Jefferson Community College,Humanities,2.3,Becky Donaghy,3.7,15,N/A,,,,,,,,,,,,,,,,,,,,,206910
+473,2289,Jefferson Davis Community College,English,3.8,David Willis,3.5,13,50%,,,,,,,5,1,,,,,2,2,2,,,1,1,4,1610569
+474,2289,Jefferson Davis Community College,Economics,2.6,Heather Stone,3.7,11,N/A,,,,1,1,,,1,,2,,,,1,,,,,,,721487
+475,2289,Jefferson Davis Community College,Mathematics,2.3,Allen Gainer,4.8,9,N/A,1,1,,1,,,,,,,,,,,,,,,,,868859
+476,2289,Jefferson Davis Community College,English,1.9,Deborah Albritton,4.3,8,N/A,,,,,,,,,,,,,,,,,,,,,868854
+477,2289,Jefferson Davis Community College,Chemistry,2.5,Daniel Wagner,4.8,8,N/A,,,,2,1,,,1,,,3,1,,,,3,,,,,1018489
+478,2289,Jefferson Davis Community College,Mathematics,2.6,Loletta Redman,3.7,7,N/A,,,,,,,,,,,,,,,1,,,,,1,868862
+479,2289,Jefferson Davis Community College,Biology,2.2,Lyn Gill,4.3,6,N/A,,1,,1,,,,1,,1,,,,,1,,,,,1,870113
+480,2289,Jefferson Davis Community College,Nursing,4.3,Nancy Mathews,2.0,6,N/A,,,,,1,,2,,,,,,3,,,,3,,2,,1893656
+481,2289,Jefferson Davis Community College,Nursing,3.4,Corine Union,3.1,5,N/A,,,,,,,,,,,,,,,,,,,,,354619
+482,2289,Jefferson Davis Community College,Nursing,2.2,Ann Lambert,4.4,5,N/A,,,,,,,,,,,,,,,,,,,,,354624
+483,2289,Jefferson Davis Community College,Nursing,3.4,Maureen Morgan,2.7,5,N/A,,,,,,,,,,,,,,,,,,,,,354627
+484,2289,Jefferson Davis Community College,History,2.8,Lisa Pace-Hardy,4.6,5,N/A,,,,,,,,,,,,,,,,,,,,,868850
+485,2289,Jefferson Davis Community College,Psychology,2.0,Beulah Patton,2.8,5,N/A,,,,,,,,,,,,,,,,,,,,,868852
+486,2289,Jefferson Davis Community College,Nursing,4.2,Susan Mack,4.6,5,N/A,,,,,,,,,,,,,,,,,,,,,870108
+487,2289,Jefferson Davis Community College,Nursing,2.8,Angela Paul,3.8,5,N/A,,,,1,,,,,,,1,,,,1,2,1,,,,993679
+488,2289,Jefferson Davis Community College,Biology,3.4,Sharon Peacock,3.8,5,N/A,,,,,,,,,,,,1,,,1,,1,,,,1092110
+489,2289,Jefferson Davis Community College,Nursing,2.5,Dee Plummer,4.4,4,N/A,,,,,,,,,,,,,,,,,,,,,354628
+490,2289,Jefferson Davis Community College,History,3.5,Andrew Culbreth,4.9,4,N/A,,2,,,,,,,,,,,,,,1,1,,,,1867155
+491,2289,Jefferson Davis Community College,Biology,2.7,Terry Norris,4.3,3,N/A,,,,,,,,,,,,,,,,,,,,,868857
+492,2289,Jefferson Davis Community College,Biology,4.3,Jonathan Cole,3.5,3,N/A,,,,,,,,1,,,,1,1,2,2,,,,1,1,2118113
+493,2290,Jefferson State Community College,Mathematics,4.3,Margaret Thrasher,1.8,110,N/A,,,,3,1,1,2,1,8,,1,2,5,17,4,1,22,,6,31,135843
+494,2290,Jefferson State Community College,Biology,3.0,Kelley Black,4.8,98,90%,2,10,2,13,,8,,9,,,17,4,,,2,13,6,,1,2,331096
+495,2290,Jefferson State Community College,History,3.5,Pamela West,3.6,89,56%,3,1,,1,,7,13,4,,,7,1,1,8,2,1,1,,,9,416948
+496,2290,Jefferson State Community College,Mathematics,3.5,Sam White,2.5,79,56%,,,4,,,,,1,,,2,,1,,7,,6,,2,4,235601
+497,2290,Jefferson State Community College,History,4.4,Patrick Armstrong,2.3,70,80%,1,2,,1,,,2,,1,,,1,4,,,2,4,,,4,211431
+498,2290,Jefferson State Community College,Psychology,1.7,Angela Ford,4.2,64,50%,,4,,4,3,1,2,1,1,,6,,5,2,,2,10,3,1,1,1064306
+499,2290,Jefferson State Community College,Science,3.9,Charles Venglarik,4.3,62,88%,,3,,3,4,,1,3,,,5,3,8,,2,3,9,,2,3,647905
+500,2290,Jefferson State Community College,History,2.7,Joseph Irvin,4.0,61,N/A,2,5,3,,,2,10,1,,,,,1,1,2,4,7,,1,2,1602113
+501,2290,Jefferson State Community College,Biology,3.1,Dr. Bej,3.3,61,8%,,1,,,,3,,1,1,,1,1,8,,2,3,10,,1,8,410644
+502,2290,Jefferson State Community College,Mathematics,2.7,Stella Langley,4.2,60,93%,4,2,,8,9,1,,5,1,,,,3,14,2,3,10,,1,9,1528470
+503,2290,Jefferson State Community College,Sociology,2.7,Lucy Lewis,3.7,59,60%,,1,,2,3,9,10,6,,,,1,,8,2,2,4,2,3,9,319185
+504,2290,Jefferson State Community College,Biology,2.9,Thomas Baker,4.5,57,92%,3,6,,12,9,22,1,4,,,3,2,6,1,1,13,8,,5,5,997360
+505,2290,Jefferson State Community College,Psychology,3.1,Samuel Jones,3.6,55,69%,4,,1,1,3,4,9,2,1,3,,,1,1,1,,2,3,3,3,443332
+506,2290,Jefferson State Community College,Economics,3.0,Justin Fisher,4.5,53,91%,,7,,1,1,1,,1,,,10,5,3,,1,10,16,,2,7,1141254
+507,2290,Jefferson State Community College,History,2.5,Wendy Shuffett,5.0,53,97%,2,28,,8,7,11,2,4,,,15,12,2,1,1,16,15,,,1,1463040
+508,2290,Jefferson State Community College,Mathematics,3.3,Konstantinos Theodorou,4.0,52,78%,,,,2,3,,1,,1,,2,,5,4,2,2,2,,,2,852650
+509,2290,Jefferson State Community College,Business,3.6,Mildred Lanier,2.9,52,25%,,,,1,,4,6,,1,1,,,4,1,1,1,8,,2,12,1020742
+510,2290,Jefferson State Community College,English,2.2,Mary Kaiser,4.5,52,92%,2,3,,5,5,2,6,14,,,,,1,,5,3,1,1,,,172588
+511,2290,Jefferson State Community College,English,1.3,Mark Youngblood,4.8,48,100%,,4,2,3,12,,7,11,1,,9,1,1,,1,7,1,,,,1156491
+512,2291,JNA Institute of Culinary Arts,Culinary Arts,1.9,Michael Deluca,4.3,9,N/A,,,,,,,,,,,,,,,,,,,,,924537
+513,2291,JNA Institute of Culinary Arts,Culinary Arts,2.2,Roland Pasche,4.3,9,N/A,,,,,,,,,,,,,,,,,,,,,960556
+514,2291,JNA Institute of Culinary Arts,Culinary Arts,3.8,Joseph Digironimo,3.9,8,N/A,,,,,,,,,,,,,,,,,,,,,766245
+515,2291,JNA Institute of Culinary Arts,Culinary Arts,3.8,Sean Matthew McMonagle,5.0,4,N/A,1,,,2,,,,2,1,,,2,,,1,3,,,,,1986434
+516,2292,John A. Gupton College,Mortuary Science,2.0,Tommy North,3.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1089570
+517,2293,John A. Logan College,History,2.4,David Cochran,4.8,24,N/A,,5,,2,1,,3,,,,,2,,,2,4,3,,,,937154
+518,2293,John A. Logan College,Psychology,3.3,Dennis Junge,3.6,21,N/A,,,,,,,1,2,,,1,,,,,2,,,,1,712617
+519,2293,John A. Logan College,English,3.3,Kathleen Carl,4.0,21,N/A,,,,,,,2,,,,,,,2,1,,,,,1,729086
+520,2293,John A. Logan College,Mathematics,3.2,Jennifer Jeter,4.7,20,N/A,4,1,,2,1,1,,1,,,,,,3,,,1,,,,1075736
+521,2293,John A. Logan College,Political Science,2.5,Jane Bryant,4.0,19,N/A,,1,,,1,2,1,1,,,,,2,,4,,1,,,1,769120
+522,2293,John A. Logan College,Biology,3.2,Donna Ford,3.1,19,N/A,,,,,1,,3,,,,,,1,1,2,,,,1,4,936128
+523,2293,John A. Logan College,Psychology,3.4,Kathi Kibler,2.8,18,22%,,1,,,,,,1,3,,1,1,3,1,1,,6,,1,8,790826
+524,2293,John A. Logan College,Biology,2.5,Mahboubeh Tavakoli Nezhad,4.8,17,N/A,,1,,5,4,2,1,,,,,,,,,2,,,,,1781109
+525,2293,John A. Logan College,Mathematics,3.6,Joseph Dethrow,4.2,16,N/A,1,1,,1,1,,,2,,,1,1,,1,,2,2,,,1,857878
+526,2293,John A. Logan College,Biology,3.7,Cheryl Thomas,4.5,16,N/A,,1,,,1,,1,,,,,1,,1,,1,,,,1,940276
+527,2293,John A. Logan College,Mathematics,3.5,Scott Elliott,4.3,16,N/A,,1,,,1,,1,1,,,,,,2,,1,1,,1,,56040
+528,2293,John A. Logan College,Political Science,2.9,Perry Knop,3.6,15,N/A,1,,,2,,1,2,2,,,,,1,,1,,,1,,,146760
+529,2293,John A. Logan College,Biology,3.8,Sue Trammell,2.3,15,N/A,,,,,,1,,,,,,,1,,,,1,,1,1,470265
+530,2293,John A. Logan College,Biology,3.8,Anne Corbin,4.5,15,93%,4,3,1,5,2,7,2,4,,,,,2,,5,3,3,,2,2,2438313
+531,2293,John A. Logan College,English,1.9,Steve Falcone,4.7,14,N/A,,,,,,,,,,,1,1,,,1,,,,,,484380
+532,2293,John A. Logan College,Philosophy,2.6,Maude Grahm,4.3,14,N/A,,,,1,,,,,,,3,1,,,,2,1,,,,583360
+533,2293,John A. Logan College,History,1.8,Tom Carrol,4.7,14,N/A,,,,,,,,,,,,,,,,,,,,,741600
+534,2293,John A. Logan College,Chemistry,4.0,James Elliott,3.5,14,63%,5,1,,1,,,1,2,,,,,4,2,1,,3,1,1,5,1161107
+535,2293,John A. Logan College,Physics,3.9,Mik Sawicki,2.8,13,N/A,,,,,1,,,1,,,,1,,2,,1,,,,4,450915
+536,2293,John A. Logan College,Health Science,1.2,Jodi Hart,4.8,13,N/A,,,,1,,,,,,,1,,,,,1,,,,,694803
+537,2295,John Tyler Community College,Psychology,3.8,Gena Britt,4.2,75,84%,3,16,,4,10,4,9,19,,,7,5,3,8,9,8,5,,,16,916346
+538,2295,John Tyler Community College,Chemistry,2.0,Kristine Smetana,4.8,60,N/A,2,2,,9,1,3,,7,,,3,3,,2,1,5,1,,,2,293345
+539,2295,John Tyler Community College,Psychology,4.3,Myrna Copeland,2.0,53,N/A,,,1,,3,,8,,,,,,3,,,1,7,,,8,1107851
+540,2295,John Tyler Community College,Biology,3.8,Tiffany Randall,4.3,42,100%,3,12,,5,6,2,4,8,,,2,2,3,3,1,3,10,,4,2,1429083
+541,2295,John Tyler Community College,Biology,2.8,Mariano Scian,4.4,41,92%,5,9,,5,6,,4,5,,,2,1,2,12,1,12,6,,,4,1904132
+542,2295,John Tyler Community College,Mathematics,3.1,Deborah Hood,3.3,39,58%,,,,4,7,1,1,4,,,3,1,,5,5,1,2,,1,4,479169
+543,2295,John Tyler Community College,Biology,3.6,Andrea Lister,3.1,38,N/A,,,1,1,1,3,,1,,,,,1,1,,2,8,,,10,1193527
+544,2295,John Tyler Community College,History,3.5,Alyce Miller,4.0,38,80%,14,7,,9,7,,4,13,1,,,,,3,1,1,1,,3,5,1647470
+545,2295,John Tyler Community College,Biology,4.3,Carol Carr,2.7,35,33%,,1,,1,,,4,3,,,,1,3,1,1,,8,,6,7,1011703
+546,2295,John Tyler Community College,English,2.4,Janice Privott,4.8,35,93%,1,4,,8,8,1,10,18,,1,1,9,,5,6,7,1,4,,,1734274
+547,2295,John Tyler Community College,Biology,3.8,John Koch,4.3,33,N/A,,,,1,,,,1,,,,,3,3,,,,,,6,904449
+548,2295,John Tyler Community College,Biology,3.2,Marty Montpetit,4.5,33,100%,1,5,1,3,2,,1,4,,,5,1,3,,4,3,7,,2,1,1863849
+549,2295,John Tyler Community College,Mathematics,2.6,Sabah Saleem,4.4,32,100%,1,3,,5,2,,,2,,,5,1,,2,4,1,2,,,4,1528975
+550,2295,John Tyler Community College,History,3.0,Sharon Burham,4.3,31,N/A,,1,,,,,4,,,,,1,2,1,1,1,,1,1,1,419126
+551,2295,John Tyler Community College,English,2.3,Marygrace Paden,4.8,31,N/A,,,,3,2,1,2,6,,,,2,1,,,4,1,,,4,642473
+552,2295,John Tyler Community College,Sociology,1.7,Dwight Williams,4.2,31,N/A,,1,,,,,,,1,,,1,1,,2,1,,,,,1089584
+553,2295,John Tyler Community College,History,3.5,David Head,3.2,30,N/A,,1,,,,,3,2,1,,,,2,2,1,,,,1,4,368269
+554,2295,John Tyler Community College,Mathematics,3.4,Edward Dail,2.5,29,33%,,,,2,1,,,,,,,,5,3,1,1,4,,2,3,1128087
+555,2295,John Tyler Community College,Information Science,3.4,Patricia Silva-Santisteban,2.3,29,25%,1,,1,1,1,1,4,2,,,,,2,10,8,,11,,2,9,1135705
+556,2295,John Tyler Community College,Health Science,3.0,Lisa Raum,3.6,26,57%,1,2,,1,1,2,7,5,,1,1,2,9,1,4,,4,,,6,1750623
+557,2296,John Wood Community College,History,3.3,David Harbin,4.4,23,N/A,,2,,1,,1,2,2,,,,,2,1,,1,,,,2,276175
+558,2296,John Wood Community College,Humanities,1.4,David Palmer,4.8,14,N/A,,,,,,,,,,,,,,,,,,,,,772880
+559,2296,John Wood Community College,English,2.8,Christine Wiewel,3.1,14,N/A,,,,,1,1,,1,,,,,2,2,,,,,1,2,343266
+560,2296,John Wood Community College,English,3.9,Lynne Weller,2.8,13,N/A,,,,,,,,,,,,,,,,,,,,,359244
+561,2296,John Wood Community College,Sociology,2.2,Tiffany Frericks,4.9,13,N/A,,4,,1,,1,,2,,,,1,,,1,1,,,,,915338
+562,2296,John Wood Community College,Mathematics,3.5,S Harris,3.1,10,N/A,,,,,,,,,1,,,,,,,,1,,1,,772878
+563,2296,John Wood Community College,Humanities,2.9,Patrick Fodor,3.2,9,N/A,,1,,,,2,,,,,,,,,,,1,,1,1,1139945
+564,2296,John Wood Community College,Biology,4.1,Paula Edgar,3.0,9,N/A,,,,1,,,1,1,,,,,,,,1,1,,,,1290554
+565,2296,John Wood Community College,Biology,3.5,Chris Kaelke,5.0,8,N/A,,1,,2,,,,1,,,,1,,,1,2,1,,,,869185
+566,2296,John Wood Community College,Not Specified,2.1,Christina Farwell,5.0,8,N/A,1,,,2,3,1,,2,,1,,,,,1,1,,,,,1623999
+567,2296,John Wood Community College,Psychology,2.4,Randall Egdorf,4.6,5,N/A,,1,,,,,,,,,,1,,,,,,,,,1372512
+568,2296,John Wood Community College,Computer Science,2.4,Joan Mast,4.0,5,N/A,,,,,1,1,,,,,1,,,,1,,,,1,1,1749952
+569,2296,John Wood Community College,Mathematics,3.0,Sandi Jett,4.5,4,N/A,,,,,,,,,,,,,,,,,,,,,585684
+570,2296,John Wood Community College,Economics,3.7,Mark Tyrpin,2.5,4,N/A,,,,,,1,,,,,,,,,,,,,,,586922
+571,2296,John Wood Community College,English,3.8,Valerie Vlahakis,3.4,4,N/A,,,,,,,,,,,,,,,,,,,,,601516
+572,2296,John Wood Community College,Science,2.3,Mark Moore,4.5,4,N/A,,,,,,,,,,,,,,,,,,,,,772888
+573,2296,John Wood Community College,English,1.3,Mike Terry,4.9,4,N/A,,,,1,1,,,1,,,,,,,,1,,,,,772894
+574,2297,Johnson County Community College,English,2.6,Greg Dixon,3.6,248,82%,25,11,5,12,26,15,2,81,8,56,54,16,12,5,44,45,39,6,,13,1404549
+575,2297,Johnson County Community College,Philosophy,3.2,Omar Conrad,4.3,185,80%,,25,2,8,6,,15,8,6,,7,13,21,,1,22,15,,6,11,198190
+576,2297,Johnson County Community College,Economics,2.3,Frank Syracuse,4.3,160,100%,,9,,9,2,8,6,5,,,15,8,,4,5,6,7,,,4,85945
+577,2297,Johnson County Community College,Economics,1.9,Sheryl Hadley,4.8,158,89%,3,17,,6,8,7,5,15,,,17,2,,4,7,9,2,,,2,466549
+578,2297,Johnson County Community College,Accounting,2.7,Dave Krug,4.7,143,97%,5,24,1,12,7,,1,17,1,,13,9,4,12,1,13,7,,1,2,466264
+579,2297,Johnson County Community College,Biology,2.0,Jean Ann Vickers,4.9,141,91%,,10,1,12,10,24,1,14,1,,17,5,4,7,1,19,5,,,2,356399
+580,2297,Johnson County Community College,Economics,2.6,Dan Owens,4.8,135,100%,2,23,,10,11,6,3,12,,,24,12,2,1,12,25,4,,,,481190
+581,2297,Johnson County Community College,Biology,4.1,David Loring,2.9,132,54%,1,1,1,1,2,,8,4,2,,,,7,1,1,1,5,,6,8,572828
+582,2297,Johnson County Community College,Political Science,2.9,Brian Wright,3.6,127,66%,8,2,,13,8,12,10,24,4,2,15,11,4,4,30,36,7,4,3,8,272456
+583,2297,Johnson County Community College,Psychology,2.2,Pete Peterson,4.6,117,100%,,13,,12,6,,,8,,,3,8,4,2,1,6,7,2,1,4,26690
+584,2297,Johnson County Community College,Psychology,1.3,Ryan Darrow,4.9,112,97%,1,41,,13,4,1,2,3,2,,40,19,1,,1,18,1,,1,1,1716932
+585,2297,Johnson County Community College,Mathematics,3.1,Brian Balman,4.3,110,88%,5,2,,8,4,1,,4,1,,8,3,1,12,1,6,5,,,,85943
+586,2297,Johnson County Community College,Sociology,3.0,James Divney,2.7,104,26%,2,2,,1,7,1,11,,2,,7,,14,1,,1,2,,1,6,410823
+587,2297,Johnson County Community College,Biology,3.0,Deborah Williams,4.1,103,86%,1,,,7,1,,9,2,1,,,1,3,1,1,8,,,,6,538896
+588,2297,Johnson County Community College,English,3.5,Matthew Schmeer,3.7,100,67%,1,,,1,8,,7,15,1,,10,1,4,4,6,7,4,13,,16,522456
+589,2297,Johnson County Community College,Psychology,3.5,Toby Klinger,2.5,99,28%,,2,1,1,,5,20,4,,3,,2,5,15,10,1,3,2,4,12,274916
+590,2297,Johnson County Community College,Biology,2.8,Nancy Holcroft Benson,4.5,95,100%,1,5,,9,5,14,,6,,,,3,1,1,2,8,1,,5,1,552171
+591,2297,Johnson County Community College,Chemistry,3.4,Barry Herron,4.3,94,88%,2,5,2,7,7,,,7,,,8,1,2,1,4,7,8,1,,6,275545
+592,2297,Johnson County Community College,Philosophy,3.2,Dawn Gale,3.9,94,94%,3,5,,8,3,,7,16,,,,1,9,6,5,4,5,,1,8,466345
+593,2297,Johnson County Community College,Mathematics,2.7,Craig Jaggard,4.6,93,96%,2,16,5,15,20,3,,21,4,,41,5,1,4,6,16,27,,4,6,1373515
+594,2298,Johnson College,English,4.6,Edward Altman,2.3,11,N/A,,,,,,,,,,,,,,,,,,,,,614222
+595,2298,Johnson College,Mathematics,2.8,Richard Masura,4.8,6,N/A,,,,,,,,,,,,,,,,,,,,,527237
+596,2298,Johnson College,Computer Science,1.7,Joseph Polinsky,4.4,6,N/A,,,,1,,,,2,,,1,1,,,,1,,,,,774768
+597,2298,Johnson College,Architecture,2.6,John Deangelis,4.2,5,N/A,,,,,,,,,,,,,,,,,,,,,527231
+598,2298,Johnson College,Not Specified,2.6,Joan Bonczek,4.4,5,N/A,,,,,,,,,,,,,,,,,,,,,1734621
+599,2298,Johnson College,Business,1.0,Linda Falcone,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1386499
+600,2298,Johnson College,Computer Science,2.0,Chieskevitch Steve,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,820011
+601,2298,Johnson College,Social Work,2.0,Linda Learn,5.0,1,N/A,,1,,1,1,,,,,,,,,,,,,,,,1105915
+602,2299,Johnston Community College,Philosophy,1.9,John Lee,4.7,36,100%,,7,,1,1,3,,4,1,,10,2,,,1,6,,3,,,706600
+603,2299,Johnston Community College,English,2.9,Elizabeth Baker,4.8,36,96%,4,2,3,7,2,6,3,18,1,4,13,3,,,2,7,5,1,,2,1720677
+604,2299,Johnston Community College,English,1.7,Travis Mulhauser,4.9,24,N/A,,,,,,,,,,,,,,,,,,,,,1172335
+605,2299,Johnston Community College,Psychology,3.8,Sherwood Williams,3.5,17,N/A,,1,,,2,,1,2,,,,,2,,,1,,,,2,284264
+606,2299,Johnston Community College,English,2.6,Susan Austin,4.2,17,83%,1,1,,3,2,2,1,10,,,2,3,,,3,4,,2,,5,1831193
+607,2299,Johnston Community College,Communication,2.6,Courtney Bobb-Meilinger,3.8,16,71%,,2,,2,2,,,2,2,1,4,1,1,1,4,4,,,,2,1626372
+608,2299,Johnston Community College,Biology,3.8,Lisa Draughon,3.8,16,80%,,1,1,3,1,1,,1,,,2,1,1,1,2,3,4,,,3,1779519
+609,2299,Johnston Community College,Languages,2.5,Jennifer Horvath,4.2,15,83%,1,,,5,2,1,,3,,1,,,,4,1,,3,,,,1981856
+610,2299,Johnston Community College,Chemistry,3.9,Tom Tighe,3.6,14,N/A,,,,,,,,,,,,,,,,,,,,,709285
+611,2299,Johnston Community College,Biology,2.5,Naheel Awadallha,4.9,13,N/A,,,,,,,,,,,,,,,,,,,,,877601
+612,2299,Johnston Community College,Economics,3.1,Thomas Martin,3.5,12,N/A,,,,,,,,,,,,,2,,,1,1,,,1,240802
+613,2299,Johnston Community College,Religion,4.1,Jocleen McCall,2.5,11,N/A,,,,,,,2,,,,,,,1,2,,,,,2,867001
+614,2299,Johnston Community College,Not Specified,1.7,Frank Casanova,4.4,10,N/A,,,,,,,,,,,,,,,,,,,,,282264
+615,2299,Johnston Community College,Communication,3.2,Jane Robbins,2.1,10,N/A,,,,,,,,,,,,,,,,,,,,,730651
+616,2299,Johnston Community College,English,2.7,Stephanie Capps,5.0,10,N/A,,,,,,,,,,,,,,,,,,,,,804681
+617,2299,Johnston Community College,Medicine,4.1,Monica Dunnahoo,3.4,10,N/A,,,,,,1,,1,,,,,,,,,1,,,,822820
+618,2299,Johnston Community College,Biology,1.5,Barry Keith,4.6,10,N/A,,,,,1,,,1,,,,,,2,,1,1,,,,951949
+619,2299,Johnston Community College,Physics,2.6,Aaron Brickman,5.0,10,N/A,3,1,,2,1,,,2,,1,,,1,,,1,,,,,1549973
+620,2299,Johnston Community College,Chemistry,4.2,Rachel Davis,2.7,10,N/A,1,,,,,,,1,,,,,2,2,1,,4,,,4,1843341
+621,2299,Johnston Community College,Biology,3.4,David Thomas,4.9,10,100%,1,2,,6,4,1,,5,,,,1,1,1,1,3,,,,,1869697

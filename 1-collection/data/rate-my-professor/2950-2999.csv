@@ -1,0 +1,702 @@
+,campus_id,campus_name,dept,difficulty,name,quality,rating_count,retake,tag_accessibleoutsideclass,tag_amazinglectures,tag_bewareofpopquizzes,tag_caring,tag_cleargradingcriteria,tag_extracredit,tag_getreadytoread,tag_givesgoodfeedback,tag_gradedbyfewthings,tag_groupprojects,tag_hilarious,tag_inspirational,tag_lectureheavy,tag_lotsofhomework,tag_participationmatters,tag_respected,tag_skipclassyouwon'tpass,tag_somanypapers,tag_testheavy,tag_toughgrader,tid
+0,2950,Leeward Community College,Accounting,2.5,Roy Kamida,4.6,898,N/A,,,,1,5,,1,1,,1,,,1,3,1,3,,,,3,921240
+1,2950,Leeward Community College,Social Science,1.4,Ernest Libarios,4.6,214,N/A,,2,,15,,,,27,,,16,24,1,,5,23,3,,,,1331555
+2,2950,Leeward Community College,Mathematics,2.5,Mike Lee,4.4,198,N/A,,,,,1,,,2,,,,,,1,,1,,,,,218152
+3,2950,Leeward Community College,English,2.1,Kathryn Fujioka-Imai,4.8,128,100%,,,3,9,10,2,2,14,,2,,4,,,2,5,2,1,,,1072191
+4,2950,Leeward Community College,Religion,2.4,Jay Sakashita,4.7,114,90%,,14,2,3,1,,,1,1,,17,11,2,,,4,6,,1,,463813
+5,2950,Leeward Community College,Geology,3.6,Kakkala Mohanan,2.8,110,27%,,,6,3,,5,10,3,,,1,1,1,5,1,1,4,,2,10,294336
+6,2950,Leeward Community College,Science,2.9,Helmut Kae,4.6,110,97%,1,12,1,11,15,15,1,8,1,4,10,8,,1,11,13,7,,1,1,1125865
+7,2950,Leeward Community College,Chemistry,3.9,Michael Reese,4.0,108,81%,5,13,4,3,1,,5,2,1,,2,2,3,4,1,6,6,,3,14,293095
+8,2950,Leeward Community College,Sociology,2.0,Corey Adler,4.7,86,92%,,11,,1,1,2,5,7,1,1,14,4,1,1,6,4,2,,,2,1190820
+9,2950,Leeward Community College,Anthropology,3.7,Weirong Cai,2.9,86,25%,,,,,1,4,7,,4,,,,5,,1,,5,,4,8,329907
+10,2950,Leeward Community College,Hawaiian Studies,3.4,Momi Kamahele,3.3,82,67%,,,,1,3,,12,,,3,,1,,3,2,4,10,,,10,476093
+11,2950,Leeward Community College,History,1.7,James Fujita,4.7,81,83%,,7,,,6,4,1,2,2,,12,,4,,1,2,7,1,1,2,674806
+12,2950,Leeward Community College,English,2.9,Jeremiah Boydstun,4.7,79,100%,1,,1,5,5,3,3,13,1,1,1,,,3,1,4,7,1,,4,621728
+13,2950,Leeward Community College,Psychology,3.0,Zenaida Estrada,2.2,76,N/A,,,,,3,,1,,,2,1,,,1,3,,4,,,,218161
+14,2950,Leeward Community College,Fine Arts,2.6,Stephanie Palombo,4.1,76,86%,10,,,16,12,1,,12,2,,4,12,1,,12,9,8,1,,1,464123
+15,2950,Leeward Community College,English,1.8,Lance Morita,4.7,76,94%,2,1,,6,4,,1,15,1,,16,5,,3,4,6,5,,,,893024
+16,2950,Leeward Community College,Psychology,2.4,Richard Crandall,4.1,75,77%,2,5,,7,13,,6,2,,,4,,11,,3,5,14,,4,1,628860
+17,2950,Leeward Community College,Mathematics,3.1,Emily Uribe,4.0,74,86%,1,,,3,6,,,5,,,7,,,2,,1,1,,,1,217661
+18,2950,Leeward Community College,Psychology,2.1,Richard Yu,4.3,71,N/A,,1,,,4,3,4,,,,9,2,3,,1,2,4,,,1,306167
+19,2950,Leeward Community College,Psychology,1.9,Elsie Hyde,4.3,71,N/A,,1,,7,2,12,1,1,1,,2,1,4,,,6,1,,,3,641390
+20,2951,University of Hawaii Maui College,Communication,3.8,Ron St. John,2.4,51,23%,,,,3,1,,3,6,2,1,,1,6,8,10,,16,4,,16,517907
+21,2951,University of Hawaii Maui College,Mathematics,2.8,Tom Beran,4.0,42,86%,1,3,,1,5,3,1,3,,,2,,,4,2,2,2,,,2,605266
+22,2951,University of Hawaii Maui College,Psychology,3.6,Lynn Yankowski,4.7,41,N/A,,4,,1,1,1,,2,,,1,2,,1,2,1,,,1,2,627425
+23,2951,University of Hawaii Maui College,Humanities,1.7,Craig Gardner,4.8,31,100%,,3,,2,1,,1,2,,,4,5,,,1,7,2,,,,627431
+24,2951,University of Hawaii Maui College,Biology,3.0,Sean Calder,4.4,31,100%,,2,,1,5,7,1,1,1,,1,,3,4,,4,2,,1,3,727987
+25,2951,University of Hawaii Maui College,History,1.2,Bert Kikuchi,4.5,28,N/A,,2,,1,,,,,,,,2,1,,,1,,,,,627428
+26,2951,University of Hawaii Maui College,Science,4.0,Sally Irwin,2.9,22,50%,2,1,,1,1,3,5,,,,,,5,,,,1,,3,8,1088115
+27,2951,University of Hawaii Maui College,Mathematics,4.6,Kathleen Acks,2.1,22,N/A,1,,,1,1,,,1,,,,,2,5,1,1,5,1,,6,1563468
+28,2951,University of Hawaii Maui College,English,3.4,Emily White,4.4,21,N/A,,,,,1,,1,1,,,,,,1,,,2,,,,1513295
+29,2951,University of Hawaii Maui College,Religion,3.3,Bud Clark,3.8,20,67%,1,2,,,1,,2,3,,,1,,3,1,2,3,2,1,,1,627430
+30,2951,University of Hawaii Maui College,Anthropology,1.7,Melissa Kirkendall,4.8,19,N/A,,4,,4,,,3,2,,1,2,2,,,1,5,,,,,1567558
+31,2951,University of Hawaii Maui College,English,3.1,Morgan Andaluz,4.1,18,N/A,,,,1,2,,3,5,,,3,1,,1,,,,1,,,926585
+32,2951,University of Hawaii Maui College,Chemistry,4.1,Bret Bessac,3.4,18,65%,8,2,,4,1,2,3,1,,,1,,9,5,,3,4,,3,1,2131300
+33,2951,University of Hawaii Maui College,English,2.5,Tim Marmack,4.8,17,100%,,4,,,4,,1,5,,,1,2,,,2,4,,,,,720657
+34,2951,University of Hawaii Maui College,Psychology,2.7,Paul Thornton,5.0,17,100%,7,9,,4,2,3,1,2,,1,8,2,,,5,4,2,,,,2196694
+35,2951,University of Hawaii Maui College,Business,2.9,Robyn Klein,4.0,16,N/A,,,,2,1,,2,1,,,1,,,,2,,1,,,2,420016
+36,2951,University of Hawaii Maui College,Mathematics,2.5,Samantha Bowe,4.5,15,89%,1,2,,7,3,,,7,,,,3,,2,3,9,1,,1,,1912087
+37,2951,University of Hawaii Maui College,Ethnic Studies,2.8,Kaleikoa Kaeo,4.7,14,N/A,,1,1,2,,,,,,,1,2,,,,2,,,,,741256
+38,2951,University of Hawaii Maui College,Communication,1.6,Whitney Hashimoto,4.8,13,100%,,4,,1,4,,1,3,,,,2,,2,6,4,5,1,,1,1802786
+39,2951,University of Hawaii Maui College,History,2.7,Michael Ryan,4.0,13,88%,2,2,,1,1,1,7,2,2,1,3,,,,4,2,1,1,,2,1910217
+40,2952,University of Hawaii: Windward Community College,Psychology,2.1,Frank Palacat,4.4,54,86%,,1,,1,3,,5,1,2,4,5,1,1,3,11,4,2,,,,340165
+41,2952,University of Hawaii: Windward Community College,Sociology,3.0,Kathleen French,4.4,50,73%,2,6,,5,4,,1,9,1,,1,6,,1,3,9,,1,1,4,722366
+42,2952,University of Hawaii: Windward Community College,Economics,2.3,Paul Briggs,4.5,40,N/A,,2,,2,5,,2,4,,,2,1,,4,1,2,4,,,2,697029
+43,2952,University of Hawaii: Windward Community College,History,1.8,Malia Lau Kong,4.8,29,N/A,,,,1,2,2,3,1,,,,,,3,1,,,1,,,1056330
+44,2952,University of Hawaii: Windward Community College,Health Science,3.8,Allison Beale,3.3,28,N/A,,3,,2,5,3,,1,,,,,1,1,1,1,6,2,1,4,1175577
+45,2952,University of Hawaii: Windward Community College,Mathematics,2.0,Jody-Lynn Storm,4.8,28,100%,2,3,,1,3,1,,2,,,6,1,,2,,6,2,,,,1239916
+46,2952,University of Hawaii: Windward Community College,Psychology,2.3,Falisha Herbic,4.2,28,60%,,2,6,,1,3,8,2,,,,,1,6,3,3,4,,2,2,1206796
+47,2952,University of Hawaii: Windward Community College,Biology,3.8,Michelle Smith,2.8,27,83%,,1,,2,,3,2,4,,,1,1,2,3,,2,2,,1,2,1514851
+48,2952,University of Hawaii: Windward Community College,Mathematics,3.8,Jean Okumura,3.4,26,67%,1,,,3,1,,,,,,,,,4,,4,3,,,8,613003
+49,2952,University of Hawaii: Windward Community College,Mathematics,4.3,Wei-ling Landers,2.8,24,N/A,,,,,,,,,,,,,,,,,,,,,340155
+50,2952,University of Hawaii: Windward Community College,Geology,2.8,Floyd McCoy,3.7,24,N/A,,,,,,,,,,,,1,,,,,,,,,581540
+51,2952,University of Hawaii: Windward Community College,Biology,3.8,Ross Langston,3.9,24,N/A,,1,,,1,1,1,,,,1,,2,,1,,1,,1,2,706824
+52,2952,University of Hawaii: Windward Community College,Writing,3.0,Annette Priesman,4.4,22,83%,,,,3,2,1,2,5,2,,,4,1,2,,2,4,2,,3,1731378
+53,2952,University of Hawaii: Windward Community College,Religion,2.1,Sarah Hadmack,4.5,22,N/A,,2,1,2,4,3,4,3,,1,,2,,3,1,3,1,,,,1092165
+54,2952,University of Hawaii: Windward Community College,Mathematics,2.3,Clayton Akatsuka,5.0,21,N/A,,2,,2,1,,,1,,,1,,,,,6,1,,,2,1047090
+55,2952,University of Hawaii: Windward Community College,Philosophy,2.4,Ron Loo,4.6,20,N/A,,,,,,,,,,,,,,,1,,2,,,,537800
+56,2952,University of Hawaii: Windward Community College,History,3.6,Janice Nuckols,4.6,19,N/A,,,,,,,,,,,,,,,,,,,,,340157
+57,2952,University of Hawaii: Windward Community College,Chemistry,2.6,Leticia Colmenares,4.2,19,60%,,,1,2,1,6,3,1,,,,,1,3,4,2,,,1,4,929136
+58,2952,University of Hawaii: Windward Community College,Accounting,3.0,Deacon Hanson,4.1,19,N/A,,,,,2,1,2,2,1,,,,,3,,2,,,,,1394404
+59,2952,University of Hawaii: Windward Community College,History,2.6,Phillip Hagstrom,4.4,18,N/A,,,,,,,,,,,,,,,,,,,,,140268
+60,2953,University of Pittsburgh at Titusville,Mathematics,3.3,James Henderson,3.6,20,N/A,,,,,,,,,,,,,,,,,,,,,103435
+61,2953,University of Pittsburgh at Titusville,History,2.8,Richard Mulcahy,4.3,16,N/A,1,1,,1,,,,,1,,2,1,,,,,1,,,,96881
+62,2953,University of Pittsburgh at Titusville,Psychology,2.4,Erica Altomare,4.5,16,N/A,,,,,,,,,,,,,,,,,,,,,96894
+63,2953,University of Pittsburgh at Titusville,Science,4.1,Nancy Tress,3.6,15,N/A,,,,,,,2,,,,,,,,,2,2,,,,103440
+64,2953,University of Pittsburgh at Titusville,English,3.7,Phil Atteberry,3.4,15,N/A,,,,,2,,1,1,,,,,,,1,,,,,,103444
+65,2953,University of Pittsburgh at Titusville,Sociology,2.0,Kim Huegel,3.9,14,N/A,,,,,,,,,,,,,,,,,,,,,150609
+66,2953,University of Pittsburgh at Titusville,Anthropology,4.3,Linda Winkler,2.2,12,N/A,,,,,,,,,,,,,,,,,,,,,103298
+67,2953,University of Pittsburgh at Titusville,Engineering,4.7,Saied Dubas,1.3,11,N/A,,,,,,,,,,,,,,,1,,,,,,655160
+68,2953,University of Pittsburgh at Titusville,English,1.4,Herbert Kitson,4.2,10,N/A,,,,,,,,,,,,,,,,,,,,,96875
+69,2953,University of Pittsburgh at Titusville,Chemistry,3.3,Ping Furlan,4.3,10,N/A,,,,,,,,,,,,,,,,,,,,,800234
+70,2953,University of Pittsburgh at Titusville,Computer Science,4.1,Melanie Anderson,2.6,9,N/A,,,,,,,,,,,,,,,,,,,,,150643
+71,2953,University of Pittsburgh at Titusville,History,3.5,Mary Ann Barber,3.9,8,N/A,,,,,,,,,,,,,,,,,,,,,99466
+72,2953,University of Pittsburgh at Titusville,Science,2.9,Christopher Coat,4.2,8,N/A,,,,,,,,,,,,,,,,,,,,,103438
+73,2953,University of Pittsburgh at Titusville,Computer Science,4.3,Wilhelmina Messmer,3.4,8,N/A,,,,,,,,,,,,,,,1,1,,,,1,483512
+74,2953,University of Pittsburgh at Titusville,Business,2.3,Larry Carr,4.5,7,N/A,,,,,,,,,,,,,1,,1,,1,,,,173069
+75,2953,University of Pittsburgh at Titusville,English,2.9,Dr Hall,4.2,7,N/A,,,,,,,,,,,,,,,,,,,,,295852
+76,2953,University of Pittsburgh at Titusville,Social Science,2.0,Jeff Schneider,4.2,6,N/A,,,,,,,,,,,,,,,,,,,,,103436
+77,2953,University of Pittsburgh at Titusville,Mathematics,2.3,Paul Bouthellier,4.8,6,N/A,,,,,,,,,,,,,,,,,,,,,1246166
+78,2953,University of Pittsburgh at Titusville,Biology,3.6,Robin Choo,3.4,5,N/A,,,,,,,,,,,,,,,,,,,,,928676
+79,2953,University of Pittsburgh at Titusville,Health Science,4.0,Rick Cribbs,3.5,5,N/A,,,,,,,,,,,,,,,,,,,,,1127312
+80,2954,University of South Carolina at Beaufort,History,3.2,Robert Landrum,3.5,38,N/A,,2,,,,3,1,,1,,,,5,,,,2,4,,4,131052
+81,2954,University of South Carolina at Beaufort,Chemistry,4.2,Gordan Sproul,2.8,35,33%,,,2,,,,4,,1,,,,1,,,,4,,,5,473501
+82,2954,University of South Carolina at Beaufort,Sociology,3.9,Deb Cohan,3.1,34,64%,1,2,,2,1,,11,6,5,2,6,2,,,13,3,8,,1,13,1764987
+83,2954,University of South Carolina at Beaufort,Spanish,2.5,Rena Kratky,4.8,32,100%,1,,,10,3,4,,4,,,,,,3,3,4,2,,,,1265173
+84,2954,University of South Carolina at Beaufort,Theater,3.0,John Blair,3.6,26,N/A,,,,1,,,,1,,,1,,,,,,,,,,231984
+85,2954,University of South Carolina at Beaufort,Mathematics,2.6,Akira Iwasa,4.6,25,N/A,,,,,4,,,1,,,1,,,3,1,,4,,,2,426976
+86,2954,University of South Carolina at Beaufort,History,4.0,Somers Miller,1.9,20,N/A,,,,,,,,,,,,,,,,,,,,,231986
+87,2954,University of South Carolina at Beaufort,Mathematics,2.9,Ron Baslaw,3.4,20,N/A,,,,,,,,,,,,,,,,,,,,,337226
+88,2954,University of South Carolina at Beaufort,English,2.5,Ellen Malphrus,3.6,19,N/A,,,,,,,1,,,,,,,,1,,1,,,,505389
+89,2954,University of South Carolina at Beaufort,Psychology,1.8,Linda Wilson,4.3,19,N/A,,,,,,,,,1,,3,,4,,,,2,,,,857198
+90,2954,University of South Carolina at Beaufort,Psychology,2.5,Roy Darby,4.8,18,N/A,,,,,,,,,,,,,,,,,,,,,231988
+91,2954,University of South Carolina at Beaufort,English,3.1,Robert Kilgore,3.0,17,N/A,,1,,1,,,1,1,,,1,,1,,,1,,2,,1,1055290
+92,2954,University of South Carolina at Beaufort,Biology,2.6,Stephen Borgianini,4.3,16,N/A,1,,,1,3,1,,,,,,,,,1,4,,,,,1046078
+93,2954,University of South Carolina at Beaufort,Biology,3.5,Giuliana Gusmaroli,3.7,16,N/A,,1,,,,,,,,,,,,,,,1,,,,1246648
+94,2954,University of South Carolina at Beaufort,Speech,2.9,Jayne Violette,4.9,16,100%,2,3,,9,1,,1,9,,,2,8,,,4,6,,,,1,1947896
+95,2954,University of South Carolina at Beaufort,Mathematics,3.5,Cynthia Fort,3.5,15,N/A,,,,,,,,,,,,,,,,,,,,,958208
+96,2954,University of South Carolina at Beaufort,Spanish,2.7,Jim Griesse,4.5,15,N/A,,,,,,,,,,,,,,1,1,,1,,,,1167075
+97,2954,University of South Carolina at Beaufort,English,3.4,Carl Eby,4.9,14,N/A,,,,,,,,,,,,,,,,,,,,,231979
+98,2954,University of South Carolina at Beaufort,Spanish,2.8,Juanita-Villena Alvarez,4.8,14,N/A,,,,,1,,,1,,,,,1,1,,,1,,,1,231991
+99,2954,University of South Carolina at Beaufort,Art History,3.6,L. Ciresi,4.4,14,N/A,,1,,,1,,1,,,,,,1,,1,,1,,,,1091617
+100,2955,University of South Carolina at Lancaster,History,2.4,Richard Van Hall,4.8,26,N/A,,1,,1,1,,,1,,,2,,1,,,3,2,,1,,299781
+101,2955,University of South Carolina at Lancaster,English,1.9,Kim Covington,4.8,22,N/A,3,,,1,1,,2,5,,,,,1,,,,,,,,232368
+102,2955,University of South Carolina at Lancaster,Philosophy,2.4,John Catalano,4.2,17,N/A,,,,,,,1,,,,,,,,2,1,1,,,,338282
+103,2955,University of South Carolina at Lancaster,Mathematics,3.8,Dwayne Brown,2.8,17,N/A,1,,,,1,1,,,,1,,,2,,1,,1,,,1,399329
+104,2955,University of South Carolina at Lancaster,Languages,2.7,D Hassell,4.7,15,N/A,1,,,1,,,,1,,,,,,,1,1,1,,,,644626
+105,2955,University of South Carolina at Lancaster,Music,1.5,Erin Moon-Kelly,3.4,15,55%,,,1,,3,7,,1,,,4,,3,,2,,5,,,,1449195
+106,2955,University of South Carolina at Lancaster,Biology,3.5,Todd Scarlett,3.5,13,N/A,,,,,,,,,,,,,,,,1,1,1,,,644627
+107,2955,University of South Carolina at Lancaster,English,3.2,Nicholas Lawrence,3.9,13,N/A,2,1,,,,,2,,,,2,,,1,,,,1,,2,1605386
+108,2955,University of South Carolina at Lancaster,History,1.7,Peter Barry,4.1,12,N/A,,,,,,,,,,,,,,,,,,,,,342961
+109,2955,University of South Carolina at Lancaster,Mathematics,2.0,Kitty Jackson,4.4,12,N/A,,,,,,,,,,,,,,,,,,,,,599124
+110,2955,University of South Carolina at Lancaster,Theater,3.6,Howard Kingkade,3.5,12,N/A,,,,,,,,3,2,,1,,,2,2,,4,,,4,649471
+111,2955,University of South Carolina at Lancaster,Biology,3.5,Annette Golonka,4.3,12,N/A,2,1,,,2,,1,2,,,,1,,,,1,1,,3,,1597806
+112,2955,University of South Carolina at Lancaster,Psychology,2.9,Diane Evans,4.1,10,N/A,,,,,,,,,,,,,,,,,,,,,399136
+113,2955,University of South Carolina at Lancaster,Psychology,2.7,Mark Coe,3.8,10,N/A,,,2,,1,,2,1,,,,,1,2,,,,,,1,1004545
+114,2955,University of South Carolina at Lancaster,English,2.4,Bruce Nims,4.0,9,N/A,,,,,,,,,,,,,,,,,,,,,90009
+115,2955,University of South Carolina at Lancaster,Anthropology,2.2,Nancy Hazam,4.3,9,N/A,,,,,,,,,,,,,,,,,,,,,174019
+116,2955,University of South Carolina at Lancaster,English,4.3,Christopher Bundrick,4.1,9,N/A,1,,,,,,2,1,,,1,,,,,2,,,,2,1449272
+117,2955,University of South Carolina at Lancaster,Mathematics,1.6,Jerry Currence,4.4,8,N/A,,,,,2,,,2,,,,1,,,1,1,,,,,174020
+118,2955,University of South Carolina at Lancaster,History,3.5,Ron Cox,4.5,8,N/A,,,,,,,,,,,,,,,,,,,,,423776
+119,2955,University of South Carolina at Lancaster,Geology,1.0,Lynette Martek,4.6,8,N/A,,,,,,,,,,,,,,,,,,,,,1185480
+120,2956,University of South Carolina at Sumter,History,2.9,David Decker,4.7,47,90%,3,2,,1,2,1,,4,1,,2,1,3,,,6,2,,,3,19359
+121,2956,University of South Carolina at Sumter,Chemistry,2.3,James Privett,4.5,37,80%,1,1,1,,3,1,1,3,,,,2,1,2,1,6,7,,1,,642103
+122,2956,University of South Carolina at Sumter,English,3.7,Park Bucker,3.3,31,N/A,,,1,,,,3,3,,,,,,,4,1,3,,,,91546
+123,2956,University of South Carolina at Sumter,Theater,2.2,Eric Hauser,4.5,25,N/A,,,,,,,,,,,,,,,,,,,,,226358
+124,2956,University of South Carolina at Sumter,Psychology,4.0,Salvador Macias,4.2,25,N/A,1,,,,,,1,3,,,,,,,,1,2,,,4,394501
+125,2956,University of South Carolina at Sumter,History,3.8,Eric Reisenauer,4.4,24,N/A,,,,,,,,,,,,,,,,,,,,,607482
+126,2956,University of South Carolina at Sumter,English,4.0,M Reese,2.0,23,N/A,,,1,,,,1,,,,,,,,2,,1,,,4,597345
+127,2956,University of South Carolina at Sumter,Biology,2.5,Pearl Fernandes,4.3,22,100%,3,1,,3,2,,,1,,,,1,,,1,,,,,,616480
+128,2956,University of South Carolina at Sumter,History,4.1,Tom Powers,3.6,21,N/A,,,,,,,,,,,,,,,,,,,,,546122
+129,2956,University of South Carolina at Sumter,Music,1.3,J.L. Smith,4.1,19,N/A,,,,1,,,,,,,,1,,,,1,,,,,19358
+130,2956,University of South Carolina at Sumter,Psychology,2.9,Robert Castleberry,3.8,19,N/A,,,,,,,2,1,,,,1,1,,,,,,1,,546125
+131,2956,University of South Carolina at Sumter,Anthropology,2.1,J.T. Myers,4.7,18,N/A,,1,,1,,,,,1,,1,,1,,,,,,,,91547
+132,2956,University of South Carolina at Sumter,Mathematics,3.2,Rigoberto Florez,3.8,18,N/A,,,,,,,,,,,,,,,,,,,,,783020
+133,2956,University of South Carolina at Sumter,Philosophy,4.5,John Safford,2.9,17,N/A,,,,,,,,,,,,,,,,,,,,,19346
+134,2956,University of South Carolina at Sumter,Biology,3.4,Steve Bishoff,3.8,17,N/A,,,,1,,,,,,1,,,1,,,,,,,,821609
+135,2956,University of South Carolina at Sumter,Sociology,2.2,Blane Dasilva,4.6,17,N/A,,1,,,,,,,,,1,1,1,,1,1,,,,,929505
+136,2956,University of South Carolina at Sumter,English,1.8,Ray McManus,4.5,17,86%,1,3,,,1,1,1,,1,,3,2,1,,,1,,,,,1325433
+137,2956,University of South Carolina at Sumter,English,3.1,Mary Ellen Bellanca,4.2,17,N/A,1,,,1,,,1,3,,,,,,,1,,,1,,4,648530
+138,2956,University of South Carolina at Sumter,Mathematics,2.3,Michael Bacon,3.2,16,N/A,,,,,,,,,,,,,,,,,,,,,122315
+139,2956,University of South Carolina at Sumter,English,2.7,Andrew Kunka,4.3,16,N/A,1,,,,,,1,1,1,,1,,,,,,,,,,226348
+140,2957,University of South Carolina at Union,Biology,2.9,Tara Fatemi,4.1,18,N/A,,,,,,,,,,,,,,,,,,,,,580267
+141,2957,University of South Carolina at Union,Mathematics,1.9,Thomas Simpson,4.5,15,N/A,,,,,,,,,,,,,,,,,,,,,565788
+142,2957,University of South Carolina at Union,Philosophy,3.8,Avery Fouts,4.1,13,N/A,,,,2,,,1,,,,,,,,1,1,,,,1,873788
+143,2957,University of South Carolina at Union,Psychology,3.0,Steve Buchanan,4.0,11,N/A,,,,,,,,,,,,,,,,,,,,,235920
+144,2957,University of South Carolina at Union,English,1.9,Randy Ivey,4.9,9,N/A,,,,,,,,1,,,2,,,,,,1,,,,565793
+145,2957,University of South Carolina at Union,Art History,1.6,Gerard Bowles,4.2,8,N/A,,,1,,,1,,,,,,,1,,,,,,,,565792
+146,2957,University of South Carolina at Union,Religion,1.2,Anthony N. Gavalas,3.7,6,N/A,,,,,,,,,,,,,,,,,,,,,516521
+147,2957,University of South Carolina at Union,University College,1.8,Bobby Holcombe,5.0,6,N/A,,,,1,,,,,,,1,,,,,1,,,,,1463483
+148,2957,University of South Carolina at Union,English,2.6,Denise Shaw,4.9,5,N/A,,,,1,,,,1,,,,1,,,,,,,,,1019861
+149,2957,University of South Carolina at Union,Sociology,1.3,Ted Fansher,4.0,4,N/A,,,,,,,,,,,,,,,,,,,,,580254
+150,2957,University of South Carolina at Union,Mathematics,1.5,Joe Anderson,3.8,2,N/A,,,,,1,1,,1,,,1,,,1,,,,,,,1977442
+151,2957,University of South Carolina at Union,Sociology,1.0,Samantha Hauptman,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1724405
+152,2957,University of South Carolina at Union,Psychology,2.0,Jon Randall Lowell,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,2006949
+153,2957,University of South Carolina at Union,Mathematics,5.0,David Mitra,1.0,1,N/A,,,,,,,,,,,,,1,1,,,,,1,,2242041
+154,2957,University of South Carolina at Union,Sociology,3.0,Maggie Aziz,5.0,1,N/A,,1,,,,1,,,,,,,,,1,,,,,,2433943
+155,2958,University of Wisconsin - Baraboo/Sauk County,Literature,2.7,Marc Seals,4.9,30,100%,,2,1,1,2,,1,5,,,4,1,,,,4,,,,,861640
+156,2958,University of Wisconsin - Baraboo/Sauk County,English,3.2,Frances Auld,4.3,29,N/A,,,,1,,,,,,,1,,,,,,,,,,1402335
+157,2958,University of Wisconsin - Baraboo/Sauk County,Sociology,4.3,Annette Kuhlman,2.2,28,N/A,,,,,,,4,1,,,,,,,1,,4,,,4,371900
+158,2958,University of Wisconsin - Baraboo/Sauk County,History,2.9,Mike Jacobs,4.3,25,N/A,,4,,,1,1,1,,,,4,,1,,2,,,,,3,378406
+159,2958,University of Wisconsin - Baraboo/Sauk County,Physics,2.9,Roberta Koch,4.8,17,89%,4,4,,3,5,,,1,,,1,6,2,,1,1,,,,,1233418
+160,2958,University of Wisconsin - Baraboo/Sauk County,Business,3.7,Edward Mishleau,4.0,16,N/A,,,,,,,,,,,,,,,,,,,,,756114
+161,2958,University of Wisconsin - Baraboo/Sauk County,Mathematics,1.9,Bill Christian,4.7,15,N/A,,1,,,1,,,1,,,,1,,,1,,,,,,870290
+162,2958,University of Wisconsin - Baraboo/Sauk County,Chemistry,3.4,Tom Neal,4.6,15,N/A,,,,1,,,,,,,,1,,,,1,,,,,981123
+163,2958,University of Wisconsin - Baraboo/Sauk County,Mathematics,2.6,Kathleen Hertz,3.5,14,N/A,1,,1,2,,,,1,,,,,1,1,,,2,,,,907097
+164,2958,University of Wisconsin - Baraboo/Sauk County,Science,3.9,Noah Anderson,3.1,14,N/A,1,,1,,,,,1,,1,,,1,,1,,1,,,1,1335321
+165,2958,University of Wisconsin - Baraboo/Sauk County,Economics,2.9,Musa Ayar,3.9,12,60%,1,,,,1,,,1,,2,,,,2,,,1,,,1,1678822
+166,2958,University of Wisconsin - Baraboo/Sauk County,Mathematics,3.3,Isaac Solomon,3.2,11,N/A,,,,,,,,,,,,,,,,,,,,,515047
+167,2958,University of Wisconsin - Baraboo/Sauk County,Mathematics,2.0,Alice Bishop,5.0,11,N/A,,,,,,,,,,,,,,,,,,,,,812290
+168,2958,University of Wisconsin - Baraboo/Sauk County,Biology,3.8,Rex Merrill,3.5,9,N/A,,,,,,,,1,,,,,,,,,,,1,1,1233408
+169,2958,University of Wisconsin - Baraboo/Sauk County,English,2.7,Kelly Dwyer,4.3,9,N/A,,,,,,,,1,,,,,,,1,,1,,,,1282067
+170,2958,University of Wisconsin - Baraboo/Sauk County,Geology,4.8,Diane Kiesel,2.8,8,N/A,,,,,,,,,,,,,,,,,,,,,620673
+171,2958,University of Wisconsin - Baraboo/Sauk County,Fine Arts,2.5,Letha Kelsey,4.3,8,N/A,,,,1,,,,3,,,,2,,,,2,,,,,1219491
+172,2958,University of Wisconsin - Baraboo/Sauk County,Psychology,2.3,Tyson Kreiger,4.5,7,N/A,,,,,,,,,,,,,,,,,,,,,1191654
+173,2958,University of Wisconsin - Baraboo/Sauk County,Mathematics,2.7,Laura Fernelius,4.3,7,N/A,1,,,3,,,,1,,,,,,,,2,1,,,,1210022
+174,2958,University of Wisconsin - Baraboo/Sauk County,Science,3.6,Edward (rex) Merrill,3.3,7,N/A,,,,,,,,,,,,,,,,,,,,,1384681
+175,2959,University of Wisconsin - Barron County,Mathematics,3.1,Scott Friess,4.7,22,90%,3,1,,3,2,,,8,1,,3,,,3,3,10,1,,,3,256637
+176,2959,University of Wisconsin - Barron County,Languages,2.5,Mary Hoeft,4.3,19,N/A,2,1,,3,1,1,,2,,,,1,,,4,2,1,,,,230963
+177,2959,University of Wisconsin - Barron County,Literature,3.6,Nancy Chick,3.9,14,N/A,,,,,,,,,,,,,,,,,,,,,590608
+178,2959,University of Wisconsin - Barron County,Chemistry,4.1,Anthony Millevolte,2.9,14,N/A,,,,,,,2,,,,,,,1,2,,,,,3,640849
+179,2959,University of Wisconsin - Barron County,History,3.2,Sue Patrick,3.6,13,N/A,,,,,,,1,,,,,,,1,1,,,,,,568536
+180,2959,University of Wisconsin - Barron County,Literature,3.4,Joel Friederich,2.9,13,20%,,,,1,,,,1,,,2,,,5,4,,2,1,,2,992587
+181,2959,University of Wisconsin - Barron County,Anthropology,4.0,Renee Gralewicz,3.7,9,N/A,1,,,,,,1,,,,,,,,,1,,,,1,568531
+182,2959,University of Wisconsin - Barron County,Geography,2.9,Cary Komoto,5.0,9,N/A,,,,,,,,,,,,,,,,,,,,,568542
+183,2959,University of Wisconsin - Barron County,Anthropology,3.9,Jayant Anand,2.9,9,N/A,,1,,,,,,,,,,1,,,1,,,,,,1397464
+184,2959,University of Wisconsin - Barron County,Business,4.4,Elizabeth Schmidt,3.6,9,57%,,,,1,2,,,2,,,,,3,3,2,3,7,,,4,2059068
+185,2959,University of Wisconsin - Barron County,Art History,2.5,Don Ruedy,3.6,8,N/A,,,,,,,,,,,,,,,,,,,,,440574
+186,2959,University of Wisconsin - Barron County,English,2.9,Sue Mofle,2.9,7,N/A,,,,1,,,,1,,,,,,,,,,,,,786733
+187,2959,University of Wisconsin - Barron County,Biology,3.3,David Caithamer,4.4,7,N/A,,1,,,,,1,1,,,2,,,1,,,,,,2,1651181
+188,2959,University of Wisconsin - Barron County,English,2.9,Christy Talbot,4.4,7,100%,,,,1,1,,2,5,,,4,,,,2,3,1,1,,1,2145359
+189,2959,University of Wisconsin - Barron County,Psychology,2.7,Linda Tollefsrud,3.8,6,N/A,,,,,,,,,,,,,,,,,,,,,1137982
+190,2959,University of Wisconsin - Barron County,Mathematics,3.2,Anthony Van Groningen,4.7,6,N/A,,,,,,,,,,,,,,,,,,,,,1145264
+191,2959,University of Wisconsin - Barron County,English,3.2,Rhonda Dietrich,2.3,6,N/A,,,,,,,,,,,,,,1,,,,1,,1,1764430
+192,2959,University of Wisconsin - Barron County,Mathematics,3.8,Feroz Siddique,3.0,6,40%,2,,,2,,4,,,,,,,1,1,1,,,,1,2,2099743
+193,2959,University of Wisconsin - Barron County,Mathematics,3.2,Brian Rude,2.4,5,N/A,,,,,,,,,,,,,,,,,,,,,1137981
+194,2959,University of Wisconsin - Barron County,Engineering,2.6,Christa James-Byrnes,4.2,5,N/A,1,,,1,,,,2,,,,,,,1,,,,,,1758129
+195,2960,University of Wisconsin - Fond du Lac,Psychology,2.0,Jeff Carew,4.6,43,N/A,,5,,20,3,18,5,13,,,6,8,,,6,16,5,,,,1918754
+196,2960,University of Wisconsin - Fond du Lac,Philosophy,2.2,Eric Boos,4.6,17,N/A,,2,,1,,,1,,,,,2,,1,1,1,,1,,,1180146
+197,2960,University of Wisconsin - Fond du Lac,Psychology,3.7,Kayoung Kim,4.3,17,82%,8,5,,4,8,3,1,2,,,1,2,1,1,4,2,3,1,2,2,2122400
+198,2960,University of Wisconsin - Fond du Lac,Political Science,3.9,Roger Wall,2.6,13,N/A,,,,,,,1,,,,,1,1,,1,1,,,,1,442209
+199,2960,University of Wisconsin - Fond du Lac,Fine Arts,3.0,John Scotello,4.2,12,N/A,,1,,,,,,1,,,1,,,,,,,,,,741603
+200,2960,University of Wisconsin - Fond du Lac,Communication,3.0,Kristi Wilkum,2.3,12,N/A,,,1,,,,,1,2,,1,,1,3,2,,,3,,5,1854001
+201,2960,University of Wisconsin - Fond du Lac,Mathematics,2.5,Khaled Hussein,4.5,11,N/A,,1,,,1,,,,,,,,,,,1,,,,,229430
+202,2960,University of Wisconsin - Fond du Lac,Geography,2.5,Mike Jurmu,4.7,11,N/A,,1,,,,,,1,,,1,,,,,,,,,,836009
+203,2960,University of Wisconsin - Fond du Lac,Chemistry,2.3,Todd Beitz,4.0,10,N/A,,,,,,,,,,,,,,,,,,,,,975002
+204,2960,University of Wisconsin - Fond du Lac,Communication,3.3,Richard Gustin,3.9,10,60%,,,,2,1,,1,2,,,,2,,2,3,1,1,,,3,1738642
+205,2960,University of Wisconsin - Fond du Lac,Economics,4.2,Sayeed Payesteh,2.2,9,33%,1,,1,1,,,2,1,,,,,,2,1,1,2,,,4,1761800
+206,2960,University of Wisconsin - Fond du Lac,English,3.4,Alayne Peterson,4.9,8,N/A,,,,,,,1,,,,1,1,,,,,,1,,2,620939
+207,2960,University of Wisconsin - Fond du Lac,Music,2.4,Cara Davis,4.0,8,N/A,,,,,,,2,2,,,1,1,,,,,,,,1,803793
+208,2960,University of Wisconsin - Fond du Lac,Languages,2.6,Anita Klatkiewicz,2.0,8,N/A,,,,,,,,,,,,,,,,,,,,,860115
+209,2960,University of Wisconsin - Fond du Lac,Music,3.3,Pat Eby,2.0,7,N/A,,,,,,,,,,,,,,,,,,,,,286859
+210,2960,University of Wisconsin - Fond du Lac,Physical Education,2.5,Lee Watson,4.8,7,N/A,,1,,,,,,2,,,2,,,,1,2,,,,,1126020
+211,2960,University of Wisconsin - Fond du Lac,Chemistry,4.1,Ronald Theys,3.1,7,N/A,,,,,,1,1,,,,,,2,,1,,,,,3,1678661
+212,2960,University of Wisconsin - Fond du Lac,Mathematics,2.0,Ryan Braatz,4.6,6,N/A,,,,,,,,,,,,,,,,,,,,,1787667
+213,2960,University of Wisconsin - Fond du Lac,Biology,1.8,Jennifer Radke,4.5,5,N/A,,,,1,1,,,,,,,,,,,,,,,,212516
+214,2960,University of Wisconsin - Fond du Lac,History,3.6,Michael Thorn,3.9,5,N/A,,,,,,,,,,,,,,,,,,,,,1183806
+215,2961,University of Wisconsin - Fox Valley,Political Science,2.9,George Waller,4.7,55,75%,2,2,,,,,1,3,2,,,2,3,,1,3,2,2,,3,397854
+216,2961,University of Wisconsin - Fox Valley,Mathematics,2.0,Dee Ann Dewitt,4.7,49,100%,1,1,,8,1,3,,5,,,7,4,,2,1,5,2,,,1,399186
+217,2961,University of Wisconsin - Fox Valley,English,4.1,Malcolm Allen,3.0,48,42%,,,4,,,,7,2,1,,2,,,3,,2,8,2,2,13,261831
+218,2961,University of Wisconsin - Fox Valley,Mathematics,3.9,Lirong Ding,2.6,47,40%,2,,,1,,,1,1,,,1,1,1,6,2,1,5,,3,3,399188
+219,2961,University of Wisconsin - Fox Valley,Philosophy,2.8,S. Evan Kreider,4.7,47,91%,,5,,2,2,,4,3,2,,5,1,,,11,3,7,,1,2,781398
+220,2961,University of Wisconsin - Fox Valley,Mathematics,3.7,Bertrand Tirel,2.6,46,43%,,,,,4,7,,,,,2,,7,12,1,1,7,,5,7,1507026
+221,2961,University of Wisconsin - Fox Valley,Science,3.1,Dubear Kroening,4.7,45,60%,,,,1,,,2,2,,,,,2,3,2,2,,1,,4,146919
+222,2961,University of Wisconsin - Fox Valley,Communication,3.0,Paula Lovell,3.9,36,100%,,2,3,2,2,,,4,,,,,,,2,,,,,4,397889
+223,2961,University of Wisconsin - Fox Valley,Theater,2.7,Susan Rabideau,3.8,35,N/A,,,,1,,1,,2,,,,2,,,,1,2,,,,398358
+224,2961,University of Wisconsin - Fox Valley,English,1.8,William Curl,4.5,35,N/A,,,,,,,,4,,,1,1,1,,,,,1,,,398793
+225,2961,University of Wisconsin - Fox Valley,English,3.5,William Gillard,4.3,35,100%,1,4,,3,1,,,1,,,9,,,2,7,3,5,2,,2,1010786
+226,2961,University of Wisconsin - Fox Valley,Sociology,2.2,Greg Peter,4.2,34,N/A,1,,,3,2,1,6,3,,2,,,1,,,5,,,,,399218
+227,2961,University of Wisconsin - Fox Valley,Mathematics,4.5,Chitra Gunawardena,1.8,30,N/A,,,,,,,,,,,,,,,,,,,,,253404
+228,2961,University of Wisconsin - Fox Valley,English,2.8,Loren Snyder,4.6,30,73%,1,9,1,,1,,3,10,,,8,3,1,,1,2,1,3,,6,1652672
+229,2961,University of Wisconsin - Fox Valley,History,2.6,Steve Sheehan,4.5,29,83%,,1,2,,2,,3,,1,,2,1,1,1,,1,1,1,,2,324512
+230,2961,University of Wisconsin - Fox Valley,History,2.2,Jean Berger,3.8,29,N/A,,,,2,2,,1,1,1,,,,3,,,1,,,,1,337322
+231,2961,University of Wisconsin - Fox Valley,English,2.6,Angela Williamson,3.4,29,N/A,1,,,1,1,,5,1,,,,,,,1,,,2,,1,356175
+232,2961,University of Wisconsin - Fox Valley,Economics,4.0,Abbas Taheri,2.2,29,17%,1,1,,,,1,1,1,1,1,1,,4,,,1,1,,,7,398797
+233,2961,University of Wisconsin - Fox Valley,Computer Science,3.5,Bill Bultman,3.6,28,N/A,,,,,,,,,,,,,,1,,,,,,2,134121
+234,2962,University of Wisconsin - Manitowoc,English,2.5,Paul Emmett,4.4,25,N/A,,1,,,,,2,1,1,,2,,,1,2,,5,,,1,138751
+235,2962,University of Wisconsin - Manitowoc,Mathematics,3.1,Brian Murphy,4.8,20,83%,3,1,,4,,4,1,3,,,1,,,2,,3,4,,1,,549658
+236,2962,University of Wisconsin - Manitowoc,Mathematics,2.7,Marty Schuh,4.8,18,N/A,,,,,,,,,,,,,,,,,,,,,263528
+237,2962,University of Wisconsin - Manitowoc,Philosophy,2.8,Al White,4.2,17,N/A,,,,,,1,1,,,,,,,,,1,,,,,138754
+238,2962,University of Wisconsin - Manitowoc,Psychology,4.4,Maureen Crowley,2.6,17,N/A,,,1,,,,1,,,,,,,,,,,,,1,383805
+239,2962,University of Wisconsin - Manitowoc,Mathematics,2.4,Megumi Onoda,3.9,17,N/A,1,,,,,2,,1,,,1,1,,1,1,,,,,,549640
+240,2962,University of Wisconsin - Manitowoc,Geography,3.7,Catrherine Helgeland,4.8,12,N/A,,,,,,,,,,,,,,,,,,,,,138782
+241,2962,University of Wisconsin - Manitowoc,Business,3.8,Karl Schindl,3.2,12,N/A,,,1,,,,,,,,,,,2,,,1,,1,,552379
+242,2962,University of Wisconsin - Manitowoc,Biology,3.5,Richard Hein,4.9,12,N/A,,,,,,,1,,,,,,,,,1,,,,1,735511
+243,2962,University of Wisconsin - Manitowoc,English,3.7,David Gratz,3.2,11,N/A,,,,,,,1,,,,,,,,,,,,,1,1079430
+244,2962,University of Wisconsin - Manitowoc,Chemistry,2.8,Caroline Geary,4.8,9,N/A,,,,,,,,,,,,,,,,,,,,,893652
+245,2962,University of Wisconsin - Manitowoc,Mathematics,2.6,Jamie Thomas,3.1,8,N/A,,,,,,,,,,,,,,,,,,,,,421304
+246,2962,University of Wisconsin - Manitowoc,English,4.0,Laura Apfelbeck,3.2,7,N/A,,,,,,,,,,,,,,,,,,,,,460393
+247,2962,University of Wisconsin - Manitowoc,Biology,2.4,Rebbecca Abler,4.2,7,N/A,,,,1,,,1,2,,,1,,,,,1,,,,,779610
+248,2962,University of Wisconsin - Manitowoc,Sociology,3.6,Kathy Leone,2.7,5,N/A,,,,,,1,1,,,,,,,,,,,,,1,1150813
+249,2962,University of Wisconsin - Manitowoc,Geography,3.2,Melvin Johnson,3.8,5,N/A,,,,,,,1,,,,,1,,1,,1,1,1,,,1753585
+250,2962,University of Wisconsin - Manitowoc,Mathematics,1.8,Stephen Good,4.7,4,N/A,,1,,,1,,,,,,,,,,1,,,,,,1298648
+251,2962,University of Wisconsin - Manitowoc,English,3.3,Benjamin Strieter,5.0,4,N/A,,,,,1,1,2,4,,,,1,,,1,,1,1,,,2207934
+252,2962,University of Wisconsin - Manitowoc,Theater,1.3,John Wright,4.7,3,N/A,,,,,,,,1,,,,,1,,,,,,,,549627
+253,2963,University of Wisconsin - Marathon County,History,3.7,Connie Sexauer,3.2,35,86%,1,1,,,3,1,5,3,,,,4,1,,2,1,,,,5,883001
+254,2963,University of Wisconsin - Marathon County,Communication,2.6,Barry Liss,3.7,34,100%,1,,,1,1,,1,,6,,5,2,,,2,1,,,,1,266846
+255,2963,University of Wisconsin - Marathon County,Philosophy,2.3,Doug Hosler,3.5,28,N/A,1,3,,2,,,,1,,,5,2,,,,,,,,,433460
+256,2963,University of Wisconsin - Marathon County,Mathematics,2.4,Allison Nass,4.8,28,N/A,1,2,,2,4,,,,,,,,,1,,3,,,,,952609
+257,2963,University of Wisconsin - Marathon County,Computer Science,4.2,Mark Hall,2.8,28,57%,,,,,1,,,2,,,,,,6,3,,3,,,8,908054
+258,2963,University of Wisconsin - Marathon County,Sociology,3.7,Ann Herda-Rapp,4.0,26,63%,1,1,,1,1,,6,3,1,,,1,1,2,,3,1,,,2,400885
+259,2963,University of Wisconsin - Marathon County,Mathematics,3.2,Clare Hemenway,3.8,26,N/A,1,,,1,,1,,1,1,,2,,,1,,1,,,,,244426
+260,2963,University of Wisconsin - Marathon County,Biology,3.6,Ned Grossnickel,3.9,21,N/A,,,,,,,,,,,1,1,,,,1,,,,,351471
+261,2963,University of Wisconsin - Marathon County,Biology,3.8,Lou Pech,3.8,21,N/A,,,,,,,,,,,,,1,,,,,,,,803524
+262,2963,University of Wisconsin - Marathon County,Chemistry,4.0,Case Joel C,3.5,20,N/A,,,,,,,,,,,,,,,,,,,,,244423
+263,2963,University of Wisconsin - Marathon County,Mathematics,3.0,Chris Capista,3.6,20,N/A,,1,1,,1,,,1,,,,,,4,2,,6,,,4,459591
+264,2963,University of Wisconsin - Marathon County,Psychology,2.9,Marlow Embree,4.2,20,N/A,,,,1,,,,,,,,1,1,,1,,2,,2,1,584628
+265,2963,University of Wisconsin - Marathon County,Sociology,2.2,Colin Wang,4.3,20,N/A,,2,,1,1,1,,1,,,5,1,1,,,1,,,,,645991
+266,2963,University of Wisconsin - Marathon County,Anthropology,3.5,Ron Lippi,3.7,18,N/A,,,,,,,,,,,,,,,,,,,,,351470
+267,2963,University of Wisconsin - Marathon County,Mathematics,3.1,Paul Martin,4.3,18,80%,4,1,,3,4,1,,1,,,4,1,,,,,,,,,604799
+268,2963,University of Wisconsin - Marathon County,Chemistry,4.4,Joel Case,3.7,17,N/A,,,,,,,,,,,,,,,,,,,,,960866
+269,2963,University of Wisconsin - Marathon County,Mathematics,2.3,Kirthi Premadasa,4.3,17,N/A,1,3,,1,1,,,,,,3,1,,,,1,,,,,1217733
+270,2963,University of Wisconsin - Marathon County,Business,3.1,Keith McBee,3.8,16,N/A,,,,,,,,,,,,,,,,,,,,,468252
+271,2963,University of Wisconsin - Marathon County,History,2.9,Brett Barker,4.6,16,N/A,1,2,,,1,,,1,,,1,,,,2,1,,,,,898250
+272,2963,University of Wisconsin - Marathon County,Geography,2.1,James McCluskey,4.7,16,N/A,1,,,,,2,1,1,,,,,1,,1,2,,,,,432165
+273,2964,University of Wisconsin - Marinette,History,3.1,Dan Kallgren,4.6,18,N/A,1,,,,1,,1,2,,,2,,,,1,,,1,,,387380
+274,2964,University of Wisconsin - Marinette,Languages,3.3,Jennifer Flatt,4.1,15,N/A,1,,,2,1,,,2,,,,,,2,,2,,1,,2,1056332
+275,2964,University of Wisconsin - Marinette,Psychology,2.5,Albert Bugai,4.4,12,N/A,,,,,1,1,1,1,,,1,,,,,,,,,,534001
+276,2964,University of Wisconsin - Marinette,Geography,3.6,Keith West,3.5,10,N/A,,1,,,,,4,,,,,1,2,,,,,,,3,1141459
+277,2964,University of Wisconsin - Marinette,Sociology,3.1,Dail Murray,3.9,9,N/A,,,,,,,,,,,,,,,,,,,,,475477
+278,2964,University of Wisconsin - Marinette,English,3.1,Jane Oitzinger,4.0,7,N/A,,1,,,,,,,,,,,,,1,,1,,,,534000
+279,2964,University of Wisconsin - Marinette,Theater,1.3,Doug Larche,4.4,7,N/A,,,,,,,,,,,,,,,,,,,,,545811
+280,2964,University of Wisconsin - Marinette,Psychology,3.7,Janet Dehn,2.9,7,N/A,,,1,,,,1,,,,,,,,1,,,,,,559536
+281,2964,University of Wisconsin - Marinette,Physical Education,1.9,Dorothy Kowalski,1.9,7,N/A,,,,,,,,,,,,,,,1,,,,,,877865
+282,2964,University of Wisconsin - Marinette,Music,2.3,David Giebler,4.4,6,N/A,,,,,,,,,,,,,,,,,,,,,534007
+283,2964,University of Wisconsin - Marinette,Psychology,3.0,Crystal Hendrick,4.1,6,N/A,,1,,1,,,,1,,,1,,,1,,1,,,,1,1616286
+284,2964,University of Wisconsin - Marinette,Women's Studies,2.5,Amy Reddinger,4.4,6,N/A,,1,,,,,,1,,,1,,,,,,,,,,1629267
+285,2964,University of Wisconsin - Marinette,Chemistry,3.4,Mark Klemp,5.0,5,N/A,2,,,3,,,,1,,,1,,,,1,,,,,1,1629262
+286,2964,University of Wisconsin - Marinette,Biology,4.8,Larissa Hogan,2.9,4,N/A,,,,,,,,,,,,,1,,,,1,,,1,1629232
+287,2964,University of Wisconsin - Marinette,Mathematics,3.8,Mahmoud Almanassra,3.6,4,N/A,,,,,,,,,,,,,,1,1,,,,,1,1629252
+288,2964,University of Wisconsin - Marinette,Mathematics,4.8,Michael Bartlett,2.3,4,N/A,,,,,,,,,,,,,,,,,,,,,1743131
+289,2964,University of Wisconsin - Marinette,English,1.8,Allen Learst,4.6,4,N/A,,1,,1,,,,,,,1,,,,1,2,,,,,1855857
+290,2964,University of Wisconsin - Marinette,Business,2.7,Sue Craver,3.7,3,N/A,,,,,,,,,,,,,,,,,,,,,1074293
+291,2964,University of Wisconsin - Marinette,Physics,2.3,Paul Erdman,3.9,3,N/A,,,,,1,,,,,,1,,,,,,,,,,1845934
+292,2964,University of Wisconsin - Marinette,Not Specified,2.5,Tirza Schullman,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1064716
+293,2965,University of Wisconsin - Marshfield/Wood County,Geography,3.0,Iddrisu Adam,4.0,27,N/A,,1,,,,,,,,1,2,,,,1,4,1,,,3,536564
+294,2965,University of Wisconsin - Marshfield/Wood County,History,4.4,Jeff Kleiman,2.9,26,N/A,,,,,,,3,,3,,1,1,1,1,1,1,,1,,4,533175
+295,2965,University of Wisconsin - Marshfield/Wood County,Chemistry,3.7,Dana Haagenson,3.7,17,71%,1,1,,,1,,1,1,,,2,,2,,,3,6,,3,4,750886
+296,2965,University of Wisconsin - Marshfield/Wood County,Mathematics,3.4,Kavita Bhatia,3.2,16,N/A,,,,,1,,1,1,1,,,1,,1,2,1,3,,2,3,308282
+297,2965,University of Wisconsin - Marshfield/Wood County,English,3.1,Carrie S Shipers,2.7,14,N/A,,,,,,,6,3,,,1,1,,3,3,,5,2,,4,1757378
+298,2965,University of Wisconsin - Marshfield/Wood County,Biology,1.7,Douglas Oba,4.8,13,N/A,,2,,2,1,,,,,,,,1,,,,,,,,308284
+299,2965,University of Wisconsin - Marshfield/Wood County,Mathematics,3.7,Jan Cain,4.0,12,N/A,,,,,,,,,,1,,,,4,,,3,,,4,617860
+300,2965,University of Wisconsin - Marshfield/Wood County,Psychology,3.2,Sandra Neumann,3.9,9,N/A,,1,,1,,,,1,,,,,1,,1,,,,,,1234643
+301,2965,University of Wisconsin - Marshfield/Wood County,Science,2.8,Laura Lee,4.6,9,N/A,1,1,,1,,,,,,1,,,1,1,,,,,,,129134
+302,2965,University of Wisconsin - Marshfield/Wood County,English,3.5,Julie Tharp,2.5,9,N/A,,,,1,,,2,,1,,,,1,2,,,,,,1,152873
+303,2965,University of Wisconsin - Marshfield/Wood County,English,2.6,Catherine Kalish,4.4,8,N/A,,,,1,1,,,1,,,,,,,,,,,,,1037897
+304,2965,University of Wisconsin - Marshfield/Wood County,English,2.7,Jeffrey Verona,4.1,8,100%,1,,,3,3,,,2,,4,1,,1,,1,,,1,,,1652680
+305,2965,University of Wisconsin - Marshfield/Wood County,Communication,3.7,Kelly Wilz,4.1,7,N/A,,,,1,,,1,4,,,,3,1,,4,,,,,1,1474217
+306,2965,University of Wisconsin - Marshfield/Wood County,Political Science,2.8,Michael Hagman,4.5,6,N/A,,,,,,,,,,,,,,,,,,,,,918207
+307,2965,University of Wisconsin - Marshfield/Wood County,Business,1.8,Diane Wolf,4.4,6,N/A,,1,,,1,1,,3,,,1,,,,3,1,2,,,,1961780
+308,2965,University of Wisconsin - Marshfield/Wood County,English,4.0,Helen Johannes,4.4,5,N/A,,,,,,,,1,,,,,,,,,,1,,1,715255
+309,2965,University of Wisconsin - Marshfield/Wood County,Physics,2.0,Marty Lee,3.7,5,N/A,,,,,,,,1,,,,,,,,,1,,,,1126721
+310,2965,University of Wisconsin - Marshfield/Wood County,Philosophy,3.2,Glenn Kuehn,4.7,5,N/A,,,,,,,,,,,1,1,,,,,,,,1,1496570
+311,2965,University of Wisconsin - Marshfield/Wood County,Sociology,3.4,Caleb Bush,3.1,5,N/A,,,1,,1,,1,,,1,,,2,1,,,,,,2,1794543
+312,2965,University of Wisconsin - Marshfield/Wood County,Psychology,3.6,Jeff Amundson,3.5,5,N/A,,,,1,,,2,1,,,,,,,2,,,,,4,1848995
+313,2966,University of Wisconsin - Richland,Theater,3.9,Zoe Eva Lutz,2.0,25,N/A,,,,,,,2,2,1,,,,,1,4,,2,,,2,107165
+314,2966,University of Wisconsin - Richland,English,3.4,Marnie Dresser,4.5,24,N/A,,,,3,2,1,1,3,,,,,,1,1,4,,,,,544797
+315,2966,University of Wisconsin - Richland,History,4.1,Aharon Zorea,4.2,22,N/A,1,,,1,,,2,2,,,,,1,,1,,1,,,,792551
+316,2966,University of Wisconsin - Richland,Biology,4.0,Scott Walters,4.7,16,N/A,1,,,,,,,1,,,1,,,,,,,,,,361253
+317,2966,University of Wisconsin - Richland,Biology,3.8,Teresa Schueller,4.3,11,N/A,,,,,,,,,,,,,,,,,,,,,1798726
+318,2966,University of Wisconsin - Richland,English,2.5,Karen Mcleer,3.7,10,N/A,,,,,,,,,,,,,,,,,,,,,105346
+319,2966,University of Wisconsin - Richland,Psychology,3.0,Dennis Carpenter,4.3,10,N/A,1,,,,1,,1,,,,1,,,,,1,,,,,619920
+320,2966,University of Wisconsin - Richland,Social Science,4.3,Wava Haney,4.2,9,N/A,,,,,,,,,,,,,,,,,,,,,107166
+321,2966,University of Wisconsin - Richland,Business,3.3,Faye Peng,2.2,7,N/A,,,,1,,1,,,,1,,,1,1,3,,4,,,,1809483
+322,2966,University of Wisconsin - Richland,Physics,2.3,Cliff Cavanaugh,4.4,6,N/A,,,,,,,,,,,,,,,,,,,,,46310
+323,2966,University of Wisconsin - Richland,Music,4.3,James Aagard,2.6,6,N/A,,,,,,,,,,,,,,1,,,1,,,1,105345
+324,2966,University of Wisconsin - Richland,Chemistry,3.7,Brandon Fetterly,4.5,6,N/A,,,,,,,,,,,,,,1,1,1,,,,,977247
+325,2966,University of Wisconsin - Richland,English,2.8,Jordan Hill,2.6,6,N/A,1,,,1,,,,1,,,,,,,,1,1,1,,,1933529
+326,2966,University of Wisconsin - Richland,English,2.0,Daniel Henke,4.7,5,N/A,,1,,2,,,,3,,,2,3,,,2,1,1,,,,1918588
+327,2966,University of Wisconsin - Richland,Biology,2.0,Shuwen Li,4.4,4,N/A,,,,,,,,,,,,,,,,,,,,,1570837
+328,2966,University of Wisconsin - Richland,Biology,2.5,Matthew Vankoughnett,4.4,4,N/A,,,,1,,,,,,,2,1,1,1,,2,,,,,2072379
+329,2966,University of Wisconsin - Richland,Mathematics,2.8,Stephanie Kernik,5.0,4,N/A,3,,,1,,,,3,,,3,,,,1,,,,,,2255199
+330,2966,University of Wisconsin - Richland,Mathematics,3.3,Ron Donahoe,2.8,3,N/A,,,,,,,,,,,,,,,,,,,,,1182902
+331,2966,University of Wisconsin - Richland,Biology,2.7,Jennifer Gavinski,5.0,3,N/A,,,,,,,,,,,,,,,,,,,,,1659223
+332,2966,University of Wisconsin - Richland,Sociology,3.0,Daniel Flaaen,2.5,3,N/A,,,,1,,,,,,,,,,,1,,,,1,,1787691
+333,2967,University of Wisconsin - Rock County,Economics,4.3,George Jones,4.2,34,80%,,1,,1,,1,1,,,,,3,2,1,,1,2,,1,6,80939
+334,2967,University of Wisconsin - Rock County,English,2.5,Nick French,4.7,31,N/A,1,1,,1,,,,4,,,1,2,,1,1,2,,1,,,504454
+335,2967,University of Wisconsin - Rock County,Mathematics,3.6,Mark Fuller,3.8,23,83%,1,,2,4,,,,2,,,,1,2,6,1,1,2,,1,1,355607
+336,2967,University of Wisconsin - Rock County,English,2.6,John Pruitt,4.5,23,N/A,,1,,2,2,,1,3,,1,2,1,,1,3,1,4,,,,963454
+337,2967,University of Wisconsin - Rock County,Mathematics,2.4,Candace Davis,4.7,20,100%,2,1,1,3,1,2,,4,,,,2,,1,3,2,3,,1,1,602251
+338,2967,University of Wisconsin - Rock County,English,3.6,Brian Duckwitz,3.8,18,80%,,,,1,,,,5,2,,1,,,,3,1,1,1,,2,812780
+339,2967,University of Wisconsin - Rock County,Geography,1.8,Bob McCallister,4.7,17,N/A,3,2,,,1,,,,,,1,1,,,,3,,1,,,318623
+340,2967,University of Wisconsin - Rock County,History,2.6,Elizabeth Jozwiak,3.2,17,N/A,1,,,,1,1,,,1,,,,3,,,,,1,,1,355611
+341,2967,University of Wisconsin - Rock County,Communication,2.5,Patricia Clasen,4.3,16,N/A,,,1,,1,2,,3,2,,,1,,,1,1,1,,,1,308046
+342,2967,University of Wisconsin - Rock County,Philosophy,2.9,Stephen Schmid,4.4,15,N/A,,,,,,,,,,,,,,,,,,,,,602238
+343,2967,University of Wisconsin - Rock County,Music,3.0,Jeff Suarez,3.7,14,N/A,,,,,,,,,,,,,,,,,,,,,589899
+344,2967,University of Wisconsin - Rock County,Sociology,2.8,Autumn Behringer,4.9,13,N/A,,,,,,,,,,,1,1,,,,,1,,,,1382783
+345,2967,University of Wisconsin - Rock County,History,1.8,Kyle Fingerson,4.4,13,83%,,,,1,2,4,1,1,2,,,,,,1,,1,1,,1,1657543
+346,2967,University of Wisconsin - Rock County,Mathematics,2.4,Carol Roy,4.9,12,N/A,,,,,,,,,,,,,,,,,,,,,354523
+347,2967,University of Wisconsin - Rock County,Physics,3.7,Jon Fons,4.6,12,N/A,,,,,,,,2,,,,2,,1,,1,,,,,620774
+348,2967,University of Wisconsin - Rock County,Psychology,3.2,Linda Reinhardt,2.3,12,N/A,,,,1,,1,1,,,,,,2,,,,,1,,3,1140228
+349,2967,University of Wisconsin - Rock County,Mathematics,3.3,Robert Hein,4.6,12,N/A,,,,2,1,,,,,,,,,,,1,1,,,1,1183631
+350,2967,University of Wisconsin - Rock County,Computer Science,2.7,Amy Burns,4.8,12,100%,3,1,,3,2,2,,6,,2,1,1,,,,3,,,,,1561692
+351,2967,University of Wisconsin - Rock County,Biology,3.3,Andrea Lukowiak,4.3,11,N/A,,,,,,1,,1,,,,,,,,,1,,,,355614
+352,2967,University of Wisconsin - Rock County,Mathematics,3.0,Edward Stredulinsky,3.7,11,N/A,,,,1,1,,,2,,,,,,,,,,,,,810150
+353,2968,University of Wisconsin - Sheboygan,English,3.5,Sherri Byrand,4.6,41,N/A,2,,,3,1,,1,4,,,1,1,,,1,2,1,1,,3,726213
+354,2968,University of Wisconsin - Sheboygan,Psychology,1.7,Jeff Carew,4.8,34,N/A,,5,,16,7,18,,8,,,4,5,,1,4,11,4,,,,2047956
+355,2968,University of Wisconsin - Sheboygan,Sociology,3.0,Dana Atwood-Harvey,2.9,26,N/A,1,2,,,,,1,,1,,,,,1,1,,3,,1,,403498
+356,2968,University of Wisconsin - Sheboygan,Philosophy,3.2,David Louzecky,4.0,16,60%,,,,,1,,2,1,1,,3,2,3,1,,,2,,,,395221
+357,2968,University of Wisconsin - Sheboygan,History,3.9,Mark Karau,3.9,16,60%,,5,,,1,1,6,1,2,,,1,4,,,1,3,1,,7,1330172
+358,2968,University of Wisconsin - Sheboygan,Mathematics,2.6,Yongiun Yang,3.9,14,N/A,1,,,,2,,,1,,,1,,1,,1,1,1,,,,812368
+359,2968,University of Wisconsin - Sheboygan,Philosophy,3.5,Jeff Goins,3.7,13,N/A,,,,,,,1,,,,1,,,,2,,2,,,,812343
+360,2968,University of Wisconsin - Sheboygan,English,3.2,James Reitter,4.0,13,N/A,,,,,,,,,,,,,,,,,,,,,1048428
+361,2968,University of Wisconsin - Sheboygan,English,4.2,Valerie M. Pilmaier,2.9,13,N/A,,1,,,,,2,,,,,1,1,1,1,,1,1,,1,1831723
+362,2968,University of Wisconsin - Sheboygan,Graphic Arts,2.6,Thomas Uebelherr,2.7,11,N/A,,,,,,,,1,,,,1,1,,1,1,1,,,2,812366
+363,2968,University of Wisconsin - Sheboygan,Languages,3.6,Kyle Kendall,4.8,11,N/A,,,,,,,,,,,,,,,,,,,,,1482215
+364,2968,University of Wisconsin - Sheboygan,Geography,2.7,Karl Byrand,4.5,10,N/A,,,,,,,,,,,,,,,,,,,,,403493
+365,2968,University of Wisconsin - Sheboygan,Mathematics,2.6,Phil Walkenhorst,4.8,10,N/A,,,,,2,,,1,1,,,,,1,,1,,,,,445262
+366,2968,University of Wisconsin - Sheboygan,Physics,2.7,Dennis Crossley,3.0,10,N/A,,,,,,,1,1,,,,,1,2,2,,,,,,725166
+367,2968,University of Wisconsin - Sheboygan,Biology,3.8,Erik Sanstad,3.9,10,N/A,,,,,,1,,,,1,,,,,,,,,,2,812362
+368,2968,University of Wisconsin - Sheboygan,Business,1.9,Gary Johnson,4.7,10,100%,1,2,,1,2,,,2,2,,6,1,3,,,3,,,1,,1714859
+369,2968,University of Wisconsin - Sheboygan,Mathematics,2.7,Devin Bickner,4.2,9,N/A,,,,1,1,,,,1,1,4,,,,,3,,,,1,1789415
+370,2968,University of Wisconsin - Sheboygan,Philosophy,2.4,Richard Edwards,4.0,9,N/A,,3,,,,,,,2,,1,,1,,1,2,,2,,2,1205199
+371,2968,University of Wisconsin - Sheboygan,Science,2.3,Jane Fairchild,4.3,8,N/A,,,,,,,,,,,,,,,,,,,,,812340
+372,2968,University of Wisconsin - Sheboygan,Science,2.6,Harald Schenk,2.7,7,N/A,,1,,,,,,,,,,1,1,,,,,,,,812363
+373,2969,University of Wisconsin - Washington County,Mathematics,2.3,Darwin Dorn,4.7,43,100%,3,2,,4,4,4,,5,1,,1,3,3,,,5,,,1,1,131602
+374,2969,University of Wisconsin - Washington County,Chemistry,3.5,Mohamed Ayoub,3.1,42,N/A,,1,,6,1,3,,,,,,3,2,,2,,,,,2,187997
+375,2969,University of Wisconsin - Washington County,Philosophy,3.5,Mark Peterson,4.1,41,63%,,1,,1,,,7,1,,,5,,1,1,1,1,3,3,,1,187979
+376,2969,University of Wisconsin - Washington County,English,4.5,David Ostrenga,2.8,37,33%,,,1,,1,,2,2,3,,,1,6,1,3,,7,3,,14,209203
+377,2969,University of Wisconsin - Washington County,English,3.3,Anne Widmayer,3.5,34,100%,1,,,2,2,,3,4,,,3,1,,,4,,2,,1,,144167
+378,2969,University of Wisconsin - Washington County,Mathematics,4.3,Roger Peterson,2.2,32,N/A,,,,,,,,,,6,,,4,2,1,,2,,1,6,191688
+379,2969,University of Wisconsin - Washington County,Psychology,2.5,Margaret Hamilton,4.5,31,100%,,,,2,2,2,,,,,5,,2,,,1,,,,1,187998
+380,2969,University of Wisconsin - Washington County,Biology,3.2,Toye Ekunsanmi,4.2,28,N/A,1,,1,1,,3,1,,,,1,,3,,,1,1,,,1,191686
+381,2969,University of Wisconsin - Washington County,English,3.9,Rachel Barger,3.2,26,N/A,,,,,,,3,1,,,,,,1,2,,,1,,4,714835
+382,2969,University of Wisconsin - Washington County,Sociology,2.9,Sandi Brunette-Hill,4.2,25,N/A,1,2,,1,2,,2,1,,2,,,2,1,,1,2,,,,144177
+383,2969,University of Wisconsin - Washington County,Mathematics,2.5,Peter Vachuska,4.0,25,N/A,,,,2,1,,,1,,,,,,,,1,,,,,209208
+384,2969,University of Wisconsin - Washington County,English,2.9,Michael Mattek,3.4,25,N/A,,,,,2,,2,,,,2,,,,3,1,,,,,575465
+385,2969,University of Wisconsin - Washington County,Physics,2.3,Swapnil Tripathi,4.1,25,N/A,2,2,,1,2,1,,,,1,2,,,1,3,2,,,,1,1190842
+386,2969,University of Wisconsin - Washington County,Biology,3.4,Wayne Schaefer,4.6,23,N/A,,,,1,,1,,,,,,,,,,2,,,,,188000
+387,2969,University of Wisconsin - Washington County,Psychology,2.1,Jerry Roherty,4.4,23,N/A,,,,,,,,,,,,,,,,,,,,,191685
+388,2969,University of Wisconsin - Washington County,Music,2.6,Daniel Ackley,3.7,20,N/A,,,,,,,,,,,,,,,,,,,,,209255
+389,2969,University of Wisconsin - Washington County,Chemistry,3.7,Talitha Selby,4.2,16,N/A,2,1,,,1,1,,1,,,,,1,3,2,,2,,,1,1337573
+390,2969,University of Wisconsin - Washington County,Music,2.6,Peter Gibeau,3.8,15,N/A,,,,1,1,1,,,,,2,,,,,,1,,,,144173
+391,2969,University of Wisconsin - Washington County,Geography,2.6,Paul Price,4.5,15,N/A,,,,,,,,,,,,,,,,,,,,,209202
+392,2969,University of Wisconsin - Washington County,Anthropology,2.9,Chris Hays,3.8,15,N/A,1,,,1,,,3,1,2,,1,2,,,,1,,,1,1,209222
+393,2970,University of Wisconsin - Waukesha,Economics,3.4,Joe Essuman,3.4,48,73%,,2,3,,,,2,,1,,1,,2,3,2,2,11,,,13,287334
+394,2970,University of Wisconsin - Waukesha,Physics,3.7,Margaret Malay,2.7,38,33%,,1,,,,3,5,1,,,,,1,3,,2,1,,1,7,469090
+395,2970,University of Wisconsin - Waukesha,Philosophy,3.8,Dean Kowalski,3.4,36,33%,1,1,,1,1,,5,1,1,,,2,,,1,1,6,,,10,595482
+396,2970,University of Wisconsin - Waukesha,Mathematics,3.3,Shubhangi Stalder,4.2,35,88%,4,,,7,,,,5,,,,7,1,2,3,3,3,,,2,348394
+397,2970,University of Wisconsin - Waukesha,Biology,4.2,Kevin Lee,3.1,35,57%,,2,,,,,1,,,1,2,1,4,,1,2,5,,1,10,654118
+398,2970,University of Wisconsin - Waukesha,Anthropology,2.4,Kathleen Bubinas,3.1,34,N/A,,,1,,,1,3,,,3,,,,,3,,2,,,1,762963
+399,2970,University of Wisconsin - Waukesha,Geology,1.4,Quintin Bendixen,4.5,32,100%,1,3,,6,1,2,1,2,,2,2,4,2,1,1,5,,,,,1484434
+400,2970,University of Wisconsin - Waukesha,Mathematics,2.5,Karl Kosler,4.3,31,N/A,,,,,1,,,,,,,,,,,1,1,,,2,134119
+401,2970,University of Wisconsin - Waukesha,Philosophy,3.0,Tim Dunn,4.3,31,71%,,,,3,1,,3,4,1,,9,2,1,,1,3,1,1,,5,326351
+402,2970,University of Wisconsin - Waukesha,Sociology,2.5,Ron Gulotta,4.0,31,N/A,,,,,,,1,2,,,,1,1,,3,,1,1,,2,624804
+403,2970,University of Wisconsin - Waukesha,History,2.9,Tim Thering,4.6,30,100%,,2,,,1,,5,,,,1,,1,1,2,2,1,1,,2,468401
+404,2970,University of Wisconsin - Waukesha,Mathematics,3.7,Paul Sundheim,2.6,27,N/A,,,,2,5,,,3,,,1,,,5,1,,4,,,1,134157
+405,2970,University of Wisconsin - Waukesha,Mathematics,3.9,Victoria Paaske,2.3,27,N/A,,,,,,,,,,,,,1,1,1,,1,,1,1,427988
+406,2970,University of Wisconsin - Waukesha,Physics,3.3,Joseph Otu,2.6,27,N/A,1,1,,1,1,,1,1,,,,,5,,1,1,1,,,3,470763
+407,2970,University of Wisconsin - Waukesha,English,3.7,Lisa Hager,3.3,27,50%,,,3,3,,,9,4,,1,3,1,1,2,,,3,,,14,1401815
+408,2970,University of Wisconsin - Waukesha,Biology,2.2,Michael Pauers,4.3,27,100%,,5,1,4,3,1,1,2,2,,4,1,7,,2,3,6,,,2,1581047
+409,2970,University of Wisconsin - Waukesha,Chemistry,2.8,Gary Udovich,4.7,26,N/A,,1,,,,,,1,,,,,1,,,1,,,1,,631408
+410,2970,University of Wisconsin - Waukesha,History,2.6,Johnathan Kasparek,4.4,26,N/A,,4,,1,2,,1,2,,,2,,,,4,,,,,,783556
+411,2970,University of Wisconsin - Waukesha,Chemistry,3.9,Asif Habib,3.6,26,80%,1,1,,3,,1,1,,,,5,4,1,,1,3,8,,1,5,800811
+412,2970,University of Wisconsin - Waukesha,Psychology,3.3,Bob Bermant,4.0,25,N/A,1,1,,,1,,,1,,,4,2,1,,,2,3,1,1,2,546573
+413,2971,Urban College of Boston,Humanities,3.5,Nancy Daniel,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,301466
+414,2972,Broadview University,Nursing,5.0,Allison Sowles-Reinholt,1.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1380053
+415,2972,Broadview University,Business,2.0,Meggan Hansen,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1487303
+416,2972,Broadview University,Law,3.0,Colleen Norgren,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1487312
+417,2972,Broadview University,Law,2.0,"Ann M. Sarazin, Jd",5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1487316
+418,2972,Broadview University,Law,1.0,"Catherine Neset, Jd",5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1487319
+419,2972,Broadview University,Information Science,4.0,"Mark Smith, Phd",4.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1714984
+420,2972,Broadview University,Nursing,5.0,Delos Jones,2.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1750232
+421,2973,Utica School of Commerce,Computer Science,2.5,Joseph Chevrette,4.8,2,N/A,,1,,1,,1,,1,,,,,,,,1,,,,1,1922718
+422,2973,Utica School of Commerce,Computer Science,1.0,Darrin Lawson,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1726494
+423,2974,Utica School of Commerce: Canastota,Health Science,1.5,Mary Slator,5.0,2,N/A,1,,,1,1,,,,,,,,,,,,,,,,1628591
+424,2974,Utica School of Commerce: Canastota,Computer Science,2.0,Catherine Brewer,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1628596
+425,2976,Valley College of Technology,Business,4.0,Carriss Pierce,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1746262
+426,2977,Valley Forge Military College,History,3.0,Patrick Murray,3.8,36,N/A,,1,,,,,,,,,,,,,,1,1,,,,259903
+427,2977,Valley Forge Military College,Political Science,2.5,Anthony Celso,3.6,24,N/A,,,,,,,,,,,,,,,,,,,,,259905
+428,2977,Valley Forge Military College,Languages,2.1,Arlene Noble,3.6,12,N/A,,,,1,,,,1,,,,,,,1,,,,,,259904
+429,2977,Valley Forge Military College,Business,2.1,George Anderson,2.6,12,N/A,,,,,,,,,,,,,,,,,,,,,556455
+430,2977,Valley Forge Military College,Biology,2.5,Dr. Mohammed Rabbi,3.4,9,N/A,,,,,,,,,,,1,,2,1,,1,,,,1,804690
+431,2977,Valley Forge Military College,English,3.0,Tom Durwood,4.8,6,N/A,1,,,,,,,1,,,2,1,,,,2,,2,,,1536499
+432,2977,Valley Forge Military College,Criminal Justice,2.3,Berchard Suber,4.8,4,N/A,,,,,,,,1,,,1,2,,,1,3,1,,,,804693
+433,2977,Valley Forge Military College,English,2.3,Claire Satlof,5.0,4,N/A,1,,,1,,,,1,,,,,,,,,,,,,1715605
+434,2977,Valley Forge Military College,Mathematics,2.3,Frederick Chandler,5.0,3,N/A,,,,,,,,,,,,,,,,,,,,,1223801
+435,2977,Valley Forge Military College,English,5.0,Susan Ray,3.5,2,N/A,,,,,,,,,,,,,,,,,,,,,1326361
+436,2977,Valley Forge Military College,Mathematics,4.0,Diane Amlin,4.3,2,N/A,,,,,,,,,,,,,,,,,1,,1,1,1977466
+437,2977,Valley Forge Military College,History,3.0,Martin Clemis,5.0,2,N/A,,1,,,,,1,,,,1,1,,,1,1,,,,,2175578
+438,2977,Valley Forge Military College,English,2.0,Christine Tolbert,3.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1558754
+439,2977,Valley Forge Military College,English,3.0,Sean Chambers,4.0,1,N/A,,,,1,,,,1,,,,,,,,,,1,,,2342445
+440,2978,Vance-Granville Community College,Psychology,2.8,Thea D Boyer,4.1,113,N/A,,7,14,6,16,,28,10,1,,7,10,5,13,12,9,8,13,,17,1895128
+441,2978,Vance-Granville Community College,Biology,4.1,Button Brady,4.3,16,N/A,,,,,,,1,,,,,,,,,1,,,,1,247734
+442,2978,Vance-Granville Community College,Chemistry,3.1,Steven McGrady,4.4,14,N/A,1,1,,1,1,,1,,,,2,1,,,1,2,1,,1,2,650519
+443,2978,Vance-Granville Community College,Biology,2.1,Philip Mondou,4.5,12,N/A,,,,,,,,,,,,,,,,,,,,,254224
+444,2978,Vance-Granville Community College,Biology,4.0,Stewart Lyon,4.5,12,100%,4,3,,4,1,,4,2,,,2,5,1,1,1,3,1,,,3,1988949
+445,2978,Vance-Granville Community College,Biology,3.6,Dan Settles,3.2,11,N/A,,,,,1,,2,,,,,,1,1,,,,,1,1,254225
+446,2978,Vance-Granville Community College,Fine Arts,2.1,Betsy Henderson,4.7,8,N/A,1,,,,,,,2,,1,,,,,,,2,,,,650514
+447,2978,Vance-Granville Community College,Mathematics,3.3,Rudolph Turner,3.0,7,N/A,1,,,2,1,,,,1,,,,,,,1,,,,,271651
+448,2978,Vance-Granville Community College,Psychology,3.1,Gloria Freeman,2.7,7,N/A,,,,,,,,,,,,,,,,,,,,,883466
+449,2978,Vance-Granville Community College,Psychology,1.4,Amy Minor,4.6,7,N/A,,2,,1,,,,1,,,,1,,,,1,,,,1,1560816
+450,2978,Vance-Granville Community College,English,2.6,Frankie Frink,3.0,7,N/A,,,,1,,,1,,,,,,,,1,,,,,2,1561618
+451,2978,Vance-Granville Community College,Biology,3.1,Brandy Bowling,4.5,7,N/A,,,,2,,2,1,1,,,2,,1,2,,1,1,,,,1738706
+452,2978,Vance-Granville Community College,Biology,3.7,Kambiz Tahmaseb,4.2,7,80%,1,3,1,1,1,,,3,,,3,,,,,1,2,,1,1,1867071
+453,2978,Vance-Granville Community College,Psychology,2.7,Lydia Powell,4.4,6,N/A,,1,1,,,,1,,,,,,,,,,,,,,271649
+454,2978,Vance-Granville Community College,Nursing,1.4,Debbie Wood,4.7,5,N/A,,,,,,,,,,,,,,,,,,,,,460506
+455,2978,Vance-Granville Community College,Sociology,3.4,Kristi Ellenberg,3.5,5,N/A,,,,,,,,1,,,1,,,,1,,2,,,1,1605604
+456,2978,Vance-Granville Community College,Sociology,2.4,Leslie Hurt,4.8,5,N/A,,3,,2,,,1,,,,1,1,,,,3,2,,,1,2068031
+457,2978,Vance-Granville Community College,Computer Science,2.5,Kendra Faulkner,5.0,4,N/A,,,,,,,,,,,,,,,,,,,,,81967
+458,2978,Vance-Granville Community College,Fine Arts,2.0,Terry Garrison,3.3,4,N/A,,,,,,,,,,,,,,,,,,,,,332638
+459,2978,Vance-Granville Community College,Business,3.0,Christal Swilley,3.9,4,N/A,,,,1,,2,2,1,,,,,,1,,,,,,1,695004
+460,2979,Vatterott College,Computer Science,2.1,Todd Butler,4.0,8,N/A,,,,,,,,,,,,,,,,,,,,,315269
+461,2979,Vatterott College,Engineering,3.0,Aaron Morgan,5.0,1,N/A,,1,,,,,,,,,,,,,1,1,,,,,2070009
+462,2980,Vatterott College,Computer Science,2.2,Stewart Stanfield,4.1,10,N/A,,,,,,,,,,,,,,,,,,,,,815875
+463,2981,Vatterott College,Computer Science,2.2,Bipin Bora,3.6,5,N/A,,,,,,,,,,,,,,,,,,,,,440556
+464,2981,Vatterott College,Computer Science,3.0,Joe Dowling,3.7,3,N/A,,,,,,,,,,,,,,,,,,,,,440555
+465,2982,Vatterott College,Medicine,3.5,Robyn Stanley,4.7,6,100%,,1,,3,1,1,,1,,1,1,2,2,,,1,1,1,1,,2152434
+466,2983,Vatterott College: Springfield,Law,2.5,Gayla Marafino,4.6,4,N/A,,,,,,,,,,,,,,,,,,,,,1193154
+467,2983,Vatterott College: Springfield,Theater,2.0,David Starnes,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1751630
+468,2985,Vatterott College: Sunset Hills,Computer Science,2.6,Lee Rouse,3.4,9,N/A,,,,,,,,,,,,,,,,,,,,,205042
+469,2985,Vatterott College: Sunset Hills,Computer Science,4.0,Don Shrum,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1741567
+470,2986,Vermilion Community College,Biology,4.4,Pete Doran,4.4,14,N/A,,,,,,,,,,,,,,,,,,,,,506351
+471,2986,Vermilion Community College,History,3.4,Pam Brumfeldt,4.8,12,N/A,,,,,,,,,,,,,,,,,,,,,506637
+472,2986,Vermilion Community College,Psychology,2.3,Marja (mudd) Nelson,4.6,11,N/A,1,1,,1,,,,2,,,2,3,,,1,1,,,,,506643
+473,2986,Vermilion Community College,Sociology,2.6,David O'Donnell,3.4,10,N/A,,,,,,,,,,,,,1,,,,,,,1,506326
+474,2986,Vermilion Community College,Geography,3.6,John Terwilliger,3.3,9,N/A,,,,1,,,,1,,,,,1,1,1,1,1,,,2,1289524
+475,2986,Vermilion Community College,English,3.4,Carol Orban,3.1,8,N/A,,,,,,,,,,,,,,,,,,,,,506333
+476,2986,Vermilion Community College,Graphic Arts,2.7,Chris Koivisto,3.8,7,N/A,,,,,,,,,,,,,,,,,,,,,506639
+477,2986,Vermilion Community College,English,3.0,Will Helms,5.0,6,N/A,,,,,,,,,,,,,,,,,,,,,506312
+478,2986,Vermilion Community College,Mathematics,3.2,Joe Willett,4.3,6,N/A,,,,,,,,,,,,,,,,,,,,,506340
+479,2986,Vermilion Community College,Mathematics,3.7,Thomas Ruud,3.7,6,N/A,,,,,,,,,,,,,,,,,,,,,1288289
+480,2986,Vermilion Community College,Chemistry,2.6,Teresa Neufelder,3.7,5,N/A,1,,,1,,1,,,,,,,,,,,,,,,1120029
+481,2986,Vermilion Community College,Biology,2.4,Lori Schmidt,4.9,5,N/A,,,,,,1,,2,,,,,,,2,3,,,,,763448
+482,2986,Vermilion Community College,Science,2.0,Wade Klingsporn,4.8,3,N/A,,,,,,,,1,,,,,,,1,1,,,,,1225830
+483,2986,Vermilion Community College,English,3.3,Mary Groeninger,3.8,3,N/A,,,,,,,,,,,,,,,,,,,,,1273496
+484,2986,Vermilion Community College,Health Science,2.0,Devvie Cersine,4.0,3,N/A,,,,,,,,,,,,,,,,,,,,,1288866
+485,2986,Vermilion Community College,English,2.0,Megan Heiman,4.8,3,N/A,,,,,,,,,,,,,,,,,,,,,1598180
+486,2986,Vermilion Community College,English,4.5,Mary Groeinger,3.3,2,N/A,,,,,,,,,,,,,,,,,,,,,1282071
+487,2986,Vermilion Community College,Not Specified,3.5,Mark Carlson,4.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1408745
+488,2986,Vermilion Community College,Mathematics,5.0,Joseph Kucera,2.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1535319
+489,2986,Vermilion Community College,Law,3.0,Jim Christinson,4.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1609274
+490,2987,Vernon College,Biology,3.1,Michael Ruhl,4.4,14,100%,1,,,5,1,3,,3,,1,,1,,,1,5,1,,,1,513076
+491,2987,Vernon College,Mathematics,3.6,Paula Whitman,2.1,14,N/A,,,,,2,,,,,,,,2,7,,,,2,1,9,1285660
+492,2987,Vernon College,History,2.8,Jason Scheller,3.6,12,N/A,,1,,,1,1,1,,1,,2,,,2,,1,,1,,1,1186644
+493,2987,Vernon College,History,3.0,Larry Holmes,3.8,11,N/A,,,,,,,,,,,,,,,,1,1,,,1,703329
+494,2987,Vernon College,English,3.6,Cindy Coufal,4.8,10,N/A,,1,,1,2,,2,5,,,,1,,2,1,2,,,,1,891536
+495,2987,Vernon College,Social Science,2.7,Donny Kirk,4.9,9,N/A,,,,,,2,1,3,,1,,,1,,3,,,,,,674835
+496,2987,Vernon College,Biology,3.9,Melody Bell,2.9,8,N/A,,1,,,,,,1,,,,,,,1,1,,,1,1,374744
+497,2987,Vernon College,Government,3.8,Chad Mueller,3.1,8,N/A,,,,,,,,,,,,,,,,,,,,,893114
+498,2987,Vernon College,Psychology,4.9,Dina Neal,2.1,7,N/A,,,,,,,,,,,,,,,,,,,,,1125220
+499,2987,Vernon College,Government,1.7,Linda Kalski,4.3,6,N/A,,,,2,,,,,,,2,,,,,1,,,,,1185523
+500,2987,Vernon College,Mathematics,4.0,Barbara Jinks,2.7,5,N/A,,,,,,,,,,,,,,,,,,,,,513078
+501,2987,Vernon College,Nursing,4.2,Pam Rotz,2.4,5,N/A,,,,,,,,,,,,,,,,,,,,,964904
+502,2987,Vernon College,Communication,2.5,Annette Bever,4.4,4,N/A,,,,,,,,1,,,,,,,,1,,,,,374737
+503,2987,Vernon College,Mathematics,3.5,Margaret Patin,4.6,4,N/A,,,,,,,,,,,,,,,,,,,,,513080
+504,2987,Vernon College,History,3.5,Don Knox,3.4,4,N/A,,,,,,,,,,,,,,,,,,,,,960740
+505,2987,Vernon College,History,2.8,Adrien Ivan,4.1,4,N/A,,,,,,,,,,,,,,,,,,,,,1594254
+506,2987,Vernon College,Psychology,2.8,Joe Onder,4.3,4,N/A,,,,,,,1,1,,,1,,,,,2,,,,,1721223
+507,2987,Vernon College,English,2.7,Joe Johnston,3.7,3,N/A,,,,,,,,,,,,,,,,,,,,,1185448
+508,2987,Vernon College,Economics,3.3,Nancy Smith,2.9,3,N/A,,,,,,,,,,,,,,,,,,,,,1186634
+509,2987,Vernon College,English,2.7,Jane Trent,4.7,3,N/A,,,,,,,1,,,,,,,,,,,1,,1,1539797
+510,2988,Victor Valley College,Biology,3.2,Hinrich Kaiser,4.4,1019,93%,65,90,5,117,195,124,70,255,17,71,65,63,107,128,164,273,135,5,75,121,601557
+511,2988,Victor Valley College,Biology,3.5,Naveen Jalota,4.7,156,95%,14,18,11,26,19,5,16,16,,,,18,13,1,21,34,27,,2,5,1583926
+512,2988,Victor Valley College,English,2.8,Tim Adell,4.4,144,100%,4,9,1,5,6,1,14,36,1,,23,6,,3,8,9,2,,,7,239743
+513,2988,Victor Valley College,Mathematics,2.6,Anh Weis,4.3,141,94%,24,23,,36,19,20,1,14,,,9,12,2,27,7,9,18,1,8,3,359359
+514,2988,Victor Valley College,Mathematics,3.3,Steve Toner,4.1,137,81%,6,5,1,17,15,,,12,,,5,3,,20,7,5,8,,3,6,120696
+515,2988,Victor Valley College,Art History,2.2,Frank Foster,4.0,128,70%,3,3,,13,22,16,8,18,2,,11,5,2,18,11,7,5,16,,10,439508
+516,2988,Victor Valley College,Chemistry,3.7,T.J. Kennedy,3.4,127,41%,3,5,,7,15,2,8,3,4,1,1,4,8,10,4,4,29,1,6,17,219927
+517,2988,Victor Valley College,Economics,3.9,Henry Young,2.5,118,17%,1,1,4,2,1,1,18,2,,,,,5,8,2,,4,7,2,20,120695
+518,2988,Victor Valley College,English,3.5,Patty Golder,4.0,116,72%,1,1,,4,1,,5,20,,2,7,3,,7,13,5,17,18,,44,544940
+519,2988,Victor Valley College,English,3.1,Bryce Campbell,4.8,103,100%,2,8,,6,4,,4,15,,,17,4,,1,5,12,5,3,,4,272777
+520,2988,Victor Valley College,Languages,4.3,Martha Vila,2.0,96,23%,,,,,2,,,1,,,,,1,18,11,,22,,2,28,122738
+521,2988,Victor Valley College,Mathematics,1.8,Patrick Mauch,4.4,91,83%,2,4,,7,8,,,2,1,,2,,4,11,2,3,5,,1,,434805
+522,2988,Victor Valley College,Biology,4.3,Jessica Gibbs,4.2,91,82%,1,10,,1,9,6,1,1,,1,1,1,6,1,2,4,11,1,6,5,772288
+523,2988,Victor Valley College,English,3.1,Andrea Glebe,4.3,88,94%,,4,4,9,2,,,12,,,2,5,1,1,16,11,2,,,7,161581
+524,2988,Victor Valley College,Biology,4.0,Lisa Harvey,4.5,87,85%,1,10,1,3,3,,4,4,,,3,2,2,8,3,9,16,1,5,11,190724
+525,2988,Victor Valley College,Mathematics,3.6,Patrick Malone,2.6,86,N/A,,,,2,,,,1,1,,,,2,3,,1,,,,3,434801
+526,2988,Victor Valley College,Communication,1.8,Jennifer Fowlie,4.8,86,98%,2,16,,6,15,1,,27,3,7,22,11,,1,24,13,12,,,1,701635
+527,2988,Victor Valley College,Theater,2.7,Ed Heaberlin,2.6,85,57%,,,,2,1,1,2,7,,3,3,3,,1,9,2,2,,,,161589
+528,2988,Victor Valley College,Political Science,3.0,Dino Bozonelos,4.3,84,86%,,10,1,3,5,6,12,4,1,,,4,5,4,19,6,4,1,1,5,583854
+529,2988,Victor Valley College,History,3.8,Tracy Davis,3.6,84,63%,,3,1,1,7,4,10,7,,,,1,6,4,2,1,3,5,2,16,364917
+530,2989,Victoria College,History,3.0,Karen Hagan,4.8,67,100%,,20,,1,6,3,5,3,3,,13,6,10,,,6,7,,1,2,1162271
+531,2989,Victoria College,Political Science,3.1,Jeremy Mauer,4.3,47,N/A,,,,,,,,,,,,,,,,,,,,,1457536
+532,2989,Victoria College,Political Science,2.8,Joe Sekul,4.2,43,88%,3,2,,1,8,,7,2,1,,1,,12,1,2,3,3,,2,,205880
+533,2989,Victoria College,History,2.3,Edward Byerly,4.0,40,83%,1,4,,,4,,1,2,,,1,2,2,,2,,,,1,1,227668
+534,2989,Victoria College,English,2.7,Heidi Ajrami,3.5,38,N/A,,,1,1,1,,3,7,,1,,,,4,3,,1,1,,1,387442
+535,2989,Victoria College,Communication,4.1,Cary Voss,2.9,35,57%,,,,,3,,,6,1,,2,,1,,5,1,2,,,7,354893
+536,2989,Victoria College,Biology,3.5,Margaret Janowski-Bell,3.7,32,29%,,2,2,,1,,2,1,,,,,1,8,1,,3,2,,4,129739
+537,2989,Victoria College,Psychology,2.2,Karen Hoblit,4.4,31,N/A,,1,,1,2,1,3,1,,,1,,,,,1,,,,,205905
+538,2989,Victoria College,English,3.5,Michelle Paulsen,3.8,28,71%,1,,,,,,5,4,4,,,,,2,,,1,4,,8,738385
+539,2989,Victoria College,History,4.7,Michael Hummel,2.9,27,N/A,,,,,,,,,,,,,,,,,,,,,288716
+540,2989,Victoria College,English,3.4,Mary Stahoviak,3.8,26,N/A,,,,,,,1,1,,,,,,,1,1,,,,3,265361
+541,2989,Victoria College,English,4.0,Bridgette Marshall,2.8,26,33%,1,2,2,1,1,1,6,6,1,6,2,1,1,4,3,,5,3,1,15,1478564
+542,2989,Victoria College,English,2.5,Gary Hall,4.0,23,100%,,1,1,1,5,,2,4,,1,,,1,1,1,,3,,,,347717
+543,2989,Victoria College,Fine Arts,3.2,Robert Hodde,3.1,23,N/A,,1,,,,1,1,,,,2,,2,,,,,,,4,196942
+544,2989,Victoria College,Mathematics,2.2,Dan Murphy,4.9,22,100%,2,2,,8,,1,,6,,,3,5,,,1,7,,,,,535058
+545,2989,Victoria College,English,3.1,Lisa Devries,4.0,22,80%,,,2,1,2,7,6,3,,1,3,,,2,3,,,1,,8,1272946
+546,2989,Victoria College,Mathematics,3.8,Rachel Winkenwerder,4.0,22,100%,2,2,,4,,,,3,,,,1,,5,2,3,7,,,1,1718936
+547,2989,Victoria College,Education,2.6,Paul Janda,4.6,21,100%,2,4,4,3,5,2,1,,1,,4,2,1,1,1,3,2,,,1,1479517
+548,2989,Victoria College,Chemistry,3.9,Sheryl Kosler,2.9,21,67%,1,1,4,2,2,,3,,,,1,2,,5,3,1,9,,,4,1878366
+549,2989,Victoria College,Political Science,3.6,Jeffrey Hubbard,2.5,21,30%,,1,,,4,3,13,,3,,2,2,1,1,1,1,,,,6,1783314
+550,2990,Villa Maria College of Buffalo,Fine Arts,2.9,Brian Duffy,3.8,18,N/A,,,,,,,,,,,,,,,,,,,,,145921
+551,2990,Villa Maria College of Buffalo,English,3.0,Joyce Kessel,3.6,13,N/A,,,,,,,,1,1,,,,,,1,,,2,,1,415872
+552,2990,Villa Maria College of Buffalo,Fine Arts,2.3,Fran Amaya,4.6,11,N/A,,,,,,,,,,,,,,,,,,,,,271344
+553,2990,Villa Maria College of Buffalo,Graphic Arts,4.3,Jude Calhoon,2.5,9,N/A,,,,1,,,,1,,,,1,,,,,,,,,145920
+554,2990,Villa Maria College of Buffalo,Fine Arts,3.1,Adam Weekley,4.7,9,N/A,,,,,,,,2,,,1,,,,,,1,,,2,602417
+555,2990,Villa Maria College of Buffalo,Education,1.6,Leanna Manna,4.5,8,N/A,,,,,,,,,,,,,,,,,,,,,232866
+556,2990,Villa Maria College of Buffalo,Graphic Arts,2.4,Grizanti Robert,4.2,7,N/A,,,,1,,,,1,,,1,,,,,,,,,,299067
+557,2990,Villa Maria College of Buffalo,Music,3.0,Carmen Aquila,4.9,7,N/A,,1,,2,1,,,1,,,1,,,,1,1,,,,1,696947
+558,2990,Villa Maria College of Buffalo,Education,3.7,Judy Piskun,1.5,6,N/A,,,,,,,,,1,,,,,1,,,,,1,,222848
+559,2990,Villa Maria College of Buffalo,Web Design,1.7,Michael Bosworth,3.4,6,N/A,,,,,,,,,,,,,,,,,,,,,888846
+560,2990,Villa Maria College of Buffalo,Design,3.0,Julie Zack,4.3,6,N/A,,,,,,,,,,,1,,,,1,,,,,,1060444
+561,2990,Villa Maria College of Buffalo,English,2.5,Elizabeth Kirchmeyer-Battaglia,4.9,6,N/A,1,,,,,,,1,,,,,,,1,,,,,,1124530
+562,2990,Villa Maria College of Buffalo,Humanities,3.4,Jim Nye,1.4,5,N/A,,,,,,,,,,,,,,,,,,,,,612031
+563,2990,Villa Maria College of Buffalo,Religion,1.6,Donald Monnin,3.6,5,N/A,,,1,,1,1,1,,1,,,,1,,,,,,,,1422042
+564,2990,Villa Maria College of Buffalo,Graphic Arts,4.5,Maria Pabico,3.9,4,N/A,,,,,,,,,,,,,,,,,,,,,534028
+565,2990,Villa Maria College of Buffalo,Not Specified,1.3,MR. Banks,5.0,4,N/A,,,,,,,,,,,,,,,,,,,,,721444
+566,2990,Villa Maria College of Buffalo,Graphic Arts,4.0,Zack Julie,4.8,3,N/A,,,,,,,,,,,,,,,,,,,,,915826
+567,2990,Villa Maria College of Buffalo,Philosophy,2.7,Barry Smith,3.2,3,N/A,,,,,,,,,,,,,,,,,,,,,1290563
+568,2990,Villa Maria College of Buffalo,English,1.7,Mary Anne Wendzikowski,2.8,3,N/A,,,,,,,,,,,,,,,,,,,,,1367199
+569,2990,Villa Maria College of Buffalo,Fine Arts,3.0,John Daly,3.9,3,N/A,,,,,1,,,1,,,,,,,1,,,,,,1626552
+570,2991,Virginia College - Birmingham,Culinary Arts,1.8,Ian Tarica,5.0,8,N/A,,,,,,,,,,,,,,,,,,,,,708808
+571,2991,Virginia College - Birmingham,Culinary Arts,2.5,Jared Danks,4.9,6,N/A,,,,,,,,,,,,,,,,,,,,,751184
+572,2991,Virginia College - Birmingham,Culinary Arts,2.3,Thomas Mair,4.2,3,N/A,,,,,,,,,,,,,,,,,,,,,724277
+573,2991,Virginia College - Birmingham,Computer Science,3.3,Christopher Heinz,4.3,3,N/A,,,,,,,,,,,,,,,,,,,,,815511
+574,2991,Virginia College - Birmingham,Criminal Justice,4.3,Gary Scott Almon,5.0,3,N/A,,,,,,,,,,,,,,,,,,,,,1710678
+575,2991,Virginia College - Birmingham,Computer Science,2.0,Tim Gutzke,4.0,2,N/A,,,,,,,,,,,,,,,,,,,,,669760
+576,2991,Virginia College - Birmingham,Computer Science,4.0,Tommy Whitlock,3.0,2,N/A,,,,,,,,,,,,,,,,,,,,,866724
+577,2991,Virginia College - Birmingham,English,3.0,Rochelle Franklin,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1556266
+578,2991,Virginia College - Birmingham,Computer Science,4.0,Alan Marchman,4.0,1,N/A,,,,,,,,,,,,,,,,,,,,,670704
+579,2991,Virginia College - Birmingham,Culinary Arts,3.0,John Wilson,4.0,1,N/A,,,,,,,,,,,,,,,,,,,,,724279
+580,2991,Virginia College - Birmingham,English,4.0,Cheryl Little,1.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1297363
+581,2991,Virginia College - Birmingham,Not Specified,1.0,Pamula Spivey,4.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1556261
+582,2991,Virginia College - Birmingham,Management,1.0,Sandra Hudson,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1556264
+583,2991,Virginia College - Birmingham,Computer Science,3.0,Alfred Basta,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1589609
+584,2991,Virginia College - Birmingham,Computer Science,3.0,Vicky Newingham,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1722983
+585,2991,Virginia College - Birmingham,Health Science,3.0,Jason Karpf,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1729126
+586,2992,Virginia College: Huntsville,Computer Science,3.5,Michael Avolese,4.6,8,N/A,,,,,,,,,,,,,,,,,,,,,375325
+587,2992,Virginia College: Huntsville,Computer Science,5.0,Kevin Xiques,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,405151
+588,2992,Virginia College: Huntsville,Fine Arts,1.0,Chris Davis,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,687853
+589,2992,Virginia College: Huntsville,Graphic Arts,3.0,Lee Cox,4.0,1,N/A,,,,,,,,,,,1,,,,,1,,,,1,1575766
+590,2992,Virginia College: Huntsville,Political Science,2.0,Dakota Nichols,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1896537
+591,2992,Virginia College: Huntsville,Business,3.0,John Thornton,4.0,1,N/A,,,,1,,,,,,,,,,,1,1,,,,,2221140
+592,2993,Virginia Highlands Community College,Psychology,2.3,Patrick Farley,4.7,32,N/A,,4,,,1,1,,,,,1,2,,,,3,,,,,492782
+593,2993,Virginia Highlands Community College,Biology,3.2,Kevin Hamed,4.6,26,N/A,,2,,,,3,,,,,3,,,,,,2,1,,,568439
+594,2993,Virginia Highlands Community College,Psychology,2.8,W. Fleenor,3.8,25,100%,1,,,1,2,2,,1,,,1,,2,,1,2,2,,,2,555631
+595,2993,Virginia Highlands Community College,History,2.5,Sara Combs,4.4,19,89%,4,,,5,,1,,2,1,2,,1,,,2,6,,,,,717334
+596,2993,Virginia Highlands Community College,History,2.5,Mark Hagy,4.2,19,N/A,,,,,,,3,2,,,,,,1,3,2,,1,,,242889
+597,2993,Virginia Highlands Community College,English,2.1,Dolly Tarver,3.1,18,N/A,,,,,,,,,,,,,,,,,,,,,167497
+598,2993,Virginia Highlands Community College,Languages,3.9,Carmen Verges,3.5,18,N/A,,,,1,,,,,,,,3,,,1,,2,,,,416329
+599,2993,Virginia Highlands Community College,Information Science,2.7,Stan Ferrell,2.5,16,N/A,,,,,,,,,,,,,,,,,,,,,644248
+600,2993,Virginia Highlands Community College,English,3.3,Tommy Bryant,2.7,16,N/A,,,,,,,3,,,,1,,,1,,,,2,,2,1014816
+601,2993,Virginia Highlands Community College,Economics,2.8,David Collins,4.5,15,N/A,,,,,,,,,,,,,,,,,,,,,492793
+602,2993,Virginia Highlands Community College,Mathematics,2.5,Robert May,4.5,14,N/A,,,,1,,,,,,,,,1,,,1,,,,,450438
+603,2993,Virginia Highlands Community College,Mathematics,3.9,Dave Smith,3.6,14,N/A,,,,,,,,2,,,,,1,1,1,1,,,3,,559722
+604,2993,Virginia Highlands Community College,Sociology,3.1,Cory Lewis,4.4,14,86%,1,6,,1,,10,,4,1,,8,4,1,,,,,,,1,2296184
+605,2993,Virginia Highlands Community College,English,3.1,Gary Aday,3.7,13,N/A,,,,1,,,,,,,1,,,,,1,,,,,694625
+606,2993,Virginia Highlands Community College,Accounting,2.7,Richard Hutton,3.8,13,N/A,,,,,,2,2,1,,,,,2,1,1,2,1,,,1,729749
+607,2993,Virginia Highlands Community College,English,3.6,Judy Miller,2.3,13,N/A,,,,,,,,,1,,,,,5,1,,,3,,3,1186190
+608,2993,Virginia Highlands Community College,English,2.7,Philip Ferguson,4.9,11,N/A,1,,,1,,,,2,,,1,1,,,,,,,,,1244840
+609,2993,Virginia Highlands Community College,Information Science,4.1,Mary Sullivan,2.5,10,N/A,,,,,,,,,,,,,,,,,,,,,694624
+610,2993,Virginia Highlands Community College,Sociology,3.4,Charles Justice,2.2,10,N/A,,,,,,,,,,,,,,,,,1,,,,729936
+611,2994,Virginia Marti College of Art and Design,English,3.2,Dan Zawacki,4.8,9,N/A,,,,,,,,,,,,,,,,,,,,,806223
+612,2994,Virginia Marti College of Art and Design,Design,3.8,Christina Mccarthy,4.1,5,N/A,,,,,,,,,,,,,,,,,,,,,696742
+613,2994,Virginia Marti College of Art and Design,Mathematics,2.3,Clayton Cosimi,5.0,3,N/A,,,,,,,,,,,,,,,,,,,,,582110
+614,2994,Virginia Marti College of Art and Design,Law,2.0,Wayne Pearsall,5.0,3,N/A,,,,,,,,,,,,,,,,,,,,,995529
+615,2994,Virginia Marti College of Art and Design,Art History,4.0,Andrij Maday,4.8,2,N/A,,,,,,,,,,,,,,,,,,,,,1373084
+616,2994,Virginia Marti College of Art and Design,History,3.0,Matt Dodd,4.5,2,N/A,,,,,,,,2,,,1,1,,,,2,,,,,2052778
+617,2994,Virginia Marti College of Art and Design,Mathematics,5.0,Keith Miller,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1373086
+618,2994,Virginia Marti College of Art and Design,Graphic Arts,4.0,Richard Sayles,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1600366
+619,2994,Virginia Marti College of Art and Design,Social Science,3.0,Chuck Pisscitelllo,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1620204
+620,2994,Virginia Marti College of Art and Design,Art History,4.0,Matthew Dodd,3.0,1,N/A,,,,1,,,,,,,,1,,,,1,,,,,2054503
+621,2995,Virginia Western Community College,Geology,3.0,Anna Balog-Szabo,3.9,115,77%,2,5,,6,3,13,,5,,1,7,10,,2,11,8,6,,2,2,183009
+622,2995,Virginia Western Community College,Political Science,2.6,Allen Trigger,4.0,106,83%,1,2,,1,1,,3,5,,,3,2,1,,2,7,1,,,,156644
+623,2995,Virginia Western Community College,Mathematics,3.1,Sarah Martin,3.5,97,N/A,,4,3,8,11,1,,,,,3,,4,5,7,2,5,,,4,603194
+624,2995,Virginia Western Community College,Mathematics,3.1,James Fightmaster,3.5,93,94%,5,1,,13,,12,2,4,2,,5,7,3,,2,6,7,,,1,881557
+625,2995,Virginia Western Community College,Communication,2.1,Amy Anguiano,4.7,89,N/A,,,,,2,,1,1,,,,,,,,,1,,,1,486556
+626,2995,Virginia Western Community College,Biology,4.0,Richard Juneau,3.9,82,77%,35,6,,25,9,13,15,12,2,,6,11,27,,21,7,23,,16,15,2167099
+627,2995,Virginia Western Community College,Psychology,3.3,Bonnie Dennis,3.1,75,14%,,,,,1,2,9,,4,,3,,4,1,4,,5,,6,11,249381
+628,2995,Virginia Western Community College,Biology,3.0,B Schaubach,4.8,74,N/A,2,6,,3,3,3,,6,,,1,1,1,,2,7,4,,,1,759298
+629,2995,Virginia Western Community College,Mathematics,3.2,Bryan Snare,3.5,71,61%,1,1,,7,4,,2,2,2,,3,2,7,5,3,3,7,1,3,5,1281321
+630,2995,Virginia Western Community College,Psychology,3.3,Laura Vasiliauskas,3.2,68,23%,1,,,4,3,4,4,1,2,3,,3,1,4,6,3,,2,2,6,1053466
+631,2995,Virginia Western Community College,English,3.8,Maggie McDaniel,2.8,66,N/A,1,,,,,1,16,,,,,,5,2,1,,10,2,,17,466211
+632,2995,Virginia Western Community College,Chemistry,3.7,Owen Loftus,3.5,64,81%,4,1,,11,4,4,3,4,1,,2,,3,4,3,4,6,,5,6,495813
+633,2995,Virginia Western Community College,English,3.2,Sarah Burns,3.8,63,56%,1,,,3,,,8,7,,,,1,,6,3,1,3,,1,2,497495
+634,2995,Virginia Western Community College,Mathematics,2.6,Anthony Billips,4.2,63,73%,3,5,6,5,2,4,,3,3,,7,1,,,,2,4,,1,1,498322
+635,2995,Virginia Western Community College,Social Science,2.5,Annette Chamberlin,4.9,63,92%,1,,,6,5,9,8,3,3,,,,,1,,3,,,,2,531727
+636,2995,Virginia Western Community College,English,3.0,Jennifer Kurtz,4.0,63,87%,1,1,6,11,,1,12,14,,,,1,,4,4,2,,2,,9,388191
+637,2995,Virginia Western Community College,Biology,3.8,Stacie Deavers,3.6,61,56%,1,1,,12,2,3,1,,,,6,2,2,7,12,8,20,1,4,13,1735798
+638,2995,Virginia Western Community College,Psychology,1.7,Rhonda Cassell,4.4,56,N/A,,,,,,1,,2,,1,1,1,,,,,,,,1,389407
+639,2995,Virginia Western Community College,History,3.5,Gary Dent,3.1,53,N/A,,,,,,2,2,1,,,3,,3,,,,3,,,6,486351
+640,2995,Virginia Western Community College,English,2.6,John Burkholder,4.4,52,80%,1,,2,,3,,6,8,,,1,2,,2,,4,3,1,,4,389396
+641,2997,Volunteer State Community College,Psychology,1.6,Carol Topping,5.0,111,100%,1,8,1,18,7,6,1,16,,,30,9,,,2,24,1,,,,250544
+642,2997,Volunteer State Community College,History,3.1,Grady Eades,4.1,105,86%,,4,,1,,,1,6,,,7,4,2,1,1,5,1,,,6,172224
+643,2997,Volunteer State Community College,Psychology,2.4,Vicki Dretchen,4.8,90,100%,2,10,,3,6,2,3,9,3,,,4,2,,4,11,1,,1,1,1489082
+644,2997,Volunteer State Community College,Philosophy,3.5,Clark A. Hutton,3.4,84,30%,1,7,,,2,,6,2,3,,4,,3,,3,3,10,1,1,12,386656
+645,2997,Volunteer State Community College,Biology,4.5,Robert Carter,2.6,80,36%,3,,1,2,1,1,14,1,,,,,10,6,8,1,13,,5,22,877447
+646,2997,Volunteer State Community College,Biology,3.2,Charles Hicks,4.2,78,79%,,2,1,1,6,2,2,4,1,,8,,2,,1,5,1,,2,6,712581
+647,2997,Volunteer State Community College,History,4.0,Carole Bucy,3.3,73,25%,1,1,,3,2,,13,3,,,,,2,10,4,1,2,2,4,12,108241
+648,2997,Volunteer State Community College,Biology,4.4,Jeffrey Kent,3.7,68,93%,4,3,,7,1,13,3,8,,,,1,2,,2,4,6,,4,5,250064
+649,2997,Volunteer State Community College,History,2.7,Joseph Douglas,4.5,63,80%,,1,,2,,2,7,2,1,,1,,2,,,1,3,,1,,616588
+650,2997,Volunteer State Community College,Psychology,2.8,Sidney E. Hardyway,3.9,61,67%,,,,,2,2,6,1,1,,1,,,3,8,,,1,,11,250616
+651,2997,Volunteer State Community College,Biology,2.7,H Mann,4.8,59,100%,1,1,,3,5,2,,4,,,1,2,1,,3,9,,,,2,250680
+652,2997,Volunteer State Community College,History,2.7,Peter Johnson,4.7,59,94%,1,11,1,2,4,6,14,10,,,7,6,,,,8,2,2,,10,713327
+653,2997,Volunteer State Community College,English,2.3,Betty Mandeville,4.9,58,100%,5,4,1,18,4,1,2,14,,1,16,12,,,5,8,1,1,,,572699
+654,2997,Volunteer State Community College,Sociology,3.0,Jamie R Fuston,3.8,55,70%,2,16,,3,9,,14,14,2,1,9,2,2,,15,4,1,1,,21,1770843
+655,2997,Volunteer State Community College,Languages,2.0,Jaime Sanchez,3.5,52,43%,1,,,3,4,,1,11,,,2,1,,5,4,,,3,1,,382683
+656,2997,Volunteer State Community College,Physical Ed,2.9,Betty Williams,2.0,51,N/A,,,,,,2,1,,2,,1,,,,2,,1,,1,,289492
+657,2997,Volunteer State Community College,Geography,3.5,Keith Bell,3.9,51,62%,,,,1,2,,10,4,1,,3,1,4,1,4,1,6,,2,3,343005
+658,2997,Volunteer State Community College,Psychology,1.8,Connie Martin,4.1,51,53%,1,2,1,9,2,2,3,,2,,3,1,2,3,2,2,,2,,,935440
+659,2997,Volunteer State Community College,Psychology,3.3,P Lawson,2.7,50,N/A,,,,,,,,,,,,,,,,,,,,,250618
+660,2997,Volunteer State Community College,Humanities,3.9,Linda Brady,2.4,46,N/A,,,,,,,,,,,,,,,,,,,,,342970
+661,2998,Wake Technical Community College,Sociology,4.1,Kristin Williams,4.5,233,85%,2,34,6,,3,,27,10,2,,13,33,1,5,8,15,10,,,39,1477510
+662,2998,Wake Technical Community College,English,2.9,Michael Joyner,4.3,160,94%,1,28,,8,6,,14,25,1,,7,22,3,1,13,22,1,2,,15,80004
+663,2998,Wake Technical Community College,English,3.4,Jenifer Wolkowski,4.5,157,86%,5,9,5,10,13,2,5,34,2,,33,12,,1,3,7,4,2,1,19,1199660
+664,2998,Wake Technical Community College,Economics,1.8,Geeta Shah,4.5,148,89%,10,6,,37,12,12,6,8,1,3,22,15,4,6,11,16,7,,,1,16233
+665,2998,Wake Technical Community College,Psychology,2.3,Michael Chi,4.7,99,89%,1,5,,5,4,3,4,13,,,,1,1,4,3,3,,1,,6,1092228
+666,2998,Wake Technical Community College,Philosophy,3.3,Chris Gandy,3.5,96,32%,1,2,,,2,2,7,4,12,,1,2,19,,1,1,2,2,1,25,81341
+667,2998,Wake Technical Community College,History,3.7,Nancey Moore,3.2,94,40%,,2,,3,1,2,3,,5,2,,1,5,,5,,8,,1,15,430298
+668,2998,Wake Technical Community College,English,3.9,Eileen Sweeney,3.8,87,59%,6,2,,3,5,,21,19,3,,7,2,,5,13,3,,9,,28,1156828
+669,2998,Wake Technical Community College,Mathematics,2.0,Rhoderick Fleming,4.7,80,89%,,,,3,2,,,6,,,,1,,1,1,4,,,,,460454
+670,2998,Wake Technical Community College,Philosophy,3.9,Sophia Arias,2.9,78,63%,4,4,1,4,4,,11,10,1,1,4,,,2,8,2,2,3,,15,1156830
+671,2998,Wake Technical Community College,Psychology,2.3,Chris Roddenberry,4.6,78,93%,2,7,,6,2,7,2,10,,,8,2,,2,7,5,2,,,1,539888
+672,2998,Wake Technical Community College,Mathematics,4.4,Alison J Aydlett,1.5,76,13%,1,,,,,,1,2,,4,,,2,13,3,,5,,1,19,694987
+673,2998,Wake Technical Community College,Sociology,2.7,Joanne Clayton,4.1,75,75%,2,9,,2,3,3,7,2,2,1,4,6,3,,,2,8,,,5,317685
+674,2998,Wake Technical Community College,English,3.4,Steven Harless,3.1,75,33%,2,1,,5,,,14,3,5,,4,1,14,2,1,3,,6,,8,639686
+675,2998,Wake Technical Community College,Biology,3.4,Brandon Foster,3.8,75,81%,6,9,,7,5,,1,1,1,,12,,6,2,1,8,7,,2,6,444145
+676,2998,Wake Technical Community College,English,2.9,Christy Kinnion Hanthorn,4.3,73,86%,2,2,2,5,3,,1,12,,4,5,2,,2,3,6,2,,,8,729935
+677,2998,Wake Technical Community College,Humanities,2.1,Jean-Pierre Kamuabo,3.2,73,48%,4,,,2,3,,8,4,,3,,1,4,13,3,1,1,1,4,6,1138809
+678,2998,Wake Technical Community College,Religion,2.4,Joe Haigler,4.5,72,100%,4,4,,4,6,5,3,7,,1,7,1,1,,3,6,,,,,503581
+679,2998,Wake Technical Community College,Sociology,1.6,Jacqueline Popp,4.5,72,94%,3,1,,6,14,1,6,15,,,,1,,,8,4,,,1,,844462
+680,2998,Wake Technical Community College,History,3.4,Bill Bagliani,3.4,70,71%,,1,,1,1,3,,,1,,3,1,9,,1,2,4,,,,680291
+681,2999,Walla Walla Community College,Languages,2.9,Jeff Adams,4.0,46,100%,,1,3,2,2,,,,,,4,3,,2,4,1,2,,,,502929
+682,2999,Walla Walla Community College,Computer Science,2.0,Jerry Sampson,4.5,40,N/A,,2,,3,1,,,1,,,2,2,,1,,4,,,,,111535
+683,2999,Walla Walla Community College,Mathematics,3.7,Gary Owsley,2.2,37,N/A,1,,,,,,,,,,1,,,,1,,,,,,150665
+684,2999,Walla Walla Community College,Psychology,2.3,Jan Kruper,4.9,37,100%,4,11,,9,4,2,,10,,,3,9,,1,2,9,2,,,,939157
+685,2999,Walla Walla Community College,English,3.7,Linda Andrews,3.5,29,N/A,1,,,1,1,,1,1,,,,,,,3,,1,,,,659964
+686,2999,Walla Walla Community College,Psychology,3.3,Cindy Stevenson,3.0,26,50%,,3,,,1,5,4,1,,,2,1,2,1,1,,4,,1,3,151099
+687,2999,Walla Walla Community College,Mathematics,3.1,Larry Brown,3.7,23,N/A,2,1,,4,3,1,,1,,,1,1,,3,1,2,2,,,,151155
+688,2999,Walla Walla Community College,English,3.7,David Owens,2.8,23,40%,1,1,,,,,2,2,,,,3,,2,4,,,1,1,5,1190835
+689,2999,Walla Walla Community College,English,2.6,Bill Keifel,3.0,20,N/A,,,,,,,,,,,,,,,,,,,,,262646
+690,2999,Walla Walla Community College,Computer Science,3.8,Robin Greene,4.2,20,100%,3,,,1,1,,1,10,,,,2,,2,9,7,,,,1,1259129
+691,2999,Walla Walla Community College,Science,3.0,Mike Mahan,4.5,19,N/A,,,,1,,5,,,,1,2,,,,2,2,1,,1,1,547993
+692,2999,Walla Walla Community College,Physics,2.8,Steve May,4.6,18,N/A,,,,1,,,,2,,,,,,,1,,1,,,,106677
+693,2999,Walla Walla Community College,Mathematics,3.4,Eric Schulz,4.4,18,N/A,,1,,,,,,1,,,,2,,1,1,1,2,,,,163596
+694,2999,Walla Walla Community College,Mathematics,1.8,Jennifer Leber,5.0,17,100%,2,1,,8,,3,,4,,,,3,,2,,4,3,,,,1600320
+695,2999,Walla Walla Community College,Philosophy,2.7,Jon Stratton,4.5,15,N/A,,,,,,,,,,,,,,,,,,,,,163601
+696,2999,Walla Walla Community College,Humanities,2.4,Jesse Burgess,4.9,15,N/A,,3,,,,,,1,,,,4,,,1,1,1,,,,1013731
+697,2999,Walla Walla Community College,History,2.7,Jim Peitersen,3.9,15,N/A,,,,,,,1,2,,1,,,3,,,1,1,,,2,737224
+698,2999,Walla Walla Community College,Humanities,1.7,Jennifer Bayne-Lemma,5.0,14,100%,1,6,,7,,,,4,,,3,12,,,3,4,,,,,2070458
+699,2999,Walla Walla Community College,Science,3.9,Matthew Stacy,3.9,13,N/A,,,,,2,1,,,,,,,1,1,,,,,,1,1451492
+700,2999,Walla Walla Community College,Theater,1.7,Kevin Loomer,4.5,12,N/A,,,,,,,,,,,1,,,,1,,1,,,,737220
