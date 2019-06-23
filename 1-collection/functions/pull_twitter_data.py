@@ -52,7 +52,9 @@ def get_df_of_recent_tweets(q):
 	    
 	return tweet_data
 
-def get_tweets_per_hour_estimate(q):
+def get_tweets_per_hour_estimate(q,additional_term=None):
+	if additional_term:
+		q = f'{q} {additional_term}'
     data = get_recent_tweets(q)
     first_post = data['statuses'][0]['created_at']
     first_post = datetime.datetime.strptime(first_post,'%a %b %d %H:%M:%S +0000 %Y')
