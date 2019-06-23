@@ -41,7 +41,13 @@ def scorecard():
     
     subject = request.args.get('subject')
 
-    return f'coming soon: {subject} scorecard'
+    df = get_scorecard_data(subject)
+    data = prep_scorecard_df_as_dict(df)
+
+    return render_template('scorecard.html',
+             data = data,
+             dept = df.loc['dept','score'],
+         )
 
 
 if __name__ == '__main__':
