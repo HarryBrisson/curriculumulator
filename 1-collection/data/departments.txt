@@ -1,7 +1,10 @@
 Accounting
 African-American Studies
 Agriculture
+Allied Health
+American Studies
 Anatomy
+Animal Science
 Anthropology
 Architecture
 Art
@@ -9,20 +12,30 @@ Art & Design
 Art History
 Astronomy
 Aviation
+Behavioral Sciences
 Bible, Missions & Ministry
 Biblical Studies
+Biochemistry
 Biological Sciences
 Biology
 Business
 Business Administration
 Business Law
 Chemistry
+Child Development
 Classics
+Clinical Laboratory Sciences
 Communication
+Communication Studies
+Communications
+Computer Engineering
 Computer Information Systems
 Computer Science
+Counseling
 Criminal Justice
+Culinary Arts
 Design
+Drawing
 Ear Training
 Earth Science
 Economics
@@ -31,17 +44,20 @@ Electrical Engineering
 Engineering
 English
 English Language & Literature
+Environmental Science
 Environmental Studies
 Ethnic Studies
 Film
 Finance
 Fine Arts
+Foreign Languages
 General Studies
 Geography
 Geology
 Government
 Graphic Arts
 Graphic Design
+Health & Physical Education
 Health Science
 History
 History & Political Science
@@ -52,16 +68,23 @@ Illustration
 Information Science
 Information Systems
 Information Technology
+Interdisciplinary Studies
 International Studies
 Journalism
+Kinesiology
 Languages
 Law
+Liberal Arts & Sciences
 Liberal Studies
+Life Science
 Literature
 Management
 Marketing
 Mathematics
+Mathematics & Statistics
+Mechanical Engineering
 Medicine
+Microbiology
 Modern Languages
 Music
 Natural Sciences
@@ -77,13 +100,17 @@ Psychology
 Religion
 Religious Studies
 Science
+Social & Behavioral Sciences
 Social Science
+Social Sciences
 Social Work
 Sociology
 Spanish
 Speech
+Speech Communication
 Statistics
 Theater
 Theology
 Women's Studies
 Writing
+Zoology
