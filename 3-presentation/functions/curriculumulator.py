@@ -26,8 +26,9 @@ def get_scorecard_data(subject):
             pctls[c] = df[c].rank(pct=True)
             indices[c] = df[c]/(df[c].mean())*100
         except:
-            pctls[c] = df[c]
-            indices[c] = df[c]
+        	if c == 'dept':
+	            pctls[c] = df[c]
+	            indices[c] = df[c]
 
     pctls = pctls[pctls['dept']==subject].transpose()
     indices = indices[indices['dept']==subject].transpose()
