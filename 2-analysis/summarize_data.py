@@ -211,6 +211,8 @@ def summarize_rmp_data(min_reviews_per_professor=5, min_professors_per_dept=5):
     df = df.drop('Unnamed: 0',axis=1)
     
     df = df[df['rating_count']>=min_reviews_per_professor]
+
+    df['dept'] = df['dept'].apply(lambda x: x.replace('&','and'))
     
     tag_columns = [c for c in df.columns if c[:3]=='tag']
     df[tag_columns] = df[tag_columns].fillna(0)
