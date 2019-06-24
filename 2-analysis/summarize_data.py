@@ -162,6 +162,43 @@ def get_aggregated_dept_name(dept):
     return dept
 
 
+def make_column_names_human_readable(df):
+
+    column_renaming = {
+        '2018_wikipedia_views': '2018 Wikipedia Views (#)',
+        'difficulty': 'Difficulty Score (1-5)',
+        'professors': 'Professors Represented in Dataset (#)',
+        'quality': 'Quality Score (1-5)',
+        'rating_count': 'Ratings Collected (#)',
+        'tweets_per_hour': 'Tweets Per Hour (#)',
+        'wikipedia_url': 'Wikipedia Url',
+        'wikipedia_wordcount': 'Wikipedia Wordcount (#)',
+        'tag_accessibleoutsideclass':'Tag: Accessible Outside Class (%)',
+        'tag_amazinglectures':'Tag: Amazing Lectures (%)',
+        'tag_bewareofpopquizzes':'Tag: Beware of Pop Quizzes (%)',
+        'tag_caring':'Tag: Caring (%)',
+        'tag_cleargradingcriteria':'Tag: Clear Grading Criteria (%)',
+        'tag_extracredit':'Tag: Extra Credit (%)',
+        'tag_getreadytoread':'Tag: Get Ready to Read (%)',
+        'tag_givesgoodfeedback':'Tag: Gives Good Feedback (%)',
+        'tag_gradedbyfewthings':'Tag: Graded by Few Things (%)',
+        'tag_groupprojects':'Tag: Group Projects (%)',
+        'tag_hilarious':'Tag: Hilarious (%)',
+        'tag_inspirational':'Tag: Inspirational (%)',
+        'tag_lectureheavy':'Tag: Lecture Heavy (%)',
+        'tag_lotsofhomework':'Tag: Lots of Homework (%)',
+        'tag_participationmatters':'Tag: Participation Matters (%)',
+        'tag_respected':'Tag: Respected (%)',
+        "tag_skipclassyouwon'tpass":"Tag: Skip Class, You Won't Pass (%)",
+        'tag_somanypapers':'Tag: So Many Papers (%)',
+        'tag_testheavy':'Tag: Test Heavy (%)',
+        'tag_toughgrader':'Tag: Tough Grader (%)',
+    }
+
+    df = df.rename(columns=column_renaming)
+    
+    return df
+
 def summarize_rmp_data(min_reviews_per_professor=5, min_professors_per_dept=5):
 
     rmp_files_path = '../1-collection/data/rate-my-professor'
