@@ -247,10 +247,10 @@ def aggregate_subject_datasets(min_reviews_per_professor=5, min_professors_per_d
     summary = summary.join(behaviors)
     return summary
 
-def clean_summary_data(summary):
-    summary.columns = [c.replace("'",'') for c in summary.columns]
+def main():
+    summary = aggregate_subject_datasets()
+    summary = make_column_names_human_readable(summary)
     summary.to_csv('../3-presentation/static/data/summary.csv')
 
 if __name__ == "__main__":
-    summary = aggregate_subject_datasets()
-    clean_summary_data(summary)
+    main()
