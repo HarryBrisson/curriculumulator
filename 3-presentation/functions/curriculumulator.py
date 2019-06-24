@@ -43,6 +43,13 @@ def get_scorecard_data(subject):
     df = df.join(pctls)
     df = df.join(indices)
 
+    df = df.reset_index()\
+        .rename(columns={'level_0':'metric'})
+
+    df.loc[df['metric'].str.contains('#'),'format'] = "{:.0f}"
+    df.loc[df['metric'].str.contains('%'),'format'] = "{:.1%}"
+    df.loc[df['metric'].str.contains('Score'),'format'] = "{:.2f}"
+
     return df
 
 
