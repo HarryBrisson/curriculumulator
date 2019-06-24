@@ -128,6 +128,37 @@ div.tooltip {
   top:100px;
 }
 
+
+#options {
+  position:fixed;
+  top:100px;
+  bottom:5%;
+  left:10%;
+  width:80%;
+  background-color: black;
+  overflow-y: scroll;
+
+
+}
+
+.option {
+  height:300px;
+  width:400px;
+  margin: 0 auto;
+  background-color: black;
+  border-style: solid;
+  border-color: white;
+}
+
+.option-img {
+  width:400px;
+}
+
+.option-title {
+  text-decoration: none;
+}
+
+
 table.blueTable {
   border: 1px solid #1C6EA4;
   background-color: #EEEEEE;
