@@ -135,7 +135,6 @@ div.tooltip {
   bottom:5%;
   left:10%;
   width:80%;
-  background-color: black;
   overflow-y: scroll;
 
 
@@ -145,7 +144,6 @@ div.tooltip {
   height:300px;
   width:400px;
   margin: 0 auto;
-  background-color: black;
   border-style: solid;
   border-color: white;
 }
