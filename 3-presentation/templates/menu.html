@@ -9,16 +9,22 @@
 			<h1>Curriculumulator</h1>
 		</div>
 
-		<div id="buttons">
-
-			<a href='/explorer'><div class="button">
-				Explorer
-			</div></a>
-
-			<a href='/ranker'><div class="button">
-				Ranker
-			</div></a>	
-			
+		<div id="options">
+			<a href="/explorer">
+				<div class="option">
+					<img class="option-img" src="{{ url_for('static', filename='img/explorer.png') }}">
+					<p class="option-title">Subject Explorer</p>
+				</div>
+			</a>
+			<br>
+			<a href="/ranker">
+				<div class="option">
+					<img class="option-img" src="{{ url_for('static', filename='img/ranker.png') }}">
+					<p class="option-title">Subject Ranker</p>
+				</div>
+			</a>
+			<br><br><br>
+			<p><i>More ideas for views? Shoot me a suggestion at ejbrisson@gmail.com!</i></p>
 		</div>
 
 	</body>
