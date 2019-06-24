@@ -1,0 +1,624 @@
+,campus_id,campus_name,dept,difficulty,name,quality,rating_count,retake,tag_accessibleoutsideclass,tag_amazinglectures,tag_bewareofpopquizzes,tag_caring,tag_cleargradingcriteria,tag_extracredit,tag_getreadytoread,tag_givesgoodfeedback,tag_gradedbyfewthings,tag_groupprojects,tag_hilarious,tag_inspirational,tag_lectureheavy,tag_lotsofhomework,tag_participationmatters,tag_respected,tag_skipclassyouwon'tpass,tag_somanypapers,tag_testheavy,tag_toughgrader,tid
+0,4850,Kent State: East Liverpool,Mathematics,2.5,Hideki Wakita,5.0,23,N/A,,1,,,,,,,,,,,,,,1,1,,,1,732314
+1,4850,Kent State: East Liverpool,Psychology,3.5,Eric Miller,3.3,11,N/A,,,,,,,2,1,1,,,,,,1,,,,,1,690659
+2,4850,Kent State: East Liverpool,Biology,2.3,Qunxing Ding,4.5,10,100%,,,,,4,2,1,3,1,,,,1,2,1,1,,1,5,1,1639213
+3,4850,Kent State: East Liverpool,Computer Science,2.1,Shawn Golden,4.2,8,N/A,,,,,1,,,,,,,,,,1,1,,1,,1,591593
+4,4850,Kent State: East Liverpool,Biology,3.9,Haiyan Zhu,3.0,8,50%,1,1,2,2,,1,1,1,1,,1,1,,,1,1,1,,2,4,2006267
+5,4850,Kent State: East Liverpool,Psychology,1.6,Robert Walker,4.9,7,N/A,,,,,,,,,,,,,,,,,,,,,690657
+6,4850,Kent State: East Liverpool,Sociology,3.3,Jack Vazzana,3.3,6,N/A,,,,,,,,,,,,,,,,,,,,,690655
+7,4850,Kent State: East Liverpool,Communication,2.8,Carole Barbato,4.1,6,N/A,,,,,,,,,,,,,,,,,,,,,690668
+8,4850,Kent State: East Liverpool,Criminal Justice,2.8,Lynette Rawlings,3.1,5,N/A,,,,,2,,3,1,,,,,,1,,,,,,1,1803079
+9,4850,Kent State: East Liverpool,Humanities,3.3,Steven Toepfer,3.5,3,N/A,,,,,,,,,,,,,,,,,,,,,690654
+10,4850,Kent State: East Liverpool,English,1.7,Karen Kotrba,4.7,3,N/A,,,,,,,,,,,,,,,,,,,,,803040
+11,4850,Kent State: East Liverpool,English,2.0,Coleen McCoy,3.5,2,N/A,,,,,,,,,,,,,,,,,,,,,708852
+12,4850,Kent State: East Liverpool,Nursing,3.5,Diana Stewart,3.0,2,N/A,,,,,,,1,1,,,,,1,,,1,,,,1,1365358
+13,4850,Kent State: East Liverpool,Sociology,4.0,George Pickett,2.3,2,N/A,,,,,,,,,,,,,,,,,,,,,1480229
+14,4850,Kent State: East Liverpool,Psychology,4.0,Jill Hendrickson,2.0,2,N/A,,,,,,1,1,,,,,,,,2,,1,,,,2091378
+15,4850,Kent State: East Liverpool,Languages,4.5,Ali Erritouni,2.5,2,N/A,1,,,,,,2,1,,,,,,,,,,,,1,2122222
+16,4850,Kent State: East Liverpool,Languages,3.0,Matthew Jordan,5.0,2,N/A,,,,2,,,,1,,,,,,,,2,1,,,,2255073
+17,4850,Kent State: East Liverpool,Chemistry,2.5,Farid Fouah,1.8,2,N/A,,,,,1,,,,,,,,,1,1,,1,,,1,2131255
+18,4851,Harriet L. Wilkes Honors College FAU,Biology,4.2,Nicholas Quintyne,4.7,9,N/A,,,,,,,,,,,,,,,,,,,,,1045971
+19,4851,Harriet L. Wilkes Honors College FAU,Biology,3.6,Paul Kirchman,3.0,8,N/A,1,,1,1,,,1,,,,,,,,,2,,,,3,1078910
+20,4851,Harriet L. Wilkes Honors College FAU,English,3.9,Yasmine Shamma,5.0,7,100%,4,,,4,,,3,3,,,,2,,,3,2,,,,,2140163
+21,4851,Harriet L. Wilkes Honors College FAU,Educational Research,2.2,Thomas Gollery,4.9,6,N/A,,,,1,,,,,,,,1,,,,2,,,,,1215001
+22,4851,Harriet L. Wilkes Honors College FAU,Anthropology,4.6,Jacqueline Fewkes,4.3,5,N/A,1,1,,,,1,,1,,,,,,1,,1,,,,,1216363
+23,4851,Harriet L. Wilkes Honors College FAU,History,3.3,Chris Ely,4.3,4,N/A,,,,,,,,,,,,,,,,,,,,,460283
+24,4851,Harriet L. Wilkes Honors College FAU,Philosophy,3.3,Dan White,4.6,4,N/A,,,,,,,,,,,,,,,,,,,,,775377
+25,4851,Harriet L. Wilkes Honors College FAU,Chemistry,3.5,Michelle Ivey,4.4,4,N/A,,,,,,,,,,,,,,,,,,,,,967095
+26,4851,Harriet L. Wilkes Honors College FAU,Psychology,3.5,Kevin Lanning,4.8,4,N/A,,,,,,,,,,,,,,,,,,,,,1407559
+27,4851,Harriet L. Wilkes Honors College FAU,Biology,2.5,Jon Moore,4.3,4,N/A,1,1,,1,1,,,,,,1,1,,,,2,,,,,2005624
+28,4851,Harriet L. Wilkes Honors College FAU,Political Science,4.3,Martin Sweet,4.8,3,N/A,,,,,,,,,,,,,,,,,,,,,1056097
+29,4851,Harriet L. Wilkes Honors College FAU,Political Science,4.0,Mark Tunick,4.3,3,N/A,2,,,,,,2,1,,,,,,,,1,,,,,1155998
+30,4851,Harriet L. Wilkes Honors College FAU,Anthropology,2.7,Rachel Corr,4.5,3,N/A,,,,1,,,1,2,,,,,,,1,1,,,,,1216366
+31,4851,Harriet L. Wilkes Honors College FAU,Biology,1.0,Susan Richardson,1.5,3,N/A,,,,,,,,,,,,,,,,,,,,,1269023
+32,4851,Harriet L. Wilkes Honors College FAU,History,2.5,Chris Strain,4.3,2,N/A,,,,,,,,,,,,,,,,,,,,,629524
+33,4851,Harriet L. Wilkes Honors College FAU,Languages,3.0,Marlyn Henriquez,2.8,2,N/A,,,,,,1,,,,,,,,1,1,,,,,,1515187
+34,4851,Harriet L. Wilkes Honors College FAU,Languages,4.0,Miguel Vasquez,4.3,2,N/A,,,,1,1,,,1,,,,,,,,,,,,,1575047
+35,4851,Harriet L. Wilkes Honors College FAU,Chemistry,3.5,Chitra Chandrasekhar,4.5,2,N/A,1,,,,,,,1,,,,1,1,,,2,,,,,2361510
+36,4851,Harriet L. Wilkes Honors College FAU,Mathematics,5.0,Robert Lubarsky,2.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1140780
+37,4851,Harriet L. Wilkes Honors College FAU,Chemistry,3.0,Eugene Smith,5.0,1,N/A,,,,,,1,,1,,,,,,,,1,,,,,2215440
+38,4854,College for Financial Planning,Not Specified,2.7,Hal Lenhart,5.0,3,N/A,,,,,,,,,,,,,,,,,,,,,770853
+39,4854,College for Financial Planning,Finance,4.0,Jesse Arman,5.0,2,N/A,,,,1,,,,1,,,,,,,,,,,,,1990881
+40,4854,College for Financial Planning,Law,2.0,Patrick Curnalia,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1880498
+41,4855,Golden State Baptist College,English,3.5,Jo Troell,4.6,6,N/A,,,,,,,,,,,,,,,,,,,,,1101421
+42,4855,Golden State Baptist College,Not Specified,4.2,Lankford Oxendine,4.3,6,N/A,1,,,,,,,,,,,,,,,1,1,1,,1,380664
+43,4855,Golden State Baptist College,Religion,2.0,Jack Trieber,4.8,3,N/A,,,,,,,,,,,,,,,,,,,,,973247
+44,4855,Golden State Baptist College,Biblical Studies,2.5,Brad Boruff,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1029914
+45,4855,Golden State Baptist College,Design,2.0,Michael Moyer,5.0,1,N/A,,,,,,,,1,,,,,,,1,,1,,,,2196676
+46,4855,Golden State Baptist College,English,4.0,Mrs. Flint,5.0,1,N/A,,,,,,,,,,,,,,,1,,1,,,1,1218032
+47,4857,Capital University Law School,Law,4.3,Stanton Darling,2.7,42,N/A,,,2,1,,,,,,,,1,,1,1,,1,,,3,336465
+48,4857,Capital University Law School,Law,4.2,Susan Gilles,3.5,33,50%,3,1,,1,,,1,2,,,3,,,2,,2,,,1,2,336461
+49,4857,Capital University Law School,Law,3.2,Susan Looper-Friedman,3.3,25,N/A,,,2,,,,,,1,,,,1,,3,,,,1,2,407317
+50,4857,Capital University Law School,Law,4.2,Daniel Turack,2.4,22,N/A,,,,,,,3,,,,,,,,,2,,,,2,412849
+51,4857,Capital University Law School,Law,2.8,Charles Cohen,3.8,21,N/A,3,,,2,1,,,4,,,1,,,,,2,,,,2,512030
+52,4857,Capital University Law School,Law,3.1,William Bluth,2.2,20,N/A,,,,,,,,,,,1,,1,,,,1,,,,366992
+53,4857,Capital University Law School,Law,3.7,Janet Blocher,3.9,20,N/A,,,,,,,1,,,,,,,,1,,,,,,512028
+54,4857,Capital University Law School,Law,4.0,Jacqueline Orlando,2.5,19,N/A,,,,,,,,,,,,,,,,,,,,,413206
+55,4857,Capital University Law School,Law,3.8,Peggy Cordray,4.3,18,N/A,,1,,,,,,,,,,1,,,,,,,,,336468
+56,4857,Capital University Law School,Law,4.2,Jeff Ferriell,4.5,17,N/A,1,,,1,,,4,1,,,,,,,1,2,,,,2,302797
+57,4857,Capital University Law School,Law,3.3,Bradley Smith,4.3,16,N/A,1,,,1,,,,1,,,,,,,,1,,,,1,262080
+58,4857,Capital University Law School,Law,2.9,Mike Distlehorst,3.8,16,N/A,,1,,1,,,,,,,1,,,,,,,,,,413211
+59,4857,Capital University Law School,Law,3.9,Daniel Kobil,3.8,16,N/A,,,,,,,,,,,,,,,,1,,,,,576906
+60,4857,Capital University Law School,Law,3.9,Scott Anderson,3.9,16,N/A,1,,,,,,,,,,,,2,1,,1,,,,1,1103415
+61,4857,Capital University Law School,Law,3.2,Angela Upchurch,4.6,15,N/A,,,,,,,,,,,,,,,,,,,,,849611
+62,4857,Capital University Law School,Law,2.3,Joe Bodine,3.7,14,N/A,,,,,,,,,,,,,,,,,,,,,817337
+63,4857,Capital University Law School,Law,3.3,Shirley Mays,2.0,13,N/A,,,,,,,,,,,,,,,,,,,,,366998
+64,4857,Capital University Law School,Law,3.2,James Beattie,4.7,13,N/A,1,,,,,,,,,,,1,,,,1,,,,,366995
+65,4857,Capital University Law School,Law,2.7,Richard Wood,3.4,12,N/A,,,,,,,,,,,,,,,,,,,,,336459
+66,4857,Capital University Law School,Law,2.6,Mark Strasser,2.7,11,N/A,,,,1,,,,1,,,,,,,,,,,,,366996
+67,4858,St. Johns River State College,English,2.4,Roger Vaccaro,4.6,97,92%,4,7,1,7,5,,13,18,1,,14,4,,3,1,9,2,2,,2,407458
+68,4858,St. Johns River State College,Humanities,3.3,Krista Ubbels,4.4,95,85%,2,14,,12,12,4,12,13,3,,4,19,3,10,10,9,8,,,10,818808
+69,4858,St. Johns River State College,History,3.5,Mark Little,4.2,86,44%,2,7,,1,3,,11,3,1,,7,,8,11,1,6,20,3,2,19,255671
+70,4858,St. Johns River State College,Mathematics,2.9,Mark Wilson,4.8,83,91%,2,8,,5,6,,,13,,,25,2,1,1,1,17,9,,,,407471
+71,4858,St. Johns River State College,Humanities,4.0,Susan Ross,3.4,65,38%,1,2,3,3,2,2,5,4,2,,,2,7,7,1,,9,7,6,12,564889
+72,4858,St. Johns River State College,Mathematics,2.1,John Metcalf,4.5,59,89%,10,2,,6,9,,,6,,,9,3,,7,6,7,4,,1,,792075
+73,4858,St. Johns River State College,Psychology,2.9,Mike Meehan,3.9,59,52%,1,4,,2,7,2,7,1,6,,7,,7,5,4,3,1,,13,7,274959
+74,4858,St. Johns River State College,English,3.6,Michael Crocker,3.4,58,N/A,,1,,,1,,,1,,,2,,,,,,1,,,,608814
+75,4858,St. Johns River State College,English,3.0,Paul Andrews,3.4,45,63%,2,,2,3,,,10,5,2,,1,,,1,3,,3,2,1,6,407255
+76,4858,St. Johns River State College,Humanities,3.5,Cristy L. Furr,2.6,45,60%,,,,3,2,,8,,1,,1,1,4,,1,,7,,1,13,824589
+77,4858,St. Johns River State College,Anatomy,3.3,James McCaughern-Carucci,4.6,44,96%,5,18,,6,6,,,6,,,26,5,1,,2,12,9,,,3,1826862
+78,4858,St. Johns River State College,Biology,3.8,Werner Williams,3.7,41,38%,1,2,1,,2,,2,,,,,,5,,2,3,5,,1,6,564890
+79,4858,St. Johns River State College,Science,2.0,Doug Applewhite,4.8,40,N/A,,,,,,,,,,,,,,,,,,,,,550004
+80,4858,St. Johns River State College,Humanities,3.5,Nona Asconi,3.5,37,N/A,,,,,,,,,,,,,,,,,,,,,488808
+81,4858,St. Johns River State College,Biology,3.6,Kim Hakala,3.7,36,29%,2,,,2,,,1,,3,,,,2,,2,,2,,1,6,407253
+82,4858,St. Johns River State College,Mathematics,3.3,Nahed Okasha,3.4,36,46%,4,1,3,6,8,,1,5,,,,,,3,2,8,8,,2,7,1740243
+83,4858,St. Johns River State College,Chemistry,3.6,Nell Freeman,3.6,36,43%,1,1,,1,,,,2,,,,3,2,1,2,1,8,,3,11,608808
+84,4858,St. Johns River State College,Computer Science,1.9,Summer Garrett,5.0,30,100%,1,1,,4,4,3,1,5,,3,2,2,,,3,4,,,1,,888836
+85,4858,St. Johns River State College,Anatomy & Physiology,3.1,Suzanne Kempke,4.3,29,100%,,1,,3,3,1,1,2,,,5,,2,,,7,4,,,1,1264104
+86,4858,St. Johns River State College,Science,3.2,Linda MacKie,3.8,29,63%,1,1,,1,2,1,2,1,2,,,1,,3,3,1,1,,1,2,575763
+87,4859,Abraham Lincoln University,Law,3.0,Courtney Jaren,4.2,25,N/A,,,,,,,,,,,,,,,,,,,,,704984
+88,4859,Abraham Lincoln University,Law,2.5,Ed Green,4.4,12,N/A,,,,,,,,,,,,,,,,,,,,,534208
+89,4859,Abraham Lincoln University,Theater,3.7,Sekhon Jatt,2.3,3,N/A,,,,,,,,,,,,,,,,,,,,,848973
+90,4859,Abraham Lincoln University,English,2.0,Janet Smith,4.0,3,N/A,,,,,,,,,,,,,,,,,,,,,976779
+91,4859,Abraham Lincoln University,English,4.5,L Blenis,4.0,2,N/A,,,,,,,,,,,,,,,,,,,,,871571
+92,4859,Abraham Lincoln University,Law,2.0,Deane Comer,4.5,2,N/A,,,,,,,,,,,,,,,,1,,,,1,1382776
+93,4859,Abraham Lincoln University,Mathematics,1.0,Alain Bourget,3.5,1,N/A,,,,,,,,,,,,,,,,,,,,,854543
+94,4859,Abraham Lincoln University,Computer Science,3.0,James Anderson,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,972736
+95,4859,Abraham Lincoln University,Social Science,3.0,John M Doe,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1766235
+96,4859,Abraham Lincoln University,Law,1.0,Juin Daniel Jung,5.0,1,N/A,,,,,,,,,,,,,,,,1,,,,1,1934903
+97,4860,Harvard Divinity School,Religion,2.4,Michael Jackson,4.1,8,N/A,,,,,,,,,,,,,,,,,,,,,824466
+98,4860,Harvard Divinity School,Theology,3.8,Jon Levenson,4.2,5,N/A,,,,,,,,,,,,,,,,,,,,,302310
+99,4860,Harvard Divinity School,Theology,3.2,Laura Nasrallah,4.5,5,N/A,,,,,,,,,,,,,,,,,,,,,302317
+100,4860,Harvard Divinity School,Theology,3.8,Shaye Cohen,3.9,5,N/A,,,,,,,,,,,,,,,,,,,,,302338
+101,4860,Harvard Divinity School,Theology,3.0,Christopher Queen,3.4,5,N/A,,1,,,,,,,,,,1,,,,,,,,,302362
+102,4860,Harvard Divinity School,Theology,3.0,Kimberley Patton,5.0,4,N/A,,,,,,,,,,,,,,,,,,,,,302319
+103,4860,Harvard Divinity School,Languages,1.8,James Skedros,4.9,4,N/A,,,,,,,,,,,1,1,,,,1,,,,,302371
+104,4860,Harvard Divinity School,Theology,2.7,François Bovon,4.7,3,N/A,,,,,,,,,,,,,,,,,,,,,302290
+105,4860,Harvard Divinity School,Theology,2.7,Cheryl Giles,3.9,3,N/A,,,,1,,,,,,,,1,,,1,,,,,,302299
+106,4860,Harvard Divinity School,Theology,4.7,Peter Machinist,2.9,3,N/A,,,,,,,,,,,,,,,,,,,,1,302313
+107,4860,Harvard Divinity School,Anthropology,4.0,Jocelyne Cesari,3.0,3,N/A,,,,,,,2,,1,,,,,,2,,,1,,,302336
+108,4860,Harvard Divinity School,Theology,3.0,Francis Fiorenza,3.3,2,N/A,,,,,,,,,,,,,,,,,,,,,302298
+109,4860,Harvard Divinity School,Theology,2.5,Anne Monius,3.5,2,N/A,,,,,,,,,,,,,,,,,,,,,302315
+110,4860,Harvard Divinity School,Languages,4.5,Annewies Van Den Hoek,4.5,2,N/A,,,,,,,,,,,,,,,,,,,,,302377
+111,4860,Harvard Divinity School,Religion,1.0,Harpreet Singh,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1787343
+112,4860,Harvard Divinity School,Theology,3.0,Leila Ahmed,3.5,1,N/A,,,,,,,,,,,,,,,,,,,,,302288
+113,4860,Harvard Divinity School,Theology,3.0,William Graham,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,302301
+114,4860,Harvard Divinity School,Theology,2.0,Janet Gyatso,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,302302
+115,4860,Harvard Divinity School,Theology,4.0,Robert Gimello,3.0,1,N/A,,,,,,,,,,,,,,,,,,,,,302345
+116,4860,Harvard Divinity School,Religion,4.0,Gordon Kaufman,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,890147
+117,4861,Century University,Education,2.0,Antonin Smrcka,4.6,4,N/A,,,,,,,,,,,,,,,,,,,,,244155
+118,4861,Century University,Computer Science,1.3,Ziad Saab,4.0,3,N/A,,,,,,,,,,,,,,,,,,,,,1748111
+119,4862,Culinary Institute of America,Culinary Arts,4.0,Michael Pardus,3.7,23,N/A,,2,,,,,,2,,,,,,,,1,1,,,2,351805
+120,4862,Culinary Institute of America,Culinary Arts,3.8,Corky Clark,4.2,19,N/A,,1,,,,,,,,,,,,,1,1,,,,,351807
+121,4862,Culinary Institute of America,Culinary Arts,4.0,John Reilly,4.0,18,N/A,,,,1,1,,1,1,,,2,,,,1,3,,,,2,537515
+122,4862,Culinary Institute of America,Culinary Arts,3.6,Dan Turgeon,2.7,17,N/A,,,,,,,,1,,,,1,,,,,,,,1,582406
+123,4862,Culinary Institute of America,Culinary Arts,4.5,Anita Eisenhauer,4.5,15,83%,2,1,,1,,1,1,5,,,,2,,1,2,,1,,1,3,1031723
+124,4862,Culinary Institute of America,Culinary Arts,3.5,Lani Raider,3.4,14,N/A,,,,,,,,,,,,,,,,,,,,,456039
+125,4862,Culinary Institute of America,Culinary Arts,3.7,Martin Frei,2.1,12,N/A,,,,,,,,,,,,,,,,,,,,,591451
+126,4862,Culinary Institute of America,Mathematics,2.1,Michael Nothnagel,4.8,12,N/A,,,,,,2,1,1,1,,1,,1,,,,2,,,,1078843
+127,4862,Culinary Institute of America,Marketing,2.3,Bill Guilfoyle,3.1,11,N/A,,,,,,,,,,,,,,,,,,,,,449260
+128,4862,Culinary Institute of America,Accounting,4.3,Stephanie Murphy,4.7,11,N/A,,1,,1,,,,2,,,,,,1,,1,,,,,449261
+129,4862,Culinary Institute of America,Writing,4.0,Anne Henry,4.2,11,N/A,,,,,,,,,,,,,,,,,,,,,506972
+130,4862,Culinary Institute of America,Culinary Arts,2.7,Paul Sartory,4.7,11,N/A,,,,,,,,,,,,,,,,,,,,,895985
+131,4862,Culinary Institute of America,Culinary Arts,2.7,Brannon Soileau,5.0,11,N/A,,,,1,,,,,,,1,,,,,1,,,,,1233876
+132,4862,Culinary Institute of America,Culinary Arts,2.4,Mo Kanner,4.1,10,N/A,,,,1,,,,,,,2,,,,1,2,,,,,449267
+133,4862,Culinary Institute of America,Culinary Arts,3.4,Pierre Leblanc,2.0,9,N/A,,,,1,,,1,1,,3,,,2,,1,,,,,4,514207
+134,4862,Culinary Institute of America,Not Specified,3.0,R Vergilli,4.0,9,N/A,,,,1,,,,,,,1,1,,,,,,,,,738178
+135,4862,Culinary Institute of America,Culinary Arts,3.8,John Stein,3.9,9,N/A,,,,,,,,,,,,,,,,,,,,,791809
+136,4862,Culinary Institute of America,Not Specified,4.7,Joe Diperri,2.3,9,N/A,,,3,1,,,,1,,,,1,,,1,3,4,,1,7,1688819
+137,4862,Culinary Institute of America,Culinary Arts,2.4,Elizabeth Briggs,3.8,7,N/A,,,,,,,1,,,,,,1,,,,1,,,,809702
+138,4862,Culinary Institute of America,Culinary Arts,3.7,Gerard-Louis Viverito,4.8,7,N/A,,,,,,,1,,1,,,1,,1,1,,1,,,,1322272
+139,4863,Culinary Institute of America,Mathematics,2.4,Corinne Meddaugh,4.5,18,N/A,,,,,,,,,,,,,,,,,,,,,917347
+140,4863,Culinary Institute of America,Culinary Arts,2.0,Freddy Brash,5.0,14,N/A,,,,,,,,,,,,,,,,,,,,,660956
+141,4863,Culinary Institute of America,Culinary Arts,2.5,Dieter Schorner,4.4,12,N/A,,,,,,,,,,,,,,,,,,,,,670108
+142,4863,Culinary Institute of America,Culinary Arts,4.0,Gerard Viverito,4.6,11,N/A,,,,,,,,,,,,,,,,,,,,,682547
+143,4863,Culinary Institute of America,Culinary Arts,3.6,Corky Clark,4.7,11,N/A,,,,,,,,,,,,,,,1,1,1,,,,682895
+144,4863,Culinary Institute of America,Culinary Arts,3.6,Peter Greweling,4.8,11,N/A,,2,,1,,,2,1,,,,1,,,3,1,,,,,706705
+145,4863,Culinary Institute of America,Culinary Arts,1.9,Johan Sebald,4.6,8,N/A,,,,,,,,,,,,,,,,,,,,,682894
+146,4863,Culinary Institute of America,Culinary Arts,2.8,Tucker Bunch,3.2,5,N/A,,,,,,,,,,,,,,,,,,,,,1677156
+147,4863,Culinary Institute of America,Culinary Arts,2.3,Todd Knaster,4.1,4,N/A,,,,1,,,,,,,,1,,,,1,,,,,706702
+148,4863,Culinary Institute of America,Culinary Arts,3.3,Marc Haymon,4.0,4,N/A,,,,,,,,,,,,,,,,,,,,,706709
+149,4863,Culinary Institute of America,Culinary Arts,2.0,Stéphane Weber,5.0,4,N/A,,,,,,,,,,,,,,,,,,,,,706719
+150,4863,Culinary Institute of America,Culinary Arts,4.0,Michael Pardus,4.5,4,N/A,,,,,,,,,,,,,,,,,,,,,717457
+151,4863,Culinary Institute of America,Agriculture,2.8,Jay Stein,2.8,4,N/A,,,,,,,,,,,,,,,,,,,,,726416
+152,4863,Culinary Institute of America,Information Science,3.5,John Nihoff,3.8,4,N/A,,,,,,,,,,,,,,,,,,,,,726419
+153,4863,Culinary Institute of America,Culinary Arts,4.3,Kate Cavotti,4.8,3,N/A,,1,,,,,,1,,,,,,,,1,,,,,706707
+154,4863,Culinary Institute of America,Culinary Arts,3.3,Eric Kastel,4.2,3,N/A,,,,,,,,,,,,,,,,,,,,,706721
+155,4863,Culinary Institute of America,Culinary Arts,3.7,Elana Raider,1.5,3,N/A,,,,,,,,,,,,,,,,,,,,,726931
+156,4863,Culinary Institute of America,English,3.3,Jennifer McMillan,4.2,3,N/A,,,,,,,,,,,,,,,,,,,,,1023504
+157,4863,Culinary Institute of America,Finance,1.5,Jon Harbison,3.0,2,N/A,,,,,,,,,,,,,,,,,,,,,669315
+158,4863,Culinary Institute of America,Culinary Arts,2.0,Richard Vergili,4.0,2,N/A,,,,,,,,,,,,,,,,,,,,,726933
+159,4864,Monroe College,Computer Science,3.1,Clifford Brozo,2.8,15,N/A,,,,,,,,,1,,,,,,,,,,,2,364304
+160,4864,Monroe College,Computer Science,2.4,Jefferey Donovon,3.5,12,N/A,,,,,,,,,,,,,,,,,,,,,364303
+161,4864,Monroe College,Hospitality,2.7,Loris Crawford,3.7,11,N/A,,,,,,,,2,,1,,,1,1,2,2,1,1,,3,557127
+162,4864,Monroe College,Sociology,1.1,Sandra Cruz,5.0,8,N/A,,,,,,,,,,,,,,,,,,,,,502254
+163,4864,Monroe College,Criminal Justice,2.3,Darrin Porcher,5.0,8,N/A,,1,,,,,,,,,2,1,,,,,,,,1,799035
+164,4864,Monroe College,Business,3.9,Michael Altamirano,4.3,8,N/A,,1,,1,1,,2,5,,,,1,,,2,1,,,,1,848183
+165,4864,Monroe College,Criminal Justice,2.6,Terri-Lyn Linton,4.2,8,N/A,1,2,1,,2,,,1,,,,,,,,2,,,,1,1157379
+166,4864,Monroe College,Criminal Justice,1.5,William Cannon,4.6,8,N/A,,,,1,,,,1,,,1,,,1,2,2,,,,,1702978
+167,4864,Monroe College,Mathematics,1.2,Bruce Berlin,5.0,6,N/A,,,,,,,,,,,,,,,,,,,,,666174
+168,4864,Monroe College,English,2.0,Maryanna Debartolo-Pedroza,5.0,6,N/A,,,,,,,,,,,,1,,,,1,,,,,1119089
+169,4864,Monroe College,Psychology,3.5,Sayyid Cato,4.0,6,N/A,,,,,,,,,,,,,,,,,,,,,1707206
+170,4864,Monroe College,English,3.0,Kathryn MacDonald,4.4,5,N/A,2,1,,,,,,1,,,,1,,,,1,,,,,1464384
+171,4864,Monroe College,English,1.2,Gina Negrin,4.8,5,N/A,,2,,2,,,,3,,,1,3,,,,,,,,,1866584
+172,4864,Monroe College,Mathematics,1.6,MD Khan,5.0,5,N/A,,4,,1,,,,1,,,,1,,,,1,,,,,1880088
+173,4864,Monroe College,Hospitality,1.0,Maurice Greene,5.0,4,N/A,,,,,,,,,,,,,,,,,,,,,666686
+174,4864,Monroe College,Marketing,3.3,Roberta Harris,4.8,4,N/A,1,,,1,,,,1,,,,1,,,,1,,,,1,1396947
+175,4864,Monroe College,Computer Science,2.8,Jacqueline Shaw Shaw,5.0,4,N/A,,,,1,1,,,1,,,,,,,,,,,,,1464382
+176,4867,Ivy Tech Community College: Bloomington,Mathematics,3.1,Mehrdad M. Zarandi,4.4,112,93%,21,21,,23,7,,1,12,,,,21,2,3,,22,2,,,2,1257887
+177,4867,Ivy Tech Community College: Bloomington,Economics,3.4,Richard Chambers,4.6,44,100%,,7,,3,1,1,,2,1,,10,,1,,6,2,7,,,8,1682977
+178,4867,Ivy Tech Community College: Bloomington,English,2.6,Amber Celestin,4.5,38,89%,3,2,1,10,5,,1,16,,,11,8,,3,7,3,4,2,,3,1864254
+179,4867,Ivy Tech Community College: Bloomington,Science,3.9,Bonnie Overton,3.2,32,54%,4,,,2,2,,1,1,1,,,3,4,2,1,6,4,,3,3,606338
+180,4867,Ivy Tech Community College: Bloomington,Psychology,2.7,Katey Baruth,3.0,31,N/A,1,1,,1,,,1,,,,,2,,1,,1,,,,1,987308
+181,4867,Ivy Tech Community College: Bloomington,Philosophy,1.6,Kurt Messick,4.2,30,100%,,4,,,2,9,,1,,,6,3,1,,,2,5,,,1,893966
+182,4867,Ivy Tech Community College: Bloomington,English,3.8,Jane Goodwin,4.9,26,N/A,,3,,2,,,1,1,,,3,1,,,1,2,4,,,,811307
+183,4867,Ivy Tech Community College: Bloomington,Health Science,3.9,Dan Halluska,5.0,26,100%,4,9,,13,4,,1,9,,,7,4,2,,4,8,5,,,2,2065974
+184,4867,Ivy Tech Community College: Bloomington,History,3.6,Alex Garman,3.3,20,38%,,5,,,,,5,2,,,1,1,,4,,,9,,4,9,1725893
+185,4867,Ivy Tech Community College: Bloomington,Mathematics,4.2,Kevin Foster,2.1,20,17%,,1,3,,3,,,,,,,1,1,7,1,,3,,1,3,1339044
+186,4867,Ivy Tech Community College: Bloomington,English,2.8,Emily Bobo,4.3,19,100%,,6,,3,2,1,1,8,,,2,3,,2,2,2,1,2,,,1225542
+187,4867,Ivy Tech Community College: Bloomington,Chemistry,2.5,Steven Arnold,4.8,18,N/A,1,1,,2,,2,,2,,,,,1,1,,1,,,1,,1257994
+188,4867,Ivy Tech Community College: Bloomington,History,2.8,Donn Hall,3.6,18,N/A,,2,,1,2,3,,,,,1,1,2,,,1,2,,1,,540876
+189,4867,Ivy Tech Community College: Bloomington,Mathematics,3.1,Paul Hessert,4.0,17,71%,1,2,,3,,,,3,,,2,,,1,1,1,2,,1,,909959
+190,4867,Ivy Tech Community College: Bloomington,Political Science,4.4,Kasandra Housley,1.9,16,38%,1,1,1,,,1,2,1,2,,,,1,1,3,,3,,,6,1628895
+191,4867,Ivy Tech Community College: Bloomington,Political Science,4.0,Gerald Hansen III,2.6,16,44%,2,3,,1,3,,2,3,2,,,2,3,4,1,,4,,2,6,2167682
+192,4867,Ivy Tech Community College: Bloomington,Communication,2.9,Kris Coburn Holtman,3.1,15,N/A,,,,1,,,,1,,1,,,,,1,1,1,,,3,986826
+193,4867,Ivy Tech Community College: Bloomington,Psychology,2.2,Nancy Winningham,4.9,13,N/A,,,,,,,,,,,,,,,,,,,,,537165
+194,4867,Ivy Tech Community College: Bloomington,Psychology,2.8,Robin Donaldson,4.7,13,N/A,,,,,1,,1,1,,,,,,,1,,,,1,,670932
+195,4867,Ivy Tech Community College: Bloomington,Psychology,3.5,Michael James,3.2,13,N/A,,1,,,,,,1,,,,,,,,1,,,,1,723052
+196,4868,University of Phoenix,Arts & Sciences,4.0,Khristian Kay,3.9,40,N/A,,,,,,,,,,,,,,,,,,,,,261315
+197,4868,University of Phoenix,Business,3.0,Darryl Habeck,3.1,11,N/A,,,,,,,1,,,1,1,1,,,1,1,,,,,473026
+198,4868,University of Phoenix,Management,2.7,Jennifer Buchholz,3.9,7,N/A,,,,,,,,,,,,,,,,,,,,,257886
+199,4868,University of Phoenix,Computer Science,2.4,Albert Thomas,3.2,5,N/A,,,,,,,,,,,,,,,,,,,,,706063
+200,4868,University of Phoenix,Not Specified,2.0,Tim Manzke,4.5,3,N/A,,,,,,,,,,,,,,,,,,,,,656865
+201,4868,University of Phoenix,Information Science,3.0,Paul Trebian,4.7,3,N/A,,,,,,,,,,,,,,,,,,,,,842133
+202,4868,University of Phoenix,Physics,3.5,Robert Jucha,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1275162
+203,4869,Alliant International University,Psychology,4.3,Dawn Griffin,4.5,21,N/A,,2,,1,,,2,,,1,,3,,,4,2,,,,,1144214
+204,4869,Alliant International University,Psychology,3.4,Banafsheh Pezeshk,4.4,17,N/A,,,,,,,,,,,,,,,,,,,,,604010
+205,4869,Alliant International University,Psychology,3.4,Landau North,4.8,14,N/A,,2,,1,,,,,,,1,,,,,1,,,,,537675
+206,4869,Alliant International University,Psychology,4.0,Bernardo Ferdman,2.5,14,N/A,,,,,,,,,,,,,1,1,,,,1,,,570705
+207,4869,Alliant International University,Business,2.3,Akunna Winston,4.6,12,N/A,,,,,,,,,,,,,,,,,,,,,324819
+208,4869,Alliant International University,Psychology,3.5,Irwin Rosenfarb,2.3,12,N/A,,,,,,,,,,,,,,,,,,,,,778442
+209,4869,Alliant International University,Business,4.4,Alfred Lewis,4.9,11,N/A,,,,,,,,,,,,,,,,,,,,,326325
+210,4869,Alliant International University,Psychology,3.3,Steven Jella,4.1,11,N/A,,,,,,,,,,,,,,,,,,,,,953315
+211,4869,Alliant International University,Social Science,2.4,Mary Ellen Brooks,3.3,8,N/A,,,,1,,,,1,,,,1,,,,,,,,,313156
+212,4869,Alliant International University,Management,3.3,Louise Kelly,4.0,8,N/A,,,,,,,,,,,,,,,,,,,,,535852
+213,4869,Alliant International University,Psychology,4.4,Constance Dalenberg,3.8,8,N/A,,,,1,,,,,,,,,,,,1,,,,,1061632
+214,4869,Alliant International University,Psychology,4.0,Sopagna Braje,2.4,7,N/A,,,,,1,,,,,,,,,,,,,,,,1697720
+215,4869,Alliant International University,Accounting,4.3,Hamid Rahman,3.3,6,N/A,,,,,,,,,,,,,,1,,,,1,,,423250
+216,4869,Alliant International University,Mathematics,1.7,Richard Gardner,5.0,6,N/A,,,,,,,,,,,,,,,,,,,,,715057
+217,4869,Alliant International University,Social Science,3.7,Linna Wang,2.7,6,N/A,,,,,,,,,,,,,,,,,,,,,797843
+218,4869,Alliant International University,Psychology,4.8,Kristi Alexander,2.6,6,N/A,,,,,,,,,,,,,,,,,,,,,1280470
+219,4869,Alliant International University,Psychology,2.8,Peter McKimmin,4.0,6,N/A,,,,,,,,,,,,,,,,,,,,,1483182
+220,4869,Alliant International University,Psychology,1.0,John Kantor,3.2,5,N/A,,,,,,,,,,,,,,,,,,,,,500203
+221,4869,Alliant International University,Business,3.8,Mahmud Alkailani,4.1,5,N/A,,,,,,,,,,,,,,,,,,,,,965469
+222,4869,Alliant International University,Psychology,4.4,Daniel Blumberg,3.7,5,N/A,,,,,,,,,,,,,,,,,,,,,1587922
+223,4870,Urbana University,Business,3.2,Catherine Brinnon,4.7,29,94%,5,6,,13,3,,3,8,,1,1,6,,1,6,14,5,,,,1790506
+224,4870,Urbana University,Business,2.1,Mark Bloemhard,4.6,21,N/A,,9,,8,1,,1,4,,,3,10,,,6,7,1,,,,1776293
+225,4870,Urbana University,Philosophy,3.7,Wojtek Chojna,3.3,11,N/A,,,,,,,,,,,1,1,,,,,,,,,682743
+226,4870,Urbana University,Mathematics,2.1,Jacob Daniel,3.0,9,N/A,,,,,,,,,,,,,,1,,,,,,,358859
+227,4870,Urbana University,English,4.4,David George,3.2,9,N/A,,,,,,,,,,,,,,,,,,,,,462536
+228,4870,Urbana University,Business,3.3,John Thomas,4.5,8,N/A,,,,,1,,,,,,2,2,1,,,1,,,,,384098
+229,4870,Urbana University,Social Science,2.4,Larry Haverkos,4.6,8,N/A,1,1,,,,,,,,,,,,,,1,,,,,677239
+230,4870,Urbana University,Humanities,3.3,Claudia Stolz,4.4,6,N/A,,,,,,,,,,,,,,,,,,,,,677242
+231,4870,Urbana University,History,2.5,J. Michael Rhyne,4.6,6,N/A,,,,,,,,,,,,,,,,,,,,,1402408
+232,4870,Urbana University,Psychology,2.8,Alice Siddle,4.7,5,N/A,,,,,,,,,,,,,,,,,,,,,380708
+233,4870,Urbana University,Science,2.2,Robert Hendrix,4.3,5,N/A,,,,1,,,,,,,,,,,,,,,,,673489
+234,4870,Urbana University,Humanities,2.2,Thomas Smith,4.5,5,N/A,,,,,,,,,,,,,,,,,,,,,677260
+235,4870,Urbana University,Education,4.0,Art Barnes,1.9,5,N/A,,,,,,,,,,,,,,,,,,,,,677267
+236,4870,Urbana University,Social Science,2.0,Karen Benton,5.0,5,N/A,,,,,,,,,,,,,,,,,,,,,677273
+237,4870,Urbana University,English,2.8,Claudia Stolz,4.6,5,N/A,,,,,,,,,,,,,,,,,,,,,679546
+238,4870,Urbana University,Education,1.0,Rita Terry,4.7,5,N/A,,,,,,,,,,,,,,,,,,,,,1344764
+239,4870,Urbana University,Sociology,3.8,James Burnett,5.0,5,100%,,,,4,2,,,2,,1,,1,,,3,1,1,,,,2152947
+240,4870,Urbana University,Mathematics,1.8,Kathy Bumbalough,5.0,4,N/A,,,,,,,,,,,,,,,,,,,,,677282
+241,4870,Urbana University,Business,3.0,Charles Earnhart,3.3,4,N/A,,,,,,,,,,,,,,,,,,,,,677295
+242,4870,Urbana University,Humanities,1.8,Scott Fisher,4.8,4,N/A,,,,,,,,,,,,,,,,,,,,,677301
+243,4871,Dallas County Community College - TeleCollege,Writing,2.6,Jackie Rowe,4.8,50,98%,2,8,,19,6,,3,23,,1,8,14,,,14,18,3,1,,,1492693
+244,4871,Dallas County Community College - TeleCollege,English,2.6,Royce Murcherson,3.9,35,N/A,,1,,4,7,10,1,13,1,,,1,,,,4,,1,,3,615766
+245,4871,Dallas County Community College - TeleCollege,English,4.9,Phyllis Elmore,1.3,25,N/A,,,,,,,,,,,,,,,,,,,,,864734
+246,4871,Dallas County Community College - TeleCollege,Law,2.3,Deborah Jagai,4.8,22,96%,7,4,,6,10,14,1,19,,,,1,,1,,2,,,,,2152785
+247,4871,Dallas County Community College - TeleCollege,Languages,3.0,Juan Soto,4.1,20,100%,4,,,7,6,,,4,,,,,,1,,,,,,,855387
+248,4871,Dallas County Community College - TeleCollege,Fine Arts,2.2,J Stover,4.9,17,N/A,,,,,,,,,,,,,,,,,,,,,1131334
+249,4871,Dallas County Community College - TeleCollege,Education,3.5,Linda D Williams,2.9,17,N/A,,,1,,,,,,,1,,,1,,,,,,,1,1769208
+250,4871,Dallas County Community College - TeleCollege,Government,1.7,Robert C. Chalwell,4.8,15,N/A,,,,1,,,,1,,,,,,,,,,,,,1749294
+251,4871,Dallas County Community College - TeleCollege,Biology,3.2,Kelly Sexton,4.7,15,100%,1,1,1,,1,1,,1,,1,2,,,,1,2,1,,1,,584158
+252,4871,Dallas County Community College - TeleCollege,Humanities,1.4,L Parrott,4.9,14,N/A,,,,,,1,,1,,,,,,,,,,,,,796245
+253,4871,Dallas County Community College - TeleCollege,Political Science,3.4,Raymond Sandoval,3.3,14,N/A,,,,,,,,,,,,,,,,,,,,,920965
+254,4871,Dallas County Community College - TeleCollege,Humanities,3.3,Janice Franklin,3.5,13,N/A,,,,,1,,,1,,,1,,1,3,4,2,5,,,,741351
+255,4871,Dallas County Community College - TeleCollege,Business,3.3,Phyllis Camara,3.5,13,57%,,,2,,2,,1,2,1,,,,,2,1,3,1,1,1,2,1298956
+256,4871,Dallas County Community College - TeleCollege,Biology,3.6,Stewart Siemantel,3.3,13,33%,,,,,5,3,6,2,,,,,1,3,,,,,7,4,1951504
+257,4871,Dallas County Community College - TeleCollege,Psychology,2.1,Stephen Link,4.7,13,N/A,,,,3,4,5,,2,,,,,,1,2,,,1,1,,1733158
+258,4871,Dallas County Community College - TeleCollege,Biology,3.4,Barry Bates,3.7,12,N/A,,,,,,,1,,,,,,,1,,,,,,1,755860
+259,4871,Dallas County Community College - TeleCollege,Mathematics,4.8,Ralph Esparza,1.4,12,N/A,,,,,,,,,,,,,,,,,,,,,886062
+260,4871,Dallas County Community College - TeleCollege,Physics,3.5,Godlove Fumbu,3.8,12,83%,,3,,2,,,,1,,,4,,2,3,1,3,1,,,1,1913708
+261,4871,Dallas County Community College - TeleCollege,English,3.9,Cynthia Miller,2.3,12,33%,,,,,1,,1,2,2,,1,,,6,2,,,6,1,8,1728312
+262,4871,Dallas County Community College - TeleCollege,History,1.9,Samuel Buice,4.7,10,N/A,,,,1,2,,2,,,,,,,,,,,,,,984242
+263,4873,North Central Texas College,History,2.5,JP Godwin,4.6,118,97%,6,30,,9,17,2,3,9,1,,15,9,3,1,6,27,13,,1,4,1347824
+264,4873,North Central Texas College,Political Science,2.2,Donna Hooper,4.9,103,93%,2,7,,9,3,18,2,13,,,8,5,3,4,10,9,7,,1,1,487159
+265,4873,North Central Texas College,Economics,3.6,J. Christopher Wreh,2.5,73,N/A,,1,,,,1,,1,2,,3,2,1,,4,2,7,,,7,282832
+266,4873,North Central Texas College,English,4.4,Christine Bishop,1.8,70,N/A,,,,,,,10,1,1,,,,,21,1,,,20,,31,361982
+267,4873,North Central Texas College,English,3.6,Robert Burton,3.2,69,41%,,,,1,3,,31,7,,,,,,22,3,1,,14,,20,591594
+268,4873,North Central Texas College,History,3.4,James Page,3.0,69,10%,,,1,2,5,,15,1,2,1,,,1,4,3,1,2,1,8,19,692471
+269,4873,North Central Texas College,Biology,4.2,Doug Elrod,4.3,61,90%,9,7,,3,,,,5,1,,10,1,9,,1,4,17,,6,13,1248743
+270,4873,North Central Texas College,History,3.3,Kevin Davis,3.5,55,77%,,1,,2,3,7,4,2,,,3,,4,2,4,3,2,2,1,4,555487
+271,4873,North Central Texas College,Biology,3.9,Diana Avila,3.6,50,53%,,2,,4,,1,5,2,,,2,1,10,4,2,4,17,,11,10,1346714
+272,4873,North Central Texas College,Sociology,2.0,Stacie Stoutmeyer,4.7,50,93%,1,7,,5,6,9,,14,,1,1,1,,,1,9,3,,,,784438
+273,4873,North Central Texas College,Mathematics,3.1,Nelson Lozano,3.7,47,56%,2,7,,8,4,,1,7,3,,2,2,2,13,,6,7,,2,8,1664343
+274,4873,North Central Texas College,English,3.1,Rochelle Gregory,4.8,46,100%,4,4,,7,5,1,,20,,,5,8,,3,,5,2,3,,,1453168
+275,4873,North Central Texas College,History,2.6,Jane England,4.3,45,73%,,6,,5,3,7,1,2,,,3,1,8,,2,5,5,,3,4,1289399
+276,4873,North Central Texas College,English,1.6,Lisa Smart,4.7,44,91%,2,1,,6,4,,2,15,1,,7,6,,,,3,,2,,,831605
+277,4873,North Central Texas College,Political Science,2.4,Holly Bell,4.0,43,70%,2,5,,3,2,3,2,4,1,,5,,1,1,3,2,2,,1,3,1050009
+278,4873,North Central Texas College,Political Science,1.8,Richard Huckaby,4.3,41,100%,2,2,,3,11,,3,8,2,,,1,5,2,4,15,,,,,1504322
+279,4873,North Central Texas College,Chemistry,4.2,Kevin Wood,2.3,40,N/A,1,1,,,1,,,,,,,,,1,,,2,,1,1,634420
+280,4873,North Central Texas College,English,3.5,Kevin Eubanks,3.9,36,58%,2,1,1,3,1,2,10,7,,,1,,,6,1,2,1,,1,6,272005
+281,4873,North Central Texas College,Mathematics,3.9,Ron Bautch,2.9,34,75%,,,2,,3,,1,,,,1,,2,5,3,2,5,,,6,765782
+282,4873,North Central Texas College,Biology,4.0,Susan Decker,2.8,33,N/A,1,,,,2,,6,1,,,,,2,,,,1,,1,10,380032
+283,4874,St. Paul University,Communication,3.3,Martin Blais,4.2,13,N/A,,,,,,,1,,,,,,,,,,,1,,,409621
+284,4874,St. Paul University,Applied Human Sciences,3.9,Terry Gall,2.4,12,N/A,,,,,,,,,,2,,,,,1,1,,,,5,924068
+285,4874,St. Paul University,Theology,3.0,Heather Eaton,3.6,11,67%,,2,,2,,,,,,,,2,,1,3,4,,,,1,348959
+286,4874,St. Paul University,Theology,3.5,Kenneth Melchin,4.8,10,N/A,,1,,1,,,,,,,2,,,,,1,,,,,348943
+287,4874,St. Paul University,Conflict Analysis,2.2,William Cornet,3.0,10,N/A,,,,1,,,2,3,,2,,3,,,3,2,,,,,1875232
+288,4874,St. Paul University,Theology,3.7,Fabrice Blee,3.5,10,N/A,2,,,,,,3,1,,,,3,1,2,1,,1,,,1,1305910
+289,4874,St. Paul University,Psychology,3.2,Luis Oliver,4.6,9,N/A,,,,,,,,,,,,,,,,,,,,,342546
+290,4874,St. Paul University,Theology,3.4,Yvan Mathieu,2.5,9,N/A,,,,,,,1,,,,,1,,,,,,,,1,346455
+291,4874,St. Paul University,Theology,2.3,Mark Slatter,4.3,8,80%,,2,,3,1,,1,,,,2,2,1,,,3,1,,,,1511656
+292,4874,St. Paul University,Philosophy,3.5,Dr. Richard Feist,3.7,8,N/A,,1,,,,,1,2,1,,1,1,4,,,,,,,2,1745550
+293,4874,St. Paul University,Not Specified,2.9,Anna Sheftel,4.6,8,N/A,2,1,,1,1,,1,3,,1,,1,,1,,1,1,,,,1813872
+294,4874,St. Paul University,Theology,4.0,John Van Den Hengel,4.3,6,N/A,,,,,,,,,,,,,,,,,,,,,344359
+295,4874,St. Paul University,Philosophy,3.0,Gerry Wilson,4.6,6,N/A,1,,,2,1,,2,1,,,,,1,,,,,1,,,348952
+296,4874,St. Paul University,Theology,3.2,Carol Kuzmochka,4.9,5,N/A,,,,2,,,,,,1,,1,,,1,1,,,,,1305906
+297,4874,St. Paul University,Theology,2.6,Frank Emanuel,4.0,5,100%,1,,,4,1,,,1,1,,,,1,,4,2,,,,,1698020
+298,4874,St. Paul University,Theology,2.7,Christian Dionne,4.8,3,N/A,,,,,,,,,,,,,,,,,,,,,519240
+299,4874,St. Paul University,Theology,5.0,James Pambrun,4.0,3,N/A,,,,,,,,,,,,,,,,,,,,,940029
+300,4874,St. Paul University,Philosophy,1.7,Gregory Walters,4.7,3,N/A,1,,,,,,,1,,,,,,,,1,,,,,953156
+301,4874,St. Paul University,Conflict Analysis,3.3,Vern Redekop,5.0,3,N/A,1,,,,,,,2,,,,,,,1,3,,,,1,1888351
+302,4874,St. Paul University,Theology,2.3,Pierre LaViolette,4.7,3,N/A,,1,,1,1,,1,,,,,1,,,,,1,,,,1957139
+303,4875,University of Dallas - Grad School of Management,Management,3.2,Karl Krayer,3.4,34,40%,1,2,,4,2,,2,3,,2,1,1,2,5,2,2,,,1,4,1101079
+304,4875,University of Dallas - Grad School of Management,Management,3.4,Rosemary Maellaro,3.7,23,N/A,,,,,,,,3,,3,,,,2,,,,1,,3,1181721
+305,4875,University of Dallas - Grad School of Management,Marketing,3.6,Sri Beldona,4.0,22,91%,1,6,,1,2,,2,1,,4,4,3,,2,2,3,,,,1,869477
+306,4875,University of Dallas - Grad School of Management,Management,2.0,Richard Peregoy,3.9,17,40%,,,,,1,,1,3,,,,1,2,,2,1,1,,,,873271
+307,4875,University of Dallas - Grad School of Management,Management,2.8,Blake Frank,3.2,16,N/A,,,1,1,1,,5,1,,,,,,7,,,,1,,7,981112
+308,4875,University of Dallas - Grad School of Management,Business,2.0,Scott Wysong,4.6,14,N/A,,,,,,,1,3,,1,,1,,,,1,1,,,,332756
+309,4875,University of Dallas - Grad School of Management,Finance,3.9,Ruth May,3.6,14,N/A,,,,,,,,,,,,,,,,,,,,,864688
+310,4875,University of Dallas - Grad School of Management,Business,2.6,Michael Cosgrove,4.0,13,N/A,,,,,,,,,,,,,,,,,,,,,332760
+311,4875,University of Dallas - Grad School of Management,Accounting,2.9,Bill Shoemaker,4.5,13,N/A,,,,,,,,,,,,,,,,,,,,,807371
+312,4875,University of Dallas - Grad School of Management,Information Science,3.6,Sue Conger,2.9,11,N/A,,1,,1,,,1,,1,1,,,3,,2,1,,,,1,1182315
+313,4875,University of Dallas - Grad School of Management,Accounting,2.2,Joseph Oliveti,4.6,10,N/A,,,1,,,,1,,,,,,,2,2,,,,,,1464749
+314,4875,University of Dallas - Grad School of Management,Management,3.8,Vernon Francis,3.4,9,N/A,,,,,,,,,,,,,,,,,,,,,1157353
+315,4875,University of Dallas - Grad School of Management,Accounting,4.3,Gregory McElvy,2.0,8,N/A,,,,,,,,,,,,,,,,,1,,,1,972362
+316,4875,University of Dallas - Grad School of Management,Business,3.6,Martin Schreiber,4.3,8,N/A,,,,,,,,,,,,,,,,,,,,,1167833
+317,4875,University of Dallas - Grad School of Management,Marketing,2.6,Dale Fodness,5.0,8,N/A,1,,,,1,,,2,,,,,,,1,,,,,,1313382
+318,4875,University of Dallas - Grad School of Management,Management,4.3,Ben Merritt,1.6,8,14%,,,,,,,1,1,1,,,,,2,1,,,2,,5,1914696
+319,4875,University of Dallas - Grad School of Management,Accounting,2.9,Bruce Evans,3.5,7,N/A,,,,,,,,,1,1,,1,,,1,1,,,,1,1059028
+320,4875,University of Dallas - Grad School of Management,Accounting,3.9,Susan Rhame,4.0,7,N/A,,,,,1,,,,,1,,,,,,,,,1,,1297903
+321,4875,University of Dallas - Grad School of Management,Economics,2.5,Maura Sheehan,4.1,6,N/A,,,,,,,,,,,,,,,,,,,,,473587
+322,4875,University of Dallas - Grad School of Management,Management,2.2,Michael Northington,3.0,6,N/A,,,,,1,1,,,,,,,,,1,,,1,,2,873274
+323,4876,ITT Technical Institute - Newburgh,Computer Science,3.0,Marty Richey,4.2,5,N/A,,,,,,,,,,,,,,,,,,,,,325983
+324,4876,ITT Technical Institute - Newburgh,Nursing,1.0,Heather Garrison,5.0,1,N/A,,,,,1,,,1,,,,,,,1,,,,,,2101795
+325,4877,Thomas Jefferson School of Law,Law,3.2,K.J. Greene,4.1,72,93%,4,6,,10,,,1,8,,,7,18,,,4,13,,,,5,726178
+326,4877,Thomas Jefferson School of Law,Law,3.2,Joy Delman,3.7,55,N/A,1,1,,1,1,,1,1,,,1,3,1,,1,2,,,,1,390403
+327,4877,Thomas Jefferson School of Law,Law,2.9,Maurice Dyson,4.0,51,100%,1,5,,4,,,,3,,,3,5,,,,5,1,,,,1071573
+328,4877,Thomas Jefferson School of Law,Law,3.2,Anders Kaye,4.8,46,100%,,3,,,3,,,1,1,,,4,,,,,1,,,1,453642
+329,4877,Thomas Jefferson School of Law,Law,4.4,Jeff Slattery,4.0,43,71%,2,8,,2,,,,14,,,,6,,7,2,4,2,1,,6,1277069
+330,4877,Thomas Jefferson School of Law,Law,3.8,Julie Cromer,3.2,38,N/A,,,1,,,,1,,1,,,,,,2,1,1,,,1,461069
+331,4877,Thomas Jefferson School of Law,Law,3.5,Thomas Golden,4.0,34,N/A,,,,,,,,,,,,,,,,,,,,1,280585
+332,4877,Thomas Jefferson School of Law,Law,3.0,Susan Bisom-Rapp,4.5,32,N/A,,1,,,,,,2,,,1,1,,,1,,,,1,2,453458
+333,4877,Thomas Jefferson School of Law,Law,3.3,William Slomanson,3.6,30,N/A,,,,,,,,1,,,1,1,,1,,2,,,,,280587
+334,4877,Thomas Jefferson School of Law,Law,3.8,Benjamin Templin,3.6,28,86%,1,2,,2,1,,3,1,,,,,1,3,2,2,2,,,,623536
+335,4877,Thomas Jefferson School of Law,Law,4.2,Eniola Akindemowo,1.6,28,N/A,,,,,,,,,,,,,,,,,,,,,904350
+336,4877,Thomas Jefferson School of Law,Law,3.9,Bryan Wildenthal,2.5,25,43%,4,,,1,,,5,6,,,,,2,,,7,1,,,2,453448
+337,4877,Thomas Jefferson School of Law,Law,3.0,Eric Mitnick,4.6,25,N/A,,,,,,,,,,,,,,,,,,,,,453450
+338,4877,Thomas Jefferson School of Law,Law,2.9,Kenneth Vandevelde,4.7,23,89%,2,8,,2,1,,,,,,6,6,2,,,6,,,,,936022
+339,4877,Thomas Jefferson School of Law,Law,3.3,Claire Wright,4.1,23,N/A,1,,,1,1,,,2,,,,1,1,,,,1,,1,3,665937
+340,4877,Thomas Jefferson School of Law,Law,3.8,Marjorie Cohn,2.6,22,N/A,,,,,,,1,,,,1,1,,,,1,,1,,2,280584
+341,4877,Thomas Jefferson School of Law,Law,3.1,Maureen Markey,4.2,22,N/A,,,,,,,,,,,,,,,,1,1,,,,415664
+342,4877,Thomas Jefferson School of Law,Law,3.7,Aaron Schwabach,3.9,22,N/A,,,,,,,,2,,,1,,1,,,1,,,,,585702
+343,4877,Thomas Jefferson School of Law,Law,2.7,David Steinberg,4.1,21,N/A,1,,,2,1,,1,,1,,,,,,1,,,,,2,554014
+344,4877,Thomas Jefferson School of Law,Law,3.8,Madeline Kass,3.3,20,N/A,,,,,,,,,,,,,,,,,,,,,592918
+345,4878,Soka University,Writing,4.4,James Williams,3.8,23,N/A,,1,,,,,1,,2,,,1,,1,,1,4,,,5,827304
+346,4878,Soka University,International Studies,3.8,Shane Barter,3.5,18,57%,1,1,,4,,,5,7,,,,2,4,,4,1,4,2,,11,1801429
+347,4878,Soka University,Psychology,3.5,Seiji Takaku,4.8,13,N/A,,1,,,,,,,,,1,,1,,,1,,,,,827292
+348,4878,Soka University,Sociology,2.7,Ryan Caldwell,4.2,12,N/A,1,,,,,,,,,,,1,,,2,2,,,,,1446058
+349,4878,Soka University,Physics,4.1,Phat Vu,4.0,10,N/A,1,,,,,,,,,,,,1,,,,,,,,1176466
+350,4878,Soka University,Sociology,3.4,Edward Lowe,4.2,10,N/A,,,,,,,1,2,,1,,2,,,,1,,,,1,1346688
+351,4878,Soka University,International Studies,4.4,Lisa MacLeod,2.9,8,N/A,,,,,,,1,,,,,,1,,1,,,1,,2,1455027
+352,4878,Soka University,Literature,4.1,Oleg Gelikman,4.0,8,67%,,3,,,,,1,3,,,4,3,2,1,1,,,,,,1952392
+353,4878,Soka University,Languages,2.7,Amparo Font,3.6,7,N/A,,,,,,,,,,,,,,,,,,,,,700916
+354,4878,Soka University,Economics,3.3,Hong-Yi Chen,4.6,7,N/A,,,,,,,,,,,,,,,,,,,,,827288
+355,4878,Soka University,Economics,4.0,Edward Feasel,4.8,7,N/A,,,,,,,,,,,,,,,,1,1,,,1,827289
+356,4878,Soka University,Music,3.1,Michael Golden,4.0,7,N/A,,,,,,,1,1,,,2,,,,2,,,,,,1252314
+357,4878,Soka University,International Studies,3.1,Rumela Sen,4.4,7,86%,,2,,4,2,,2,3,,,,3,,,3,,,,,1,2232932
+358,4878,Soka University,Social Science,2.7,George Busenberg,4.9,6,N/A,,2,,,1,,,1,,,,2,1,,,2,,,,,1569001
+359,4878,Soka University,Writing,3.3,Harleen Bhandari,3.3,6,N/A,,,,,,,1,1,,,,,,,,,,,,1,1624739
+360,4878,Soka University,History,4.2,James Spady,4.8,6,N/A,,1,,2,,,1,2,,,1,,,,1,,,,,1,1652169
+361,4878,Soka University,Humanities,4.2,John Kehlen,4.5,6,N/A,,1,,,,,1,2,,,,3,,,1,2,1,,,2,1692819
+362,4878,Soka University,Mathematics,4.0,Jonathan Merzel,4.1,5,N/A,,,,,,,,,,,,1,,,,,,,,1,827301
+363,4878,Soka University,Languages,3.2,Veronica Quezada,4.7,5,N/A,1,,,1,,,1,2,,,,1,,1,1,1,,,,,1431049
+364,4878,Soka University,Biology,3.4,Anthony Mazeroll,4.4,5,N/A,,,,1,,,,,,,1,,,,2,,,,1,1,1725523
+365,4879,Conservatory of Recording Arts & Sciences,Music,2.4,Ghery Fimbres,4.7,10,N/A,,,,,,,,,,,,,,,,,,,,,660549
+366,4879,Conservatory of Recording Arts & Sciences,Music,3.5,Scott Novac,4.5,2,N/A,,,,,,,,,,,,,,,,,,,,,682866
+367,4879,Conservatory of Recording Arts & Sciences,Engineering,4.5,Scott Novak,3.5,2,N/A,,,,,,,,,,,,,,,,,,,,,750209
+368,4879,Conservatory of Recording Arts & Sciences,Audio Recording Technology,2.5,Brian Burrill,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1458464
+369,4879,Conservatory of Recording Arts & Sciences,Film,4.0,Jeffrey S. Thomas,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1485679
+370,4879,Conservatory of Recording Arts & Sciences,Audio Recording Technology,3.0,Sean Conkling,5.0,1,N/A,,,,,,,,1,,,,,,,,1,1,,,,1458465
+371,4879,Conservatory of Recording Arts & Sciences,Music,1.0,Bobby Frasier,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1717747
+372,4881,Bevill State Community College,Psychology,2.1,Emily Chamblee,3.6,11,N/A,,,,,,,,,,,,,,,,,,,,,256748
+373,4881,Bevill State Community College,Communication,3.0,Cecelia Hale,2.9,9,N/A,,,,,,,,,,,,,,,,,,,,,1009073
+374,4881,Bevill State Community College,Biology,2.1,Gregory Taylor,4.9,8,N/A,1,,,,,,,,1,,1,,1,,1,1,,,,,256732
+375,4881,Bevill State Community College,English,4.2,Tiffany Ballinger,2.5,6,N/A,,,1,,,,2,,,,,,,1,,,1,1,,3,777019
+376,4881,Bevill State Community College,Mathematics,2.2,Caroline Page,4.1,5,N/A,,,,,,,,,,,,,,,,,,,,,1253311
+377,4881,Bevill State Community College,English,4.0,Benjamin Franklin,2.9,5,N/A,1,,,,1,,1,1,,,,,1,,,,,1,,2,1787390
+378,4881,Bevill State Community College,Psychology,2.2,Wade Nixon,4.9,4,N/A,,1,,1,1,1,,1,,,,1,,,,,,,,,833608
+379,4881,Bevill State Community College,Mathematics,2.7,Wade Wells,5.0,3,N/A,,,,,,,,,,,,,,,,,,,,,867068
+380,4881,Bevill State Community College,Nursing,4.0,Karen Caudle,2.9,3,N/A,,,,,,,1,,,,,,,,1,,1,,,,1105326
+381,4881,Bevill State Community College,Biology,2.7,Elizabeth Nix,4.7,3,N/A,,,,,,,,,,,,,,,,,,,,,1253431
+382,4881,Bevill State Community College,Mathematics,4.5,Joe Edwards,1.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1385002
+383,4881,Bevill State Community College,Not Specified,2.0,Jane Bagwell,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,833611
+384,4881,Bevill State Community College,History,1.0,Beth Hunter,4.0,1,N/A,,,,,,1,,1,,,,,,,,,,,1,,2406885
+385,4881,Bevill State Community College,Biology,3.0,Jerilyn Belle James,5.0,1,N/A,,,,,1,,,,,,,,,1,1,,,,,,2460886
+386,4882,Argosy University,Psychology,3.4,William Dubnov,4.8,27,N/A,,1,,,,,,,,,,1,,,,,,,,,1008760
+387,4882,Argosy University,Behavioral Sciences,3.0,David Hargis,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1189378
+388,4882,Argosy University,Psychology,2.0,Jennifer Gibson,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1523924
+389,4882,Argosy University,Business,4.0,Laura Pogue,5.0,1,N/A,,,,,,,,1,,,,1,,,1,,,,,,2387640
+390,4883,Strayer University,Computer Science,3.4,Richard Brown,5.0,28,100%,,7,1,2,3,1,,15,,,1,10,,1,12,12,,1,,1,2116651
+391,4883,Strayer University,Finance,3.5,Rollison Edewor,5.0,10,100%,,4,,2,,,,3,,,1,4,1,1,5,4,4,,,1,2152233
+392,4883,Strayer University,Law,3.3,William Stone,5.0,6,N/A,1,,,,,,,,,,,,,,2,2,1,,,,1083301
+393,4883,Strayer University,Humanities,3.0,Paul MacKey,2.4,5,N/A,,,,,,,,,,,,,,,,,,,,,446944
+394,4883,Strayer University,Computer Science,1.8,Bernard McCargo,1.1,5,N/A,,,,,,,,,,1,,,,1,,,,,,,563222
+395,4883,Strayer University,Computer Science,3.2,Emelda Ntinglet-Davis,5.0,5,N/A,,,,,,,,,,,,,,,,,,,,,960235
+396,4883,Strayer University,Business,1.8,H Mehrsefat,4.5,4,N/A,,,,,,,,,,,,,,,,,,,,,446957
+397,4883,Strayer University,Business,4.0,Walter Dula,1.8,4,N/A,,,,,,,,,,,,,,,,,,,,,1034981
+398,4883,Strayer University,Accounting,2.7,A. Karim,3.2,3,N/A,,,,,,,,,,,,,,,,,,,,,1042627
+399,4883,Strayer University,Business,2.7,Willie Strait,2.7,3,N/A,,,,,,,,,,,,,,,,,,,,,1175730
+400,4883,Strayer University,Business,3.3,Michael Simms,2.9,3,N/A,,,,,,,,,,1,,,,,,1,,,,,1647785
+401,4883,Strayer University,Computer Science,3.7,Laurant Jolly,2.3,3,N/A,,,,,,,,,,,,,,,,,,,,,2018328
+402,4883,Strayer University,Business,2.0,Lincoln Schreiber,5.0,3,N/A,,,,1,,1,,1,,,1,,,,2,,,,,,2279422
+403,4883,Strayer University,Computer Science,1.0,John Woodard,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1556047
+404,4883,Strayer University,Accounting,3.5,Diane Copeland,2.8,2,N/A,,,,,,,,,,,,,,,,,,,,,1581862
+405,4883,Strayer University,Computer Science,3.0,Damlash Gabre,3.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1327438
+406,4883,Strayer University,Mathematics,5.0,Haile Mariam,1.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1452665
+407,4883,Strayer University,Marketing,4.0,Bernice Gregory,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1455580
+408,4883,Strayer University,Computer Science,2.0,Frank Font,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1592309
+409,4883,Strayer University,Accounting,3.0,Wendy William,2.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1700810
+410,4884,Everest University (was Florida Metropolitan),Mathematics,2.1,Plasa Vladimir,4.7,38,100%,,2,,1,,,,7,,,,2,,,5,6,1,,,,1670322
+411,4884,Everest University (was Florida Metropolitan),Mathematics,2.3,Vladimir Plasa,4.4,9,N/A,,1,,2,,,,3,,,2,2,,,1,3,,,,,1876652
+412,4884,Everest University (was Florida Metropolitan),Criminal Justice,3.5,Jose Munoz,5.0,4,N/A,,2,,,,,,1,,,,2,,,1,2,,,,1,1426328
+413,4884,Everest University (was Florida Metropolitan),Criminal Justice,2.0,George Ramos,5.0,3,N/A,,,,,,,,,,,,,,,,,,,,,859521
+414,4884,Everest University (was Florida Metropolitan),Medicine,4.5,Michael Todd,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1338561
+415,4884,Everest University (was Florida Metropolitan),Medicine,3.0,Tangy Crews,4.5,2,N/A,,,,,,,,,,,,,,,,,,,,,1414926
+416,4884,Everest University (was Florida Metropolitan),Criminal Justice,2.0,Kenneth Davis,4.8,2,N/A,,,,,,,,,,,,,,,,,,,,,1698963
+417,4885,California Western School of Law,Criminal Law,3.9,Daniel Yeager,2.7,38,56%,,4,,1,,,4,,,,,3,3,,,,7,,3,1,303790
+418,4885,California Western School of Law,Contracts,3.3,Nancy Kim,3.8,30,88%,,,,2,,,3,1,,,,2,,,1,4,1,,,2,566477
+419,4885,California Western School of Law,Property Law,3.6,Scott Ehrlich,3.4,28,N/A,,1,,,1,,2,,1,,,,,,2,,1,,,,670788
+420,4885,California Western School of Law,Contracts,2.9,Michael Dessent,3.6,23,N/A,,,,,,,,,,,,,,,,,,,,,693206
+421,4885,California Western School of Law,Civil Procedure,4.2,Jan Stiglitz,3.3,22,N/A,,,,,,,,,,,,,1,,,,1,,,1,692797
+422,4885,California Western School of Law,Criminal Justice,3.2,Arthur Campbell,3.3,22,N/A,,3,,,,,,,,,2,3,,,,,,,,,693193
+423,4885,California Western School of Law,Legal Skills,2.3,Robert Dekoven,3.6,21,N/A,,,,1,,,,,,,1,1,,,,,,,,,670765
+424,4885,California Western School of Law,Property Law,3.1,Donald Smythe,4.7,20,N/A,1,,,,,,,1,,,,,,,,1,,,,,1158649
+425,4885,California Western School of Law,Labor Law,3.0,Ruben Garcia,2.7,19,N/A,,,,,,,,,,,,,,,,,,,,,623881
+426,4885,California Western School of Law,Civil Procedure,3.8,Barbara Cox,3.8,19,N/A,,,,,,,,,,,,,,,,,,,,,670793
+427,4885,California Western School of Law,Legal Skills,4.0,Ruth Hargrove,4.0,19,N/A,,,,,,,1,,,,2,,,1,,1,,,,2,711476
+428,4885,California Western School of Law,Law,3.4,Jessica Fink,4.6,19,N/A,2,2,,2,,,,,,,,,,,2,1,,,,,1138178
+429,4885,California Western School of Law,Law,2.7,Paul Gudel,3.5,18,N/A,,,,,,,,,,,1,,,,,,1,,,1,609739
+430,4885,California Western School of Law,Civil Procedure,4.1,Kenneth Klein,3.9,18,N/A,2,,,,,,3,,,2,,,,,,1,,,,1,1265407
+431,4885,California Western School of Law,Family Law,3.8,Janet Bowermaster,3.6,17,N/A,,,,,,,,,,,,,,,,,,,,,568653
+432,4885,California Western School of Law,Torts,3.6,William Lynch,3.9,15,N/A,,,,,,,,,,,,1,,,,,,,,,693202
+433,4885,California Western School of Law,Criminal Justice,3.3,Laurence Benner,2.6,15,N/A,,,,,,,,,,,,,,,,,,,,,707690
+434,4885,California Western School of Law,Law,3.5,Robert Bohrer,1.9,15,N/A,1,,,1,1,,1,,1,,,,1,,2,,,,,2,695052
+435,4885,California Western School of Law,Contracts,3.1,Tom Barton,4.8,14,N/A,,,,,,,,,,,,,,,,,,,,,626387
+436,4885,California Western School of Law,Wills & Trusts,3.7,Victoria Haneman,3.5,14,N/A,,,,,,,,,,,,,,,,,,,,,693664
+437,4887,New York College of Osteopathic Medicine,History,2.5,King Cheek,4.3,4,N/A,,1,,,,,1,,,,,1,1,,,,,1,,,714676
+438,4887,New York College of Osteopathic Medicine,Criminal Justice,1.0,Andrew Mulrain,5.0,4,N/A,,,,,,,,,,,,,,,,,,,,,723082
+439,4887,New York College of Osteopathic Medicine,Philosophy,4.0,Luis Navia,4.8,2,N/A,,1,,,,,1,,,,,,,,,1,,,,,694111
+440,4887,New York College of Osteopathic Medicine,Architecture,2.5,Paul Amatuzzo,3.5,2,N/A,,,,,,,,,,,,,,,,,,,,,695734
+441,4887,New York College of Osteopathic Medicine,Criminal Justice,1.5,Edward Maggio,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,715567
+442,4887,New York College of Osteopathic Medicine,Architecture,1.0,Joshua Davis,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,692109
+443,4888,DeVry University,Engineering & Information Sciences,2.0,Jalal Raissi,4.9,39,N/A,,,,,,,,,,,,,,,,,,,,,756533
+444,4888,DeVry University,Mathematics,3.7,Dawn Thomas,2.5,14,N/A,,,,,,,,,,,,,,,,,,,,,598775
+445,4888,DeVry University,Sociology,1.8,Robert Kettel,4.3,8,N/A,,,,,,,,,,,,,,,,,,,,,631879
+446,4888,DeVry University,Humanities,1.5,Lana Layton,3.8,8,N/A,,,,,,,,,,,,,,,,,,,,,756524
+447,4888,DeVry University,Management,4.3,Robert James,2.8,7,N/A,,,,,,,,,,,,,,,,,,,,,638866
+448,4888,DeVry University,Mathematics,3.0,Raj Sampath,5.0,7,N/A,,,,,,,,,,,,,,,,,,,,,756518
+449,4888,DeVry University,Not Specified,2.7,Susan Henning,4.1,6,N/A,,,,,,,,,,,,,,,,,,,,,475375
+450,4888,DeVry University,Computer Science,4.0,Giao Dau,2.2,6,N/A,,,,,,,1,,,,1,,1,,,,,,,1,756517
+451,4888,DeVry University,Computer Science,4.0,Mohan Naidu,2.6,5,N/A,,,,,,,,,,1,,,,,,,,,,,756542
+452,4888,DeVry University,Computer Science,3.8,Derek Otieno,4.8,5,N/A,,,,1,,,,1,,,,1,,,,,,,,,1107230
+453,4888,DeVry University,Humanities,2.5,David Sered,3.4,4,N/A,1,1,,1,,,,,,,,,,1,,,1,,,1,756523
+454,4888,DeVry University,Psychology,4.3,Bethrene Roepnack,2.3,4,N/A,,,,,,,,,,,,,,,,,,,,,756527
+455,4888,DeVry University,Computer Science,3.3,Chis Howard,4.0,3,N/A,,,,,,,,,,,,,,,,,,,,,438390
+456,4888,DeVry University,Computer Science,1.7,James Ray,3.3,3,N/A,,,,,1,,,,,,,,,1,1,,,,,,756534
+457,4888,DeVry University,Computer Science,4.0,Tanya Cannon,2.2,3,N/A,,,,,,,,,,,,,,,,,,,,,855968
+458,4888,DeVry University,Computer Science,1.0,Stephen Ichatha,4.0,3,N/A,,,,1,,,,1,,,,,,,1,,,,,,1131186
+459,4888,DeVry University,English,1.5,Karey Perkins,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,756526
+460,4888,DeVry University,Engineering,2.5,Lynda Wooldridge,4.8,2,N/A,,,,,,,,,,,,,,,,,,,,,756531
+461,4888,DeVry University,Computer Science,1.0,Richard Johnson,1.8,2,N/A,,,,,,,,,,,,,,,,,,,,,988027
+462,4888,DeVry University,Accounting,3.0,Mark King,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1259168
+463,4889,Parker University,Biology,4.2,Gene Giggleman,4.5,21,N/A,,,,1,1,,,,,,,1,,,,,,,,,310689
+464,4889,Parker University,Biology,3.5,Bahram Sadarabadi,3.6,10,N/A,,,,,,,,,,,,,,,,,,,,,310673
+465,4889,Parker University,Biology,4.0,Mabel Boyd-Obuseh,2.6,9,N/A,,,,,,,,,,,,,,,,,,,,,748838
+466,4889,Parker University,Biology,3.5,Odhwani Anjum,4.0,8,N/A,,,,,,1,,,,1,,,1,,1,,,,,1,748832
+467,4889,Parker University,Chemistry,2.8,Harold Fick,1.8,8,N/A,,,,,,,,,,,,,,,,,,,,,863441
+468,4889,Parker University,Health Science,2.6,Edward Brown,3.4,7,N/A,,,,,,,,,,,,,,,,,,,,,310662
+469,4889,Parker University,Medicine,3.4,DR. Perryman,4.5,7,N/A,,,,,,,,,,,,,,,,,,,,,688423
+470,4889,Parker University,Philosophy,3.1,David Browning,3.2,7,N/A,,,,,,,,,,,,,,,,,,,,,861788
+471,4889,Parker University,Philosophy,3.2,Neil Stern,3.9,6,N/A,,,,,,,,,,,,,,,,,,,,,310660
+472,4889,Parker University,Not Specified,3.0,Georgina Pearson,3.4,6,N/A,,,,,,,,,,,,,,,,,,,,,748827
+473,4889,Parker University,Not Specified,2.4,Dustin Cobb,3.7,5,N/A,,,,,,,,,,,,,,,,,,,,,748814
+474,4889,Parker University,Health Science,3.8,Stephen Kleinfield,4.3,4,N/A,,,,,,,,,,,,,,,,,,,,,310667
+475,4889,Parker University,Biology,4.0,Karen Farmer,3.6,4,N/A,,,,,,,,,,,,,,,,,,,,,344848
+476,4889,Parker University,Psychology,1.3,Roxanne Elliott,5.0,4,N/A,,,,,,,,,,,,,,,,,,,,,1795955
+477,4889,Parker University,Health Science,3.0,Farshid Marzban,3.3,4,N/A,,,,,,,,,,,,,,,1,,,,,1,482907
+478,4889,Parker University,Chiropractic Education,3.7,Sandra Norton,4.2,3,N/A,1,,,1,,,,,,,1,,,,,,,,,,985626
+479,4889,Parker University,Physics,3.0,James Tison,2.5,3,N/A,,,,,,,,,,,,,,,,,,,,,1483617
+480,4889,Parker University,Chiropractic Education,4.0,Thomas McCloughan,5.0,3,N/A,,,,,,,,,,,,,,,,,,,,,1508800
+481,4889,Parker University,Chiropractic Education,3.0,Michael Hall,4.5,2,N/A,,,,,,,,,,,,,,,,,,,,,1267834
+482,4889,Parker University,Science,3.5,Kathleen Kayes-Wandover,3.8,2,N/A,,,,,,,,,,,,,,,,,,,,,1508801
+483,4891,Germanna Community College - Fredericksburg Campus,Biology,3.1,Jennifer Ravinskas,4.3,164,92%,21,18,,28,73,23,9,56,3,11,,4,91,6,25,28,30,,18,13,2095559
+484,4891,Germanna Community College - Fredericksburg Campus,Accounting,2.6,Nauri Ahmed,4.8,128,99%,21,7,,36,55,58,5,63,1,,1,5,7,29,23,32,9,,4,1,1856195
+485,4891,Germanna Community College - Fredericksburg Campus,Languages,3.4,Miguel Lechuga,2.8,104,11%,,,8,1,1,,2,1,,3,,1,1,15,8,1,3,,2,18,333692
+486,4891,Germanna Community College - Fredericksburg Campus,Biology,3.5,Jessica Matheson,3.6,88,87%,2,1,,12,18,29,18,32,,1,1,,5,8,17,3,13,,1,45,1656763
+487,4891,Germanna Community College - Fredericksburg Campus,Physical Education,2.0,Daniel Santillo,4.8,86,100%,,1,,16,7,4,,48,1,,31,6,,,53,24,11,,,,1799115
+488,4891,Germanna Community College - Fredericksburg Campus,Mathematics,2.2,Mike Shirazi,4.5,85,79%,2,7,2,6,6,5,1,7,4,,4,1,2,,4,9,8,,1,,564461
+489,4891,Germanna Community College - Fredericksburg Campus,Psychology,1.6,Michael Shockey,4.9,85,100%,2,11,,23,7,,1,6,3,6,16,15,,,2,19,1,,2,,758796
+490,4891,Germanna Community College - Fredericksburg Campus,English,4.1,John Castellarin,2.4,79,35%,2,2,,,1,,2,3,2,,,1,7,6,1,,2,15,,24,941962
+491,4891,Germanna Community College - Fredericksburg Campus,English,3.8,Monique Lewis,3.5,65,48%,1,,,1,3,,6,9,4,3,5,1,2,2,4,1,11,3,,24,994888
+492,4891,Germanna Community College - Fredericksburg Campus,Biology,3.7,Maury Wrightson,4.2,61,80%,2,4,,3,2,,1,8,,3,4,1,3,5,3,5,9,,,6,649942
+493,4891,Germanna Community College - Fredericksburg Campus,English,4.3,Lazalia Richardson,2.9,59,N/A,,,,,,,,,,,,,,,,,,,,,259471
+494,4891,Germanna Community College - Fredericksburg Campus,History,2.5,Stuart Smith,4.5,56,N/A,,,,,,,,,,,,,,,,,,,,,992794
+495,4891,Germanna Community College - Fredericksburg Campus,Mathematics,2.2,Jay Nyzowyj,4.7,55,85%,2,5,1,4,4,,1,3,,,5,,,2,5,4,,,3,1,564462
+496,4891,Germanna Community College - Fredericksburg Campus,Health Science,4.4,Season Thomson,3.5,55,68%,5,,,4,7,2,6,10,2,,,,,5,8,,1,,5,15,751021
+497,4891,Germanna Community College - Fredericksburg Campus,English,3.6,Brenda Robinson,2.6,52,27%,3,,6,2,2,4,11,8,,4,,,13,4,5,1,17,3,,18,1023929
+498,4891,Germanna Community College - Fredericksburg Campus,Art History,3.5,Amanda Guyton,2.8,50,86%,2,2,,,4,1,4,,1,,1,1,1,2,4,,,,,3,593546
+499,4891,Germanna Community College - Fredericksburg Campus,History,1.9,Dan Carter,4.3,49,67%,,,,,1,4,,,,,1,,5,1,,2,6,,,,904842
+500,4891,Germanna Community College - Fredericksburg Campus,Biology,2.5,Allison Santillo,3.9,48,85%,4,4,,9,4,11,6,10,,,16,,6,7,5,6,4,,,4,1613619
+501,4891,Germanna Community College - Fredericksburg Campus,Biology,3.2,Shelley Kozman,2.8,46,40%,1,,,1,,4,,,,,,1,8,2,1,,5,,,6,1156835
+502,4891,Germanna Community College - Fredericksburg Campus,English,2.0,Lisa Grundy,4.8,46,100%,9,7,,14,17,4,2,27,3,,17,11,,,3,12,,,,,2005286
+503,4892,ITT Technical Institute: Norfolk,Design,2.3,Vedat Aksoy,4.6,11,N/A,,,,,,,,3,,,3,,,,3,4,,,,1,1150322
+504,4892,ITT Technical Institute: Norfolk,Mathematics,2.0,George Dovgalenko,4.8,6,N/A,1,,,1,,,,,,,,1,,,,,,,,,463429
+505,4892,ITT Technical Institute: Norfolk,Nursing,3.3,Trudy M. Kuehn,4.5,3,N/A,,,,,,,,,,,,,,,,,,,,,1771139
+506,4892,ITT Technical Institute: Norfolk,Design,2.5,Jason Villafranka,4.8,2,N/A,,,,,,,,,,,,,,,,,,,,,711898
+507,4892,ITT Technical Institute: Norfolk,Information Science,1.0,Jim Trump,3.3,2,N/A,,,,,,,,,,,,,,,,,,,,,1150327
+508,4892,ITT Technical Institute: Norfolk,Construction Management,4.0,James Kennedy,3.5,2,N/A,,,,,,,,,,,,,,,,,,,,,1180198
+509,4892,ITT Technical Institute: Norfolk,Mathematics,3.0,Agatha Gitundu,3.3,2,N/A,,,,,,,,,,,,,,,,,,,,,1368332
+510,4892,ITT Technical Institute: Norfolk,Design,4.0,Michael Bauer,3.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1150328
+511,4892,ITT Technical Institute: Norfolk,Business,1.0,Lhe Reel,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1306979
+512,4892,ITT Technical Institute: Norfolk,Nursing,2.0,Patricia Holbert,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1506183
+513,4892,ITT Technical Institute: Norfolk,Computer Science,1.0,Donald Zirkle,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1592254
+514,4892,ITT Technical Institute: Norfolk,Not Specified,1.0,MR. Jackson,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1592257
+515,4892,ITT Technical Institute: Norfolk,Mathematics,4.0,Taina Matos,1.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1622372
+516,4892,ITT Technical Institute: Norfolk,Computer Science,3.0,Johanna Kirby,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1662183
+517,4892,ITT Technical Institute: Norfolk,Engineering,1.0,James Curley,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1662189
+518,4892,ITT Technical Institute: Norfolk,Nursing,5.0,Shante Tucker,3.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1917373
+519,4893,American Academy of Art,Design,3.1,Misha Goro,3.9,21,N/A,,,,,,,,,,,,,,,,,,,,,1586145
+520,4893,American Academy of Art,Fine Arts,3.5,Lj Armstrong,4.0,15,N/A,,,,,,,,,,,,,,,,,,,,,494491
+521,4893,American Academy of Art,Fine Arts,4.6,Tom Herzberg,4.4,11,N/A,1,,,,,,,1,,,,,,,,,,,,1,688159
+522,4893,American Academy of Art,Not Specified,2.6,Sarah Kaiser,3.1,10,N/A,,,,,,,,,,,,,,,,,,,,,1036438
+523,4893,American Academy of Art,Social Science,2.0,Tony Thomas,2.9,9,N/A,,,,,,,,,,,,,,,,,,,,,494439
+524,4893,American Academy of Art,Accounting,4.7,Marcia Thomas,1.8,6,N/A,,,,,,,,,,,,,,,,,,,,,494503
+525,4893,American Academy of Art,Fine Arts,3.3,Louanne Burkhardt,4.6,6,N/A,,,,1,,,,,,,,,,,1,1,,,,,947794
+526,4893,American Academy of Art,English,5.0,Kimberly Northrop,4.1,4,N/A,,,,,,,,,,,,,,,,,,,,,688160
+527,4893,American Academy of Art,Fine Arts,3.0,Don Yang,2.4,4,N/A,,,,,,,,1,,,,1,,,,1,,,,,823302
+528,4893,American Academy of Art,Fine Arts,3.5,Stella Kuleva,2.9,4,N/A,,,,,,,,,,,,,,,,,,,,,1551139
+529,4893,American Academy of Art,Humanities,2.3,Jaime O'Conner,4.9,4,N/A,,,,,,,,,,,,,,,,,,,,,1586147
+530,4893,American Academy of Art,Leadership,3.0,Duncan Webb,1.0,3,N/A,,,,,,,,,,,,,,,,,,,,,870725
+531,4893,American Academy of Art,English,1.7,Sherine Azzam,2.2,3,N/A,,,,,,,,,,,,,,,,,,,,,1574075
+532,4893,American Academy of Art,Fine Arts,2.5,Bobby Jo Scribner,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,686269
+533,4893,American Academy of Art,Fine Arts,2.0,Ann Farrell,1.0,2,N/A,,,,,,,,,,,,,,,,,,,,,711224
+534,4893,American Academy of Art,Fine Arts,2.5,Richard Kryzka,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1675986
+535,4893,American Academy of Art,Fine Arts,4.5,Anthony Adcock,5.0,2,N/A,1,,,1,,,,,,,,2,,,,1,1,,,,2167882
+536,4893,American Academy of Art,Graphic Arts,4.0,Marc Soehl,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1289653
+537,4893,American Academy of Art,Graphic Arts,2.0,Peter Scott,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1305162
+538,4893,American Academy of Art,Fine Arts,2.0,Timothy King,3.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1549610
+539,4894,Wharton County Junior College,Biology,3.1,Candace Doriski,4.2,71,84%,2,1,,7,2,11,3,5,1,,1,2,4,,2,7,6,,3,1,757583
+540,4894,Wharton County Junior College,Psychology,2.5,Rebecca McElroy,4.1,63,52%,,4,,2,3,1,20,5,3,,1,6,4,1,,8,3,,5,8,767825
+541,4894,Wharton County Junior College,Mathematics,1.7,James Kelley,4.8,61,100%,3,3,,5,4,1,,1,1,,3,2,,,,10,3,,,,438547
+542,4894,Wharton County Junior College,History,2.6,Connie J Bibus,3.1,46,N/A,,,1,1,,4,4,,1,,,,4,1,2,,2,1,1,5,630063
+543,4894,Wharton County Junior College,English,2.7,Sharon Prince,3.0,42,N/A,,,,1,1,,1,1,,7,,,3,9,6,1,3,6,2,9,846099
+544,4894,Wharton County Junior College,Physics,2.6,Ata Zamani,4.2,41,N/A,,,,,,,,,,,,,,,,,,,,,1302059
+545,4894,Wharton County Junior College,History,4.2,Elizabeth Rexford,2.6,40,25%,,,,,1,3,1,,,,1,,3,11,1,,5,10,5,23,550050
+546,4894,Wharton County Junior College,Biology,2.4,Johnson Cherukara,4.8,36,86%,2,3,,1,1,1,,3,,,4,,1,,3,3,,,,1,649610
+547,4894,Wharton County Junior College,History,4.6,Glendell Jones,2.4,35,N/A,,,,,,,3,,,,,,4,,,,1,2,1,7,337850
+548,4894,Wharton County Junior College,English,2.1,Jeff Tix,4.5,29,N/A,2,1,,1,3,,,6,,1,,1,,2,3,3,,,,1,344643
+549,4894,Wharton County Junior College,Biology,3.7,Purti Gadkari,4.2,28,N/A,1,3,,1,,1,,2,,,,,,,1,,1,,,,266757
+550,4894,Wharton County Junior College,English,2.9,Mary Lang,3.1,28,60%,1,,1,,3,,4,1,2,,,1,,1,3,1,6,,,10,364064
+551,4894,Wharton County Junior College,Geology,3.2,Richard Aurisano,3.6,27,N/A,,,,2,1,5,2,,,,,,5,,,2,2,,2,4,849042
+552,4894,Wharton County Junior College,Not Specified,3.2,Ronald Vardy,2.8,25,60%,,,7,,4,10,11,2,1,,1,,,1,3,,3,1,,8,1008093
+553,4894,Wharton County Junior College,History,1.8,Paul Spellman,5.0,23,100%,,7,,2,4,,,2,,,8,5,2,,,8,7,,,,1596824
+554,4894,Wharton County Junior College,Political Science,4.1,Kingsley Ituah,2.0,21,N/A,,,,,,,,,,,,,,,,,,,,,143005
+555,4894,Wharton County Junior College,Mathematics,3.5,William Heierman,3.6,19,N/A,,1,,,,,,,,,,,,,1,1,,,,,254469
+556,4894,Wharton County Junior College,English,1.4,Joyce O'Shea,4.6,19,N/A,,,,,,,,,,,,,,,,,,,,,254470
+557,4894,Wharton County Junior College,Chemistry,2.2,Frank Carey,3.6,19,N/A,1,,,,,3,2,1,,,1,,,1,,,,,,1,394673
+558,4894,Wharton County Junior College,Psychology,2.7,Ophelia Binkley-Webb,3.8,19,83%,,1,,5,,6,4,4,,2,,3,2,3,2,5,8,,2,4,2016599
+559,4895,Texas Bible College,Religion,2.5,Rachel Burchfield,4.3,6,N/A,,,,1,,,,,,,1,1,,,2,,1,,,,727011
+560,4895,Texas Bible College,Not Specified,3.8,Mike Molinen,3.1,4,N/A,,,,,,,,,,,1,1,1,1,,,1,,,1,703501
+561,4896,University Center at Sioux Falls,Chemistry,3.7,Sara Madsen,2.9,21,N/A,,,,2,,1,2,1,,1,,,4,2,2,1,6,,,5,791539
+562,4896,University Center at Sioux Falls,Communication,1.8,April Lovrien,4.7,18,88%,,,,3,2,,,7,1,,2,1,,,1,3,2,,,,1537055
+563,4896,University Center at Sioux Falls,English,2.7,Melinda Obach,4.8,15,N/A,,1,,3,3,,1,4,,,,,,1,1,2,1,,,,1127753
+564,4896,University Center at Sioux Falls,Chemistry,3.2,Melody Jewell,3.6,13,N/A,1,,,2,1,,,1,,,,,1,3,,1,1,,,1,791540
+565,4896,University Center at Sioux Falls,History,4.4,Ann Tryon,2.8,9,N/A,,1,,,,,,,,,,,,1,,,,,,2,639041
+566,4896,University Center at Sioux Falls,Biology,2.4,Jamie Ladonski,4.5,8,N/A,1,,,,1,1,,1,,,,,2,,,,1,,1,,1603870
+567,4896,University Center at Sioux Falls,English,2.9,Mary Honerman,3.9,7,N/A,,,,,,,1,1,,,1,1,,,1,1,,,,,948330
+568,4896,University Center at Sioux Falls,Psychology,3.0,Martin Dennis,3.5,6,N/A,,1,,,,,1,,,,,,1,,,,,,,1,1625004
+569,4896,University Center at Sioux Falls,Science,3.8,Steve Bambas,3.9,5,N/A,,,,1,,,,,,,,,,,,,,,,1,1223738
+570,4896,University Center at Sioux Falls,Mathematics,3.8,Kelly Steinmetz,3.7,5,N/A,,,,,1,,,,,,,,1,1,,,2,,,2,1899356
+571,4896,University Center at Sioux Falls,Mathematics,3.7,Lois Campbell,2.3,3,N/A,,,,,,,,,,,,,,,,,,,,,551632
+572,4896,University Center at Sioux Falls,Computer Science,2.0,Barbara Myers,4.5,3,N/A,,,,1,,,,,,,,,,,1,,,,,,1670091
+573,4896,University Center at Sioux Falls,English,4.0,Kevin Magee,3.0,3,N/A,,,,1,,,1,1,,,,,2,,1,,2,,,,2243315
+574,4896,University Center at Sioux Falls,Anthropology,2.5,Joleen Pietrzak,4.8,2,N/A,1,,,,,,,1,,,,1,,,,,,,,,1713300
+575,4896,University Center at Sioux Falls,Mathematics,2.0,Charley Ogden,4.5,2,N/A,,,,,,,,,,,,,,,,,,,,,1755568
+576,4896,University Center at Sioux Falls,Biology,3.0,Randall Warren,2.8,2,N/A,,,,,,,,,,,1,,,1,1,,2,,,,1921678
+577,4896,University Center at Sioux Falls,English,3.5,Joseph Raiche,3.3,2,N/A,,,,,,,1,1,,,,,,,1,,,,,1,1946839
+578,4896,University Center at Sioux Falls,Geography,2.0,Jim Peterson,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1755569
+579,4896,University Center at Sioux Falls,Political Science,4.0,Jay Newberger,1.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1814494
+580,4896,University Center at Sioux Falls,Business,3.0,Michelle Laughlin,3.5,1,N/A,,,,,1,,,,,,,,,1,,,,,,,1838048
+581,4897,Crossroads Bible College,Theology,2.2,Mike Smith,5.0,5,N/A,,,,1,,,1,1,,,,,,,1,2,,,,,248937
+582,4897,Crossroads Bible College,Theology,5.0,Hosea Baxter,4.8,3,N/A,1,1,,,,,,,,,,,,,,,,1,,,333605
+583,4898,Florida Atlantic University,Accounting,4.0,Sherry Young,4.3,89,93%,2,4,,2,3,,9,8,,1,,2,1,8,3,6,4,,2,4,765348
+584,4898,Florida Atlantic University,Business,3.7,Jay Subrahmanian,3.5,74,N/A,,,,1,1,1,1,1,,,,,1,5,1,,6,,1,3,614147
+585,4898,Florida Atlantic University,Psychology,3.2,Donna Marion,3.9,66,79%,2,6,,7,12,7,8,7,1,3,,1,9,3,8,7,17,1,3,17,1294767
+586,4898,Florida Atlantic University,Computer Science,2.4,Pauline Chin,4.3,63,85%,,5,,7,11,,,6,,3,,1,1,10,2,3,5,,,1,525774
+587,4898,Florida Atlantic University,Management,4.5,Mehdi Kaighobadi,1.9,60,N/A,,,3,,,,1,,,,,,1,,,,3,,,6,312717
+588,4898,Florida Atlantic University,Criminal Justice,1.6,Frank De La Torre,4.9,55,100%,1,10,,3,3,2,1,4,1,,14,5,1,,,9,,,,,438351
+589,4898,Florida Atlantic University,Business,2.5,Mehran Basiratmand,4.8,53,96%,3,16,,8,5,3,1,1,,,23,3,,6,1,13,5,,2,1,717379
+590,4898,Florida Atlantic University,Biology,3.7,Colin Hughes,3.0,46,30%,1,1,1,2,1,,17,4,5,2,,1,2,,8,,9,,10,9,925035
+591,4898,Florida Atlantic University,English,4.2,Joanne Jasin,3.3,45,14%,,,,1,,,3,,,,,,4,,1,,9,1,1,6,389549
+592,4898,Florida Atlantic University,Literature,2.5,Timothy Leistner,4.7,43,N/A,,,,,6,,,9,,1,,1,,1,,7,1,,,2,651369
+593,4898,Florida Atlantic University,Sociology,3.9,Patricia Widener,3.1,41,85%,1,4,,2,2,3,2,6,,,,3,4,,,2,3,,,3,928204
+594,4898,Florida Atlantic University,Marketing,4.3,Pradeep Korgaonkar,2.3,40,N/A,,,,,2,,1,,1,2,,,1,1,1,,1,1,1,2,646154
+595,4898,Florida Atlantic University,Marketing,2.8,Patricia Doney,3.6,38,N/A,,1,,,2,,,1,,,,,1,,,,,,,,646156
+596,4898,Florida Atlantic University,Law,2.2,Gary Gaffney,4.9,37,N/A,,,,,,,,,,,,,,,,,,,,,568656
+597,4898,Florida Atlantic University,Psychology,3.5,Monica Rosselli,3.3,36,25%,,1,,,1,1,5,,3,,,,3,,,,3,,2,6,636492
+598,4898,Florida Atlantic University,Psychology,3.3,Charles White,4.0,35,N/A,,,,,,,,,,,,,,,,,,,,,795221
+599,4898,Florida Atlantic University,Psychology,1.7,James Nadell,5.0,35,100%,1,6,,6,3,,,3,1,,7,6,1,2,1,4,,2,,,946522
+600,4898,Florida Atlantic University,Economics,2.8,Rene Choy,4.2,35,N/A,,,,,3,,,1,,,,1,1,,1,3,1,,,1,1008208
+601,4898,Florida Atlantic University,Psychology,3.2,Erika Hoff,2.7,34,N/A,,,,,,1,1,,1,,,1,3,,,,1,1,,3,606329
+602,4898,Florida Atlantic University,Accounting,3.6,George Smatrakalev,3.1,33,N/A,,,1,,,1,,1,,,,,,1,,,1,,,2,839502
+603,4899,Berkeley College,Computer Science,3.5,Stephanie Fells,4.6,36,N/A,2,,,2,,,,7,,,1,1,,6,,3,8,,,,466897
+604,4899,Berkeley College,Psychology,3.9,Bianca Thompson-Owen,4.9,23,N/A,,4,,,,,,,,,,4,,,2,3,,,,3,1268188
+605,4899,Berkeley College,Business,4.3,Larry Froelich,3.5,19,N/A,,,,,,,,1,,,,,,,1,,2,,,1,604715
+606,4899,Berkeley College,English,3.5,Barbara Messina,3.7,16,N/A,,,,,,,,,,,,,,,,,,,,,350809
+607,4899,Berkeley College,Humanities,2.8,Jonathan Weidenbaum,4.6,16,N/A,,2,,,,,,3,,,5,4,1,,,3,1,,,,735831
+608,4899,Berkeley College,Marketing,2.3,Cal Hodock,5.0,13,N/A,,,,,1,,,1,,,,,,,,,,,,,350808
+609,4899,Berkeley College,Design,3.6,Kathy Mills,4.7,12,N/A,,,,,,,,,,1,,,,,,1,1,,,,464631
+610,4899,Berkeley College,Accounting,3.3,Fern Hendelman,3.9,9,N/A,,,,,,,,,,,,,,1,,,,,1,1,579035
+611,4899,Berkeley College,Management,4.1,Albert Muzikar,3.7,9,N/A,,,,1,,,,,,,,,2,,3,1,1,,,1,892072
+612,4899,Berkeley College,Business,3.4,Solomon Nyaanga,3.2,7,N/A,,,2,1,,,,,,,,,1,1,,1,,,2,3,627767
+613,4899,Berkeley College,Criminal Justice,2.3,Ross London,4.4,7,N/A,,,,,1,,,1,,,1,,,1,1,,,,,,1097560
+614,4899,Berkeley College,English,2.0,Shanetta Cathey,3.6,6,N/A,,,,,,,,,,,,,,,,,,,,,1280375
+615,4899,Berkeley College,Not Specified,3.5,Joy Browne,3.0,6,N/A,,,,,,,,,,,,,,,1,,1,,,,1570134
+616,4899,Berkeley College,Accounting,3.6,Lynne Remedios,3.1,5,N/A,,,,,,,,,,,,,,,,,,,,,277472
+617,4899,Berkeley College,Science,1.8,Barbara Harper,4.9,5,N/A,,,,,,,,,,,,,,,,,,,,,677522
+618,4899,Berkeley College,Business,2.0,Chris Christiansen,4.4,5,N/A,,,,,,,,,,,,,,,,,,,,,678265
+619,4899,Berkeley College,Science,3.0,Walid H Abushahba,4.0,5,N/A,,2,,1,1,,2,2,,1,,,,,1,,,,,1,1829375
+620,4899,Berkeley College,English,3.8,Erica Smith,3.4,4,N/A,,,,,,,,,,,,,,,,,,,,,1237544
+621,4899,Berkeley College,English,3.3,Barbra Monaghan,4.3,4,N/A,,,,,,,,,,,,,,,,,,,,,1466627
+622,4899,Berkeley College,Mathematics,1.0,Roy Levi,5.0,4,N/A,,,,,,,,,,,,,,,,,,,,,1482725

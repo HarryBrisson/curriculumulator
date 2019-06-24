@@ -1,0 +1,600 @@
+,campus_id,campus_name,dept,difficulty,name,quality,rating_count,retake,tag_accessibleoutsideclass,tag_amazinglectures,tag_bewareofpopquizzes,tag_caring,tag_cleargradingcriteria,tag_extracredit,tag_getreadytoread,tag_givesgoodfeedback,tag_gradedbyfewthings,tag_groupprojects,tag_hilarious,tag_inspirational,tag_lectureheavy,tag_lotsofhomework,tag_participationmatters,tag_respected,tag_skipclassyouwon'tpass,tag_somanypapers,tag_testheavy,tag_toughgrader,tid
+0,3000,Wallace Community College: Sparks Campus,English,2.7,Denise Padgett,4.7,7,N/A,,1,,,,,1,,,,,,,,,,,,,,267612
+1,3000,Wallace Community College: Sparks Campus,Psychology,3.0,Van Martz,5.0,5,N/A,,,,,,,,,,,,,,,,1,,,,,1216521
+2,3000,Wallace Community College: Sparks Campus,Mathematics,2.5,Rich Carol,4.8,4,N/A,1,,,,,,,1,,,,2,,,1,1,,,,,1628961
+3,3000,Wallace Community College: Sparks Campus,English,3.3,Hope CiCi Dixon,4.8,4,N/A,,,,1,,1,,1,,,,,,,,,,,,,1784797
+4,3000,Wallace Community College: Sparks Campus,Computer Science,3.3,Lisa Sanders,4.7,3,N/A,,,,1,,,1,,,,,,,1,,,,,,,470888
+5,3000,Wallace Community College: Sparks Campus,Biology,3.0,Cindy Hodnette,3.5,3,N/A,,,,,,,1,,,,,,,,,,,,,,844687
+6,3000,Wallace Community College: Sparks Campus,Criminal Justice,2.5,Myron N Williams,5.0,2,N/A,,,,1,,,,,,,,1,,,,1,,,,,1828107
+7,3000,Wallace Community College: Sparks Campus,Mathematics,4.5,Cristi Whitfield,3.0,2,N/A,1,,,1,,,,,,,,,,1,,,1,,,1,2158294
+8,3000,Wallace Community College: Sparks Campus,History,2.0,Riley Turner,4.5,2,N/A,,1,,1,,,,1,,,1,,,,,2,,,,,2158295
+9,3000,Wallace Community College: Sparks Campus,History,3.0,Dan Blalock,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1418208
+10,3000,Wallace Community College: Sparks Campus,History,1.0,Ashley Klages,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1829176
+11,3000,Wallace Community College: Sparks Campus,Computer Science,3.0,Thomas McCallister,5.0,1,N/A,,,,1,,,,1,,,,,,,,1,,,,,2158290
+12,3000,Wallace Community College: Sparks Campus,Mathematics,1.0,Laura Bridges,5.0,1,N/A,,,,,,1,,,,,,1,,,,1,,,,,2268887
+13,3001,Wallace State Community College at Hanceville,Chemistry,4.0,Rosayln Meadows,2.2,64,17%,1,,,,1,,,1,,,,,,6,6,,10,,,10,166442
+14,3001,Wallace State Community College at Hanceville,Mathematics,2.0,Lance Boyd,4.9,58,100%,1,4,,12,3,3,,3,,,4,11,,,1,10,2,,,,447904
+15,3001,Wallace State Community College at Hanceville,History,2.7,Leigh Ann Courington,3.7,56,47%,1,2,3,1,,5,11,3,,,1,1,3,2,4,1,6,,3,3,570132
+16,3001,Wallace State Community College at Hanceville,Psychology,2.2,Stacey Brunner,4.1,54,83%,1,5,,6,2,,1,3,,,2,3,,1,3,,,,1,,638648
+17,3001,Wallace State Community College at Hanceville,Biology,2.7,Wes Rakestraw,4.6,51,80%,,2,1,2,,4,,3,,,3,,,,1,4,2,,,5,311488
+18,3001,Wallace State Community College at Hanceville,Biology,2.7,M Glasscock,4.8,44,100%,1,10,5,10,4,3,,5,,,8,3,3,,2,6,5,,1,2,702540
+19,3001,Wallace State Community College at Hanceville,Biology,2.8,S Quick,4.6,39,80%,,1,3,3,4,2,2,1,,,5,,1,,1,4,6,,,1,450937
+20,3001,Wallace State Community College at Hanceville,Biology,2.6,C S Briehn,4.7,39,88%,1,8,4,6,,3,,,,,9,3,1,,3,3,4,,,2,934634
+21,3001,Wallace State Community College at Hanceville,Biology,3.5,Fred Halsted,4.0,35,N/A,,,,2,1,2,2,,,,1,1,5,,1,2,4,,,9,1124503
+22,3001,Wallace State Community College at Hanceville,History,2.6,Rebecca Reeves,4.3,28,100%,3,5,1,7,5,6,4,10,,,,3,2,2,,6,6,,1,2,1329752
+23,3001,Wallace State Community College at Hanceville,Nursing,4.2,Diane Wilhite,3.2,27,100%,1,,,4,1,,3,2,,,,2,,,2,1,2,,,3,1261777
+24,3001,Wallace State Community College at Hanceville,Mathematics,3.0,Jennie Gurley,3.1,26,N/A,,,,1,,,,1,,,,,,,1,1,2,,,1,548295
+25,3001,Wallace State Community College at Hanceville,Philosophy,3.8,Andrew Ball,4.4,26,92%,12,10,,7,2,,8,7,,2,2,3,4,1,4,4,5,,3,4,2340978
+26,3001,Wallace State Community College at Hanceville,English,2.7,Michael Salerno,4.0,25,100%,,,2,2,,2,8,1,,,1,2,1,1,5,4,3,1,,5,1393946
+27,3001,Wallace State Community College at Hanceville,Mathematics,2.8,Brandon Smith,4.8,25,100%,4,1,,3,1,2,,4,,,1,,,1,3,1,2,,1,,678765
+28,3001,Wallace State Community College at Hanceville,Biology,2.5,Randy Daniels,1.4,23,5%,,,,,2,,1,1,1,,,,,1,2,,,,,2,1657641
+29,3001,Wallace State Community College at Hanceville,English,2.6,Mary Barnes,4.3,22,N/A,1,1,2,,1,,2,1,,,1,,,,2,1,,,,3,311499
+30,3001,Wallace State Community College at Hanceville,English,2.6,Kathy Buckelew,4.5,22,83%,2,,1,2,2,1,1,7,,,,,,1,1,2,1,1,,1,822087
+31,3001,Wallace State Community College at Hanceville,Mathematics,2.1,Stacey Sivley,4.8,22,100%,2,2,,13,3,12,,3,,,3,,,2,1,7,1,,,,1856803
+32,3001,Wallace State Community College at Hanceville,Nursing,3.9,Shea Mobley,3.0,22,N/A,1,1,,2,2,,4,3,,,2,,,,,,,,2,2,1141738
+33,3002,Walters State Community College,History,3.7,Darrel McGhee,4.7,48,N/A,,6,,1,,,,3,,1,2,2,,,2,4,2,1,,7,673174
+34,3002,Walters State Community College,English,3.8,Sarah Eichleman,2.3,43,17%,1,,4,1,1,1,5,1,1,,,1,2,6,1,,5,5,,14,675581
+35,3002,Walters State Community College,Biology,3.4,Lawrence Fleming,4.5,43,93%,7,4,,6,3,,1,3,,,4,4,6,,4,9,10,,2,4,934419
+36,3002,Walters State Community College,Biology,4.5,Kristin Rich,3.0,43,56%,2,,,5,1,1,2,4,,,,,5,1,,4,6,,,13,1103972
+37,3002,Walters State Community College,Mathematics,3.2,Troy Bowman,3.7,40,36%,,,3,6,1,1,1,2,2,1,2,,,10,,4,11,,2,6,670682
+38,3002,Walters State Community College,History,2.9,David Knowles,4.8,37,N/A,,1,,1,1,2,,1,,,,,,,,3,6,,1,3,261169
+39,3002,Walters State Community College,History,3.3,Marc McClure,3.7,37,83%,1,6,1,4,6,,8,2,1,,3,1,15,5,1,5,6,2,4,2,1557729
+40,3002,Walters State Community College,Computer Science,2.6,Allen Nix,4.1,36,N/A,,,,,,,,1,,,1,,,,,1,,,,,139249
+41,3002,Walters State Community College,English,2.4,Sherri Jacobs,4.8,34,100%,1,,3,7,1,2,1,3,1,,6,2,,,,4,,,,,261175
+42,3002,Walters State Community College,Languages,3.5,Michelle Mitrik,3.3,33,N/A,,,,1,,1,1,2,,,,,,3,3,,1,,,1,573800
+43,3002,Walters State Community College,Biology,4.3,Greg Grass,2.5,29,29%,,,,1,2,,3,3,5,,,,10,1,,,10,,5,13,1613455
+44,3002,Walters State Community College,Political Science,2.9,Linda Foutch,2.8,28,N/A,,,,,,,3,1,,,2,1,,,2,1,,,,2,678505
+45,3002,Walters State Community College,Biology,3.1,Jerry Wilhoit,4.9,28,100%,,7,,11,,6,,3,,,3,4,1,,1,8,6,,,,1185224
+46,3002,Walters State Community College,Mathematics,3.3,Russ Romines,3.3,27,40%,1,,,1,1,,,,,,,,1,3,1,,7,,2,7,261166
+47,3002,Walters State Community College,English,3.9,Carla Todaro,3.3,27,50%,1,,,1,3,,,6,,,1,,,2,1,3,3,1,,2,279016
+48,3002,Walters State Community College,Sociology,2.4,Jason Dixon,3.5,27,N/A,,,,,2,,,1,2,,1,,2,,2,1,,,,,681310
+49,3002,Walters State Community College,Mathematics,2.8,Franklin Bangurah,3.5,27,50%,4,,1,3,1,,1,2,1,,,1,2,,2,,1,,,1,231849
+50,3002,Walters State Community College,Mathematics,2.4,Jean Ann Irwin,4.5,26,N/A,,,,,1,,,,,,,,,,1,1,1,,,2,573804
+51,3002,Walters State Community College,Communication,2.1,Larry Clifton,4.5,26,N/A,,7,,5,,,2,2,,,6,5,1,,2,7,,,,,698032
+52,3002,Walters State Community College,Biology,2.4,Elesha Goodfriend,4.7,26,86%,1,4,,8,2,6,,4,,1,9,3,1,4,2,9,1,,1,,1610802
+53,3003,Warren County Community College,Sociology,1.6,Jennifer Harrison,4.7,66,95%,4,3,,20,5,3,3,13,1,2,12,13,1,3,17,24,4,,,,1477521
+54,3003,Warren County Community College,English,3.2,Brian Bradford,4.8,59,100%,,2,,,,,1,5,,,5,3,,,4,4,1,1,,2,256035
+55,3003,Warren County Community College,Economics,2.8,Paul Degnan,3.5,31,N/A,,,,1,,,1,,1,,1,2,,1,1,1,,,1,1,54670
+56,3003,Warren County Community College,English,3.4,BJ Ward,4.6,28,100%,1,1,2,2,,,1,1,,,2,1,,,,3,3,,,4,691322
+57,3003,Warren County Community College,Chemistry,3.2,Alois Himsl,4.3,28,89%,,4,,3,2,,,6,,,4,2,1,,,2,2,,,2,748521
+58,3003,Warren County Community College,Mathematics,2.4,Harvey Cartine,4.2,24,N/A,,,,,1,,,1,,,,,,,1,,1,,,,337702
+59,3003,Warren County Community College,Biology,3.0,Anthony Perone,4.5,24,80%,1,,,7,,,,1,1,,1,4,3,,,1,4,,,1,1584782
+60,3003,Warren County Community College,Mathematics,3.2,Sarah Terry,3.3,23,93%,3,,,6,3,2,2,2,,,1,5,,2,2,6,,,2,1,1589981
+61,3003,Warren County Community College,Mathematics,2.5,J Phillips,4.2,22,80%,,3,1,3,,1,,,,,1,3,,4,,3,9,,2,,424498
+62,3003,Warren County Community College,Mathematics,3.1,Lisa Troy,4.0,22,N/A,,,,1,,,,3,,,1,,1,2,1,1,,,,1,980413
+63,3003,Warren County Community College,Art History,2.4,Lydia Chiappini,4.0,19,N/A,,,,,,,,,,,,,,,,,,,,,423550
+64,3003,Warren County Community College,Biology,4.3,Ralston Bartholomew,4.3,19,N/A,,,,2,,,1,1,,,2,1,2,,1,,5,,,5,828897
+65,3003,Warren County Community College,English,2.8,Karen Hillyer,4.0,18,N/A,,,,,1,,,,,,2,,,,2,,,1,,1,423547
+66,3003,Warren County Community College,Mathematics,3.3,Susan Howey,4.3,18,N/A,,1,,2,2,1,,,,,,1,,3,,1,1,,,,745593
+67,3003,Warren County Community College,Health Science,3.3,Marianne Van Deursen,4.8,18,100%,3,6,,2,2,,,3,,1,2,3,,1,6,4,,,,,1152097
+68,3003,Warren County Community College,Education,1.9,Nancy Wilson-Soga,4.4,15,N/A,,,,1,1,,2,3,,,,1,,1,,,,,,,423325
+69,3003,Warren County Community College,Accounting,3.3,Marylin Brooks,2.1,14,N/A,,,1,1,,,1,,,1,,,1,3,1,,1,,,3,1136085
+70,3003,Warren County Community College,Biology,3.8,Anna Massimo,3.4,14,N/A,,3,1,,,,1,2,,,,,1,1,,4,,,,3,1645343
+71,3003,Warren County Community College,Chemistry,3.8,AL Piechowski,4.2,14,90%,6,6,,3,2,1,,1,,,5,,2,,1,2,2,,,1,1740688
+72,3003,Warren County Community College,English,2.9,John Kozari,4.8,13,100%,,1,,3,,,,5,,,1,2,,,2,3,,,,,677519
+73,3004,Washington County Community College,Business,3.0,Nickey Dubey,5.0,4,N/A,,,,,,,,,,,,,,,,,,,,,310605
+74,3005,Washington State Community College,Theater,2.5,Tracy McAfee,4.9,21,N/A,,,,2,1,,4,6,,,,,,1,,,,3,,,297487
+75,3005,Washington State Community College,Psychology,4.4,Debbie Thomas,2.2,14,N/A,,,3,,,1,4,,,,,,1,,1,,,,,2,302819
+76,3005,Washington State Community College,Mathematics,3.9,Dave Edwards,2.9,13,N/A,,,,,,,,,,,,,,,,,,,,,709401
+77,3005,Washington State Community College,Business,2.8,Brad Merrit,3.4,8,N/A,,,,,,,,,,,,,,,,,,,,,209617
+78,3005,Washington State Community College,English,2.4,Mark Kessler,4.1,7,N/A,,,,,,,,,,,,,1,1,,,,,,1,817193
+79,3005,Washington State Community College,Fine Arts,4.3,Dan McMannis,3.7,6,N/A,,,,,,,,,,,,,,,,,,,,,345192
+80,3005,Washington State Community College,Physics,2.2,Dean Hirschi,4.4,6,N/A,2,1,,,,,,,,,1,,,1,,1,,,,,817184
+81,3005,Washington State Community College,Anthropology,3.8,Kathy Wolfe-Crouser,3.8,6,N/A,,,,,,,,,,,,,,,,,,,,,1095331
+82,3005,Washington State Community College,Communication,4.7,Laura Garcia,2.3,6,N/A,,,,,,,1,,,,,,,3,,,2,,,2,1691807
+83,3005,Washington State Community College,English,1.2,R. Tepe,4.9,5,N/A,,,,,,,,,,,,,,,,,,,,,270615
+84,3005,Washington State Community College,Chemistry,4.6,Tom Steckel,3.6,5,N/A,,,,,,,,,,,,,,,,,,,,,709407
+85,3005,Washington State Community College,History,1.6,Carl-Michal Krawczyk,4.8,5,N/A,,,,,,,,,,,,,,,,,,,,,730276
+86,3005,Washington State Community College,Mathematics,3.3,Nina Gath,3.9,4,N/A,,,,,,,,,,,,,,,,,,,,,515649
+87,3005,Washington State Community College,English,1.5,Mary Ann Abbott,5.0,4,N/A,,,,,,,,,,,,,,,,,,,,,730263
+88,3005,Washington State Community College,Biology,4.3,Shirley Singree,3.6,4,N/A,,,,,,,,,,,,,,,,,,,,,817186
+89,3005,Washington State Community College,Chemistry,3.8,Ben Rutherford,3.5,4,N/A,,,,,,,,,,,,,,,,,,,,,948873
+90,3005,Washington State Community College,Journalism,2.8,Troy Devol,4.3,4,N/A,,,,,,,,,,,,,,,,,,,,,1217444
+91,3005,Washington State Community College,English,2.3,Pearley Brown,3.5,4,N/A,,,,,,,,,,,,,,,,,,,,,1678219
+92,3005,Washington State Community College,Biology,4.3,Frank Marasco,2.1,4,N/A,,,,,1,,,,1,,,,2,1,,1,1,,1,1,1806072
+93,3005,Washington State Community College,Biology,1.7,Jessie Penich,4.7,4,N/A,,2,,2,,,,,,,2,1,1,,,,,,1,,1806074
+94,3006,Washtenaw Community College,Humanities,3.1,Elisabeth Thoburn,4.6,148,96%,2,22,,13,8,17,1,23,,,2,18,4,5,10,17,8,1,1,4,265883
+95,3006,Washtenaw Community College,Physics,3.1,Amir Fayaz,4.3,144,82%,,14,10,9,15,4,2,7,2,3,,15,5,,30,26,29,,4,8,461264
+96,3006,Washtenaw Community College,Mathematics,1.8,Mohammed Abella,4.8,138,100%,1,6,1,16,10,4,,14,1,1,2,8,2,,,18,4,,1,2,531851
+97,3006,Washtenaw Community College,Biology,1.7,Ross Strayer,4.7,119,94%,1,12,,11,8,6,,,2,,20,2,8,,2,7,4,,,1,319788
+98,3006,Washtenaw Community College,Biology,3.3,David Wooten,4.9,108,100%,1,27,1,3,3,2,,9,,,11,16,2,1,,19,13,,1,8,908141
+99,3006,Washtenaw Community College,History,4.3,David Fitzpatrick,3.7,107,38%,1,4,,,,,2,,,,,1,6,1,1,2,5,,4,10,16577
+100,3006,Washtenaw Community College,Physics,3.2,Rob Hagood,3.4,107,77%,,2,4,2,6,,,4,2,,8,,4,3,8,2,8,1,3,5,155067
+101,3006,Washtenaw Community College,Mathematics,3.3,Michael Quail,3.3,106,26%,3,,,9,6,7,1,4,1,,,,,16,3,3,8,,7,11,517201
+102,3006,Washtenaw Community College,Chemistry,3.4,Daniel Krus,3.8,102,N/A,,7,,5,2,1,1,7,,,9,4,1,,2,5,4,,1,10,642164
+103,3006,Washtenaw Community College,Political Science,2.6,Lynn Rivers,3.9,100,78%,1,6,,,2,,,2,3,,3,1,8,,2,9,12,,2,3,334687
+104,3006,Washtenaw Community College,Economics,4.1,Gregg Heidebrink,3.3,100,44%,1,2,1,1,1,,1,,,,3,,4,5,2,1,13,,1,18,156140
+105,3006,Washtenaw Community College,Geography,2.6,John Kerr,4.3,97,100%,,7,,,7,2,1,,3,,,,9,,1,3,15,,5,3,440228
+106,3006,Washtenaw Community College,Biology,2.4,Brad Metz,4.6,97,100%,1,18,,5,5,8,,1,,,31,4,6,,2,13,9,,3,,480731
+107,3006,Washtenaw Community College,Mathematics,3.3,Yin Lu,2.8,94,32%,2,2,,3,3,1,5,3,7,,3,1,5,3,2,3,6,,9,11,167083
+108,3006,Washtenaw Community College,Physics,3.9,George Kapp,2.5,93,40%,,1,,,1,1,5,,1,1,2,1,8,1,,,12,,,10,265019
+109,3006,Washtenaw Community College,Psychology,3.4,Anne Garcia,3.1,93,32%,,4,1,,1,,14,3,,,,1,1,13,2,2,6,1,3,18,497191
+110,3006,Washtenaw Community College,Psychology,2.2,Maria Ortega,4.0,90,68%,1,6,,7,7,2,2,5,,,1,2,4,2,4,1,1,1,2,3,124972
+111,3006,Washtenaw Community College,English,1.9,Shari Khosrovaneh,4.5,90,97%,,6,,21,4,5,1,14,2,,18,19,1,2,1,21,8,2,,,1126114
+112,3006,Washtenaw Community College,Mathematics,3.0,Laura Perez,2.8,85,50%,2,2,,5,1,2,,6,,1,5,,2,9,3,1,1,1,2,,102861
+113,3006,Washtenaw Community College,Philosophy,2.4,Charles Johnson,4.6,84,80%,,,7,1,2,,2,3,1,,6,,3,,2,2,10,,1,8,99157
+114,3007,Waubonsee Community College,English,2.4,Billy Clem,4.5,319,90%,5,21,,32,24,,13,51,2,,65,30,,3,13,35,23,5,,18,357799
+115,3007,Waubonsee Community College,Psychology,1.8,Scott Hollenback,4.8,131,90%,1,28,,11,6,5,,5,7,,33,8,2,,3,16,,,1,1,610708
+116,3007,Waubonsee Community College,Mathematics,2.0,William Trunkhill,5.0,102,100%,2,17,,7,4,1,,14,,,17,4,,,2,19,9,,,,158282
+117,3007,Waubonsee Community College,History,2.0,Amy Powers,4.5,96,87%,,2,,6,7,1,1,7,2,1,,4,6,,6,2,4,,,,352030
+118,3007,Waubonsee Community College,Sociology,1.6,Kathleen Westman,4.3,96,83%,1,11,,7,,20,3,6,,,13,8,,2,4,6,,,,,461525
+119,3007,Waubonsee Community College,Biology,4.1,Justin Hoshaw,3.1,89,70%,9,3,,14,7,10,20,8,,1,1,2,5,24,5,4,18,3,5,28,1661812
+120,3007,Waubonsee Community College,Psychology,2.1,Lisa Fozio-Thielk,4.6,87,100%,,4,,8,8,9,1,6,,,11,6,,,9,5,6,,,,928543
+121,3007,Waubonsee Community College,Mathematics,3.9,Mark Crawford,3.0,85,43%,,1,2,1,4,,1,,1,,,,9,13,4,,7,,4,21,800256
+122,3007,Waubonsee Community College,Science,4.5,David Voorhees,2.3,83,21%,,,6,2,2,,6,1,,1,,,9,12,1,2,15,,1,19,817778
+123,3007,Waubonsee Community College,History,4.3,Timothy Draper,2.7,79,38%,1,,1,1,2,,18,2,,,,,2,10,8,2,7,9,,13,357029
+124,3007,Waubonsee Community College,English,2.9,Gary Clark,4.2,77,86%,,11,,6,4,,1,21,,,11,5,,1,3,2,4,4,,6,187109
+125,3007,Waubonsee Community College,Communication,1.4,John Bitterman,4.7,73,80%,,1,,9,3,,1,11,2,,2,5,1,2,5,8,1,,1,,367741
+126,3007,Waubonsee Community College,Philosophy,3.7,Keith Bickley,2.8,71,33%,,3,2,,1,,4,3,1,,1,2,3,1,10,1,12,1,4,15,665751
+127,3007,Waubonsee Community College,Biology,4.2,Daniel Ward,3.0,63,N/A,,,,,,1,1,2,,,,1,,,1,2,,,,3,530305
+128,3007,Waubonsee Community College,Business,1.9,Steven Skaggs,4.8,62,100%,,1,,8,4,1,1,7,,,3,1,,,2,3,3,,,1,720385
+129,3007,Waubonsee Community College,Economics,3.3,Sowjanya Dharmasankar,4.3,60,100%,,4,2,3,3,5,,1,,,2,,3,1,2,6,20,,1,8,1169340
+130,3007,Waubonsee Community College,Biology,2.6,Dani Ducharme,4.5,56,50%,1,2,,4,2,13,2,3,,2,4,2,1,7,1,3,,2,3,7,1097304
+131,3007,Waubonsee Community College,Not Specified,1.2,Jamey Divietro,5.0,56,100%,8,16,,19,2,2,,3,,,8,14,,,3,19,,,,,1683813
+132,3007,Waubonsee Community College,Communication,2.1,Larry Modaff,4.8,56,100%,,3,,8,7,1,,16,,,3,10,,1,5,10,2,,,,390638
+133,3007,Waubonsee Community College,English,2.1,Sarah Quirk,4.2,56,73%,3,2,,11,2,3,5,4,1,,1,3,1,2,1,1,,2,,,357023
+134,3008,Waukesha County Technical College,Psychology,3.4,Bob Dubois,4.8,45,93%,5,7,,7,3,5,1,14,,,,7,,6,5,9,,,,1,1742254
+135,3008,Waukesha County Technical College,Sociology,2.5,Todd Lewis-Smith,4.1,29,100%,3,3,,5,1,8,1,6,1,,1,8,,,4,5,1,,,,661657
+136,3008,Waukesha County Technical College,Psychology,4.2,Mike Melnick,3.1,24,50%,,1,,1,,,4,1,1,2,3,1,2,6,3,2,8,,2,11,1643221
+137,3008,Waukesha County Technical College,Communication,2.7,Lisa Baker,4.5,23,N/A,1,,,,3,1,,2,,,,,,1,1,,,,,,600926
+138,3008,Waukesha County Technical College,Biology,4.5,Eugene Miranda,4.0,20,70%,2,1,,2,2,,7,4,,,,1,3,2,,2,2,,3,6,1541239
+139,3008,Waukesha County Technical College,Business,3.3,Stacy Seibert,2.5,18,50%,2,2,,2,,,1,2,,1,,4,3,2,2,1,4,,,2,1569678
+140,3008,Waukesha County Technical College,Communication,1.7,Lisa Pearson,5.0,17,N/A,,2,,1,,,,4,1,,3,3,,,1,3,,,,,348387
+141,3008,Waukesha County Technical College,Computer Science,2.8,Todd Beidel,5.0,17,N/A,,4,,4,,,2,2,,,,3,,3,3,5,,,,,665111
+142,3008,Waukesha County Technical College,Sociology,4.4,Kathleen Kaufelt,1.5,16,N/A,,,,1,,,1,,,,1,,,,,,,,,,676516
+143,3008,Waukesha County Technical College,Economics,2.1,Tristan Coughlin,4.4,16,N/A,,,,,,,,,,,,,,,,,,,,,1100247
+144,3008,Waukesha County Technical College,Computer Science,2.9,Melissa Seamonson,4.9,14,N/A,,,,1,,,,1,,,,,,1,,,,,,,165991
+145,3008,Waukesha County Technical College,Psychology,3.3,Gary Plato,4.5,14,100%,1,1,,4,,3,1,3,,,,,,,,1,,1,,,709971
+146,3008,Waukesha County Technical College,Chemistry,3.3,Minka Markova,4.7,14,100%,,,,4,4,1,1,2,,,,4,1,3,,2,2,,2,,1720034
+147,3008,Waukesha County Technical College,Psychology,2.9,Michael Wittig,4.6,12,N/A,,,,,,,,,,,,,,,,,,,,,210807
+148,3008,Waukesha County Technical College,Not Specified,2.2,Bruce Rasmussen,5.0,12,N/A,,1,,3,2,,,2,,,,1,,1,1,2,1,,,,1137827
+149,3008,Waukesha County Technical College,Communication,2.6,Patrick Taugher,4.8,11,N/A,,,,1,2,1,,4,,,1,1,,1,,3,1,1,,,1705732
+150,3008,Waukesha County Technical College,Sociology,3.0,Rhianan E Smith,5.0,11,100%,1,5,,1,1,,,2,1,,4,1,,2,2,3,,,,1,1779172
+151,3008,Waukesha County Technical College,Biology,3.6,Lisa Weber,4.5,11,86%,,1,,1,4,5,1,1,,,,,2,2,,1,,,2,1,1720043
+152,3008,Waukesha County Technical College,Health Science,4.3,Tom Chartrand,3.2,10,40%,,1,,,2,,3,1,1,,,,1,,,2,2,,2,1,1368971
+153,3008,Waukesha County Technical College,Communication,2.8,M. Susie Tepp,4.5,10,N/A,1,,,3,1,1,,1,,1,,,1,1,,2,4,1,,,1661069
+154,3009,Wayne Community College,Communication,2.2,Andrea Freile,5.0,31,97%,,11,,7,,,1,12,1,6,4,26,,,7,16,1,,,,2170059
+155,3009,Wayne Community College,History,3.4,Tracy Ivey,3.9,25,N/A,,,,,,,,,,,,,,,,,1,,,1,464983
+156,3009,Wayne Community College,Biology,4.6,M Loomer,3.8,23,N/A,,,,,,,,,,,,,,,,,,,,,615061
+157,3009,Wayne Community College,Sociology,3.9,David L Craig,2.3,19,56%,,1,,1,1,,11,,1,,1,1,3,1,5,2,4,,,7,1791962
+158,3009,Wayne Community College,English,2.4,Daniel Rollins,4.8,15,N/A,1,2,,,,,,3,,,,3,,,,2,,,,,244853
+159,3009,Wayne Community College,English,2.3,Kathryn Spicer,4.7,15,N/A,,,,1,,,,,,,1,1,,,,,,,,,390316
+160,3009,Wayne Community College,Chemistry,4.1,Fran Dennis,2.3,15,N/A,,,,,,,,,,,,,,,,,,,,,524772
+161,3009,Wayne Community College,Mathematics,3.7,Phyllis Patterson,2.3,15,N/A,,,,,,,,,,,,,,,,,,,,,590410
+162,3009,Wayne Community College,History,2.4,Charlotte Brow,4.6,13,N/A,,1,,,,,,2,1,1,,1,,,,2,1,,1,1,178952
+163,3009,Wayne Community College,Biology,3.8,Ralph Benidetto,3.7,13,N/A,,,,,1,,1,1,2,,,2,1,,,,2,,1,1,427449
+164,3009,Wayne Community College,Psychology,3.5,Sue McLenney,4.5,12,N/A,,,,,,,,,,,,,,,,,,,,,504067
+165,3009,Wayne Community College,Psychology,2.0,Jimmy Harrell,5.0,11,N/A,,,,,,,,,,,,,,,,,,,,,574933
+166,3009,Wayne Community College,English,2.5,Tara Bass,4.2,11,N/A,,,,,,,,,,,,,,,,,,,,,684615
+167,3009,Wayne Community College,Mathematics,2.6,Katina Davis,4.5,10,N/A,,,,1,1,,,,,,,,,1,,1,1,,1,,390326
+168,3009,Wayne Community College,Mathematics,4.1,Mike Dubrowsky,2.5,10,N/A,1,1,,,,,,,,,,,,,,1,2,,,1,555384
+169,3009,Wayne Community College,Economics,3.8,Ray Burrell,1.3,10,N/A,,,,1,1,,2,,,,,,3,,,,1,,,2,639048
+170,3009,Wayne Community College,Computer Science,3.2,Lana Mason,1.9,10,N/A,,,,,,,1,,,,,,,,,,,,1,1,787958
+171,3009,Wayne Community College,Mathematics,3.4,Pat Smithing,2.9,9,N/A,,,,,,,,,,,,,,,,,,,,,371890
+172,3009,Wayne Community College,Psychology,2.2,Amy Graham,4.7,9,N/A,,1,,1,1,,,2,,,,,,,2,,,1,,1,668081
+173,3009,Wayne Community College,Mathematics,2.4,Kim Clark,5.0,8,N/A,,,,,,,,,,,,,,,,,,,,,154921
+174,3010,Wayne County Community College,Biology,2.2,Michael Irowa,4.7,135,97%,3,23,,18,23,30,8,25,1,,9,9,3,6,12,30,4,,2,1,1285978
+175,3010,Wayne County Community College,Computer Information Systems,3.1,Dale Marie Johnson,4.5,94,90%,12,18,,9,12,,10,23,4,4,5,15,,6,28,13,8,1,4,3,727712
+176,3010,Wayne County Community College,Biology,3.1,Michael Parizon,4.0,93,80%,2,9,1,3,2,12,7,3,,,,9,,1,3,14,3,,,,592128
+177,3010,Wayne County Community College,Biology,3.9,Curtis Greene,4.0,75,68%,1,2,1,3,2,7,7,3,,,6,2,7,4,2,4,1,,3,8,657114
+178,3010,Wayne County Community College,History,2.3,Joseph Cook,4.3,71,79%,5,,,6,13,2,7,4,2,,2,2,,,,14,1,1,3,,1003183
+179,3010,Wayne County Community College,Nursing,3.9,Mathew Stanley,3.3,70,100%,,10,,,1,1,8,10,,,1,3,3,,,7,5,,,4,905094
+180,3010,Wayne County Community College,Biology,2.5,Kanzoni Asabigi,4.6,61,100%,,4,,3,4,8,1,7,,,,2,,2,4,6,,,,,883106
+181,3010,Wayne County Community College,Sociology,1.4,Lois Cobb,4.9,60,100%,1,6,,4,4,,2,2,,,1,12,,,5,7,,,,,387191
+182,3010,Wayne County Community College,Biology,3.7,Christian Nwamba,3.1,60,67%,,1,,3,2,1,5,1,,,3,,5,3,2,5,5,1,4,8,610019
+183,3010,Wayne County Community College,English,2.2,Anthony Daniels,4.6,58,100%,,2,,2,5,8,5,5,,1,1,,,4,3,5,1,,,2,1011605
+184,3010,Wayne County Community College,Biology,3.0,Lynnda Skidmore,4.4,58,67%,,3,,3,8,3,6,9,,,,1,4,2,4,5,,,5,5,804896
+185,3010,Wayne County Community College,Mathematics,3.8,Oliver Nwankwo,2.8,56,43%,,2,,,8,,1,7,,,2,,1,8,11,6,3,1,7,9,1085631
+186,3010,Wayne County Community College,Biology,1.7,Susan Grabowski,4.7,55,100%,2,3,,4,4,5,1,4,,,,1,,,3,8,1,,2,,889307
+187,3010,Wayne County Community College,Mathematics,2.5,Therese R Yglesias,4.9,55,100%,17,11,,22,10,3,1,21,1,,7,7,1,5,6,19,3,1,,1,1861602
+188,3010,Wayne County Community College,Computer Information Systems,3.4,Donna Armes,4.7,53,100%,,15,,8,8,6,8,7,,2,2,7,8,21,10,11,1,,,2,1299800
+189,3010,Wayne County Community College,English,2.8,Shamane Bell,4.2,52,81%,1,,,5,6,,4,13,,,,,,2,3,4,,2,1,3,706591
+190,3010,Wayne County Community College,Biology,2.8,George Goff,4.3,52,95%,3,3,1,8,3,4,4,11,,2,3,10,1,7,9,8,3,,,2,626090
+191,3010,Wayne County Community College,Biology,2.8,Brandi Crockett,3.2,51,64%,1,2,,,6,,1,1,1,,2,,1,11,7,2,10,,1,1,989295
+192,3010,Wayne County Community College,Nursing,4.2,Sheryl Thomas,3.0,49,N/A,,1,,,,,,,,,,1,,,,,,,,,951080
+193,3010,Wayne County Community College,Communication,2.8,Ronald Trice,4.0,47,75%,,3,1,2,3,2,3,6,1,,2,6,1,1,12,3,5,,,6,508677
+194,3011,Weatherford College,Mathematics,3.1,Laura Wolfe,4.8,84,98%,14,24,,25,4,,1,8,,,19,27,1,7,8,29,24,,1,,1508243
+195,3011,Weatherford College,Psychology,1.6,Leon Abbott,4.7,82,94%,4,20,,3,4,20,,1,1,,24,7,2,,13,14,16,,1,,356431
+196,3011,Weatherford College,Psychology,1.8,Don Jacobs,4.5,71,89%,5,6,,8,6,15,4,3,8,1,8,6,1,,3,9,,1,,,100420
+197,3011,Weatherford College,English,2.9,William Smith,4.6,66,96%,4,2,1,11,6,,4,28,1,,7,3,,2,6,6,,,,3,240094
+198,3011,Weatherford College,History,2.7,Liz Endsley,4.3,63,83%,6,24,,10,11,19,10,7,1,,3,5,8,,12,7,10,1,2,,1734450
+199,3011,Weatherford College,Biology,4.1,Alexander Ibe,3.9,57,70%,2,2,,4,,3,5,,,1,3,6,2,3,1,7,8,,,6,451886
+200,3011,Weatherford College,English,2.9,Dana Brewer,4.2,54,84%,16,2,1,7,13,,6,27,,,2,2,,3,4,6,5,4,,4,934082
+201,3011,Weatherford College,Mathematics,2.2,Emily Yager,4.5,44,95%,2,5,,8,2,16,,11,,,9,5,,4,2,6,1,,1,,1508835
+202,3011,Weatherford College,Government,3.0,Christi Dayley-Carroll,3.2,43,47%,1,4,,1,5,,12,4,3,,4,4,1,3,3,1,1,,4,6,783520
+203,3011,Weatherford College,English,3.5,Beau Black,3.0,42,50%,1,1,1,,2,,6,3,,,2,,,3,4,,4,1,1,9,240099
+204,3011,Weatherford College,Government,4.1,Quinton Reeves,2.6,40,N/A,1,,,,,,6,,,,,,2,1,1,1,4,,,6,100417
+205,3011,Weatherford College,History,2.8,Scott Williams,3.8,40,87%,4,5,,2,3,,5,8,,,,1,,8,6,3,1,3,,4,1032675
+206,3011,Weatherford College,History,3.0,Tom Wells,3.9,39,50%,,3,3,1,1,1,12,1,,,5,1,7,2,1,1,5,1,1,4,405924
+207,3011,Weatherford College,Biology,2.9,Allison Stamatis,5.0,39,100%,5,6,,9,6,5,,3,,,1,9,,,1,11,1,,,,1238011
+208,3011,Weatherford College,Mathematics,2.6,Andrew Ha,4.0,38,85%,3,2,,3,8,2,,4,2,,2,1,2,9,5,4,3,1,1,,895923
+209,3011,Weatherford College,History,4.0,Scott Tarnowieckyi,4.0,35,80%,1,1,,,1,1,5,,1,,3,1,2,1,,3,3,,,4,1611559
+210,3011,Weatherford College,Philosophy,3.1,Gregory Trickett,3.6,35,75%,3,6,,,2,4,13,2,4,1,4,1,1,4,8,2,4,,1,5,1454950
+211,3011,Weatherford College,English,3.4,Shannon Vails,3.7,34,89%,1,1,,1,3,6,2,8,,,,2,,4,4,1,3,,,3,229228
+212,3011,Weatherford College,History,2.7,Brad Tibbitts,4.8,33,N/A,1,,,,,,,1,,,,,,,1,,,,,,229232
+213,3011,Weatherford College,English,3.6,Marcie Dechiara,3.1,32,58%,1,,,1,2,,1,5,3,,1,,2,,5,1,,1,,8,1036448
+214,3013,Rasmussen College (was: Webster College),Ethnic Studies,2.5,Hector Mills,4.7,8,N/A,,,,,,,,,,,,,,,,,,,,,280190
+215,3013,Rasmussen College (was: Webster College),English,3.5,Vicki Phillips,3.5,8,N/A,,1,,,,,,1,,,,,,,1,,,,,,1585361
+216,3013,Rasmussen College (was: Webster College),Computer Science,1.5,Russ Dulaney,3.4,6,N/A,,,,,,,1,,,1,,,,,,1,,,,,663727
+217,3013,Rasmussen College (was: Webster College),Nursing,4.0,Karen Komer,4.2,6,83%,2,1,,3,1,,2,2,,2,,3,,,1,,1,,,,2265452
+218,3013,Rasmussen College (was: Webster College),Medicine,2.4,Susan Saullo,4.6,5,N/A,,,,,,,,,,,,,,,,,,,,,225972
+219,3013,Rasmussen College (was: Webster College),English,2.8,Donna Carignan,4.5,5,N/A,,,,,,,,,,,,,,1,,,,1,,1,278249
+220,3013,Rasmussen College (was: Webster College),Nursing,2.0,Lynn Whitmer,4.6,4,N/A,,,,,,,,,,,,,,,,,,,,,1176737
+221,3013,Rasmussen College (was: Webster College),Nursing,3.3,Joanne Deyoung,3.4,4,N/A,,,,,1,,,2,,,,,1,1,1,1,,1,,1,1885492
+222,3013,Rasmussen College (was: Webster College),Nursing,2.3,Steve p Campbell,5.0,4,N/A,,1,,1,,,,1,,,,3,,,,1,,,,,1907365
+223,3013,Rasmussen College (was: Webster College),Nursing,2.0,Barbara King,2.0,4,N/A,1,,,,,,,1,,,,,,,,,,,,,2280841
+224,3013,Rasmussen College (was: Webster College),Health Science,4.3,Shante Willis,1.8,3,N/A,,,,,,,,,,2,,,,,,,,,,3,1838937
+225,3013,Rasmussen College (was: Webster College),Education,3.7,Gabe Stenzel,3.7,3,N/A,1,,,,,,,2,,,,,,2,,,,1,,,2024481
+226,3013,Rasmussen College (was: Webster College),Nursing,2.7,Heidi Kippenberger,5.0,3,N/A,,3,,2,,,,1,,,,3,,,,,,,,,2237336
+227,3013,Rasmussen College (was: Webster College),Graphic Arts,3.3,Donna Tersiisky,1.0,3,N/A,,,,,,,,,,,,,1,1,,,,,,2,2418577
+228,3013,Rasmussen College (was: Webster College),Health Science,4.0,Cassandra Pinnell,4.8,2,N/A,,,,,,,,,,,,,,,,,,,,,1332657
+229,3013,Rasmussen College (was: Webster College),Nursing,4.0,Elizabeth Gotay,4.5,2,N/A,,,,,,,,,,,,,,,,,,,,,1860721
+230,3013,Rasmussen College (was: Webster College),Computer Science,2.5,Jacob Sorem,5.0,2,N/A,,,,,1,,,1,,,1,1,,,,2,,,,,2196636
+231,3013,Rasmussen College (was: Webster College),Health Science,4.0,Catharine Muskus,4.5,2,N/A,,1,,,1,,,,,2,,,1,,,,,,,1,2212677
+232,3013,Rasmussen College (was: Webster College),Nursing,3.0,Rodney Lacey,5.0,2,N/A,1,1,,,,,,1,,,,1,,,,2,,,,,2273383
+233,3013,Rasmussen College (was: Webster College),Nursing,3.5,Kelli Potenza,5.0,2,N/A,,,,,,,,2,,,,1,,,1,,1,,,1,2277997
+234,3014,Rasmussen College (was: Webster College),Not Specified,3.0,Claire Walker,2.5,4,N/A,,,,,,,,,,,,,,,,,,,,,474302
+235,3014,Rasmussen College (was: Webster College),Nursing,2.5,John Edwards,4.9,4,N/A,,,,,,,,,,,,,,,,,,,,,1219243
+236,3014,Rasmussen College (was: Webster College),English,3.0,Judy Inks,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,978181
+237,3014,Rasmussen College (was: Webster College),Law,2.5,Jed Varanelli,5.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1735317
+238,3014,Rasmussen College (was: Webster College),Nursing,5.0,Darlene Curtis,1.0,2,N/A,,,,,,,,,,,,,,,,,,,,,1879982
+239,3014,Rasmussen College (was: Webster College),Nursing,4.5,Kari Stanford,1.0,2,N/A,,,,,,,,,,,,,,,,,,2,1,2,2394524
+240,3014,Rasmussen College (was: Webster College),Science,2.0,Jessica Ennis,2.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1993086
+241,3015,Webster University,Social Work,3.0,Theresa Madison,4.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1625212
+242,3015,Webster University,Psychology,4.0,Bob Nolan,5.0,1,N/A,,,,,,1,,,,,,,,,,,,,1,1,2040887
+243,3015,Webster University,Finance,3.0,John Parker,5.0,1,N/A,1,1,,,1,,,,,,,,,,,,,,,,2168562
+244,3017,Wenatchee Valley College,Geology,4.3,Ralph Dawes,2.4,54,12%,,2,,,2,1,16,3,,,1,,10,20,6,2,6,3,3,34,728735
+245,3017,Wenatchee Valley College,Sociology,2.0,Richard Brinkman,4.8,53,90%,,18,1,3,3,1,1,3,3,,15,22,,,8,15,1,,1,1,1463327
+246,3017,Wenatchee Valley College,History,3.6,Jaime Ramirez,3.8,46,71%,4,8,,1,3,,6,2,,,5,9,20,2,14,8,10,4,1,13,1624875
+247,3017,Wenatchee Valley College,Science,4.0,Shane Hendrickson,3.3,41,69%,2,4,,2,1,17,5,1,1,2,12,2,12,1,2,1,10,,6,11,1697347
+248,3017,Wenatchee Valley College,Economics,2.5,Jim Cannon,4.2,39,N/A,1,3,,2,2,,,,,,,,1,,1,,2,,,,494155
+249,3017,Wenatchee Valley College,History,2.3,Dustin Clark,4.7,38,85%,2,12,,7,2,1,7,7,1,,13,3,4,3,1,2,5,1,,1,1622241
+250,3017,Wenatchee Valley College,Political Science,3.7,Joara Minharo,2.1,34,20%,2,,,1,1,4,16,,2,2,,,6,1,,,2,,1,10,1314778
+251,3017,Wenatchee Valley College,English,2.8,Derek Sheffield,4.1,32,100%,,3,,5,1,1,3,6,,,8,7,,,2,4,,,,1,723395
+252,3017,Wenatchee Valley College,Mathematics,2.8,Angie Redmon,4.8,32,100%,4,4,,7,5,1,,9,,,1,1,,3,2,6,1,,,,1218727
+253,3017,Wenatchee Valley College,Chemistry,3.1,Awanthi Hewage,3.8,30,91%,8,2,,6,3,,3,2,1,,,,7,6,1,1,7,,1,4,1951385
+254,3017,Wenatchee Valley College,Psychology,3.8,Jelene George,2.3,29,43%,1,,2,2,2,2,3,3,,5,,,7,6,4,,1,1,3,15,1793623
+255,3017,Wenatchee Valley College,Mathematics,3.1,Christa Cacciata,4.0,27,71%,8,5,,3,2,,,7,3,,2,4,1,8,6,9,3,2,3,,1879848
+256,3017,Wenatchee Valley College,Biology,3.8,Dave Bennatt,4.0,26,100%,,,,,4,,4,1,,,1,,,,,,,,2,1,801987
+257,3017,Wenatchee Valley College,Biology,3.1,Rob Fitch,4.2,26,73%,1,3,,4,4,,3,1,1,,1,6,1,,,6,3,,1,1,1139081
+258,3017,Wenatchee Valley College,English,3.1,Gerald Tiffany,4.0,26,73%,,1,,1,4,,5,2,1,,,1,2,,5,2,7,,,3,689330
+259,3017,Wenatchee Valley College,Mathematics,2.8,Sharon Wiest,4.2,24,80%,3,,,2,,1,,,,,,,,1,,,1,,,,714875
+260,3017,Wenatchee Valley College,English,3.2,Heather Ryan,4.5,24,100%,2,1,,8,6,1,7,18,,,6,2,,1,11,3,,,,,1942409
+261,3017,Wenatchee Valley College,English,2.3,Jack Johnson,4.0,24,80%,,,,2,,,2,6,,,1,1,1,1,4,,2,1,1,1,665266
+262,3017,Wenatchee Valley College,Philosophy,3.0,Craig Vander Hart,4.1,23,71%,,5,1,,2,,6,4,2,,2,1,2,2,1,1,2,2,1,3,1513696
+263,3017,Wenatchee Valley College,Physical Ed,3.4,Shelly Pflugrath,3.5,22,63%,,,3,1,2,,11,2,,,1,1,2,5,3,3,3,,,1,808538
+264,3019,West Hills Community College,Mathematics,3.4,Kenneth Sowden,3.0,22,40%,1,,,,2,,,1,,,,1,1,4,1,,4,,1,2,568157
+265,3019,West Hills Community College,English,3.6,John Scott Sutherland,4.6,19,N/A,,,,1,2,,1,3,,,4,1,,4,1,1,,,,1,994594
+266,3019,West Hills Community College,Health Science,1.9,Steven Wright,4.4,12,86%,1,1,,3,2,1,,2,1,,2,3,,,1,1,,,,,1672574
+267,3019,West Hills Community College,English,2.8,R Skaggs,3.2,11,80%,,,2,2,1,1,,1,1,1,1,,,2,2,1,2,1,,,446699
+268,3019,West Hills Community College,History,2.8,Edgar Castillo,3.3,10,N/A,,,,,,,2,1,,,,1,,1,,1,,1,2,5,1762747
+269,3019,West Hills Community College,Mathematics,3.3,Lynnette Mann,5.0,10,100%,3,7,,8,2,,,3,,,3,,,1,1,2,,,,,2064083
+270,3019,West Hills Community College,Mathematics,2.9,Arkady Hanjiev,4.5,9,N/A,,1,,7,,3,1,2,,,,,1,3,,2,2,,,,2018802
+271,3019,West Hills Community College,Health Science,3.8,Jim Grant,3.3,8,N/A,,1,,,2,1,2,1,,,,2,,1,,2,4,,,1,806141
+272,3019,West Hills Community College,English,3.6,Brandy Wilds,1.5,8,N/A,,,,,,,,,,3,1,,,,,1,,1,,1,1433509
+273,3019,West Hills Community College,Biology,3.4,Jeff Wanderer,4.7,8,N/A,,,,3,,,,1,,,2,1,,,,1,,,,,1589720
+274,3019,West Hills Community College,Political Science,2.1,Brooke Warkentin,4.5,8,N/A,,,,,3,,,1,,,,,,2,2,2,,,,1,1731942
+275,3019,West Hills Community College,Education,4.0,Anna-Lisa Little,4.3,8,86%,,1,,2,1,,2,3,,,,5,,,3,2,,,,2,1886443
+276,3019,West Hills Community College,Psychology,1.6,S Mosher,3.9,7,N/A,,,,1,1,,,,1,,,,,,,,,,,,568160
+277,3019,West Hills Community College,Chemistry,3.9,Brian Abela,3.4,7,N/A,,,,,,,,,,,,,,,,,,,,,878943
+278,3019,West Hills Community College,Music,1.7,Lisa Butts,3.9,7,N/A,,,,,3,1,,,1,1,,1,,1,2,1,,,,,1291258
+279,3019,West Hills Community College,Physical Education,2.2,Kevin Wilds,4.0,6,N/A,,2,,1,,,,,,,2,,,,,,1,,,,1022990
+280,3019,West Hills Community College,Fine Arts,3.8,Melissa Holsonbake,3.1,6,N/A,,,,,1,1,,,,,,,,2,,,1,,,3,1999100
+281,3019,West Hills Community College,Computer Science,2.2,M Paden,2.8,5,N/A,,,,,,,,,,,,,,,,,,,,,102426
+282,3019,West Hills Community College,Geography,2.4,Alvin Graves,5.0,5,N/A,,,,3,1,,,1,,,1,,1,1,2,1,,,,,1541948
+283,3019,West Hills Community College,Sociology,3.2,Holly Suarez,2.9,5,N/A,,,,,1,,,1,,,,,,,,,,,,1,1674685
+284,3020,West Los Angeles College,Child Development,2.7,Evelyn A Gomez,4.7,308,98%,15,32,,61,96,76,25,130,1,51,9,30,,20,115,74,21,3,2,7,1837289
+285,3020,West Los Angeles College,Business,2.6,Gus Demoner,4.9,239,100%,23,39,,105,53,41,25,90,2,7,36,114,,6,31,81,10,1,2,,2097071
+286,3020,West Los Angeles College,Science,3.4,Steven Fink,4.5,163,79%,3,24,1,7,6,1,7,1,2,,7,15,11,,2,25,7,1,8,19,126508
+287,3020,West Los Angeles College,History,3.0,David Smith,4.7,157,92%,1,19,,13,13,9,25,23,1,,12,15,4,7,8,11,4,,5,4,237520
+288,3020,West Los Angeles College,Psychology,3.4,Jeffrey Lee,3.4,121,57%,,6,,2,2,,14,3,,,6,1,1,,2,2,12,,,6,322780
+289,3020,West Los Angeles College,English,2.6,Nuala Lincke-Ivic,4.3,111,95%,,3,,9,7,1,4,18,,,6,9,1,3,3,13,,3,,,242076
+290,3020,West Los Angeles College,Languages,2.0,Josefina Culton,4.6,96,92%,4,12,,19,,1,1,12,,,3,6,3,1,16,13,8,,,,358087
+291,3020,West Los Angeles College,Sociology,3.5,Norma Barragan,3.8,95,67%,1,6,1,5,4,2,17,5,,,,4,5,1,1,5,5,,,7,269237
+292,3020,West Los Angeles College,Anthropology,2.8,Aimee Preziosi,4.5,91,70%,2,6,,3,11,4,14,8,1,,6,1,1,7,5,5,2,1,2,6,359133
+293,3020,West Los Angeles College,English,4.4,Rachel Williams,1.5,86,17%,,,,,,,12,,2,1,,,1,4,5,,3,2,,18,237137
+294,3020,West Los Angeles College,English,2.6,Katherine Boutry,4.8,86,100%,3,11,1,3,4,,15,15,,,2,15,,1,2,8,,,,,927551
+295,3020,West Los Angeles College,English,2.1,Holly Hofmann,4.8,85,100%,2,4,,12,6,5,4,14,2,,1,7,,1,4,8,,,,,363245
+296,3020,West Los Angeles College,History,3.5,Richard Olivas,4.0,82,56%,,2,1,3,5,,4,6,,,1,4,8,,2,6,16,1,4,16,218504
+297,3020,West Los Angeles College,Paralegal,2.8,Bobby Rimas,4.8,76,100%,1,1,2,4,1,1,6,3,,,,,1,1,5,3,1,,,1,1615416
+298,3020,West Los Angeles College,Mathematics,3.7,Henry Feiner,2.7,75,41%,1,1,1,2,3,2,2,1,,,1,1,1,8,4,5,8,1,2,11,864887
+299,3020,West Los Angeles College,Psychology,2.3,Glenn White,4.7,68,100%,,9,,6,3,3,7,6,,,5,7,1,,10,11,1,,,,422712
+300,3020,West Los Angeles College,Computer Science,2.3,Eva Bitar,4.9,65,100%,2,14,,24,12,4,1,24,,1,4,26,,2,7,27,,,,,2021537
+301,3020,West Los Angeles College,Chemistry,3.7,Abraha Bahta,3.0,64,50%,,,1,,2,2,1,1,,,,,2,1,,,3,,1,1,452640
+302,3020,West Los Angeles College,History,3.8,Patricia Siever,3.4,61,42%,1,1,,,,,2,1,2,,2,3,3,,7,3,2,,2,11,217390
+303,3020,West Los Angeles College,Economics,2.6,Luo Yilan,4.1,61,67%,,6,1,6,4,36,3,6,,7,15,5,1,11,6,9,13,,,17,1449099
+304,3021,West Shore Community College,History,2.5,Mike Nagle,4.5,33,60%,1,1,1,1,2,1,4,3,,,1,1,3,1,1,1,1,,,6,16207
+305,3021,West Shore Community College,Education,3.1,Sean Henne,4.3,24,N/A,,,,1,,,,4,,,,2,,,4,1,,,,1,208412
+306,3021,West Shore Community College,Mathematics,2.9,Wade James,4.3,21,N/A,1,,,1,2,,,,,,,,,1,,,1,,,1,208421
+307,3021,West Shore Community College,English,3.4,John Wolff,3.2,18,N/A,,,1,,,1,3,2,1,,,,,2,1,,,2,,4,178087
+308,3021,West Shore Community College,Philosophy,2.1,Matthew Sanderson,4.4,16,N/A,,1,,,1,,,4,2,,6,1,,,1,4,,,1,,1091392
+309,3021,West Shore Community College,Science,3.6,Mike McKinney,4.6,15,N/A,,,,,,,1,,,,,,1,,,2,1,,,1,16212
+310,3021,West Shore Community College,Psychology,2.9,Geoffrey Kramer,4.6,15,N/A,,,1,1,1,,,2,,,,,,,,2,,,,1,62633
+311,3021,West Shore Community College,Sociology,2.1,John Poindexter,4.0,14,N/A,1,,,,3,,1,,1,,,,,,1,,,,,,221724
+312,3021,West Shore Community College,English,3.9,Joan Wegner,2.1,14,N/A,,,,,,1,,,,,,,1,2,2,1,,1,,3,575556
+313,3021,West Shore Community College,Music,2.5,Dan Meyers,3.3,12,N/A,,,,,,,,,,,,,,,,,,,,,14985
+314,3021,West Shore Community College,Science,2.1,Hamdy Helal,3.6,10,N/A,,,,,,1,,,,,,,1,,,,,,,1,16565
+315,3021,West Shore Community College,Business,2.0,Amy Wojciechowski,4.8,10,N/A,,,,,1,,,,,,,,,1,1,2,,,,,243305
+316,3021,West Shore Community College,Mathematics,2.7,Paul Drelles,4.6,9,N/A,,,,1,,,,2,,,,,,1,,,1,,,,208419
+317,3021,West Shore Community College,Fine Arts,3.0,Mott Rebecca,3.1,9,N/A,,,,,,,1,,,,,,1,,1,,,,,,220098
+318,3021,West Shore Community College,Education,2.6,Lisa Morley,4.3,9,N/A,1,,,2,,,,,,,,1,,,,1,,,,,386417
+319,3021,West Shore Community College,Chemistry,3.4,Sonja Siewert,4.3,7,N/A,1,,,,1,1,1,1,,,,,2,1,,,1,,,,838978
+320,3021,West Shore Community College,English,2.3,Kate Convissor,4.8,6,N/A,,,,,,,,,,,,,,,,,,,,,1149770
+321,3021,West Shore Community College,Mathematics,1.8,Lisa Dains,4.2,6,N/A,1,,,2,1,3,,1,,,,,,3,1,,2,,,,1866847
+322,3021,West Shore Community College,Psychology,2.7,Jessica Houser,4.2,6,67%,1,2,,,2,,1,1,,,,,,2,,1,,,,1,2283417
+323,3021,West Shore Community College,Accounting,2.7,Connie Schwass,5.0,6,N/A,,,,4,,,,,,,,2,,2,,3,,,,,1994109
+324,3023,West Valley College,Communication,2.9,John Hannigan,3.9,236,60%,3,9,,7,11,2,2,20,6,4,9,10,1,3,23,12,36,2,1,27,144142
+325,3023,West Valley College,Biology,3.6,Peter Svensson,4.0,196,85%,2,8,,9,7,18,7,11,2,2,2,19,12,21,12,5,9,3,1,11,197371
+326,3023,West Valley College,History,4.2,Stephen Juarez,2.5,189,16%,,2,1,,4,2,35,1,14,,1,4,21,3,8,,2,5,1,36,187893
+327,3023,West Valley College,Philosophy,3.5,D.J. Ciraulo,3.5,183,N/A,,2,,1,1,1,4,1,,,1,,6,,1,3,5,,,4,85568
+328,3023,West Valley College,Business,2.0,Mike Burke,4.8,167,99%,3,31,,35,10,,15,36,1,13,13,63,3,3,64,54,20,1,1,1,425910
+329,3023,West Valley College,History,4.0,Tim Kelly,3.5,165,84%,1,4,,,2,,19,8,3,,4,1,7,4,4,2,11,,1,33,212944
+330,3023,West Valley College,Psychology,4.3,Michelle Reed,3.8,159,78%,1,12,,6,6,6,16,4,,,2,4,6,2,1,3,11,3,7,19,62986
+331,3023,West Valley College,Geography,3.3,Joseph Hasty,3.7,148,70%,,4,1,2,4,9,10,1,1,,8,2,3,11,5,6,9,,3,17,226683
+332,3023,West Valley College,Mathematics,3.3,Greg Allen,4.0,147,72%,8,6,2,9,,4,1,5,,,10,,,15,5,8,12,,7,10,124705
+333,3023,West Valley College,Psychology,2.6,Jose Bautista,4.3,143,77%,2,15,2,6,9,10,3,8,1,3,17,1,14,2,1,9,12,1,1,4,348483
+334,3023,West Valley College,English,4.0,Dulce Gray,2.3,141,24%,,,,1,1,,8,1,1,1,,2,3,5,6,1,11,8,,19,387049
+335,3023,West Valley College,Mathematics,2.3,Kim Man Pham,4.2,133,73%,1,2,1,11,8,1,1,7,4,,14,2,3,9,2,5,8,,4,7,286307
+336,3023,West Valley College,Economics,3.7,Sam Liu,4.5,133,81%,,9,,4,1,,5,3,3,,2,7,1,17,7,14,17,,4,14,888139
+337,3023,West Valley College,English,3.8,Tina Golaw,4.0,133,75%,1,3,,10,3,,7,10,,,1,9,2,8,4,6,1,3,,7,158505
+338,3023,West Valley College,Fine Arts,3.5,Cynthia Reiss,3.8,133,66%,1,10,,6,8,6,20,8,1,,,8,3,8,15,5,11,2,2,12,666722
+339,3023,West Valley College,Accounting,2.8,Nancy Ghodrat,4.6,132,88%,,2,,16,8,6,1,8,,,3,2,4,9,4,5,3,,1,3,77799
+340,3023,West Valley College,Political Science,2.5,Nichola Gutierrez,4.6,131,92%,2,21,,8,7,11,,6,1,8,3,11,1,1,5,14,12,,,7,411309
+341,3023,West Valley College,Political Science,3.1,Adrian Wise,4.4,130,97%,,18,2,8,1,,5,3,2,1,14,16,1,,16,11,6,,,1,1192423
+342,3023,West Valley College,Anthropology,3.0,Andrew Kindon,4.7,126,100%,,13,,7,3,4,2,3,,,3,8,3,,3,9,4,2,,2,471277
+343,3023,West Valley College,Biology,3.7,Leticia Gallardo,3.8,126,64%,3,7,1,1,3,3,2,1,,,3,4,8,3,1,3,14,,2,12,510134
+344,3024,West Virginia Business College,Law,4.0,Mark McGinnis,5.0,3,N/A,,,,,,,,,,,,,,,,,,,,,1379171
+345,3026,West Virginia Junior College,Business,4.0,Scott Wesolowsky,4.0,1,N/A,,,,1,,,,1,,,,,,,,,,,,,1921688
+346,3028,West Virginia Northern Community College,English,3.0,Katie Freeman,3.0,14,N/A,,,,,,,,,,,,,,,,,,,,,553193
+347,3028,West Virginia Northern Community College,English,2.8,Charles Rogerson,4.6,11,N/A,,,,,,,,,,,1,1,,,,1,,,,,456170
+348,3028,West Virginia Northern Community College,Biology,2.7,Mary Ann Merz,4.6,9,N/A,1,1,,4,1,1,,,,,,1,,,1,4,1,,,,1493629
+349,3028,West Virginia Northern Community College,Health Science,3.1,Ralph Lucki,3.1,8,N/A,,,,,,,,,,,,,,,,,,,,,175594
+350,3028,West Virginia Northern Community College,Mathematics,3.6,Mark Goldstein,3.4,7,N/A,1,,,,,,,,1,,,,1,,,,,,,,229671
+351,3028,West Virginia Northern Community College,Humanities,3.1,Frank Decaria,3.1,7,N/A,,,,,,,1,,,,,,,,,,,,,,733401
+352,3028,West Virginia Northern Community College,Science,3.4,Stephen Gress,3.6,7,N/A,,,,,,,,,,,,,,,,,,,,,945942
+353,3028,West Virginia Northern Community College,Health Science,2.2,Lisa Ingram,4.3,6,N/A,,,,,,,,,,,,,,,,,,,,,175590
+354,3028,West Virginia Northern Community College,Mathematics,2.7,Mary Marlin,5.0,6,N/A,,,,,,,,,,,,,,,,,,,,,686522
+355,3028,West Virginia Northern Community College,Mathematics,2.8,Anthony Vavra,4.9,6,N/A,,,,1,1,,,,,,,,,,1,,,,,,757992
+356,3028,West Virginia Northern Community College,Computer & Informational Tech.,2.0,Molly Parsons-Woodburn,3.0,4,N/A,,,,,,,,,,,,,,,,,,,,,808648
+357,3028,West Virginia Northern Community College,Biology,4.5,Suzanne Clutter,4.0,4,N/A,,,,,,,,,,,,,,,,,,,,,1225429
+358,3028,West Virginia Northern Community College,Not Specified,3.5,Tony Xidis,5.0,4,N/A,,,,,,,,,,,,,,,,,,,,,1649003
+359,3028,West Virginia Northern Community College,Social Science,2.7,Walter Austin,2.3,3,N/A,,,,,,,,,,,,,,,,,,,,,625934
+360,3028,West Virginia Northern Community College,English,2.3,Gregory Winland,4.8,3,N/A,,,,,,,,,,,,,,,,,,,,,733402
+361,3028,West Virginia Northern Community College,Science,3.3,Purnima Sharma,1.2,3,N/A,,,,,,,,,,,,,,1,,,1,,,2,761112
+362,3028,West Virginia Northern Community College,Medical Assisting,3.0,Deborah Cresap,5.0,3,N/A,,,,2,2,,,,,,2,,,,,,,,,,949101
+363,3028,West Virginia Northern Community College,Culinary Arts,2.7,Christian Kefauver,4.3,3,N/A,,,,,,,,,,,,,,,,,,,,1,1035413
+364,3028,West Virginia Northern Community College,Psychology,3.0,Darcey Ferrel,3.0,2,N/A,,,,,,,,,,,,,,,1,,1,,1,,1821806
+365,3028,West Virginia Northern Community College,Nursing,5.0,Linda Shelek,2.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1445056
+366,3029,University of Arkansas at Fort Smith,Business,3.4,Kim Gordon,4.6,100,96%,4,11,1,6,16,14,20,64,,2,6,13,4,2,52,31,8,,2,6,1279075
+367,3029,University of Arkansas at Fort Smith,Mathematics,1.4,Jerry West,5.0,68,100%,8,6,,15,6,,,8,,,6,4,,5,4,13,1,,,1,201951
+368,3029,University of Arkansas at Fort Smith,Mathematics,3.0,Jill Guerra,4.5,67,86%,2,2,,3,,,1,1,,1,1,,,9,4,1,8,,,4,396094
+369,3029,University of Arkansas at Fort Smith,Mathematics,4.4,Jack Jackson,2.0,67,13%,3,,,,,1,4,2,,1,,,9,20,,,4,,1,8,137190
+370,3029,University of Arkansas at Fort Smith,Biology,3.5,Ragupathy Kannan,3.7,60,67%,,1,,1,3,1,2,1,3,,4,,3,,2,,7,1,2,3,178649
+371,3029,University of Arkansas at Fort Smith,Chemistry,4.4,Lynda Nelson,2.3,56,60%,3,2,,1,1,,2,,,,,1,3,,1,,3,,2,,202135
+372,3029,University of Arkansas at Fort Smith,Chemistry,3.1,Paula Abbott,4.0,51,63%,8,8,,6,1,5,,6,2,,3,2,2,2,7,1,21,,5,8,1490690
+373,3029,University of Arkansas at Fort Smith,Geology,1.9,Christopher Knubley,5.0,51,100%,9,5,,8,4,4,,8,1,,4,2,1,1,1,7,3,,,1,618253
+374,3029,University of Arkansas at Fort Smith,Mathematics,2.1,Sarah Durham,4.9,49,100%,4,4,,16,3,3,,9,,,3,,,3,7,11,5,,,,689846
+375,3029,University of Arkansas at Fort Smith,Chemistry,4.5,Jennifer Jamison,2.3,48,24%,1,,5,,,,6,3,5,,,,5,1,1,2,20,,10,17,1627696
+376,3029,University of Arkansas at Fort Smith,Social Science,2.6,Dan Maher,4.0,46,57%,,2,1,,,2,5,2,1,9,,3,,1,2,,6,1,1,3,78379
+377,3029,University of Arkansas at Fort Smith,History,2.6,Billy Higgins,4.2,45,100%,2,4,,2,3,2,1,7,1,,3,5,1,1,3,3,,,,,75575
+378,3029,University of Arkansas at Fort Smith,Psychology,1.8,Gregory Roberts,3.8,43,92%,,4,,2,3,9,,1,4,,,4,5,,5,3,1,,,1,202151
+379,3029,University of Arkansas at Fort Smith,Biology,3.3,Rod Nelson,3.7,42,N/A,,,,,2,,,,,,,,1,,1,,2,,,4,202067
+380,3029,University of Arkansas at Fort Smith,Humanities,2.3,Stephen Husarik,3.3,41,56%,1,4,,1,2,4,,,4,,5,2,7,1,1,1,6,,2,6,201738
+381,3029,University of Arkansas at Fort Smith,Mathematics,2.1,Matthew Utz,4.9,41,N/A,,,,2,,,,,,,3,,,,,,,,,,544017
+382,3029,University of Arkansas at Fort Smith,Biology,3.3,Tom Buchanan,2.8,40,46%,1,,10,1,1,,1,,2,,,,5,,,,5,,5,2,202139
+383,3029,University of Arkansas at Fort Smith,Music,2.4,Don Bailey,4.1,38,N/A,,,1,,,,,,,,2,2,,,,2,1,,,6,201769
+384,3029,University of Arkansas at Fort Smith,Literature,3.0,Dr. Zoe Morgan,4.0,37,N/A,,,,,,,,,,,,,,,,,,,,,201781
+385,3029,University of Arkansas at Fort Smith,Biology,1.7,Roger Lightner,4.8,37,100%,4,5,1,12,3,,,2,3,,1,3,1,,,7,,,,1,202131
+386,3035,Western Dakota Technical Institute,Sociology,2.8,James Castleberry,3.6,4,N/A,,,,,,,,,,,,,,,,,,,,,1033911
+387,3035,Western Dakota Technical Institute,Not Specified,3.3,Lori Rowe,1.1,3,N/A,,,,,,,,,,,,,,,,,,,,,1386223
+388,3035,Western Dakota Technical Institute,Machinist Training,2.0,Bill Urban,4.8,2,N/A,,,,1,,,,1,,,,,,,,,,,,,1118999
+389,3035,Western Dakota Technical Institute,Health Science,4.5,Fred Chambers,3.5,2,N/A,1,,,,,,,,,,,,1,,,,2,,2,,2495441
+390,3035,Western Dakota Technical Institute,Computer Science,5.0,David Pendleton,2.0,1,N/A,,,,,,,,,,,,,,1,,,,1,,1,1619288
+391,3035,Western Dakota Technical Institute,Mathematics,3.0,Kathryn Stark,4.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1666565
+392,3035,Western Dakota Technical Institute,Psychology,1.0,Peter Ragnone,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1666574
+393,3036,Western Iowa Tech Community College,Mathematics,3.6,Maziar Ouliaeinia,3.2,21,N/A,,,,,,,,,,,,,,1,,,1,,,2,346765
+394,3036,Western Iowa Tech Community College,Mathematics,3.5,Lisa Knect,2.8,20,N/A,,,,1,1,,,,,,,,1,4,2,,,,2,6,357386
+395,3036,Western Iowa Tech Community College,Chemistry,4.3,Manoj Patil,3.4,19,N/A,,,,,,1,,,1,,1,,,1,,,6,,,7,1256823
+396,3036,Western Iowa Tech Community College,Mathematics,3.8,Sima Dabir,2.8,18,N/A,,,,,,,,,,,,,,3,,,,,2,3,473869
+397,3036,Western Iowa Tech Community College,Sociology,4.3,Jill Moravek,3.8,18,N/A,2,1,,2,,,1,3,,,,2,,1,2,1,2,1,,2,859402
+398,3036,Western Iowa Tech Community College,English,2.5,Helen Lewis,3.5,13,33%,,,,2,,,2,1,1,,1,1,,2,3,1,2,,1,,1144635
+399,3036,Western Iowa Tech Community College,Biology,1.9,Rod Tondreau,4.6,11,N/A,,1,,2,1,,,1,,,,2,,,,2,,,,,613160
+400,3036,Western Iowa Tech Community College,Biology,3.5,Susan McDonald,2.7,10,14%,1,,,1,,,1,,1,,,,,3,,1,,,1,2,740939
+401,3036,Western Iowa Tech Community College,Biology,3.8,Renee Romig,3.0,10,N/A,,2,,3,1,,,3,,,,,,,,1,,,,1,1122976
+402,3036,Western Iowa Tech Community College,Science,3.2,John Jorstad,3.8,9,N/A,,,,1,,,1,,,,,,,,,,,,,,740941
+403,3036,Western Iowa Tech Community College,Computer Science,3.0,Lori Francksen,3.7,8,N/A,,,,,,,,,,,,,,,,,,,,,135990
+404,3036,Western Iowa Tech Community College,Computer Science,1.8,Sreedhar Thota,4.5,8,N/A,,,,1,,,,,,1,,,,,,,,,,,357265
+405,3036,Western Iowa Tech Community College,Computer Science,3.8,Keith Price,2.4,8,N/A,1,,1,,,,2,,,,,,,2,,,3,,1,2,641344
+406,3036,Western Iowa Tech Community College,Engineering,2.5,Donnin Custer,5.0,8,N/A,,,,,,,,,,,,,,,,,,,,,659274
+407,3036,Western Iowa Tech Community College,Psychology,2.6,Robert Creasey,4.5,8,N/A,,,,,,,,,,,,,,,,,,,,,699527
+408,3036,Western Iowa Tech Community College,Philosophy,2.9,Lex Woodbury,4.1,8,N/A,1,1,,,,,,3,1,,1,3,1,,,2,,,,,1469727
+409,3036,Western Iowa Tech Community College,Computer Science,2.1,Bill Koontz,5.0,7,N/A,,,,,,,,,,,,,,,,,,,,,395178
+410,3036,Western Iowa Tech Community College,Languages,2.4,Amy Hueser,3.8,7,N/A,,,,,,,,,,,1,,,,,1,,,,,560902
+411,3036,Western Iowa Tech Community College,Computer Science,1.7,Dave Wellsfry,2.9,7,N/A,,,,,,,,,,,,,,,,,,,,,1030489
+412,3036,Western Iowa Tech Community College,Computer Science,2.6,Janice Bingen,4.1,7,N/A,,,,2,,,,2,,,1,,,2,,2,,,,,1496408
+413,3037,Western Nebraska Community College,Social Science,3.2,Dave Cauble,4.7,15,N/A,,1,,,,,,1,,,,,,,,1,,,,,929983
+414,3037,Western Nebraska Community College,Chemistry,3.1,Olga Katkova,4.8,14,N/A,,1,,,1,,,,,,,,,,,,,,,,921716
+415,3037,Western Nebraska Community College,Chemistry,3.5,Harishchandra Subedi,4.8,13,100%,6,8,,2,2,,,9,,,1,5,,,,2,,,1,,2141909
+416,3037,Western Nebraska Community College,Social Science,3.4,Colin Croft,3.7,10,N/A,,,,,,,,1,,,,,1,1,,1,,,,2,283617
+417,3037,Western Nebraska Community College,Psychology,2.5,Guy Wylie,5.0,9,N/A,,1,,1,,,,,,,,,1,,,1,,1,,,956208
+418,3037,Western Nebraska Community College,Biology,2.6,Kail Bowman,4.3,8,N/A,1,,,,,,,1,,,,,,,,1,,,,,844776
+419,3037,Western Nebraska Community College,Psychology,3.3,Hallie Feil,4.9,8,N/A,,,,,,,,,,,,,,,,,,,,,844787
+420,3037,Western Nebraska Community College,Literature,3.9,Loren Bell,4.8,8,N/A,,1,,,,,,,,,,,,,,1,1,,,,844789
+421,3037,Western Nebraska Community College,Journalism,3.7,Andy Newman,4.9,6,N/A,,,,,,,,1,,,2,1,,,1,1,,,,,818280
+422,3037,Western Nebraska Community College,English,2.8,Brian Croft,4.4,6,N/A,,,,,,,,1,,,,,,1,1,,,,,,909246
+423,3037,Western Nebraska Community College,Engineering,4.3,Scott Schaub,4.3,6,N/A,,,,,,,,,,,,,,,,,,,,,1202674
+424,3037,Western Nebraska Community College,Business,2.5,Jeannette Johnson,4.9,6,N/A,,,,1,,,,,,,,1,,,,1,,,,,1350556
+425,3037,Western Nebraska Community College,Languages,2.4,Stacy Wilson,4.7,5,N/A,,,,1,,,,1,,,,,,,1,,,,,,1479012
+426,3037,Western Nebraska Community College,Biology,2.6,Dave Nash,5.0,5,N/A,1,1,,1,1,,,1,,,,,,,,2,,,1,,1619719
+427,3037,Western Nebraska Community College,Social Science,3.0,Cynthia Armstrong,3.8,5,N/A,,,,,,,,1,,,,1,,1,2,,,2,,1,1662129
+428,3037,Western Nebraska Community College,Business,2.3,Scott Winters,4.1,4,N/A,,,,,,,,,,,,,,,,,,,,,909213
+429,3037,Western Nebraska Community College,Mathematics,2.8,Amy Winters,5.0,4,N/A,,2,,1,1,1,,1,,,,,,,1,,,,,,1662119
+430,3037,Western Nebraska Community College,Mathematics,2.0,Andrew Lenzen,3.5,3,N/A,,,,,,,,,,,,,,,,,,,,,956209
+431,3037,Western Nebraska Community College,Criminal Justice,2.7,Paul Bowdre,5.0,3,N/A,,,,,,,,,,,,,,,,,,,,,1082943
+432,3037,Western Nebraska Community College,English,3.0,Jennifer Pedersen,5.0,3,N/A,,,,,,,,1,,,,1,,,1,,,,,,1632598
+433,3038,Western Nevada College,Biology,4.8,Steve Franklin Carman,2.6,65,30%,1,,2,1,,,8,,,,,1,1,8,1,1,9,,3,9,406965
+434,3038,Western Nevada College,Psychology,2.3,Fran Maldonado,5.0,50,100%,,14,13,11,,5,3,18,,,12,27,,1,2,24,,,,,2088258
+435,3038,Western Nevada College,English,3.8,Chad McCully,2.9,40,9%,,,,,1,,11,5,1,,,,5,4,4,,1,4,,14,745534
+436,3038,Western Nevada College,English,3.2,Fred Kille,3.1,38,67%,1,3,,1,1,,6,3,,,,2,,4,,1,,2,,1,527426
+437,3038,Western Nevada College,English,3.3,Mary Gillespie,4.0,36,77%,2,2,,11,4,2,9,16,,2,2,4,1,3,9,6,5,1,,7,1936576
+438,3038,Western Nevada College,Anthropology,2.7,Hal Starratt,4.5,35,N/A,,,,1,1,1,2,,,,,1,,2,2,4,1,,,1,475826
+439,3038,Western Nevada College,Mathematics,3.1,Richard Arrigotti,4.9,34,100%,,4,,3,,,,4,,,,1,,3,1,6,4,,,2,476203
+440,3038,Western Nevada College,Communication,2.1,Thomas Kubistant,4.7,34,75%,,1,,1,,1,,9,,,1,5,,,4,8,1,,,1,1120443
+441,3038,Western Nevada College,Political Science,3.8,Robert Morin,4.0,33,82%,,3,3,2,3,,8,2,1,,1,2,2,,4,4,2,,3,8,544679
+442,3038,Western Nevada College,Geography,2.7,Chris Ryan,4.3,30,100%,1,7,,,4,,1,3,2,,2,2,,1,1,2,1,,,,347463
+443,3038,Western Nevada College,History,2.5,John Yurtinus,4.5,29,N/A,,,,,,,,,,,,,,,,,,,,,189950
+444,3038,Western Nevada College,Biology,3.6,Renee Magrini,3.0,26,N/A,,,,,,,,,,,,,,1,,,,,,1,169367
+445,3038,Western Nevada College,Geography,2.8,Winnie Kortemeier,4.5,26,100%,1,3,,,,,,2,,,7,2,2,,2,6,6,,,2,347464
+446,3038,Western Nevada College,English,3.1,Ryan Stryffeler,4.5,26,N/A,,3,,,4,1,2,5,,1,8,,1,,,1,,,,1,1626526
+447,3038,Western Nevada College,Criminal Justice,3.0,Richard Finn,4.2,24,N/A,1,5,,,1,,2,2,,,2,,,,,4,,,1,1,527430
+448,3038,Western Nevada College,English,3.1,Josh Fleming,3.8,24,90%,,,,1,1,1,6,7,,,3,2,1,5,2,2,,3,,2,1120419
+449,3038,Western Nevada College,English,3.0,Geraldine Pope,4.5,24,92%,3,4,,3,4,1,5,17,,,4,5,,3,4,5,1,2,,2,1906204
+450,3038,Western Nevada College,Graphic Arts,2.5,Jayna Conkey,3.9,23,50%,,,,2,2,,3,6,,,,1,1,3,4,5,2,,,4,713960
+451,3038,Western Nevada College,Biology,4.1,Elizabeth Tattersall,2.7,22,43%,1,,,,,1,,3,1,,,,6,1,1,1,10,,6,9,1266071
+452,3038,Western Nevada College,Mathematics,2.6,Scott Morrison,4.6,20,N/A,,,,,1,,,1,,,,,,,,1,,,,,945929
+453,3039,Western Oklahoma State College,Psychology,2.2,John Phelan,4.1,11,N/A,,,,,,,,,,,,,,,,,,,,,483001
+454,3039,Western Oklahoma State College,Chemistry,3.5,Elizabeth Wallace,4.1,11,N/A,,,,,,,,,,,1,1,,,,,1,,,,598411
+455,3039,Western Oklahoma State College,Biology,4.7,Toni Coakley,2.9,9,N/A,,,,,,,,,,,,,,,,,,,1,1,439616
+456,3039,Western Oklahoma State College,History,2.5,Rebecca Morrow,3.7,8,N/A,,,,,,,,,,,,,,,,,,,,,482996
+457,3039,Western Oklahoma State College,Business,3.8,Glenna Lunday,4.2,6,N/A,,,,,,,,,,,,,,1,,,1,,1,,1650351
+458,3039,Western Oklahoma State College,Writing,2.3,Casey Podoll,4.3,6,83%,1,,,3,1,,,5,,,1,1,,1,1,2,,,,1,2344465
+459,3039,Western Oklahoma State College,Mathematics,2.4,Misty George,4.8,5,N/A,3,2,,2,,,,2,,,,,,,,2,,,,,2005061
+460,3039,Western Oklahoma State College,English,2.0,Brenda Straub,1.9,4,N/A,,,,,,,,,,,,,1,,,,,,,,175692
+461,3039,Western Oklahoma State College,Music,1.3,Karla Shelby,4.0,4,N/A,,,,,,,,,,,,,,,,,,,,,483000
+462,3039,Western Oklahoma State College,History,2.0,Mickey Graham,4.4,4,N/A,,,,,1,,,,,,,,,,,,1,,,,982285
+463,3039,Western Oklahoma State College,Political Science,1.3,Bruce Newman,4.7,3,N/A,,,,,,,,,,,,,,,,,,,,,598409
+464,3039,Western Oklahoma State College,Communication,1.3,Chad Wiginton,5.0,3,N/A,,,,,,,,,,,,,,,,,,,,,1703648
+465,3039,Western Oklahoma State College,Mathematics,2.3,Pia Bauer,4.8,3,N/A,,,,2,1,,,,,,,,,2,,,1,,,,1909030
+466,3039,Western Oklahoma State College,Chemistry,4.0,Deena Morley,3.7,3,N/A,,,,,1,1,,1,,,,,,1,1,1,1,,1,1,2280254
+467,3039,Western Oklahoma State College,Physics,3.5,Jim Burbank,3.3,2,N/A,,,,,,,,,,,,,,,,,,,,,1282014
+468,3039,Western Oklahoma State College,Computer Science,1.5,Susan Childs,3.5,2,N/A,,,,,,,,,,,,,,,,,,,,,1665080
+469,3039,Western Oklahoma State College,Communication,2.0,Casey Daniels,4.8,2,N/A,,,,,,,,,,,,,,,,,,,,,1800926
+470,3039,Western Oklahoma State College,Biology,4.0,Don Scroggins,4.8,2,N/A,,,1,,,,,,,,,1,,,1,,,,,,1988645
+471,3039,Western Oklahoma State College,History,2.0,Patricia Purdue,5.0,2,N/A,,,,,1,1,,,1,,,,,,,2,,,,,2454316
+472,3039,Western Oklahoma State College,Sociology,4.0,ME Smith,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1623959
+473,3040,Western Piedmont Community College,Physics,3.4,Andy White,4.6,22,100%,,3,,2,1,,,1,,2,5,,,1,,5,,,,1,262913
+474,3040,Western Piedmont Community College,Chemistry,4.0,Stacey Johnson,2.2,13,N/A,,,,,,,1,,,,,,1,1,,,,,,,603953
+475,3040,Western Piedmont Community College,Communication,2.4,Debra Rose,3.8,12,N/A,,,,,,,,,,,,,,,,,,,,,576583
+476,3040,Western Piedmont Community College,History,3.3,Mark Pellatt,3.5,12,N/A,,,,,,,,1,,,,2,,1,,1,,,,1,1034949
+477,3040,Western Piedmont Community College,Criminal Justice,1.6,Danny Dixon,4.2,11,N/A,,,,,,,,,,,,,,,,,,,,,84467
+478,3040,Western Piedmont Community College,Biology,4.3,Naomi Styles,2.5,10,N/A,,,,,,,2,,,,,,2,1,1,,4,,,3,503127
+479,3040,Western Piedmont Community College,Biology,3.8,Shannon Kincaid,4.4,10,N/A,1,,,1,1,,1,2,,,,,1,,,2,,,1,1,852354
+480,3040,Western Piedmont Community College,Law,2.4,Neal Bevans,5.0,10,N/A,,,,1,,,1,1,,,,2,,,,1,,,,,935368
+481,3040,Western Piedmont Community College,English,2.8,Gerry Adams,4.7,9,N/A,,,,,,,,1,,,,,,1,,,,,,1,485379
+482,3040,Western Piedmont Community College,Mathematics,3.7,Peter Stragand,2.3,9,N/A,,,,,,,,,,,,,,,,,,,,,549255
+483,3040,Western Piedmont Community College,English,2.8,Paul Wardzinski,4.8,9,N/A,,,,,,,,,,,,,,,,,,,,,559387
+484,3040,Western Piedmont Community College,Social Science,2.4,Rusty Harrison,4.9,9,N/A,,,,,1,,,,,,,,,,,1,,,,,705905
+485,3040,Western Piedmont Community College,English,4.3,Rani Burd,3.7,9,N/A,,1,,,1,,1,1,,,,,,4,1,,,2,,5,1458274
+486,3040,Western Piedmont Community College,Biology,3.1,Michael Spath,4.4,9,N/A,,1,,1,,,3,2,,,1,3,,,,4,1,,1,2,1576194
+487,3040,Western Piedmont Community College,English,1.0,Rick Noggle,4.2,8,N/A,,,,,,,,,,,,,,,,,,,,,259213
+488,3040,Western Piedmont Community College,Criminal Justice,2.6,Steve Moulton,4.8,8,N/A,,,,,,,,,,,,,,,,,,,,,637897
+489,3040,Western Piedmont Community College,Psychology,1.8,Bill Batman,4.3,8,N/A,,,,,,,,1,,,,,,,,,,,,,658605
+490,3040,Western Piedmont Community College,Mathematics,3.0,Brenda Duckworth,4.7,8,N/A,,,,1,,,,1,,,,,,,,1,,,,,1109104
+491,3040,Western Piedmont Community College,Social Science,3.4,Rob Angely,4.3,8,N/A,1,,,,,,1,1,,,,,,,1,,,,,,1185100
+492,3040,Western Piedmont Community College,English,3.7,Eugueniia Cantwell,4.0,8,N/A,,,,,,,1,1,,,,,1,1,,,,3,,2,1302908
+493,3041,Sanford-Brown Institute,Medicine,2.5,Marc McGaffic,3.3,2,N/A,,,,,,,,,,,,,,,,,,,,,1025071
+494,3041,Sanford-Brown Institute,Medicine,3.0,Catherine Horan,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1124033
+495,3041,Sanford-Brown Institute,Medicine,1.0,Tracy Wiley,5.0,1,N/A,,,,,,,,,,,,,,,,,,,,,1780573
+496,3041,Sanford-Brown Institute,Medicine,4.0,Jose Luiggi,4.5,1,N/A,,,,,,,,,,,,,,,,,,,,,1883437
+497,3042,Western Technical Institute,Computer Science,4.0,Dwayne Davis,5.0,3,N/A,,1,,1,,,3,1,,,,,,,2,1,,,,,2149952
+498,3042,Western Technical Institute,Mathematics,4.0,Frank David Hernandez,4.7,3,N/A,1,1,,2,,,,1,,,1,1,,,1,1,,,,,2150165
+499,3043,Western Texas College,Mathematics,2.5,Ava Russell,4.8,16,100%,4,,,3,3,,,3,,,,1,1,6,2,6,,,,,646462
+500,3043,Western Texas College,Physics,3.5,Ping Lu,2.5,14,67%,,,,,,,1,4,,,1,,,4,1,1,1,,,,2027401
+501,3043,Western Texas College,Biology,3.6,Andrea Albus,2.4,13,N/A,,,,,1,,1,,,,,,,2,,,,,,1,1628338
+502,3043,Western Texas College,History,3.4,Floyd Holder,3.6,11,73%,4,1,,2,1,5,,2,,,2,2,,4,3,2,,1,,1,2073697
+503,3043,Western Texas College,Physics,3.9,Dan Boren,1.7,10,44%,,,,,1,,,,,,1,,,6,1,,,5,4,,1991817
+504,3043,Western Texas College,English,4.0,Donnie Brown,3.2,7,N/A,,,,1,,,1,2,1,,1,,,,,,,,,2,1456890
+505,3043,Western Texas College,Mathematics,3.3,Stephanie Ducheneaux,4.5,6,N/A,,,,2,,,,2,,,,,,2,,1,,,1,1,1121019
+506,3043,Western Texas College,Agriculture,2.7,Jessica Colvin,3.9,6,N/A,,,,1,1,2,,2,,,,,,1,2,3,,,,,1274126
+507,3043,Western Texas College,English,2.8,Laveeda Newsome,3.1,5,N/A,,,,1,,,1,2,1,,1,,1,,,,,1,1,,730426
+508,3043,Western Texas College,History,1.6,Shawn Fonville,4.7,5,N/A,,2,,1,2,1,,,,,,1,,,,1,,,,,739102
+509,3043,Western Texas College,Political Science,4.4,Jack Price,2.6,5,N/A,,,,,,,3,1,,,,,,2,,,,,,2,923972
+510,3043,Western Texas College,Geology,2.0,T Lilly,4.7,5,N/A,,,,1,,,,2,,,,,,,,1,,,,,1079177
+511,3043,Western Texas College,Mathematics,3.6,Garrett Hicks,2.3,5,N/A,1,,,,,,,,,,,,,4,2,,,,1,1,2026868
+512,3043,Western Texas College,Biology,3.8,Britt Canada,3.8,5,N/A,1,,,1,1,,2,2,,,,1,,2,2,,1,,1,,2061900
+513,3043,Western Texas College,English,2.5,Melanie Graf,3.8,4,N/A,,,,,,,,1,,,,,,1,,,,,,1,726817
+514,3043,Western Texas College,Biology,2.8,Mitch Brumbelow,4.4,4,N/A,,,,,1,,,,,,,,,1,,,,,,,1628340
+515,3043,Western Texas College,Business,1.8,Donald L Sewell,5.0,4,N/A,,1,,1,,1,,1,,1,1,4,,,1,1,,,,,1922852
+516,3043,Western Texas College,Biology,4.2,Jeff SCHRAMM,4.0,4,N/A,1,2,,,2,,1,,,,,,,,2,1,,,2,1,2262586
+517,3043,Western Texas College,Physics,2.5,Kiran Khanal,2.5,4,N/A,1,,,,1,,,,,,,,,2,1,,,1,,,2268105
+518,3043,Western Texas College,Mathematics,4.5,Darlene Stokes,2.5,4,N/A,1,,,,1,,,,,,,,,,1,,,,,,1396077
+519,3045,Western Wyoming Community College,History,3.5,Dudley Gardner,4.3,20,N/A,,1,,,,,,,,,,,,,,1,,,,1,330481
+520,3045,Western Wyoming Community College,Mathematics,3.5,Susan Heyborne,4.5,12,N/A,,1,,1,,,,1,,,2,1,,,,1,2,,,,330483
+521,3045,Western Wyoming Community College,Theater,4.3,Jamie Young,2.8,12,N/A,,,,,,,,,,,,,,,,,,,,,729833
+522,3045,Western Wyoming Community College,English,3.5,Dennis Kuhnel,4.7,11,N/A,1,,,,2,,3,5,,,,,,,1,3,,,,,1761572
+523,3045,Western Wyoming Community College,English,3.8,Karen Love,3.6,10,N/A,,,,,,,,1,,,,1,,,,,,,,1,36961
+524,3045,Western Wyoming Community College,Anthropology,3.9,Charlie Love,4.7,10,N/A,,,,,,,,1,,,1,1,,,,,,,,,36976
+525,3045,Western Wyoming Community College,Science,3.4,Craig Thompson,4.6,10,N/A,,,,,,,,,,,,,,,,,,,,,821264
+526,3045,Western Wyoming Community College,Psychology,3.1,Marissa Vishnu-Mack,4.8,8,N/A,,7,,3,2,,,,,,,1,,,,6,,,,2,1849604
+527,3045,Western Wyoming Community College,Biology,3.4,Bud Chew,4.5,8,N/A,,3,,1,,,,,,,,,,,,3,1,,1,,740679
+528,3045,Western Wyoming Community College,English,3.3,Sharon Taylor,3.6,7,N/A,,,,,,,,,,,,,,,,,,,,,330482
+529,3045,Western Wyoming Community College,Theater,4.0,Amy Critchfield,3.8,7,N/A,,,,,,,,,,,1,,,,,,1,,,1,673591
+530,3045,Western Wyoming Community College,Geology,2.0,Scott Mata,2.3,6,N/A,,,,,,,,,,,,,,,,,,,,,738003
+531,3045,Western Wyoming Community College,Political Science,3.2,John Collins,4.9,5,N/A,,,,,,,,,,,,,,,,,,,,,170368
+532,3045,Western Wyoming Community College,Political Science,1.8,Bruce Anderson,4.6,5,N/A,,,,,,,,,,,,,,,,,,,,,707066
+533,3045,Western Wyoming Community College,Mathematics,3.0,Sara Stanley,4.8,5,N/A,,,,,,,,,,,,,,,,,,,,,714858
+534,3045,Western Wyoming Community College,Mathematics,3.4,Chuck Newberg,4.6,5,N/A,1,,,,,,,,,,,,,1,,,1,,,,740670
+535,3045,Western Wyoming Community College,Business,3.2,Thomas Coverdale,4.6,5,N/A,,,,,,,1,1,,,,,,,,,,,,1,1059787
+536,3045,Western Wyoming Community College,English,3.8,Heather Pristash,3.6,5,N/A,,,,,,,1,1,,,,,,2,,,1,1,,3,1819438
+537,3045,Western Wyoming Community College,Political Science,3.0,Miles Mathews,4.8,5,N/A,,2,,,1,,3,1,,,,,,3,,1,,,,,1819448
+538,3045,Western Wyoming Community College,Geology,4.2,Dana Perterman,1.7,5,N/A,,,,,,,1,,,,,1,,,2,,1,,,2,1927899
+539,3046,Westmoreland County Community College,Humanities,2.0,Ray Brannon,4.7,102,100%,3,3,,11,4,3,,20,1,1,4,9,2,,12,6,,,,,1334107
+540,3046,Westmoreland County Community College,History,2.5,John Wicinas,4.9,85,100%,,5,,8,,,1,5,,,6,9,,,4,6,,,,,1598879
+541,3046,Westmoreland County Community College,Biology,4.1,Suzanne Kalup,3.5,73,72%,2,10,,2,2,,3,4,2,,,2,2,5,,3,13,1,2,17,630409
+542,3046,Westmoreland County Community College,Social Science,2.5,Tom Soltis,4.7,58,100%,1,9,,2,2,1,2,6,1,,2,8,,,3,3,,1,,,22315
+543,3046,Westmoreland County Community College,History,2.1,Kevin Kopper,4.7,48,100%,4,13,,8,3,2,2,7,,,2,10,,,,10,,,,2,911067
+544,3046,Westmoreland County Community College,Mathematics,2.7,Michael Brewer,4.6,46,N/A,,,,,,,,,,,,,,,,,,,,,176223
+545,3046,Westmoreland County Community College,Biology,4.3,Shelley Berg,3.1,43,53%,,2,,3,,1,3,3,,,,,6,2,1,,11,,3,11,1023913
+546,3046,Westmoreland County Community College,Psychology,2.1,Dennis Kreinbrook,4.0,40,100%,1,,,1,3,,,2,1,,,2,2,,,4,1,,,,216141
+547,3046,Westmoreland County Community College,English,4.4,Val Ferretti,2.5,40,N/A,,1,1,,,,1,,,,,1,,,1,,1,1,,3,288712
+548,3046,Westmoreland County Community College,Science,4.5,Jim Cordle,1.6,40,N/A,,,3,,1,,,,,,,,2,4,2,,6,,2,8,334374
+549,3046,Westmoreland County Community College,Mathematics,3.6,Robert Frank,2.7,40,31%,,,,2,2,1,2,1,6,,1,1,1,3,1,1,3,,5,7,452202
+550,3046,Westmoreland County Community College,English,2.6,Michael Hricik,4.0,38,64%,3,1,,5,1,6,1,6,,,,1,,6,1,1,1,2,,2,205618
+551,3046,Westmoreland County Community College,Mathematics,3.8,Colleen Babilya,2.8,36,N/A,2,1,,3,1,,,3,,,,1,1,5,1,,2,,1,4,984665
+552,3046,Westmoreland County Community College,Computer Science,2.6,David Dillman,2.7,33,N/A,,,,,1,,,1,2,,,,,,4,,4,1,1,1,165851
+553,3046,Westmoreland County Community College,Mathematics,2.7,Louis Congelio,4.6,33,N/A,,2,,2,1,2,,3,,,1,2,,2,2,1,,,,1,167710
+554,3046,Westmoreland County Community College,English,1.8,Linda Kissler,4.9,31,N/A,,,,,,,,,,,,,,,,,,,,,167714
+555,3046,Westmoreland County Community College,Computer Science,3.4,Judy Scheeren,2.5,30,N/A,1,,,,,,1,,,,,,,2,2,,,,,1,205617
+556,3046,Westmoreland County Community College,Chemistry,4.1,Dennis Berzansky,3.3,30,N/A,,,,,,,,,,,,,,,,,,,,,233434
+557,3046,Westmoreland County Community College,Chemistry,2.0,Jack Sutcliff,4.8,30,N/A,,1,,3,,,,,,,2,,,,,2,,,,,368088
+558,3046,Westmoreland County Community College,English,2.6,Duane Molnar,4.5,28,N/A,,5,,1,,,,5,,,4,3,,,2,1,1,,,1,412006
+559,3048,Wharton County Junior College,Mathematics,1.4,James Carolan,4.7,41,N/A,,,,2,,,,,,,1,1,,,1,3,,,,,170118
+560,3048,Wharton County Junior College,Psychology,1.9,Jodie Hutchinson,4.7,40,100%,,7,,10,6,6,,7,,,3,5,,,7,8,4,,,,927192
+561,3048,Wharton County Junior College,Sociology,2.5,Jon Loessin,4.0,38,71%,1,4,,,7,,5,4,1,,2,1,1,1,6,2,4,,2,5,524961
+562,3048,Wharton County Junior College,Geology,3.1,Peter Anderson,4.5,38,97%,5,5,,9,11,15,,14,2,18,9,3,4,,3,4,2,,,2,2372742
+563,3048,Wharton County Junior College,History,2.6,Joy Wind,3.8,35,100%,,3,,2,8,,1,,6,,,,8,,1,4,7,,2,,331771
+564,3048,Wharton County Junior College,Biology,3.0,John Dettling,4.5,34,100%,2,8,,4,1,,,4,,,12,3,,,,2,6,,,,343231
+565,3048,Wharton County Junior College,English,2.6,Ava Humme,4.2,33,75%,3,4,,6,2,3,5,9,,,3,4,2,2,6,3,3,,1,5,920483
+566,3048,Wharton County Junior College,English,2.6,Robin Nealy,4.3,27,N/A,1,,,,1,,,,,1,,,1,2,2,,,,,1,637919
+567,3048,Wharton County Junior College,Political Science,3.5,Geoffrey Shine,2.9,26,42%,,,3,,5,5,11,2,,,,,2,,2,1,6,4,9,9,1884955
+568,3048,Wharton County Junior College,Biology,4.2,Wendy Waters,2.5,26,71%,1,2,1,2,1,1,2,2,,,,,2,,2,,3,,2,2,819473
+569,3048,Wharton County Junior College,Political Science,3.5,Elizabeth Rexford,4.3,25,N/A,,,,,1,1,,,,,,,1,1,,,1,1,1,4,349192
+570,3048,Wharton County Junior College,Biology,3.0,Jennifer Jeffery,4.7,25,N/A,1,3,1,3,2,,,1,,,1,2,1,,1,1,1,,,,620232
+571,3048,Wharton County Junior College,History,1.9,Linda Graham,3.9,24,80%,1,3,1,,,1,,1,,,,1,,,1,2,4,,,,227804
+572,3048,Wharton County Junior College,English,2.5,Pamela Armentrout,4.3,23,83%,,1,,1,1,,1,2,,1,,,1,2,4,2,5,,,1,206654
+573,3048,Wharton County Junior College,Communication,1.2,Dr. Newman,4.3,22,N/A,,,,,,,,,,,,,,,,,,,,,170120
+574,3048,Wharton County Junior College,English,3.0,Suzan King,4.0,22,89%,,,,1,2,,5,10,,6,,,,1,9,,,1,,7,1527849
+575,3048,Wharton County Junior College,English,4.4,Jennifer Mooney,2.5,20,N/A,,,,,,,,,,,,,,2,,,,1,,2,1044639
+576,3048,Wharton County Junior College,History,2.5,Robert Nottebart,3.8,18,60%,,,,,2,,4,,1,,1,1,1,1,3,1,1,,2,2,63397
+577,3048,Wharton County Junior College,Biology,2.6,Kimberly Raun,4.8,18,100%,1,6,,,2,2,,1,,,1,,,,1,,3,,,,866074
+578,3048,Wharton County Junior College,Mathematics,1.9,Fred Ermis,4.5,17,100%,,,,8,2,1,,,,,6,2,,,,6,1,,,,170119
+579,3049,Whatcom Community College,Mathematics,2.7,Doug Mooers,4.8,168,N/A,,,,3,2,1,,2,,,,,,,1,2,1,,,,55405
+580,3049,Whatcom Community College,Mathematics,1.7,Russel Sherif,5.0,162,100%,4,20,,19,22,6,,12,6,,5,12,1,,6,26,8,,,,129629
+581,3049,Whatcom Community College,Chemistry,4.1,Steve Deroy,2.7,152,38%,1,1,22,,2,6,1,,2,,1,,7,4,2,,17,1,9,25,158117
+582,3049,Whatcom Community College,Philosophy,2.7,Tim Watters,4.2,121,53%,,5,,3,2,,3,3,5,,4,16,14,,5,7,4,1,,,286687
+583,3049,Whatcom Community College,Computer Science,2.3,Andrew Romanyshyn,4.5,118,100%,10,8,21,34,42,1,8,27,,,23,7,2,7,8,21,6,,3,2,406288
+584,3049,Whatcom Community College,Mathematics,2.7,Doug Quinlan,4.3,115,94%,3,12,2,15,6,17,,3,,,26,7,1,2,5,15,7,1,2,3,223652
+585,3049,Whatcom Community College,Philosophy,4.0,Fred Tabor,3.0,113,60%,,,,,,,13,1,,,4,1,,3,3,,6,,1,11,125433
+586,3049,Whatcom Community College,Psychology,2.5,Collete Colburn,4.1,110,72%,3,2,,12,2,10,14,14,2,,1,1,4,5,10,3,3,2,,5,31498
+587,3049,Whatcom Community College,Communication,1.8,Tony Will,4.2,102,65%,,3,,3,4,1,1,5,10,5,13,5,6,1,8,10,10,,,1,152826
+588,3049,Whatcom Community College,Mathematics,2.7,Wendi Davis,4.3,96,75%,1,1,,2,3,3,1,1,,,,2,1,1,,4,2,,2,2,389490
+589,3049,Whatcom Community College,Anthropology,4.0,Paul Schroeder,3.2,96,N/A,,,,,,,2,,,,,,1,1,,,,,,1,391785
+590,3049,Whatcom Community College,Mathematics,2.2,Crystal Holtzheimer,4.8,85,91%,2,3,,6,4,,,6,1,2,1,,,,4,1,,,,,448161
+591,3049,Whatcom Community College,Geology,3.6,Bernie Dougan,3.5,81,33%,,2,,,,3,2,1,,1,2,1,5,16,3,2,9,5,1,6,118909
+592,3049,Whatcom Community College,Physics,4.0,David Kern,2.3,77,N/A,,,,,,,,,,,,,4,2,1,,,1,1,2,69361
+593,3049,Whatcom Community College,Humanities,1.9,Benjamin Kohn,4.4,77,86%,1,3,,6,,,1,2,,,6,1,1,,4,4,,,1,,125931
+594,3049,Whatcom Community College,Mathematics,3.5,Will Webber,3.4,77,71%,6,6,,,3,1,1,4,3,,5,3,4,9,2,4,1,,2,5,180691
+595,3049,Whatcom Community College,Mathematics,3.2,Heidi Ypma,3.5,72,N/A,,,,,,1,,,,,,,,,2,,,,,,55404
+596,3049,Whatcom Community College,Communication,2.9,Martha Hagan,2.8,72,36%,,,,2,2,1,6,2,3,1,,,3,,4,,4,2,,3,199790
+597,3049,Whatcom Community College,Political Science,4.0,Barry Maxwell,2.8,71,53%,1,,,,1,1,11,1,,1,,,2,9,7,,1,3,2,13,201862
+598,3049,Whatcom Community College,History,2.7,Mary Haberman,3.5,69,67%,1,,,6,2,7,7,3,3,5,3,1,,4,1,2,2,,2,3,192832
