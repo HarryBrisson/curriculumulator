@@ -189,7 +189,9 @@ function initialize_barchart(data) {
   // place bars
   svg.selectAll(".bar")
       .data(data)
-    .enter().append("rect")
+    .enter().append("a")
+      .attr("xlink:href", function(d) { return "/scorecard?subject="+d['dept'] })
+    .append("rect")
       .attr("class", "bar")
       .attr("height", height/data.length*.9 )
       .attr("width", function(d) { return xScale(d[variable]); })
