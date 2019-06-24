@@ -163,7 +163,9 @@ function initialize_visualization(data) {
   // place dots
   svg.selectAll(".dot")
       .data(data)
-    .enter().append("circle")
+    .enter().append("a")
+      .attr("xlink:href", function(d) { return "/scorecard?subject="+d['dept'] })
+    .append("circle")
       .attr("class", "dot")
       .attr("r", function(d) { return zScale(d['professors']) })
       .attr("cx", function(d) { return xScale(d[x_variable]); })
