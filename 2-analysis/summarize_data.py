@@ -169,7 +169,7 @@ def make_column_names_human_readable(df):
         'difficulty': 'Difficulty Score (1-5)',
         'professors': 'Professors Represented in Dataset (#)',
         'quality': 'Quality Score (1-5)',
-        'rating_count': 'Ratings Collected (#)',
+        'rating_count': 'Ratings Represented in Dataset (#)',
         'tweets_per_hour': 'Tweets Per Hour (#)',
         'wikipedia_url': 'Wikipedia Url',
         'wikipedia_wordcount': 'Wikipedia Wordcount (#)',
