@@ -55,9 +55,14 @@ def get_scorecard_data(subject):
 
 
 def prep_scorecard_df_as_dict(df):
-    data = df.reset_index()\
-        .rename(columns={'level_0':'metric'})\
-        .to_dict(orient='records')[1:]
+    data = df.to_dict(orient='records')[1:]
+    for d in data:
+        try:
+            d['score'] = d['format'].format(d['score'])
+        except Exception as e:
+            print(e)
+        if d['metric'] == 'Wikipedia Url':
+            d['score'] = f'en.wikipedia.org/wiki/{d["score"]}'
     return data
 
 
