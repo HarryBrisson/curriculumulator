@@ -1,19 +1,22 @@
 Accounting
+Administration
 African-American Studies
 Agriculture
 Allied Health
 American Studies
 Anatomy
+Anatomy and Physiology
 Animal Science
+Animation
 Anthropology
 Architecture
 Art
-Art & Design
 Art History
+Art and Design
 Astronomy
 Aviation
 Behavioral Sciences
-Bible, Missions & Ministry
+Bible, Missions and Ministry
 Biblical Studies
 Biochemistry
 Biological Sciences
@@ -23,6 +26,8 @@ Business Administration
 Business Law
 Chemistry
 Child Development
+Chiropractic Education
+Civil Procedure
 Classics
 Clinical Laboratory Sciences
 Communication
@@ -31,6 +36,8 @@ Communications
 Computer Engineering
 Computer Information Systems
 Computer Science
+Constitutional Law
+Contracts
 Counseling
 Criminal Justice
 Culinary Arts
@@ -43,7 +50,7 @@ Education
 Electrical Engineering
 Engineering
 English
-English Language & Literature
+English Language and Literature
 Environmental Science
 Environmental Studies
 Ethnic Studies
@@ -51,18 +58,24 @@ Film
 Finance
 Fine Arts
 Foreign Languages
+Foundations
+French
+Game Design
+General Education
 General Studies
 Geography
 Geology
 Government
 Graphic Arts
 Graphic Design
-Health & Physical Education
+Health
 Health Science
+Health and Physical Education
 History
-History & Political Science
+History and Political Science
 Hospitality
 Human Development
+Human Services
 Humanities
 Illustration
 Information Science
@@ -74,15 +87,16 @@ Journalism
 Kinesiology
 Languages
 Law
-Liberal Arts & Sciences
+Liberal Arts and Sciences
 Liberal Studies
 Life Science
 Literature
 Management
 Marketing
 Mathematics
-Mathematics & Statistics
+Mathematics and Statistics
 Mechanical Engineering
+Media
 Medicine
 Microbiology
 Modern Languages
@@ -91,26 +105,34 @@ Natural Sciences
 Not Specified
 Nursing
 Nutrition
+Pharmacy
 Philosophy
+Photography
 Physical Ed
 Physical Education
+Physical Sciences
 Physics
 Political Science
+Property Law
 Psychology
+Psychology and Sociology
+Reading
 Religion
 Religious Studies
 Science
-Social & Behavioral Sciences
 Social Science
 Social Sciences
 Social Work
+Social and Behavioral Sciences
 Sociology
 Spanish
 Speech
 Speech Communication
 Statistics
+Technology
 Theater
 Theology
+Veterinary Sciences
 Women's Studies
 Writing
 Zoology
