@@ -1,3 +1,4 @@
+
 import pandas as pd
 
 def get_curriculumulator_data():
@@ -13,6 +14,12 @@ def get_curriculumulator_data():
 
 	return data
 
+
+def rgb_to_hex(RGB):
+    RGB = [int(x) for x in RGB]
+    RGB_strings = ["0{0:x}".format(v) if v < 16 else "{0:x}".format(v) for v in RGB]
+    hex_color = "#"+"".join(RGB_strings)
+    return hex_color
 
 def get_scorecard_data(subject):
     
