@@ -60,6 +60,7 @@ def index_to_index_color(i):
     return index_hex
 
 
+
 def get_scorecard_data(subject):
     
     df = pd.read_csv('static/data/summary.csv')
@@ -95,6 +96,9 @@ def get_scorecard_data(subject):
     df.loc[df['metric'].str.contains('#'),'format'] = "{:.0f}"
     df.loc[df['metric'].str.contains('%'),'format'] = "{:.1%}"
     df.loc[df['metric'].str.contains('Score'),'format'] = "{:.2f}"
+
+    df['pctl_color'] = df['percentile'].apply(lambda x: pctl_to_pctl_color(x))
+    df['index_color'] = df['index'].apply(lambda x: index_to_index_color(x))
 
     return df
 
