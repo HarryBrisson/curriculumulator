@@ -21,6 +21,15 @@ def rgb_to_hex(RGB):
     hex_color = "#"+"".join(RGB_strings)
     return hex_color
 
+
+def pctl_to_pctl_color(pctl):
+    try:
+        pctl_color = [int((1-pctl)*255),int(pctl*255),0]
+        pctl_hex = rgb_to_hex(pctl_color)
+    except:
+        pctl_hex = None
+    return pctl_hex
+
 def get_scorecard_data(subject):
     
     df = pd.read_csv('static/data/summary.csv')
