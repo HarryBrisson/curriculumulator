@@ -30,6 +30,36 @@ def pctl_to_pctl_color(pctl):
         pctl_hex = None
     return pctl_hex
 
+
+def index_to_index_color(i):
+    try:
+        
+        if i<25:
+            r = 255
+            g = 0
+            b = 0
+        elif i>400:
+            r = 0
+            g = 255
+            b = 0
+        elif i < 100:
+            r = 255
+            g = int((i-25)/75*255)
+            b = int((i-25)/75*255)
+        elif i > 100:
+            r = int((300-(i-100))/300*255)
+            g = 255
+            b = int((300-(i-100))/300*255)
+            
+        index_color = [r,g,b]
+        index_hex = rgb_to_hex(index_color)
+        
+    except:
+        index_hex = None
+        
+    return index_hex
+
+
 def get_scorecard_data(subject):
     
     df = pd.read_csv('static/data/summary.csv')
