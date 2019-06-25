@@ -21,9 +21,11 @@ Biblical Studies
 Biochemistry
 Biological Sciences
 Biology
+Biostatistics
 Business
 Business Administration
 Business Law
+Care
 Chemistry
 Child Development
 Chiropractic Education
@@ -36,11 +38,13 @@ Communications
 Computer Engineering
 Computer Information Systems
 Computer Science
+Computer and Informational Tech.
 Constitutional Law
 Contracts
 Counseling
 Criminal Justice
 Culinary Arts
+Dance
 Design
 Drawing
 Ear Training
@@ -54,12 +58,14 @@ English Language and Literature
 Environmental Science
 Environmental Studies
 Ethnic Studies
+Fashion
 Film
 Finance
 Fine Arts
 Foreign Languages
 Foundations
 French
+Function
 Game Design
 General Education
 General Studies
@@ -82,14 +88,18 @@ Information Science
 Information Systems
 Information Technology
 Interdisciplinary Studies
+Interior Design
 International Studies
 Journalism
 Kinesiology
 Languages
 Law
+Leadership
+Legal Studies
 Liberal Arts and Sciences
 Liberal Studies
 Life Science
+Linguistics
 Literature
 Management
 Marketing
@@ -97,6 +107,7 @@ Mathematics
 Mathematics and Statistics
 Mechanical Engineering
 Media
+Media Arts
 Medicine
 Microbiology
 Modern Languages
@@ -105,6 +116,7 @@ Natural Sciences
 Not Specified
 Nursing
 Nutrition
+Osteopathic Medicine
 Pharmacy
 Philosophy
 Photography
@@ -129,6 +141,8 @@ Spanish
 Speech
 Speech Communication
 Statistics
+Structure
+Student Success
 Technology
 Theater
 Theology
