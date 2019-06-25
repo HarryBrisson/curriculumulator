@@ -77,6 +77,7 @@ function initialize_visualization(data) {
   // get default values
   var x_variable = document.getElementById("x_dropdown").value
   var y_variable = document.getElementById("y_dropdown").value
+  var z_variable = 'Professors Represented in Dataset (#)'
 
   // set labels
   var x_variable_axis_label = x_variable
@@ -122,7 +123,7 @@ function initialize_visualization(data) {
   // this presets the low and high end to reflect the data
   xScale.domain(d3.extent(data, function(d) { return d[x_variable]; })).nice();
   yScale.domain(d3.extent(data, function(d) { return d[y_variable]; })).nice();
-  zScale.domain(d3.extent(data, function(d) { return d['professors']; })).nice();
+  zScale.domain(d3.extent(data, function(d) { return d[z_variable]; })).nice();
 
   // x axis & labeling
   // creating a svg group
@@ -167,7 +168,7 @@ function initialize_visualization(data) {
       .attr("xlink:href", function(d) { return "/scorecard?subject="+d['dept'] })
     .append("circle")
       .attr("class", "dot")
-      .attr("r", function(d) { return zScale(d['professors']) })
+      .attr("r", function(d) { return zScale(d[z_variable]) })
       .attr("cx", function(d) { return xScale(d[x_variable]); })
       .attr("cy", function(d) { return yScale(d[y_variable]); })
       .style("fill", function(d) { return "blue" })
