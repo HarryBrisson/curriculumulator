@@ -2,4 +2,4 @@
 
 identify courses where support materials can make the biggest difference
 
-[check out the curriculumulator](https://curriculumulator.net)
+[check out the curriculumulator](https://www.curriculumulator.net)
