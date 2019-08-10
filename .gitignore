@@ -5,3 +5,4 @@
 */authorizations/*.json
 */authorizations/*-api-key.txt
 3-presentation/.env/*
+1-collection/authorizations/reddit-secret.txt
