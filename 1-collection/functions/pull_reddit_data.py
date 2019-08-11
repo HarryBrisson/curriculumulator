@@ -13,7 +13,6 @@ def identify_homeworkhelp_posts():
     reddit = praw.Reddit(client_id='am_DaL0ACH9R7Q',
                      client_secret=get_client_secret(),
                      user_agent='ubuntu:curriculumular:v0.0.1 (by /u/NotSorryImSorry)')
-    print(reddit)
 
 def main():
     return
