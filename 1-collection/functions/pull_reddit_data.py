@@ -14,8 +14,9 @@ def identify_homeworkhelp_posts():
                      client_secret=get_client_secret(),
                      user_agent='ubuntu:curriculumular:v0.0.1 (by /u/NotSorryImSorry)')
 
-    for submission in reddit.subreddit('homeworkhelp').new(limit=100):
-        print(submission.title)
+    submissions = reddit.subreddit('homeworkhelp').new(limit=1000)
+      
+    return submissions
 
 def main():
     identify_homeworkhelp_posts()
