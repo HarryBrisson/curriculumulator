@@ -15,8 +15,18 @@ def identify_homeworkhelp_posts():
                      user_agent='ubuntu:curriculumular:v0.0.1 (by /u/NotSorryImSorry)')
 
     submissions = reddit.subreddit('homeworkhelp').new(limit=1000)
+
+    data = []
+
+    for s in submissions:
+        row = {}
+        row['title'] = s.title
+        row['comments'] = s.num_comments 
+        row['tags'] = s.link_flair_text
+        row['time'] = s.created_utc
+        data = data + [row] 
       
-    return submissions
+    return data
 
 def main():
     identify_homeworkhelp_posts()
