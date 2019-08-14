@@ -29,8 +29,10 @@ def identify_homeworkhelp_posts():
     return data
 
 def main():
-    identify_homeworkhelp_posts()
-    return
+    data = identify_homeworkhelp_posts()
+    df = pd.DataFrame(data)
+    print(df)
+    return df
 
 
 if __name__ == '__main__':
