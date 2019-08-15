@@ -31,7 +31,7 @@ def identify_homeworkhelp_posts():
 def main():
     data = identify_homeworkhelp_posts()
     df = pd.DataFrame(data)
-    print(df)
+    df.to_csv('data/reddit/homeworkhelp.csv')
     return df
 
 
