@@ -56,7 +56,7 @@ def main():
         date = d.strftime('%Y-%m-%d')
         data = get_subreddit_posts_for_date('homeworkhelp',date)
         df = pd.DataFrame(data)
-        df.to_json(f'data/reddit/{date}.json')
+        df.to_json(f'data/reddit/{date}.json', orient="records")
         time.sleep(3)
 
 
