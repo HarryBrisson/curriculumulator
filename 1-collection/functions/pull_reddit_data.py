@@ -49,10 +49,15 @@ def generate_list_of_days(days_back_to_go):
     return date_list
 
 def main():
-    data = identify_homeworkhelp_posts()
-    df = pd.DataFrame(data)
-    df.to_csv('data/reddit/homeworkhelp.csv')
-    return df
+
+    dates = generate_list_of_days(365)
+
+    for d in dates:
+        date = d.strftime('%Y-%m-%d')
+        data = get_subreddit_posts_for_date('homeworkhelp',date)
+        df = pd.DataFrame(data)
+        df.to_json(f'data/reddit/{date}.json')
+        time.sleep(3)
 
 
 if __name__ == '__main__':
