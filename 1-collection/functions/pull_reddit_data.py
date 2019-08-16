@@ -43,6 +43,11 @@ def get_subreddit_posts_for_date(subreddit,date):
     data = r.json()['data']
     return data
 
+def generate_list_of_days(days_back_to_go):
+    base = datetime.datetime.today()
+    date_list = [base - datetime.timedelta(days=x) for x in range(days_back_to_go)]
+    return date_list
+
 def main():
     data = identify_homeworkhelp_posts()
     df = pd.DataFrame(data)
