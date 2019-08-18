@@ -15,3 +15,6 @@ def import_all_reddit_jsons():
 def main():
 	df = import_all_reddit_jsons()
 	df.to_json('data/reddit.json',orient='records')
+
+if __name__ == '__main__':
+	main()
