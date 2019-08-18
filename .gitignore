@@ -2,6 +2,7 @@
 *.ipynb
 *.pyc
 1-collection/data/rate-my-professor/*.json
+1-collection/data/reddit/*.json
 */authorizations/*.json
 */authorizations/*-api-key.txt
 3-presentation/.env/*
