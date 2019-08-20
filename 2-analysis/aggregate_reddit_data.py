@@ -28,6 +28,8 @@ def calculate_subject_scores(subjects):
 def main():
 	df = import_all_reddit_jsons()
 	df.to_json('data/reddit.json',orient='records')
+	subjects = get_subjects()
+	calculate_subject_scores(subjects)
 
 if __name__ == '__main__':
 	main()
