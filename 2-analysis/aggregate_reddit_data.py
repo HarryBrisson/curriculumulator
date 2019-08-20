@@ -11,6 +11,9 @@ def import_all_reddit_jsons():
 		df = df.append(pd.read_json(f),ignore_index=True)
 	return df
 
+def create_aggregated_reddit_json_file():
+	df = import_all_reddit_jsons()
+	df.to_json('data/reddit.json',orient='records')
 
 def main():
 	df = import_all_reddit_jsons()
