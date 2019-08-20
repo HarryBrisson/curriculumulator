@@ -15,6 +15,12 @@ def create_aggregated_reddit_json_file():
 	df = import_all_reddit_jsons()
 	df.to_json('data/reddit.json',orient='records')
 
+def calculate_subject_scores(subjects):
+	df = pd.read_json('data/reddit.json')
+	for s in subjects:
+		df[s] = df['title'].apply(lambda x: s in x)
+	return df
+
 def main():
 	df = import_all_reddit_jsons()
 	df.to_json('data/reddit.json',orient='records')
