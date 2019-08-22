@@ -25,6 +25,22 @@ def calculate_subject_scores(subjects):
 		df[s] = df['title'].apply(lambda x: s.lower() in x.lower())
 	return df
 
+def create_subject_summary_df(df,subjects):
+	summary = []
+	for s in subjects:
+		row = {}
+		row['subject'] = s
+		row['Homework Help Posts'] = sum(df[s])
+		row['Homework Help Comments'] = sum(df[s]*df['num_comments'])
+		row['Homework Help Score'] = sum(df[s]*df['score'])
+		try:
+			row['Homework Help Comments Per Post'] = row['Homework Help Comments']/row['Homework Help Posts']
+		except:
+			row['Homework Help Comments Per Post'] = 0
+		summary.append(row)
+	sdf = pd.DataFrame(summary)
+	return sdf
+		
 def main():
 	df = import_all_reddit_jsons()
 	df.to_json('data/reddit.json',orient='records')
