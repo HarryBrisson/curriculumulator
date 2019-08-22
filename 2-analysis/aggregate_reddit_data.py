@@ -22,7 +22,7 @@ def get_subjects():
 def calculate_subject_scores(subjects):
 	df = pd.read_json('data/reddit.json')
 	for s in subjects:
-		df[s] = df['title'].apply(lambda x: s in x)
+		df[s] = df['title'].apply(lambda x: s.lower() in x.lower())
 	return df
 
 def main():
