@@ -41,6 +41,14 @@ def create_subject_summary_df(df,subjects):
 	sdf = pd.DataFrame(summary)
 	return sdf
 		
+
+def create_subject_homework_df():
+	subjects = get_subjects()
+	df = calculate_subject_scores(subjects)
+	sdf = create_subject_summary_df(df,subjects)
+	return sdf
+
+
 def main():
 	df = import_all_reddit_jsons()
 	df.to_json('data/reddit.json',orient='records')
