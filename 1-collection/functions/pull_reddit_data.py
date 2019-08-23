@@ -54,9 +54,12 @@ def main():
 
     for d in dates:
         date = d.strftime('%Y-%m-%d')
-        data = get_subreddit_posts_for_date('homeworkhelp',date)
-        df = pd.DataFrame(data)
-        df.to_json(f'data/reddit/{date}.json', orient="records")
+        try:
+            data = get_subreddit_posts_for_date('homeworkhelp',date)
+            df = pd.DataFrame(data)
+            df.to_json(f'data/reddit/{date}.json', orient="records")
+        except:
+            print(f'{date} failed')
         time.sleep(3)
 
 
