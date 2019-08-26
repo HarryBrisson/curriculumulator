@@ -247,9 +247,18 @@ def aggregate_subject_datasets(min_reviews_per_professor=5, min_professors_per_d
     summary = summary.join(behaviors)
     return summary
 
+def add_reddit_data_to_summary(summary):
+    reddit = pd.read_csv('data/reddit.csv')
+    summary = summary.reset_index()
+    summary = summary.merge(reddit,left_on='dept',right_on='subject')
+    summary = summary.set_index('dept')
+    summary = summary.drop(['subject'],axis=1)
+    return summary
+
 def main():
     summary = aggregate_subject_datasets()
     summary = make_column_names_human_readable(summary)
+    summary = add_reddit_data_to_summary(summary)
     summary.to_csv('../3-presentation/static/data/summary.csv')
 
 if __name__ == "__main__":
