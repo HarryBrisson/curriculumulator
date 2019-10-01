@@ -120,3 +120,19 @@ def get_list_of_disciplines_from_wikipedia():
     data = r.json()
 
     return data
+
+
+
+def convert_SPARQL_to_dataframe(sparql_data):
+
+  output_data = []
+
+  for show in sparql_data['results']['bindings']:
+    row = {}
+    for v in show.keys():
+      row[v] = show[v]['value']
+    output_data.append(row)
+
+  df = pd.DataFrame(output_data)
+  return df
+
