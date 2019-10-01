@@ -3,7 +3,11 @@
 *.pyc
 1-collection/data/rate-my-professor/*.json
 1-collection/data/reddit/*.json
+1-collection/data/reddit/*.csv
 */authorizations/*.json
 */authorizations/*-api-key.txt
 3-presentation/.env/*
 1-collection/authorizations/reddit-secret.txt
+2-analysis/data/*.csv
+2-analysis/data/*.json
+
