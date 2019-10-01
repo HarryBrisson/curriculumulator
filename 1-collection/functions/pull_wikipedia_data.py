@@ -99,3 +99,24 @@ def get_wordcount_for_first_entry_for_search_term(query):
 	wordcount = get_articles_data_from_search_query(query)['search'][0]['wordcount']
 	return wordcount
 
+
+def get_list_of_disciplines_from_wikipedia():
+
+    endpoint_url = "https://query.wikidata.org/sparql"
+    
+    query = '''
+    SELECT ?item ?itemLabel
+    WHERE
+    {
+      ?item wdt:P31/wdt:P279* wd:Q11862829.
+      SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+    }
+    '''
+
+
+    agent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36'
+    
+    r = requests.get(endpoint_url, params = {'format': 'json', 'query': query, 'agent':agent})
+    data = r.json()
+
+    return data
